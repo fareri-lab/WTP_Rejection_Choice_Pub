@@ -20,11 +20,19 @@ let expInfo = {
 
 // Start code blocks for 'Before Experiment'
 // Run 'Before Experiment' code from saliencyrating_code
+var saliencerating;
+var salienceratingtext;
+var rating_forsalience;
 saliencerating = "";
 salienceratingtext = "";
 rating_forsalience = "";
 
 // Run 'Before Experiment' code from stresslevelslider
+
+var stresslevel;
+var stressleveltext;
+var rating_forstress;
+
 stresslevel = "";
 stressleveltext = "";
 rating_forstress = "";
