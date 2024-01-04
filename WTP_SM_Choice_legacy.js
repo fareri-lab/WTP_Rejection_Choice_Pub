@@ -18,6 +18,10 @@ let expInfo = {
     'session': '001',
 };
 
+
+var participantID;
+participantID = expInfo["participant"];
+
 // Start code blocks for 'Before Experiment'
 // Run 'Before Experiment' code from saliencyrating_code
 var saliencerating;
@@ -39,8 +43,6 @@ rating_forstress = "";
 
 
 
-var participantID;
-participantID = expInfo["participant"];
 
 // init psychoJS:
 const psychoJS = new PsychoJS({
