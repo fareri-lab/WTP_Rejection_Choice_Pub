@@ -1,0 +1,1006 @@
+1.5508 	ERROR 	Support for the `sounddevice` audio backend is not available this session. Please install `psychopy-sounddevice` and restart the session to enable support.
+17.3258 	WARNING 	User requested fullscreen with size [1440  900], but screen is actually [1512, 982]. Using actual size
+18.8320 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+18.8325 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f92619bde20>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f92619bddc0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1., -1., -1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f92619bdbe0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f9261a6f2b0>, multiSample=False, name='window1', numSamples=2, pos=[378.0, 245.5], screen=0, size=array([3024, 1964]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+18.8326 	EXP 	window1: mouseVisible = True
+18.8326 	EXP 	window1: backgroundImage = None
+18.8326 	EXP 	window1: backgroundFit = 'cover'
+18.8326 	EXP 	window1: mouseVisible = True
+18.8378 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+18.8378 	EXP 	window1: recordFrameIntervals = False
+18.9491 	EXP 	window1: recordFrameIntervals = True
+19.3168 	WARNING 	t of last frame was 25.85ms (=1/38)
+19.4681 	WARNING 	t of last frame was 20.30ms (=1/49)
+19.6164 	WARNING 	t of last frame was 25.77ms (=1/38)
+19.7028 	WARNING 	t of last frame was 21.85ms (=1/45)
+20.1266 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+20.5348 	EXP 	window1: mouseVisible = True
+20.5817 	EXP 	Created Welcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='Welcome', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+20.6344 	EXP 	window1: mouseVisible = True
+20.6540 	EXP 	Created FirstInstructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='FirstInstructions', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+20.7056 	EXP 	window1: mouseVisible = True
+20.7099 	EXP 	Created Match_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='Match_text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+20.7100 	EXP 	window1: mouseVisible = True
+20.7153 	EXP 	Created syncing_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.12, italic=False, languageStyle='LTR', name='syncing_text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='Syncing…', units='norm', win=Window(...), wrapWidth=1)
+20.7154 	EXP 	window1: mouseVisible = True
+20.7191 	EXP 	Created text_0 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_0', opacity=1.0, ori=0.0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='0%', units='norm', win=Window(...), wrapWidth=1)
+20.7193 	EXP 	window1: mouseVisible = True
+20.7207 	EXP 	Created Transparent = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, draggable=False, fillColor=array([0., 0., 0.]), fillColorSpace='rgb', fillRGB=array([0., 0., 0.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.2, name='Transparent', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1. , 0.1]), units='norm', vertices=ndarray(...), win=Window(...))
+20.7208 	EXP 	window1: mouseVisible = True
+20.7222 	EXP 	Created Loading_25 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Loading_25', opacity=1.0, ori=0.0, pos=array([-0.375,  0.   ]), size=array([0.25, 0.1 ]), units='norm', vertices=ndarray(...), win=Window(...))
+20.7223 	EXP 	window1: mouseVisible = True
+20.7251 	EXP 	Created text_25 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-6.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_25', opacity=1.0, ori=0.0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='25%', units='norm', win=Window(...), wrapWidth=1)
+20.7252 	EXP 	window1: mouseVisible = True
+20.7266 	EXP 	Created Loading_50 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-7.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Loading_50', opacity=1.0, ori=0.0, pos=array([-0.25,  0.  ]), size=array([0.5, 0.1]), units='norm', vertices=ndarray(...), win=Window(...))
+20.7267 	EXP 	window1: mouseVisible = True
+20.7287 	EXP 	Created text_50 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-8.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_50', opacity=1.0, ori=0.0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='50%', units='norm', win=Window(...), wrapWidth=1)
+20.7288 	EXP 	window1: mouseVisible = True
+20.7301 	EXP 	Created Loading_75 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-9.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Loading_75', opacity=1.0, ori=0.0, pos=array([-0.125,  0.   ]), size=array([0.75, 0.1 ]), units='norm', vertices=ndarray(...), win=Window(...))
+20.7302 	EXP 	window1: mouseVisible = True
+20.7326 	EXP 	Created text_75 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-10.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_75', opacity=1.0, ori=0.0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='75%', units='norm', win=Window(...), wrapWidth=1)
+20.7326 	EXP 	window1: mouseVisible = True
+20.7340 	EXP 	Created Loading_100 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-11.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Loading_100', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1. , 0.1]), units='norm', vertices=ndarray(...), win=Window(...))
+20.7341 	EXP 	window1: mouseVisible = True
+20.7368 	EXP 	Created text_100 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-12.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_100', opacity=1.0, ori=0.0, pos=array([ 0. , -0.2]), rgb=UNKNOWN, text='100%', units='norm', win=Window(...), wrapWidth=1)
+20.7369 	EXP 	window1: mouseVisible = True
+20.7378 	EXP 	Created Youhavematched = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='Youhavematched', opacity=1.0, ori=0.0, pos=array([0. , 0.6]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+20.7379 	EXP 	window1: mouseVisible = True
+20.7480 	EXP 	Created partneremoji_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='partneremoji_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5 , 0.75]), texRes=128.0, units='norm', win=Window(...))
+20.8009 	EXP 	window1: mouseVisible = True
+20.8092 	EXP 	Created PressToContinue = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='PressToContinue', opacity=1.0, ori=0.0, pos=array([ 0. , -0.6]), rgb=UNKNOWN, text='Press space to continue.', units='norm', win=Window(...), wrapWidth=1)
+20.8093 	EXP 	window1: mouseVisible = True
+20.8162 	EXP 	Created photobeingshared_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.09, italic=False, languageStyle='LTR', name='photobeingshared_text', opacity=1.0, ori=0.0, pos=array([0. , 0.6]), rgb=UNKNOWN, text='This photo is now being shared', units='norm', win=Window(...), wrapWidth=1)
+20.8164 	EXP 	window1: mouseVisible = True
+20.8234 	EXP 	Created waitforfeedback_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.09, italic=False, languageStyle='LTR', name='waitforfeedback_text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.6]), rgb=UNKNOWN, text='Please wait for feedback.', units='norm', win=Window(...), wrapWidth=1)
+20.8235 	EXP 	window1: mouseVisible = True
+20.8278 	EXP 	Created participantimage_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='participantimage_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5 , 0.75]), texRes=128.0, units='norm', win=Window(...))
+20.8280 	EXP 	window1: mouseVisible = True
+20.8334 	EXP 	Created waiting_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.15, italic=False, languageStyle='LTR', name='waiting_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Waiting…', units='norm', win=Window(...), wrapWidth=1)
+20.8335 	EXP 	window1: mouseVisible = True
+20.8343 	EXP 	Created displayfeedback_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.12, italic=False, languageStyle='LTR', name='displayfeedback_text', opacity=1.0, ori=0.0, pos=array([0.  , 0.75]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+20.8344 	EXP 	window1: mouseVisible = True
+20.8387 	EXP 	Created fdbkimage_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='fdbkimage_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.75, 1.25]), texRes=128.0, units='norm', win=Window(...))
+20.8388 	EXP 	window1: mouseVisible = True
+20.8439 	EXP 	Created presstosharenextphoto_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.09, italic=False, languageStyle='LTR', name='presstosharenextphoto_text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Press space to share your next photo.', units='norm', win=Window(...), wrapWidth=1)
+20.8969 	EXP 	window1: mouseVisible = True
+20.9161 	EXP 	Created WTP_ins_text1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.07, italic=False, languageStyle='LTR', name='WTP_ins_text1', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+20.9683 	EXP 	window1: mouseVisible = True
+20.9887 	EXP 	Created WTP_ins_text2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='WTP_ins_text2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+21.0407 	EXP 	window1: mouseVisible = True
+21.0418 	EXP 	Created Left_Experience = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Left_Experience', opacity=1.0, ori=0.0, pos=array([0.5, 0.1]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.0418 	EXP 	window1: mouseVisible = True
+21.0427 	EXP 	Created Right_Experience = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Right_Experience', opacity=1.0, ori=0.0, pos=array([-0.5,  0.1]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.0428 	EXP 	window1: mouseVisible = True
+21.0438 	EXP 	Created Left_Price = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Left_Price', opacity=1.0, ori=0.0, pos=array([ 0.5, -0.5]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.0438 	EXP 	window1: mouseVisible = True
+21.0448 	EXP 	Created Right_Price = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Right_Price', opacity=1.0, ori=0.0, pos=array([-0.5, -0.5]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.0961 	EXP 	window1: mouseVisible = True
+21.0978 	EXP 	Created blank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='blank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.1499 	EXP 	window1: mouseVisible = True
+21.1510 	EXP 	Created Resume_Text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.12, italic=False, languageStyle='LTR', name='Resume_Text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.1652 	EXP 	window1: mouseVisible = True
+21.1656 	EXP 	window1: mouseVisible = True
+21.1689 	EXP 	window1: mouseVisible = True
+21.1690 	EXP 	window1: mouseVisible = True
+21.1695 	EXP 	window1: mouseVisible = True
+21.1699 	EXP 	window1: mouseVisible = True
+21.1810 	EXP 	window1: mouseVisible = True
+21.1812 	EXP 	window1: mouseVisible = True
+21.1816 	EXP 	window1: mouseVisible = True
+21.1821 	EXP 	window1: mouseVisible = True
+21.1936 	EXP 	window1: mouseVisible = True
+21.1937 	EXP 	window1: mouseVisible = True
+21.1942 	EXP 	window1: mouseVisible = True
+21.1947 	EXP 	window1: mouseVisible = True
+21.2029 	EXP 	window1: mouseVisible = True
+21.2031 	EXP 	window1: mouseVisible = True
+21.2035 	EXP 	window1: mouseVisible = True
+21.2039 	EXP 	window1: mouseVisible = True
+21.2095 	EXP 	window1: mouseVisible = True
+21.2096 	EXP 	window1: mouseVisible = True
+21.2101 	EXP 	window1: mouseVisible = True
+21.2105 	EXP 	window1: mouseVisible = True
+21.2186 	EXP 	window1: mouseVisible = True
+21.2188 	EXP 	window1: mouseVisible = True
+21.2192 	EXP 	window1: mouseVisible = True
+21.2197 	EXP 	window1: mouseVisible = True
+21.2246 	EXP 	window1: mouseVisible = True
+21.2247 	EXP 	window1: mouseVisible = True
+21.2252 	EXP 	window1: mouseVisible = True
+21.2256 	EXP 	window1: mouseVisible = True
+21.2336 	EXP 	window1: mouseVisible = True
+21.2338 	EXP 	window1: mouseVisible = True
+21.2342 	EXP 	window1: mouseVisible = True
+21.2350 	EXP 	window1: mouseVisible = True
+21.2403 	EXP 	window1: mouseVisible = True
+21.2404 	EXP 	window1: mouseVisible = True
+21.2409 	EXP 	window1: mouseVisible = True
+21.2413 	EXP 	window1: mouseVisible = True
+21.2500 	EXP 	window1: mouseVisible = True
+21.2502 	EXP 	window1: mouseVisible = True
+21.2508 	EXP 	window1: mouseVisible = True
+21.2513 	EXP 	window1: mouseVisible = True
+21.2563 	EXP 	window1: mouseVisible = True
+21.2589 	EXP 	window1: mouseVisible = True
+21.2973 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-5, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=(1, 2, 3, 4, 5), lineColor=None, markerColor=None, name='slider', opacity=None, ori=0.0, pos=array([ 0. , -0.4]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=999, style='rating', styleTweaks=['labels45', 'triangleMarker'], ticks=array([1, 2, 3, 4, 5]), units='norm', win=Window(...))
+21.2975 	EXP 	window1: mouseVisible = True
+21.2988 	EXP 	Created saliencequestion_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.06, italic=False, languageStyle='LTR', name='saliencequestion_text', opacity=1.0, ori=0.0, pos=array([0. , 0.6]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.3508 	EXP 	window1: mouseVisible = True
+21.3562 	EXP 	Created salienceavatar_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='salienceavatar_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.3 , 0.55]), texRes=128.0, units='norm', win=Window(...))
+21.3563 	EXP 	window1: mouseVisible = True
+21.3654 	EXP 	Created saliencecontinue_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.07, italic=False, languageStyle='LTR', name='saliencecontinue_text', opacity=1.0, ori=0.0, pos=array([ 0. , -0.8]), rgb=UNKNOWN, text='Press space to enter rating and continue.', units='norm', win=Window(...), wrapWidth=1)
+21.3655 	EXP 	window1: mouseVisible = True
+21.3666 	EXP 	Created displayrating_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.065, italic=False, languageStyle='LTR', name='displayrating_text', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.65]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.3691 	EXP 	window1: mouseVisible = True
+21.3695 	EXP 	window1: mouseVisible = True
+21.3712 	EXP 	window1: mouseVisible = True
+21.3713 	EXP 	window1: mouseVisible = True
+21.3717 	EXP 	window1: mouseVisible = True
+21.3721 	EXP 	window1: mouseVisible = True
+21.3774 	EXP 	window1: mouseVisible = True
+21.3775 	EXP 	window1: mouseVisible = True
+21.3779 	EXP 	window1: mouseVisible = True
+21.3783 	EXP 	window1: mouseVisible = True
+21.3869 	EXP 	window1: mouseVisible = True
+21.3870 	EXP 	window1: mouseVisible = True
+21.3874 	EXP 	window1: mouseVisible = True
+21.3878 	EXP 	window1: mouseVisible = True
+21.3932 	EXP 	window1: mouseVisible = True
+21.3934 	EXP 	window1: mouseVisible = True
+21.3938 	EXP 	window1: mouseVisible = True
+21.3943 	EXP 	window1: mouseVisible = True
+21.3994 	EXP 	window1: mouseVisible = True
+21.3995 	EXP 	window1: mouseVisible = True
+21.3999 	EXP 	window1: mouseVisible = True
+21.4003 	EXP 	window1: mouseVisible = True
+21.4057 	EXP 	window1: mouseVisible = True
+21.4058 	EXP 	window1: mouseVisible = True
+21.4062 	EXP 	window1: mouseVisible = True
+21.4066 	EXP 	window1: mouseVisible = True
+21.4119 	EXP 	window1: mouseVisible = True
+21.4120 	EXP 	window1: mouseVisible = True
+21.4125 	EXP 	window1: mouseVisible = True
+21.4129 	EXP 	window1: mouseVisible = True
+21.4183 	EXP 	window1: mouseVisible = True
+21.4184 	EXP 	window1: mouseVisible = True
+21.4189 	EXP 	window1: mouseVisible = True
+21.4193 	EXP 	window1: mouseVisible = True
+21.4245 	EXP 	window1: mouseVisible = True
+21.4246 	EXP 	window1: mouseVisible = True
+21.4251 	EXP 	window1: mouseVisible = True
+21.4255 	EXP 	window1: mouseVisible = True
+21.4306 	EXP 	window1: mouseVisible = True
+21.4308 	EXP 	window1: mouseVisible = True
+21.4312 	EXP 	window1: mouseVisible = True
+21.4317 	EXP 	window1: mouseVisible = True
+21.4368 	EXP 	window1: mouseVisible = True
+21.4369 	EXP 	window1: mouseVisible = True
+21.4374 	EXP 	window1: mouseVisible = True
+21.4378 	EXP 	window1: mouseVisible = True
+21.4459 	EXP 	window1: mouseVisible = True
+21.4461 	EXP 	window1: mouseVisible = True
+21.4465 	EXP 	window1: mouseVisible = True
+21.4470 	EXP 	window1: mouseVisible = True
+21.4526 	EXP 	window1: mouseVisible = True
+21.4527 	EXP 	window1: mouseVisible = True
+21.4533 	EXP 	window1: mouseVisible = True
+21.4538 	EXP 	window1: mouseVisible = True
+21.4621 	EXP 	window1: mouseVisible = True
+21.4622 	EXP 	window1: mouseVisible = True
+21.4628 	EXP 	window1: mouseVisible = True
+21.4632 	EXP 	window1: mouseVisible = True
+21.4687 	EXP 	window1: mouseVisible = True
+21.4688 	EXP 	window1: mouseVisible = True
+21.4692 	EXP 	window1: mouseVisible = True
+21.4696 	EXP 	window1: mouseVisible = True
+21.4780 	EXP 	window1: mouseVisible = True
+21.4781 	EXP 	window1: mouseVisible = True
+21.4786 	EXP 	window1: mouseVisible = True
+21.4790 	EXP 	window1: mouseVisible = True
+21.4844 	EXP 	window1: mouseVisible = True
+21.4845 	EXP 	window1: mouseVisible = True
+21.4849 	EXP 	window1: mouseVisible = True
+21.4853 	EXP 	window1: mouseVisible = True
+21.4936 	EXP 	window1: mouseVisible = True
+21.4937 	EXP 	window1: mouseVisible = True
+21.4942 	EXP 	window1: mouseVisible = True
+21.4948 	EXP 	window1: mouseVisible = True
+21.5002 	EXP 	window1: mouseVisible = True
+21.5015 	EXP 	window1: mouseVisible = True
+21.5659 	EXP 	Created slider = Slider(__class__=<class 'psychopy.visual.slider.Slider'>, autoDraw=False, autoLog=True, borderColor=None, color=None, colorSpace='rgb', depth=-5, fillColor=None, flip=False, font='Open Sans', granularity=0.0, labelColor=None, labelHeight=0.05, labelWrapWidth=None, labels=(1, 2, 3, 4, 5, 6, 7, 8, 9), lineColor=None, markerColor=None, name='slider', opacity=None, ori=0.0, pos=array([ 0. , -0.4]), readOnly=False, self=UNKNOWN, size=array([1. , 0.1]), startValue=999, style='rating', styleTweaks=['labels45', 'triangleMarker'], ticks=array([1, 2, 3, 4, 5, 6, 7, 8, 9]), units='norm', win=Window(...))
+21.5660 	EXP 	window1: mouseVisible = True
+21.5669 	EXP 	Created stresslevel_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='stresslevel_text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.6198 	EXP 	window1: mouseVisible = True
+21.6212 	EXP 	Created displaystressrating_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='displaystressrating_text', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.65]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+21.6291 	DATA 	Keypress: space
+21.6437 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+21.6436 	EXP 	slider: autoLog = True
+21.6436 	EXP 	slider: styleTweaks = []
+21.6436 	EXP 	slider: styleTweaks = []
+21.6436 	EXP 	slider: styleTweaks = ['labels45', 'triangleMarker']
+21.6436 	EXP 	slider: styleTweaks = ['labels45', 'triangleMarker']
+21.6436 	EXP 	slider: contrast = 1.0
+21.6436 	EXP 	slider: markerPos = 999
+21.6436 	EXP 	slider: autoLog = True
+21.6436 	EXP 	slider: autoLog = True
+21.6436 	EXP 	slider: styleTweaks = []
+21.6436 	EXP 	slider: styleTweaks = []
+21.6436 	EXP 	slider: styleTweaks = ['labels45', 'triangleMarker']
+21.6436 	EXP 	slider: styleTweaks = ['labels45', 'triangleMarker']
+21.6436 	EXP 	slider: contrast = 1.0
+21.6436 	EXP 	slider: markerPos = 999
+21.6436 	EXP 	slider: autoLog = True
+21.6436 	EXP 	Welcome: autoDraw = True
+22.4027 	DATA 	Keypress: space
+22.4058 	EXP 	Welcome: autoDraw = False
+22.4058 	EXP 	FirstInstructions: autoDraw = True
+23.0514 	EXP 	Imported /Users/melanieruiz/Desktop/WTP_SM_Choice/Participant_Images/101/101_trials.csv as conditions, 150 conditions, 6 params
+23.0526 	EXP 	Created sequence: sequential, trialTypes=150, nReps=1, seed=None
+23.0529 	EXP 	New trial (rep=0, index=0): OrderedDict([('TrialNumber', 1), ('Partner', 'Alex'), ('Condition', 'Neutral'), ('Photos', 'Participant_Images/101/101_Images/101_Image_24.jpg'), ('Feedback', 'did not like'), ('FeedbackWait', 3.613205605)])
+23.0554 	DATA 	Keypress: space
+23.0584 	EXP 	FirstInstructions: autoDraw = False
+23.0584 	EXP 	Match_text: autoDraw = True
+26.0539 	EXP 	syncing_text: autoDraw = True
+26.0539 	EXP 	text_0: autoDraw = True
+26.0539 	EXP 	Transparent: autoDraw = True
+26.0592 	EXP 	Match_text: autoDraw = False
+27.3026 	EXP 	text_0: autoDraw = False
+27.3026 	EXP 	Loading_25: autoDraw = True
+27.3026 	EXP 	text_25: autoDraw = True
+28.5456 	EXP 	Loading_25: autoDraw = False
+28.5456 	EXP 	text_25: autoDraw = False
+28.5456 	EXP 	Loading_50: autoDraw = True
+28.5456 	EXP 	text_50: autoDraw = True
+29.7928 	EXP 	Loading_50: autoDraw = False
+29.7928 	EXP 	text_50: autoDraw = False
+29.8011 	EXP 	Loading_75: autoDraw = True
+29.8011 	EXP 	text_75: autoDraw = True
+31.0468 	EXP 	Loading_75: autoDraw = False
+31.0468 	EXP 	text_75: autoDraw = False
+31.0468 	EXP 	Loading_100: autoDraw = True
+31.0468 	EXP 	text_100: autoDraw = True
+32.3237 	EXP 	syncing_text: autoDraw = False
+32.3237 	EXP 	Transparent: autoDraw = False
+32.3237 	EXP 	Loading_100: autoDraw = False
+32.3237 	EXP 	text_100: autoDraw = False
+32.3237 	EXP 	Match_text: autoDraw = False
+32.3237 	EXP 	syncing_text: autoDraw = False
+32.3237 	EXP 	text_0: autoDraw = False
+32.3237 	EXP 	Transparent: autoDraw = False
+32.3237 	EXP 	Loading_25: autoDraw = False
+32.3237 	EXP 	text_25: autoDraw = False
+32.3237 	EXP 	Loading_50: autoDraw = False
+32.3237 	EXP 	text_50: autoDraw = False
+32.3237 	EXP 	Loading_75: autoDraw = False
+32.3237 	EXP 	text_75: autoDraw = False
+32.3237 	EXP 	Loading_100: autoDraw = False
+32.3237 	EXP 	text_100: autoDraw = False
+32.3237 	EXP 	Youhavematched: height = 0.08
+32.3237 	EXP 	Youhavematched: height = 0.08
+32.3237 	EXP 	Youhavematched: height = 0.08
+32.3237 	EXP 	Youhavematched: text = 'You have matched with: Alex'
+32.3237 	EXP 	partneremoji_image: image = 'Images/cowboyemoji.png'
+32.3237 	EXP 	Youhavematched: autoDraw = True
+32.3237 	EXP 	partneremoji_image: autoDraw = True
+32.3237 	EXP 	PressToContinue: autoDraw = True
+33.3162 	DATA 	Keypress: space
+33.3195 	EXP 	Youhavematched: autoDraw = False
+33.3195 	EXP 	partneremoji_image: autoDraw = False
+33.3195 	EXP 	PressToContinue: autoDraw = False
+33.3195 	EXP 	participantimage_image: image = 'Participant_Images/101/101_Images/101_Image_24.jpg'
+33.3195 	EXP 	photobeingshared_text: autoDraw = True
+33.3195 	EXP 	waitforfeedback_text: autoDraw = True
+33.3195 	EXP 	participantimage_image: autoDraw = True
+36.1082 	EXP 	photobeingshared_text: autoDraw = False
+36.1082 	EXP 	waitforfeedback_text: autoDraw = False
+36.1082 	EXP 	participantimage_image: autoDraw = False
+36.1082 	EXP 	waiting_text: autoDraw = True
+41.1186 	EXP 	waiting_text: autoDraw = False
+41.1186 	EXP 	displayfeedback_text: height = 0.12
+41.1186 	EXP 	displayfeedback_text: height = 0.12
+41.1186 	EXP 	displayfeedback_text: height = 0.12
+41.1186 	EXP 	displayfeedback_text: text = 'Alex did not like your photo'
+41.1186 	EXP 	fdbkimage_image: image = 'Images/thumbsdown.png'
+41.1186 	EXP 	displayfeedback_text: autoDraw = True
+41.1186 	EXP 	fdbkimage_image: autoDraw = True
+44.1109 	EXP 	displayfeedback_text: autoDraw = False
+44.1109 	EXP 	fdbkimage_image: autoDraw = False
+44.1109 	EXP 	presstosharenextphoto_text: autoDraw = True
+44.8705 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+44.8716 	DATA 	Keypress: space
+44.9087 	EXP 	New trial (rep=0, index=1): OrderedDict([('TrialNumber', 2), ('Partner', 'Alex'), ('Condition', 'Neutral'), ('Photos', 'Participant_Images/101/101_Images/101_Image_9.jpg'), ('Feedback', 'did not like'), ('FeedbackWait', 4.988446431)])
+45.0710 	EXP 	presstosharenextphoto_text: autoDraw = False
+45.0710 	EXP 	slider: markerPos = 3
+45.0710 	EXP 	saliencequestion_text: height = 0.06
+45.0710 	EXP 	saliencequestion_text: height = 0.06
+45.0710 	EXP 	saliencequestion_text: height = 0.06
+45.0710 	EXP 	saliencequestion_text: text = 'How likely are you to share photos with Alex in the future? \n\n Use your left and right arrows to move the arrow to your desired rating.'
+45.0710 	EXP 	salienceavatar_image: image = 'Images/cowboyemoji.png'
+45.0710 	EXP 	displayrating_text: text = ''
+45.0710 	EXP 	saliencequestion_text: autoDraw = False
+45.0710 	EXP 	salienceavatar_image: autoDraw = False
+45.0710 	EXP 	saliencecontinue_text: autoDraw = False
+45.0710 	EXP 	displayrating_text: autoDraw = False
+45.0710 	EXP 	slider: markerPos = 5
+45.0710 	EXP 	stresslevel_text: height = 0.08
+45.0710 	EXP 	stresslevel_text: height = 0.08
+45.0710 	EXP 	stresslevel_text: height = 0.08
+45.0710 	EXP 	stresslevel_text: text = 'Please rate your current stress level. \n\n\n Use your mouse or left and right arrows to move the arrow to your desired rating.'
+45.0710 	EXP 	displaystressrating_text: text = ''
+45.0710 	EXP 	stresslevel_text: autoDraw = False
+45.0710 	EXP 	displaystressrating_text: autoDraw = False
+45.0710 	EXP 	Match_text: autoDraw = False
+45.0710 	EXP 	syncing_text: autoDraw = False
+45.0710 	EXP 	text_0: autoDraw = False
+45.0710 	EXP 	Transparent: autoDraw = False
+45.0710 	EXP 	Loading_25: autoDraw = False
+45.0710 	EXP 	text_25: autoDraw = False
+45.0710 	EXP 	Loading_50: autoDraw = False
+45.0710 	EXP 	text_50: autoDraw = False
+45.0710 	EXP 	Loading_75: autoDraw = False
+45.0710 	EXP 	text_75: autoDraw = False
+45.0710 	EXP 	Loading_100: autoDraw = False
+45.0710 	EXP 	text_100: autoDraw = False
+45.0710 	EXP 	Youhavematched: text = 'You have matched with: Alex'
+45.0710 	EXP 	partneremoji_image: image = 'Images/cowboyemoji.png'
+45.0710 	EXP 	Youhavematched: autoDraw = False
+45.0710 	EXP 	partneremoji_image: autoDraw = False
+45.0710 	EXP 	PressToContinue: autoDraw = False
+45.0710 	EXP 	participantimage_image: image = 'Participant_Images/101/101_Images/101_Image_9.jpg'
+45.0710 	EXP 	photobeingshared_text: autoDraw = True
+45.0710 	EXP 	waitforfeedback_text: autoDraw = True
+45.0710 	EXP 	participantimage_image: autoDraw = True
+47.9341 	EXP 	photobeingshared_text: autoDraw = False
+47.9341 	EXP 	waitforfeedback_text: autoDraw = False
+47.9341 	EXP 	participantimage_image: autoDraw = False
+47.9341 	EXP 	waiting_text: autoDraw = True
+52.9378 	EXP 	waiting_text: autoDraw = False
+52.9378 	EXP 	displayfeedback_text: text = 'Alex did not like your photo'
+52.9378 	EXP 	fdbkimage_image: image = 'Images/thumbsdown.png'
+52.9378 	EXP 	displayfeedback_text: autoDraw = True
+52.9378 	EXP 	fdbkimage_image: autoDraw = True
+55.9287 	EXP 	displayfeedback_text: autoDraw = False
+55.9287 	EXP 	fdbkimage_image: autoDraw = False
+55.9287 	EXP 	presstosharenextphoto_text: autoDraw = True
+56.8313 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+56.8327 	DATA 	Keypress: space
+56.8437 	EXP 	New trial (rep=0, index=2): OrderedDict([('TrialNumber', 3), ('Partner', 'Alex'), ('Condition', 'Neutral'), ('Photos', 'Participant_Images/101/101_Images/101_Image_4.jpg'), ('Feedback', 'liked'), ('FeedbackWait', 3.470791822)])
+57.0144 	EXP 	presstosharenextphoto_text: autoDraw = False
+57.0144 	EXP 	slider: markerPos = 3
+57.0144 	EXP 	saliencequestion_text: text = 'How likely are you to share photos with Alex in the future? \n\n Use your left and right arrows to move the arrow to your desired rating.'
+57.0144 	EXP 	salienceavatar_image: image = 'Images/cowboyemoji.png'
+57.0144 	EXP 	displayrating_text: text = ''
+57.0144 	EXP 	saliencequestion_text: autoDraw = False
+57.0144 	EXP 	salienceavatar_image: autoDraw = False
+57.0144 	EXP 	saliencecontinue_text: autoDraw = False
+57.0144 	EXP 	displayrating_text: autoDraw = False
+57.0144 	EXP 	slider: markerPos = 5
+57.0144 	EXP 	stresslevel_text: text = 'Please rate your current stress level. \n\n\n Use your mouse or left and right arrows to move the arrow to your desired rating.'
+57.0144 	EXP 	displaystressrating_text: text = ''
+57.0144 	EXP 	stresslevel_text: autoDraw = False
+57.0144 	EXP 	displaystressrating_text: autoDraw = False
+57.0144 	EXP 	Match_text: autoDraw = False
+57.0144 	EXP 	syncing_text: autoDraw = False
+57.0144 	EXP 	text_0: autoDraw = False
+57.0144 	EXP 	Transparent: autoDraw = False
+57.0144 	EXP 	Loading_25: autoDraw = False
+57.0144 	EXP 	text_25: autoDraw = False
+57.0144 	EXP 	Loading_50: autoDraw = False
+57.0144 	EXP 	text_50: autoDraw = False
+57.0144 	EXP 	Loading_75: autoDraw = False
+57.0144 	EXP 	text_75: autoDraw = False
+57.0144 	EXP 	Loading_100: autoDraw = False
+57.0144 	EXP 	text_100: autoDraw = False
+57.0144 	EXP 	Youhavematched: text = 'You have matched with: Alex'
+57.0144 	EXP 	partneremoji_image: image = 'Images/cowboyemoji.png'
+57.0144 	EXP 	Youhavematched: autoDraw = False
+57.0144 	EXP 	partneremoji_image: autoDraw = False
+57.0144 	EXP 	PressToContinue: autoDraw = False
+57.0144 	EXP 	participantimage_image: image = 'Participant_Images/101/101_Images/101_Image_4.jpg'
+57.0144 	EXP 	photobeingshared_text: autoDraw = True
+57.0144 	EXP 	waitforfeedback_text: autoDraw = True
+57.0144 	EXP 	participantimage_image: autoDraw = True
+59.8636 	EXP 	photobeingshared_text: autoDraw = False
+59.8636 	EXP 	waitforfeedback_text: autoDraw = False
+59.8636 	EXP 	participantimage_image: autoDraw = False
+59.8636 	EXP 	waiting_text: autoDraw = True
+64.8659 	EXP 	waiting_text: autoDraw = False
+64.8659 	EXP 	displayfeedback_text: height = 0.12
+64.8659 	EXP 	displayfeedback_text: height = 0.12
+64.8659 	EXP 	displayfeedback_text: height = 0.12
+64.8659 	EXP 	displayfeedback_text: text = 'Alex liked your photo'
+64.8659 	EXP 	fdbkimage_image: image = 'Images/thumbsup.png'
+64.8659 	EXP 	displayfeedback_text: autoDraw = True
+64.8659 	EXP 	fdbkimage_image: autoDraw = True
+67.8623 	EXP 	displayfeedback_text: autoDraw = False
+67.8623 	EXP 	fdbkimage_image: autoDraw = False
+67.8623 	EXP 	presstosharenextphoto_text: autoDraw = True
+78.4769 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+78.4781 	DATA 	Keypress: space
+78.4894 	EXP 	New trial (rep=0, index=3): OrderedDict([('TrialNumber', 4), ('Partner', 'Alex'), ('Condition', 'Neutral'), ('Photos', 'Participant_Images/101/101_Images/101_Image_1.jpg'), ('Feedback', 'liked'), ('FeedbackWait', 3.820572462)])
+78.6396 	EXP 	presstosharenextphoto_text: autoDraw = False
+78.6396 	EXP 	slider: markerPos = 3
+78.6396 	EXP 	saliencequestion_text: text = 'How likely are you to share photos with Alex in the future? \n\n Use your left and right arrows to move the arrow to your desired rating.'
+78.6396 	EXP 	salienceavatar_image: image = 'Images/cowboyemoji.png'
+78.6396 	EXP 	displayrating_text: text = ''
+78.6396 	EXP 	saliencequestion_text: autoDraw = False
+78.6396 	EXP 	salienceavatar_image: autoDraw = False
+78.6396 	EXP 	saliencecontinue_text: autoDraw = False
+78.6396 	EXP 	displayrating_text: autoDraw = False
+78.6396 	EXP 	slider: markerPos = 5
+78.6396 	EXP 	stresslevel_text: text = 'Please rate your current stress level. \n\n\n Use your mouse or left and right arrows to move the arrow to your desired rating.'
+78.6396 	EXP 	displaystressrating_text: text = ''
+78.6396 	EXP 	stresslevel_text: autoDraw = False
+78.6396 	EXP 	displaystressrating_text: autoDraw = False
+78.6396 	EXP 	Match_text: autoDraw = False
+78.6396 	EXP 	syncing_text: autoDraw = False
+78.6396 	EXP 	text_0: autoDraw = False
+78.6396 	EXP 	Transparent: autoDraw = False
+78.6396 	EXP 	Loading_25: autoDraw = False
+78.6396 	EXP 	text_25: autoDraw = False
+78.6396 	EXP 	Loading_50: autoDraw = False
+78.6396 	EXP 	text_50: autoDraw = False
+78.6396 	EXP 	Loading_75: autoDraw = False
+78.6396 	EXP 	text_75: autoDraw = False
+78.6396 	EXP 	Loading_100: autoDraw = False
+78.6396 	EXP 	text_100: autoDraw = False
+78.6396 	EXP 	Youhavematched: text = 'You have matched with: Alex'
+78.6396 	EXP 	partneremoji_image: image = 'Images/cowboyemoji.png'
+78.6396 	EXP 	Youhavematched: autoDraw = False
+78.6396 	EXP 	partneremoji_image: autoDraw = False
+78.6396 	EXP 	PressToContinue: autoDraw = False
+78.6396 	EXP 	participantimage_image: image = 'Participant_Images/101/101_Images/101_Image_1.jpg'
+78.6396 	EXP 	photobeingshared_text: autoDraw = True
+78.6396 	EXP 	waitforfeedback_text: autoDraw = True
+78.6396 	EXP 	participantimage_image: autoDraw = True
+81.5089 	EXP 	photobeingshared_text: autoDraw = False
+81.5089 	EXP 	waitforfeedback_text: autoDraw = False
+81.5089 	EXP 	participantimage_image: autoDraw = False
+81.5089 	EXP 	waiting_text: autoDraw = True
+86.5044 	EXP 	waiting_text: autoDraw = False
+86.5044 	EXP 	waiting_text: autoDraw = False
+86.5044 	EXP 	displayfeedback_text: text = 'Alex liked your photo'
+86.5044 	EXP 	fdbkimage_image: image = 'Images/thumbsup.png'
+86.5044 	EXP 	displayfeedback_text: autoDraw = True
+86.5044 	EXP 	fdbkimage_image: autoDraw = True
+89.5062 	EXP 	displayfeedback_text: autoDraw = False
+89.5062 	EXP 	fdbkimage_image: autoDraw = False
+89.5062 	EXP 	displayfeedback_text: autoDraw = False
+89.5062 	EXP 	fdbkimage_image: autoDraw = False
+89.5062 	EXP 	presstosharenextphoto_text: autoDraw = True
+91.2155 	EXP 	Created sequence: random, trialTypes=1, nReps=0, seed=None
+91.2166 	DATA 	Keypress: space
+91.2296 	EXP 	New trial (rep=0, index=4): OrderedDict([('TrialNumber', 5), ('Partner', 'Alex'), ('Condition', 'Neutral'), ('Photos', 'Participant_Images/101/101_Images/101_Image_3.jpg'), ('Feedback', 'liked'), ('FeedbackWait', 2.455989137)])
+91.4007 	EXP 	presstosharenextphoto_text: autoDraw = False
+91.4007 	EXP 	slider: markerPos = 3
+91.4007 	EXP 	saliencequestion_text: text = 'How likely are you to share photos with Alex in the future? \n\n Use your left and right arrows to move the arrow to your desired rating.'
+91.4007 	EXP 	salienceavatar_image: image = 'Images/cowboyemoji.png'
+91.4007 	EXP 	displayrating_text: text = ''
+91.4007 	EXP 	saliencequestion_text: autoDraw = False
+91.4007 	EXP 	salienceavatar_image: autoDraw = False
+91.4007 	EXP 	saliencecontinue_text: autoDraw = False
+91.4007 	EXP 	displayrating_text: autoDraw = False
+91.4007 	EXP 	slider: markerPos = 5
+91.4007 	EXP 	stresslevel_text: text = 'Please rate your current stress level. \n\n\n Use your mouse or left and right arrows to move the arrow to your desired rating.'
+91.4007 	EXP 	displaystressrating_text: text = ''
+91.4007 	EXP 	stresslevel_text: autoDraw = False
+91.4007 	EXP 	displaystressrating_text: autoDraw = False
+91.4007 	EXP 	Match_text: autoDraw = False
+91.4007 	EXP 	syncing_text: autoDraw = False
+91.4007 	EXP 	text_0: autoDraw = False
+91.4007 	EXP 	Transparent: autoDraw = False
+91.4007 	EXP 	Loading_25: autoDraw = False
+91.4007 	EXP 	text_25: autoDraw = False
+91.4007 	EXP 	Loading_50: autoDraw = False
+91.4007 	EXP 	text_50: autoDraw = False
+91.4007 	EXP 	Loading_75: autoDraw = False
+91.4007 	EXP 	text_75: autoDraw = False
+91.4007 	EXP 	Loading_100: autoDraw = False
+91.4007 	EXP 	text_100: autoDraw = False
+91.4007 	EXP 	Youhavematched: text = 'You have matched with: Alex'
+91.4007 	EXP 	partneremoji_image: image = 'Images/cowboyemoji.png'
+91.4007 	EXP 	Youhavematched: autoDraw = False
+91.4007 	EXP 	partneremoji_image: autoDraw = False
+91.4007 	EXP 	PressToContinue: autoDraw = False
+91.4007 	EXP 	participantimage_image: image = 'Participant_Images/101/101_Images/101_Image_3.jpg'
+91.4007 	EXP 	photobeingshared_text: autoDraw = True
+91.4007 	EXP 	waitforfeedback_text: autoDraw = True
+91.4007 	EXP 	participantimage_image: autoDraw = True
+94.2517 	EXP 	photobeingshared_text: autoDraw = False
+94.2517 	EXP 	waitforfeedback_text: autoDraw = False
+94.2517 	EXP 	participantimage_image: autoDraw = False
+94.2517 	EXP 	waiting_text: autoDraw = True
+99.2553 	EXP 	waiting_text: autoDraw = False
+99.2553 	EXP 	displayfeedback_text: text = 'Alex liked your photo'
+99.2553 	EXP 	fdbkimage_image: image = 'Images/thumbsup.png'
+99.2553 	EXP 	displayfeedback_text: autoDraw = True
+99.2553 	EXP 	fdbkimage_image: autoDraw = True
+102.2400 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+102.2402 	EXP 	New trial (rep=0, index=0): None
+102.2464 	EXP 	displayfeedback_text: autoDraw = False
+102.2464 	EXP 	fdbkimage_image: autoDraw = False
+102.2464 	EXP 	presstosharenextphoto_text: autoDraw = False
+102.2464 	EXP 	WTP_ins_text1: autoDraw = True
+139.4249 	DATA 	Mouse: wheel shift=(0,0), pos=(778,590)
+139.4696 	DATA 	Mouse: wheel shift=(0,0), pos=(778,590)
+139.4798 	DATA 	Mouse: wheel shift=(0,0), pos=(778,590)
+139.4939 	DATA 	Mouse: wheel shift=(0,0), pos=(778,590)
+139.4941 	DATA 	Mouse: wheel shift=(0,0), pos=(778,590)
+139.6206 	DATA 	Keypress: space
+139.6255 	EXP 	WTP_ins_text1: autoDraw = False
+139.6255 	EXP 	WTP_ins_text2: autoDraw = True
+141.2221 	EXP 	Imported /Users/melanieruiz/Desktop/WTP_SM_Choice/Participant_Images/101/101_WTP.xlsx as conditions, 5 conditions, 10 params
+141.2224 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+141.2227 	EXP 	New trial (rep=0, index=0): {'social_left': 0, 'Left_Exp': 'Rearranging furniture in your house', 'Right_Exp': 'Going to a carnival with friends', 'ITI': 4, 'leftmoney': 0.01, 'rightmoney': 0.01, 'greenText': 'green', 'left_more_than_right': 0, 'matching_prices': 1, 'social_worthmore': 1}
+141.2431 	DATA 	Keypress: space
+141.2457 	EXP 	WTP_ins_text2: autoDraw = False
+141.2457 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+141.2457 	EXP 	Left_Experience: height = 0.05
+141.2457 	EXP 	Left_Experience: height = 0.05
+141.2457 	EXP 	Left_Experience: height = 0.05
+141.2457 	EXP 	Left_Experience: text = 'Rearranging furniture in your house'
+141.2457 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+141.2457 	EXP 	Right_Experience: height = 0.05
+141.2457 	EXP 	Right_Experience: height = 0.05
+141.2457 	EXP 	Right_Experience: height = 0.05
+141.2457 	EXP 	Right_Experience: text = 'Going to a carnival with friends'
+141.2457 	EXP 	Left_Price: height = 0.05
+141.2457 	EXP 	Left_Price: height = 0.05
+141.2457 	EXP 	Left_Price: height = 0.05
+141.2457 	EXP 	Left_Price: text = 0.01
+141.2457 	EXP 	Right_Price: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+141.2457 	EXP 	Right_Price: height = 0.05
+141.2457 	EXP 	Right_Price: height = 0.05
+141.2457 	EXP 	Right_Price: height = 0.05
+141.2457 	EXP 	Right_Price: text = 0.01
+141.2457 	EXP 	blank: text = ''
+141.2457 	EXP 	Left_Experience: autoDraw = True
+141.2457 	EXP 	Right_Experience: autoDraw = True
+141.2457 	EXP 	Left_Price: autoDraw = True
+141.2457 	EXP 	Right_Price: autoDraw = True
+141.2457 	EXP 	blank: autoDraw = True
+142.1591 	DATA 	Keypress: 1
+142.1635 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.1692 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.1747 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.1885 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.1968 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2022 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2080 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2220 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2301 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2354 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2421 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2552 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2635 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2688 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2747 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2885 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.2968 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3019 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3082 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3221 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3299 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3351 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3408 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3553 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3635 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3690 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3748 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3887 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.3968 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4024 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4083 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4220 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4301 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4355 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4414 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4553 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4635 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4692 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4748 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4885 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.4968 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5021 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5084 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5219 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5302 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5355 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5416 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5552 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5634 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5684 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5746 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5885 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.5968 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6022 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6083 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6221 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6301 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6354 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6409 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6552 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6635 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6690 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6748 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6885 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.6967 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7022 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7082 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7221 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7305 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7360 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7414 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7552 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7636 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7699 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7750 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7886 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.7968 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8021 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8077 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8218 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8301 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8351 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8415 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8553 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8634 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8688 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8749 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8885 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.8967 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9022 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9081 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9219 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9301 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9357 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9416 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9553 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9634 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9684 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9743 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9886 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+142.9967 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0024 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0080 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0219 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0301 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0354 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0416 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0552 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0634 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0684 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0752 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0887 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.0968 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1026 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1079 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1221 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1301 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1355 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1414 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1552 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1634 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1684 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1750 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1885 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.1969 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.2024 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.2078 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.2219 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.2302 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+143.2349 	EXP 	blank: autoDraw = False
+151.2398 	EXP 	New trial (rep=0, index=1): {'social_left': 0, 'Left_Exp': 'Watching a new episode of a television show', 'Right_Exp': 'Having a picnic with family', 'ITI': 5, 'leftmoney': 0.02, 'rightmoney': 0.01, 'greenText': 'green', 'left_more_than_right': 1, 'matching_prices': 0, 'social_worthmore': 0}
+151.2558 	EXP 	Left_Experience: autoDraw = False
+151.2558 	EXP 	Right_Experience: autoDraw = False
+151.2558 	EXP 	Left_Price: autoDraw = False
+151.2558 	EXP 	Right_Price: autoDraw = False
+151.2558 	EXP 	Left_Experience: autoDraw = False
+151.2558 	EXP 	Right_Experience: autoDraw = False
+151.2558 	EXP 	Left_Price: autoDraw = False
+151.2558 	EXP 	Right_Price: autoDraw = False
+151.2558 	EXP 	blank: autoDraw = False
+151.2558 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+151.2558 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+151.2558 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+151.2558 	EXP 	Left_Experience: height = 0.05
+151.2558 	EXP 	Left_Experience: height = 0.05
+151.2558 	EXP 	Left_Experience: height = 0.05
+151.2558 	EXP 	Left_Experience: text = 'Watching a new episode of a television show'
+151.2558 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+151.2558 	EXP 	Right_Experience: height = 0.05
+151.2558 	EXP 	Right_Experience: height = 0.05
+151.2558 	EXP 	Right_Experience: height = 0.05
+151.2558 	EXP 	Right_Experience: text = 'Having a picnic with family'
+151.2558 	EXP 	Left_Price: height = 0.05
+151.2558 	EXP 	Left_Price: height = 0.05
+151.2558 	EXP 	Left_Price: height = 0.05
+151.2558 	EXP 	Left_Price: text = 0.02
+151.2558 	EXP 	Right_Price: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+151.2558 	EXP 	Right_Price: height = 0.05
+151.2558 	EXP 	Right_Price: height = 0.05
+151.2558 	EXP 	Right_Price: height = 0.05
+151.2558 	EXP 	Right_Price: text = 0.01
+151.2558 	EXP 	blank: text = ''
+151.2558 	EXP 	Left_Experience: autoDraw = True
+151.2558 	EXP 	Right_Experience: autoDraw = True
+151.2558 	EXP 	Left_Price: autoDraw = True
+151.2558 	EXP 	Right_Price: autoDraw = True
+151.2558 	EXP 	blank: autoDraw = True
+152.5413 	DATA 	Keypress: 1
+152.5457 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.5595 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.5676 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.5730 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.5793 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.5927 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6009 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6063 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6132 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6260 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6343 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6392 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6458 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6594 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6676 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6730 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6798 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.6926 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7010 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7065 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7127 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7260 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7343 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7397 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7465 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7594 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7678 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7731 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7796 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.7926 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8009 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8063 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8129 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8261 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8343 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8393 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8450 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8595 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8676 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8731 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8798 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.8926 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9009 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9061 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9119 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9261 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9343 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9393 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9450 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9595 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9677 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9731 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9792 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+152.9928 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0009 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0068 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0131 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0260 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0343 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0396 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0465 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0593 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0676 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0729 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0824 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.0880 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1014 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1071 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1122 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1262 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1320 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1373 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1510 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1567 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1625 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1761 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1843 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1898 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.1956 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.2094 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.2176 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.2229 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.2297 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.2426 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+153.2509 	EXP 	blank: autoDraw = False
+161.2394 	EXP 	New trial (rep=0, index=2): {'social_left': 0, 'Left_Exp': 'Painting your bedroom\na new color', 'Right_Exp': 'Having a romantic dinner with a significant other', 'ITI': 6, 'leftmoney': 0.03, 'rightmoney': 0.01, 'greenText': 'green', 'left_more_than_right': 1, 'matching_prices': 0, 'social_worthmore': 0}
+161.2548 	EXP 	Left_Experience: autoDraw = False
+161.2548 	EXP 	Right_Experience: autoDraw = False
+161.2548 	EXP 	Left_Price: autoDraw = False
+161.2548 	EXP 	Right_Price: autoDraw = False
+161.2548 	EXP 	Left_Experience: autoDraw = False
+161.2548 	EXP 	Right_Experience: autoDraw = False
+161.2548 	EXP 	Left_Price: autoDraw = False
+161.2548 	EXP 	Right_Price: autoDraw = False
+161.2548 	EXP 	blank: autoDraw = False
+161.2548 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+161.2548 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+161.2548 	EXP 	Left_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+161.2548 	EXP 	Left_Experience: height = 0.05
+161.2548 	EXP 	Left_Experience: height = 0.05
+161.2548 	EXP 	Left_Experience: height = 0.05
+161.2548 	EXP 	Left_Experience: text = 'Painting your bedroom\na new color'
+161.2548 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+161.2548 	EXP 	Right_Experience: height = 0.05
+161.2548 	EXP 	Right_Experience: height = 0.05
+161.2548 	EXP 	Right_Experience: height = 0.05
+161.2548 	EXP 	Right_Experience: text = 'Having a romantic dinner with a significant other'
+161.2548 	EXP 	Left_Price: height = 0.05
+161.2548 	EXP 	Left_Price: height = 0.05
+161.2548 	EXP 	Left_Price: height = 0.05
+161.2548 	EXP 	Left_Price: text = 0.03
+161.2548 	EXP 	Right_Price: foreColor = <psychopy.colors.Color: white, alpha=1.0>
+161.2548 	EXP 	Right_Price: height = 0.05
+161.2548 	EXP 	Right_Price: height = 0.05
+161.2548 	EXP 	Right_Price: height = 0.05
+161.2548 	EXP 	Right_Price: text = 0.01
+161.2548 	EXP 	blank: text = ''
+161.2548 	EXP 	Left_Experience: autoDraw = True
+161.2548 	EXP 	Right_Experience: autoDraw = True
+161.2548 	EXP 	Left_Price: autoDraw = True
+161.2548 	EXP 	Right_Price: autoDraw = True
+161.2548 	EXP 	blank: autoDraw = True
+161.6896 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.6936 	DATA 	Keypress: 2
+161.6965 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7095 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7176 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7228 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7295 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7427 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7509 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7562 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7629 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7761 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7843 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7897 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.7952 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8093 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8176 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8235 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8296 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8427 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8511 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8564 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8628 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8760 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8842 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8895 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.8950 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9094 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9176 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9236 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9293 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9432 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9490 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9547 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9677 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9728 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9796 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+161.9928 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0009 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0060 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0122 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0262 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0342 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0392 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0462 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0594 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0676 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0726 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0803 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.0861 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1014 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1072 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1126 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1261 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1342 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1395 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1466 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1594 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1677 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1726 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1803 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.1870 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2010 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2066 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2124 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2260 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2343 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2394 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2462 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2594 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2677 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2729 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2800 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.2927 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3010 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3063 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3124 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3260 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3343 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3393 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3465 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3593 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3676 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3729 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3800 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.3927 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4010 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4063 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4122 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4260 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4342 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4397 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4463 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4594 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4676 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4727 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4796 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.4927 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5009 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5059 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5131 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5261 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5343 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5394 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5457 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5593 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5676 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5728 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5800 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.5928 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6009 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6061 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6134 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6261 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6343 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6392 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6459 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6594 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6677 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6727 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6792 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6929 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.6984 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7040 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7177 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7231 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7291 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7427 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7510 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7560 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7641 	DATA 	Keypress: escape
+162.7670 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7724 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7789 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.7926 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8014 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8065 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8134 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8260 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8344 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8394 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8461 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8594 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8678 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8728 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8800 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+162.8927 	EXP 	Right_Experience: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+163.0587 	EXP 	window1: mouseVisible = True
