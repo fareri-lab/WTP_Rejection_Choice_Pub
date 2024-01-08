@@ -19,8 +19,7 @@ let expInfo = {
 };
 
 
-var participantID;
-participantID = expInfo["participant"];
+
 
 // Start code blocks for 'Before Experiment'
 // Run 'Before Experiment' code from saliencyrating_code
@@ -83,6 +82,8 @@ flowScheduler.add(quitPsychoJS, '', true);
 
 // quit if user presses Cancel in dialog box:
 dialogCancelScheduler.add(quitPsychoJS, '', false);
+var participantID;
+participantID = expInfo["participant"];
 
 psychoJS.start({
   expName: expName,
