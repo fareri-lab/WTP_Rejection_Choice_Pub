@@ -12,13 +12,15 @@ const { round } = util;
 
 
 // store info about the experiment session:
-let expName = 'WTP_SM_Choice_legacy';  // from the Builder filename that created this script
+let expName = 'WTP_SM_Choice';  // from the Builder filename that created this script
 let expInfo = {
     'participant': '',
     'session': '001',
 };
 
-
+// add info from the URL:
+util.addInfoFromUrl(expInfo);
+console.log(expInfo['participant'])
 
 
 // Start code blocks for 'Before Experiment'
