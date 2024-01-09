@@ -14,8 +14,7 @@ const { round } = util;
 // store info about the experiment session:
 let expName = 'WTP_SM_Choice';  // from the Builder filename that created this script
 let expInfo = {
-    'participant': '',
-    'session': '001',
+    'participant': ''
 };
 
 // add info from the URL:
@@ -140,6 +139,8 @@ psychoJS.start({
 
 psychoJS.experimentLogger.setLevel(core.Logger.ServerLevel.EXP);
 
+var currentLoop;
+var frameDur;
 async function updateInfo() {
   currentLoop = psychoJS.experiment;  // right now there are no loops
   expInfo['date'] = util.MonotonicClock.getDateStr();  // add a simple timestamp
