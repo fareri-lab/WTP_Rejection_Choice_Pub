@@ -212,8 +212,8 @@ var WTP_Instructions1Clock;
 var WTP_ins_text1;
 var WTP_ins_keys1;
 var WTP_Instructions2Clock;
-var WTP_ins_text2
-var WTP_ins_keys2'
+var WTP_ins_text2;
+var WTP_ins_keys2;
 var WTPTaskClock;
 var Left_Experience;
 var Right_Experience;
