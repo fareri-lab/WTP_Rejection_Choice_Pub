@@ -800,6 +800,10 @@ async function experimentInit() {
   return Scheduler.Event.NEXT;
 }
 var t;
+var frameN;
+var continueRoutine;
+var _endwelcomescreen_keys_allKeys;
+var Welcome_ScreenComponents;
 function Welcome_ScreenRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
