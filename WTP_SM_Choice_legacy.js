@@ -163,6 +163,85 @@ async function updateInfo() {
   return Scheduler.Event.NEXT;
 }
 
+var Welcome_ScreenClock;
+var Welcome;
+var endwelcomescreen_keys;
+var partnermatch;
+var partneravatar;
+var trialset;
+var First_InstructionsClock;
+var First_Instructions;
+var endinstructionscreen_keys;
+var partner_codeClock;
+var partnermatch;
+var partneravatar;
+var WaitingToMatchClock;
+var Match_text;
+var syncing_text;
+var text_0;
+var Transparent;
+var Loading_25;
+var text_25;
+var Loading_50;
+var text_50;
+var Loading_75;
+var text_75;
+var Loading_100;
+var text_100;
+var Partner_MatchClock;
+var Youhavematched;
+var partneremoji_image;
+var endpartnermatch_keys;
+var PressToContinue;
+var Photo_ShareClock;
+var photobeingshared_text;
+var waitforfeedback_text;
+var feedbackresponses;
+var fdbkimage;
+var participantimage_image;
+var WaitingforfeedbackClock;
+var waiting_text;
+var feedbackClock;
+var displayfeedback_text;
+var fdbkimage_image;
+var WTPlottery;
+var continuesharingClock;
+var presstosharenextphoto_text;
+var sharenextphoto_key;
+var WTP_Instructions1Clock;
+var WTP_ins_text1;
+var WTP_ins_keys1;
+var WTP_Instructions2Clock;
+var WTP_ins_text2
+var WTP_ins_keys2'
+var WTPTaskClock;
+var Left_Experience;
+var Right_Experience;
+var Left_Price;
+var Right_Price;
+var responses;
+var ITIClock;
+var ITI_text;
+var ContinueClock;
+var resumetext;
+var Resume_keys;
+var Resume_Text;
+var SalienceRatingClock;
+var salience_slider;
+var saliencequestion_text;
+var key_resp;
+var salienceavatar_image;
+var saliencecontinue_text;
+var displayrating_text;
+var StressLevelClock;
+var stress_slider;
+var stresslevel_text;
+var stresslevel_keypress;
+var displaystressrating_text;
+
+
+
+
 async function experimentInit() {
   // Initialize components for Routine "Welcome_Screen"
   Welcome_ScreenClock = new util.Clock();
