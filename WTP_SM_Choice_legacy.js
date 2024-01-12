@@ -162,7 +162,7 @@ async function updateInfo() {
   
   return Scheduler.Event.NEXT;
 }
-
+var globalClock;
 var Welcome_ScreenClock;
 var Welcome;
 var FirstInstructions;
