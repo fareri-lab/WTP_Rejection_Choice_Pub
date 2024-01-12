@@ -165,6 +165,7 @@ async function updateInfo() {
 var globalClock;
 var Welcome_ScreenClock;
 var Welcome;
+var routineTimer;
 var FirstInstructions;
 var First_InstructionsClock;
 var endwelcomescreen_keys;
