@@ -165,6 +165,8 @@ async function updateInfo() {
 
 var Welcome_ScreenClock;
 var Welcome;
+var FirstInstructions;
+var First_InstructionsClock;
 var endwelcomescreen_keys;
 var partnermatch;
 var partneravatar;
