@@ -803,6 +803,15 @@ var t;
 var frameN;
 var continueRoutine;
 var _endwelcomescreen_keys_allKeys;
+var subid;
+var expdir;
+var subjdir;
+var trial_sheet;
+var wtp_sheet;
+var partnermatch;
+var partneravatar;
+var endwelcomescreen_keys;
+
 var Welcome_ScreenComponents;
 function Welcome_ScreenRoutineBegin(snapshot) {
   return async function () {
