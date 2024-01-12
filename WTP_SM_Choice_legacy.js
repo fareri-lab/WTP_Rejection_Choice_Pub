@@ -799,7 +799,7 @@ async function experimentInit() {
   
   return Scheduler.Event.NEXT;
 }
-
+var t;
 function Welcome_ScreenRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
