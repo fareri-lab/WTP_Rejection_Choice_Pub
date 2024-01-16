@@ -811,7 +811,6 @@ var wtp_sheet;
 var partnermatch;
 var partneravatar;
 var endwelcomescreen_keys;
-
 var Welcome_ScreenComponents;
 function Welcome_ScreenRoutineBegin(snapshot) {
   return async function () {
@@ -830,8 +829,8 @@ function Welcome_ScreenRoutineBegin(snapshot) {
     subid = expInfo["participant"];
     expdir = os.getcwd();
     subjdir = `${expdir}/Participant_Images/${subid}`;
-    trial_sheet = `${subjdir}/${subid}`;
-    wtp_sheet = `${subjdir}/${subid}`;
+    trial_sheet = `${subjdir}/${subid}_trials.csv`;
+    wtp_sheet = `${subjdir}/${subid}_WTP.csv`;
     partnermatch = "";
     partneravatar = "";
     
@@ -944,6 +943,8 @@ function Welcome_ScreenRoutineEnd(snapshot) {
   }
 }
 
+var _endinstructionscreen_keys_allKeys;
+var First_InstructionsComponents;
 function First_InstructionsRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
@@ -1066,6 +1067,10 @@ function First_InstructionsRoutineEnd(snapshot) {
   }
 }
 
+var trial_nums;
+var WTPloop;
+var WTP_trial;
+var entiretaskloop;
 function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
   return async function() {
     TrialHandler.fromSnapshot(snapshot); // update internal variables (.thisN etc) of the loop
@@ -1122,7 +1127,10 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+var Right_Exp;
+var Left_Exp;
+var leftmoney;
+var rightmoney;
 function startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot) {
   return async function() {
     TrialHandler.fromSnapshot(snapshot); // update internal variables (.thisN etc) of the loop
@@ -1281,7 +1289,7 @@ function entiretaskloopLoopEndIteration(scheduler, snapshot) {
     }
   };
 }
-
+var partner_codeComponents;
 function partner_codeRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
@@ -1375,7 +1383,8 @@ function partner_codeRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+var _pj;
+var WaitingToMatchComponents;
 function WaitingToMatchRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
