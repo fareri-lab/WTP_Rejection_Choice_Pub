@@ -804,7 +804,6 @@ var frameN;
 var continueRoutine;
 var _endwelcomescreen_keys_allKeys;
 var subid;
-var expdir;
 var subjdir;
 var trial_sheet;
 var wtp_sheet;
@@ -827,8 +826,7 @@ function Welcome_ScreenRoutineBegin(snapshot) {
     _endwelcomescreen_keys_allKeys = [];
     // Run 'Begin Routine' code from spreadsheets
     subid = expInfo["participant"];
-    expdir = os.getcwd();
-    subjdir = `${expdir}/Participant_Images/${subid}`;
+    subjdir = `Participant_Images/${subid}`;
     trial_sheet = `${subjdir}/${subid}_trials.csv`;
     wtp_sheet = `${subjdir}/${subid}_WTP.csv`;
     partnermatch = "";
