@@ -2045,7 +2045,7 @@ function WaitingforfeedbackRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+var startWTP;
 function feedbackRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
