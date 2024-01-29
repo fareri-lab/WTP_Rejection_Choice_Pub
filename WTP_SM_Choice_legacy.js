@@ -2962,6 +2962,7 @@ function ContinueRoutineEnd(snapshot) {
 
 var _key_resp_allKeys;
 var key_resp_allKeys;
+var SalienceRatingComponents;
 function SalienceRatingRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
