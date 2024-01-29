@@ -1660,7 +1660,7 @@ function WaitingToMatchRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+var _endpartnermatch_keys_allKeys;
 function Partner_MatchRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
