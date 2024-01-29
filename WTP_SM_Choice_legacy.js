@@ -1382,6 +1382,9 @@ function partner_codeRoutineEnd(snapshot) {
   }
 }
 var _pj;
+var continueRoutine;
+var frameRemains;
+var t;
 var WaitingToMatchComponents;
 function WaitingToMatchRoutineBegin(snapshot) {
   return async function () {
@@ -1438,7 +1441,9 @@ function WaitingToMatchRoutineBegin(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+var continueRoutine;
+var frameRemains;
+var t;
 function WaitingToMatchRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'WaitingToMatch' ---
@@ -1824,7 +1829,9 @@ function Partner_MatchRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+var continueRoutine;
+var frameRemains;
+var t;
 function Photo_ShareRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
@@ -2564,7 +2571,9 @@ function WTPTaskRoutineBegin(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+var continueRoutine;
+var frameRemains;
+var t;
 function WTPTaskRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'WTPTask' ---
@@ -2742,7 +2751,9 @@ function ITIRoutineBegin(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+var continueRoutine;
+var frameRemains;
+var t;
 function ITIRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'ITI' ---
@@ -2809,6 +2820,9 @@ function ITIRoutineEnd(snapshot) {
   }
 }
 
+var continueRoutine;
+var frameRemains;
+var t;
 function ContinueRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
