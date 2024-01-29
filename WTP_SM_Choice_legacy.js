@@ -1960,6 +1960,7 @@ function Photo_ShareRoutineEnd(snapshot) {
   }
 }
 
+var WaitingforfeedbackComponents;
 function WaitingforfeedbackRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
