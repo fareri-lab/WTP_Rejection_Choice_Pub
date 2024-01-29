@@ -2158,6 +2158,7 @@ function feedbackRoutineEnd(snapshot) {
 
 var _sharenextphoto_key_allKeys;
 var sharenextphoto_key_allKeys;
+var continuesharingComponents;
 function continuesharingRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
