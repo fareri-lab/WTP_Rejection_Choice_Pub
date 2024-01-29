@@ -3004,7 +3004,7 @@ function SalienceRatingRoutineBegin(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+var keys;
 function SalienceRatingRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'SalienceRating' ---
