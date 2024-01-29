@@ -92,7 +92,7 @@ psychoJS.start({
   resources: [
 
     {'name': `Participant_Images/${participantID}/${participantID}_WTP.xlsx`, 'path': `Participant_Images/${participantID}/${participantID}_WTP.xlsx`},
-    {'name': `Participant_Images/${participantID}/${participantID}_trials.csv`, 'path': `Participant_Images/${participantID}/${participantID}_trials.csv`},
+    {'name': `Participant_Images/${participantID}/${participantID}_trials.xlsx`, 'path': `Participant_Images/${participantID}/${participantID}_trials.xlsx`},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
     {'name': 'Images/nerdemoji_nobackground.png', 'path': 'Images/nerdemoji_nobackground.png'},
@@ -1382,9 +1382,6 @@ function partner_codeRoutineEnd(snapshot) {
   }
 }
 var _pj;
-var continueRoutine;
-var frameRemains;
-var t;
 var WaitingToMatchComponents;
 function WaitingToMatchRoutineBegin(snapshot) {
   return async function () {
@@ -1441,9 +1438,7 @@ function WaitingToMatchRoutineBegin(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-var continueRoutine;
-var frameRemains;
-var t;
+
 function WaitingToMatchRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'WaitingToMatch' ---
@@ -1660,7 +1655,8 @@ function WaitingToMatchRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-var _endpartnermatch_keys_allKeys;
+
+var Partner_MatchComponents;
 function Partner_MatchRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
@@ -1829,9 +1825,7 @@ function Partner_MatchRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-var continueRoutine;
-var frameRemains;
-var t;
+
 function Photo_ShareRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
@@ -2571,9 +2565,7 @@ function WTPTaskRoutineBegin(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-var continueRoutine;
-var frameRemains;
-var t;
+
 function WTPTaskRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'WTPTask' ---
@@ -2751,9 +2743,7 @@ function ITIRoutineBegin(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-var continueRoutine;
-var frameRemains;
-var t;
+
 function ITIRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'ITI' ---
@@ -2820,9 +2810,6 @@ function ITIRoutineEnd(snapshot) {
   }
 }
 
-var continueRoutine;
-var frameRemains;
-var t;
 function ContinueRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
