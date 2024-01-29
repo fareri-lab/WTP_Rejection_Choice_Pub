@@ -3171,6 +3171,8 @@ function SalienceRatingRoutineEnd(snapshot) {
   }
 }
 
+var _stresslevel_keypress_allKeys;
+var stresslevel_keypress_allKeys;
 function StressLevelRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
