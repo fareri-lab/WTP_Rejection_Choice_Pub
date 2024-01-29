@@ -2300,6 +2300,8 @@ function continuesharingRoutineEnd(snapshot) {
   }
 }
 
+var _WTP_ins_keys1_allKeys;
+var WTP_ins_keys1_allKeys;
 function WTP_Instructions1RoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
