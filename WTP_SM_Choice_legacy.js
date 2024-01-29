@@ -1833,6 +1833,7 @@ function Partner_MatchRoutineEnd(snapshot) {
 var continueRoutine;
 var frameRemains;
 var t;
+var Photo_ShareComponents;
 function Photo_ShareRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
