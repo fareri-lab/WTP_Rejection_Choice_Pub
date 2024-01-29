@@ -92,7 +92,7 @@ psychoJS.start({
   resources: [
 
     {'name': `Participant_Images/${participantID}/${participantID}_WTP.xlsx`, 'path': `Participant_Images/${participantID}/${participantID}_WTP.xlsx`},
-    {'name': `Participant_Images/${participantID}/${participantID}_trials.xlsx`, 'path': `Participant_Images/${participantID}/${participantID}_trials.xlsx`},
+    {'name': `Participant_Images/${participantID}/${participantID}_trials.csv`, 'path': `Participant_Images/${participantID}/${participantID}_trials.csv`},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
     {'name': 'Images/nerdemoji_nobackground.png', 'path': 'Images/nerdemoji_nobackground.png'},
