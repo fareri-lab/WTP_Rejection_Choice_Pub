@@ -2427,6 +2427,7 @@ function WTP_Instructions1RoutineEnd(snapshot) {
 
 var _WTP_ins_keys2_allKeys;
 var WTP_ins_keys2_allKeys;
+var WTP_Instructions2Components;
 function WTP_Instructions2RoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
