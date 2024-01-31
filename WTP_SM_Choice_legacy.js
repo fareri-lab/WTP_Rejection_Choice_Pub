@@ -1169,6 +1169,8 @@ function startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot) {
   }
 }
 
+var WTPTaskLoop;
+
 function WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot) {
   return async function() {
     TrialHandler.fromSnapshot(snapshot); // update internal variables (.thisN etc) of the loop
