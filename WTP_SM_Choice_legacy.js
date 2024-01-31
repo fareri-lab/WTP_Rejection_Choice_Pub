@@ -828,7 +828,7 @@ function Welcome_ScreenRoutineBegin(snapshot) {
     subid = expInfo["participant"];
     subjdir = `Participant_Images/${subid}`;
     trial_sheet = `${subjdir}/${subid}_trials.csv`;
-    wtp_sheet = `${subjdir}/${subid}_WTP.csv`;
+    wtp_sheet = `${subjdir}/${subid}_WTP.xlsx`;
     partnermatch = "";
     partneravatar = "";
     
