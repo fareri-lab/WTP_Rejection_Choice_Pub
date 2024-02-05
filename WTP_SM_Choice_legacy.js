@@ -2774,6 +2774,7 @@ function ITIRoutineBegin(snapshot) {
 var continueRoutine;
 var frameRemains;
 var t;
+
 function ITIRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'ITI' ---
@@ -2791,7 +2792,7 @@ function ITIRoutineEachFrame() {
       ITI_text.setAutoDraw(true);
     }
 
-    frameRemains = 0.0 + ITI - psychoJS.window.monitorFramePeriod * 0.75;  // most of one frame period left
+    frameRemains = 0.0 + WTP_ITI - psychoJS.window.monitorFramePeriod * 0.75;  // most of one frame period left
     if (ITI_text.status === PsychoJS.Status.STARTED && t >= frameRemains) {
       ITI_text.setAutoDraw(false);
     }
