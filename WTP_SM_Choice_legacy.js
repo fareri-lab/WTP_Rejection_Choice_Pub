@@ -1,4 +1,4 @@
-/***************************** 
+``/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -9,6 +9,7 @@ const { Scheduler } = util;
 //some handy aliases as in the psychopy scripts;
 const { abs, sin, cos, PI: pi, sqrt } = Math;
 const { round } = util;
+const XLSX = require('xlsx');
 
 
 // store info about the experiment session:
@@ -828,7 +829,9 @@ function Welcome_ScreenRoutineBegin(snapshot) {
     subid = expInfo["participant"];
     subjdir = `Participant_Images/${subid}`;
     trial_sheet = `${subjdir}/${subid}_trials.csv`;
-    wtp_sheet = `${subjdir}/${subid}_WTP.xlsx`;
+    wtp_sheet = XLSX.readFile(`${subjdir}/${subid}_WTP.xlsx`);
+
+    //wtp_sheet = `${subjdir}/${subid}_WTP.xlsx`;
     partnermatch = "";
     partneravatar = "";
     
@@ -2308,16 +2311,7 @@ var WTP_Instructions1Components;
 function WTP_Instructions1RoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
-    console.log(social_left);
-    console.log(left);
-    console.log(right);
-    console.log(WTP_ITI);
-    console.log(leftmoney);
-    console.log(rightmoney);
-    console.log(greenText);
-    console.log(left_more_than_right);
-    console.log(matching_prices);
-    console.log(social_worthmore);
+
     //--- Prepare to start Routine 'WTP_Instructions1' ---
     t = 0;
     WTP_Instructions1Clock.reset(); // clock
@@ -2578,7 +2572,16 @@ function WTPTaskRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     routineTimer.add(10.000000);
     // update component parameters for each repeat
-
+    console.log(social_left);
+    console.log(left);
+    console.log(right);
+    console.log(WTP_ITI);
+    console.log(leftmoney);
+    console.log(rightmoney);
+    console.log(greenText);
+    console.log(left_more_than_right);
+    console.log(matching_prices);
+    console.log(social_worthmore);
     Left_Experience.setColor(new util.Color('white'));
     Left_Experience.setText(left);
     Right_Experience.setColor(new util.Color('white'));
