@@ -1,4 +1,4 @@
-``/***************************** 
+/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -589,7 +589,7 @@ async function experimentInit() {
   Left_Experience = new visual.TextStim({
     win: psychoJS.window,
     name: 'Left_Experience',
-    text: '',
+    text: undefined,
     font: 'Open Sans',
     units: undefined, 
     pos: [0.5, 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
@@ -601,7 +601,7 @@ async function experimentInit() {
   Right_Experience = new visual.TextStim({
     win: psychoJS.window,
     name: 'Right_Experience',
-    text: '',
+    text: undefined,
     font: 'Open Sans',
     units: undefined, 
     pos: [(- 0.5), 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
@@ -2567,10 +2567,21 @@ function WTPTaskRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     routineTimer.add(10.000000);
     // update component parameters for each repeat
+    console.log(social_left);
+    console.log(left);
+    console.log(right);
+    console.log(WTP_ITI);
+    console.log(leftmoney);
+    console.log(rightmoney);
+    console.log(greenText);
+    console.log(left_more_than_right);
+    console.log(matching_prices);
+    console.log(social_worthmore);
+    
     Left_Experience.setColor(new util.Color('white'));
-    Left_Experience.setText(Left_Exp);
+    Left_Experience.setText(left);
     Right_Experience.setColor(new util.Color('white'));
-    Right_Experience.setText(Right_Exp);
+    Right_Experience.setText(right);
     Left_Price.setText(leftmoney);
     Right_Price.setColor(new util.Color('white'));
     Right_Price.setText(rightmoney);
