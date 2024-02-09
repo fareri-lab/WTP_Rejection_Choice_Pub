@@ -1,4 +1,4 @@
-/***************************** 
+``/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -2327,6 +2327,18 @@ function WTP_Instructions1RoutineBegin(snapshot) {
       if ('status' in thisComponent)
         thisComponent.status = PsychoJS.Status.NOT_STARTED;
     return Scheduler.Event.NEXT;
+
+    console.log(social_left);
+    console.log(left);
+    console.log(right);
+    console.log(WTP_ITI);
+    console.log(leftmoney);
+    console.log(rightmoney);
+    console.log(greenText);
+    console.log(left_more_than_right);
+    console.log(matching_prices);
+    console.log(social_worthmore);
+    
   }
 }
 
@@ -2567,17 +2579,7 @@ function WTPTaskRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     routineTimer.add(10.000000);
     // update component parameters for each repeat
-    console.log(social_left);
-    console.log(left);
-    console.log(right);
-    console.log(WTP_ITI);
-    console.log(leftmoney);
-    console.log(rightmoney);
-    console.log(greenText);
-    console.log(left_more_than_right);
-    console.log(matching_prices);
-    console.log(social_worthmore);
-    
+
     Left_Experience.setColor(new util.Color('white'));
     Left_Experience.setText(left);
     Right_Experience.setColor(new util.Color('white'));
