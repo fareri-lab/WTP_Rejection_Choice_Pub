@@ -1,4 +1,4 @@
-``/***************************** 
+/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -2308,7 +2308,16 @@ var WTP_Instructions1Components;
 function WTP_Instructions1RoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
-    
+    console.log(social_left);
+    console.log(left);
+    console.log(right);
+    console.log(WTP_ITI);
+    console.log(leftmoney);
+    console.log(rightmoney);
+    console.log(greenText);
+    console.log(left_more_than_right);
+    console.log(matching_prices);
+    console.log(social_worthmore);
     //--- Prepare to start Routine 'WTP_Instructions1' ---
     t = 0;
     WTP_Instructions1Clock.reset(); // clock
@@ -2328,16 +2337,6 @@ function WTP_Instructions1RoutineBegin(snapshot) {
         thisComponent.status = PsychoJS.Status.NOT_STARTED;
     return Scheduler.Event.NEXT;
 
-    console.log(social_left);
-    console.log(left);
-    console.log(right);
-    console.log(WTP_ITI);
-    console.log(leftmoney);
-    console.log(rightmoney);
-    console.log(greenText);
-    console.log(left_more_than_right);
-    console.log(matching_prices);
-    console.log(social_worthmore);
     
   }
 }
