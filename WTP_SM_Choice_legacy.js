@@ -9,7 +9,7 @@ const { Scheduler } = util;
 //some handy aliases as in the psychopy scripts;
 const { abs, sin, cos, PI: pi, sqrt } = Math;
 const { round } = util;
-const XLSX = require('xlsx');
+
 
 
 // store info about the experiment session:
@@ -829,9 +829,7 @@ function Welcome_ScreenRoutineBegin(snapshot) {
     subid = expInfo["participant"];
     subjdir = `Participant_Images/${subid}`;
     trial_sheet = `${subjdir}/${subid}_trials.csv`;
-    wtp_sheet = XLSX.readFile(`${subjdir}/${subid}_WTP.xlsx`);
-
-    //wtp_sheet = `${subjdir}/${subid}_WTP.xlsx`;
+    wtp_sheet = `${subjdir}/${subid}_WTP.xlsx`;
     partnermatch = "";
     partneravatar = "";
     
