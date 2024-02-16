@@ -1,4 +1,4 @@
-/***************************** 
+``/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -1181,7 +1181,8 @@ function WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot) {
       psychoJS: psychoJS,
       nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
       extraInfo: expInfo, originPath: undefined,
-      trialList: TrialHandler.importConditions(psychoJS.serverManager, wtp_sheet, trialset),
+      trialList: undefined,
+    //  trialList: TrialHandler.importConditions(psychoJS.serverManager, wtp_sheet, trialset),
       seed: undefined, name: 'WTPTaskLoop'
     });
     psychoJS.experiment.addLoop(WTPTaskLoop); // add the loop to the experiment
