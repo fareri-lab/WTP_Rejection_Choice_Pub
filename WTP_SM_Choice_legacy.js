@@ -602,7 +602,7 @@ async function experimentInit() {
   Right_Experience = new visual.TextStim({
     win: psychoJS.window,
     name: 'Right_Experience',
-    text: ''undefined'',
+    text: 'undefined',
     font: 'Open Sans',
     units: undefined, 
     pos: [(- 0.5), 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
