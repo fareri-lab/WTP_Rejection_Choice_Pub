@@ -1,4 +1,4 @@
-``/***************************** 
+/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -92,7 +92,7 @@ psychoJS.start({
   expInfo: expInfo,
   resources: [
 
-    {'name': `Participant_Images/${participantID}/${participantID}_WTP.xlsx`, 'path': `Participant_Images/${participantID}/${participantID}_WTP.xlsx`},
+    {'name': `Participant_Images/${participantID}/${participantID}_WTP.csv`, 'path': `Participant_Images/${participantID}/${participantID}_WTP.csv`},
     {'name': `Participant_Images/${participantID}/${participantID}_trials.csv`, 'path': `Participant_Images/${participantID}/${participantID}_trials.csv`},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
@@ -829,7 +829,7 @@ function Welcome_ScreenRoutineBegin(snapshot) {
     subid = expInfo["participant"];
     subjdir = `Participant_Images/${subid}`;
     trial_sheet = `${subjdir}/${subid}_trials.csv`;
-    wtp_sheet = `${subjdir}/${subid}_WTP.xlsx`;
+    wtp_sheet = `${subjdir}/${subid}_WTP.csv`;
     partnermatch = "";
     partneravatar = "";
     
