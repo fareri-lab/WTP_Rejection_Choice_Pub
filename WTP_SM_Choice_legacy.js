@@ -1130,7 +1130,7 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
 // var Left_Exp;
 // var leftmoney;
 // var rightmoney;
-// var startWTPloop;
+var startWTPloop;
 // var social_left;
 // var left;
 // var right;
