@@ -1147,7 +1147,7 @@ function startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot) {
       psychoJS: psychoJS,
       nReps: startWTP, method: TrialHandler.Method.RANDOM,
       extraInfo: expInfo, originPath: undefined,
-      trialList: undefined,
+      trialList: wtp_sheet,
       seed: undefined, name: 'startWTPloop'
     });
     psychoJS.experiment.addLoop(startWTPloop); // add the loop to the experiment
