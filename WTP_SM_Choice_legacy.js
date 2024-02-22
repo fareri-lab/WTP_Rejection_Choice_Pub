@@ -1,4 +1,4 @@
-/***************************** 
+``/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -92,7 +92,7 @@ psychoJS.start({
   expInfo: expInfo,
   resources: [
 
-    {'name': `Participant_Images/${participantID}/${participantID}_WTP.csv`, 'path': `Participant_Images/${participantID}/${participantID}_WTP.csv`},
+    {'name': `Participant_Images/${participantID}/${participantID}_WTP.xlsx`, 'path': `Participant_Images/${participantID}/${participantID}_WTP.csv`},
     {'name': `Participant_Images/${participantID}/${participantID}_trials.csv`, 'path': `Participant_Images/${participantID}/${participantID}_trials.csv`},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
@@ -590,7 +590,7 @@ async function experimentInit() {
   Left_Experience = new visual.TextStim({
     win: psychoJS.window,
     name: 'Left_Experience',
-    text: 'default text',
+    text: '',
     font: 'Open Sans',
     units: undefined, 
     pos: [0.5, 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
@@ -602,7 +602,7 @@ async function experimentInit() {
   Right_Experience = new visual.TextStim({
     win: psychoJS.window,
     name: 'Right_Experience',
-    text: 'default text',
+    text: 'undefined',
     font: 'Open Sans',
     units: undefined, 
     pos: [(- 0.5), 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
@@ -614,7 +614,7 @@ async function experimentInit() {
   Left_Price = new visual.TextStim({
     win: psychoJS.window,
     name: 'Left_Price',
-    text: 'default text',
+    text: '',
     font: 'Open Sans',
     units: undefined, 
     pos: [0.5, (- 0.5)], height: 0.05,  wrapWidth: undefined, ori: 0.0,
@@ -626,7 +626,7 @@ async function experimentInit() {
   Right_Price = new visual.TextStim({
     win: psychoJS.window,
     name: 'Right_Price',
-    text: 'default text',
+    text: '',
     font: 'Open Sans',
     units: undefined, 
     pos: [(- 0.5), (- 0.5)], height: 0.05,  wrapWidth: undefined, ori: 0.0,
@@ -661,7 +661,7 @@ async function experimentInit() {
   Resume_Text = new visual.TextStim({
     win: psychoJS.window,
     name: 'Resume_Text',
-    text: 'default text',
+    text: '',
     font: 'Open Sans',
     units: undefined, 
     pos: [0, 0], height: 0.12,  wrapWidth: undefined, ori: 0.0,
@@ -829,7 +829,7 @@ function Welcome_ScreenRoutineBegin(snapshot) {
     subid = expInfo["participant"];
     subjdir = `Participant_Images/${subid}`;
     trial_sheet = `${subjdir}/${subid}_trials.csv`;
-    wtp_sheet = `${subjdir}/${subid}_WTP.csv`;
+    wtp_sheet = `${subjdir}/${subid}_WTP.xlsx`;
     partnermatch = "";
     partneravatar = "";
     
@@ -1126,18 +1126,18 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-  // var Right_Exp;
-  // var Left_Exp;
-  // var leftmoney;
-  // var rightmoney;
-  // var startWTPloop;
-  // var social_left;
-  // var left;
-  // var right;
-  // var WTP_ITI;
-  // var left_more_than_right;
-  // var matching_prices;
-  // var social_worthmore;
+// var Right_Exp;
+// var Left_Exp;
+// var leftmoney;
+// var rightmoney;
+// var startWTPloop;
+// var social_left;
+// var left;
+// var right;
+// var WTP_ITI;
+// var left_more_than_right;
+// var matching_prices;
+// var social_worthmore;
 function startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot) {
   return async function() {
     TrialHandler.fromSnapshot(snapshot); // update internal variables (.thisN etc) of the loop
@@ -1188,8 +1188,7 @@ function WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot) {
       psychoJS: psychoJS,
       nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
       extraInfo: expInfo, originPath: undefined,
-      trialList: wtp_sheet,
-    //  trialList: TrialHandler.importConditions(psychoJS.serverManager, wtp_sheet, trialset),
+      trialList: TrialHandler.importConditions(psychoJS.serverManager, wtp_sheet, trialset),
       seed: undefined, name: 'WTPTaskLoop'
     });
     psychoJS.experiment.addLoop(WTPTaskLoop); // add the loop to the experiment
