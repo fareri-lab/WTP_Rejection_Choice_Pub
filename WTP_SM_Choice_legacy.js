@@ -1,4 +1,4 @@
-/***************************** 
+``/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -92,7 +92,7 @@ psychoJS.start({
   expInfo: expInfo,
   resources: [
 
-    {'name': `Participant_Images/${participantID}/${participantID}_WTP.xlsx`, 'path': `Participant_Images/${participantID}/${participantID}_WTP.csv`},
+    {'name': `Participant_Images/${participantID}/${participantID}_WTP.csv`, 'path': `Participant_Images/${participantID}/${participantID}_WTP.csv`},
     {'name': `Participant_Images/${participantID}/${participantID}_trials.csv`, 'path': `Participant_Images/${participantID}/${participantID}_trials.csv`},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
     {'name': 'Images/facedown_card.png', 'path': 'Images/facedown_card.png'},
@@ -1177,80 +1177,80 @@ function startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot) {
   }
 }
 
-  var WTPTaskLoop;
+var WTPTaskLoop;
 
-  function WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot) {
-    return async function() {
-      TrialHandler.fromSnapshot(snapshot); // update internal variables (.thisN etc) of the loop
-      
-      // set up handler to look after randomisation of conditions etc
-      WTPTaskLoop = new TrialHandler({
-        psychoJS: psychoJS,
-        nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
-        extraInfo: expInfo, originPath: undefined,
-        trialList: TrialHandler.importConditions(psychoJS.serverManager, wtp_sheet, trialset),
-        seed: undefined, name: 'WTPTaskLoop'
-      });
-      psychoJS.experiment.addLoop(WTPTaskLoop); // add the loop to the experiment
-      currentLoop = WTPTaskLoop;  // we're now the current loop
-      
-      // Schedule all the trials in the trialList:
-      for (const thisWTPTaskLoop of WTPTaskLoop) {
-        snapshot = WTPTaskLoop.getSnapshot();
-        WTPTaskLoopLoopScheduler.add(importConditions(snapshot));
-        WTPTaskLoopLoopScheduler.add(WTPTaskRoutineBegin(snapshot));
-        WTPTaskLoopLoopScheduler.add(WTPTaskRoutineEachFrame());
-        WTPTaskLoopLoopScheduler.add(WTPTaskRoutineEnd(snapshot));
-        WTPTaskLoopLoopScheduler.add(ITIRoutineBegin(snapshot));
-        WTPTaskLoopLoopScheduler.add(ITIRoutineEachFrame());
-        WTPTaskLoopLoopScheduler.add(ITIRoutineEnd(snapshot));
-        WTPTaskLoopLoopScheduler.add(WTPTaskLoopLoopEndIteration(WTPTaskLoopLoopScheduler, snapshot));
-      }
-      
-      return Scheduler.Event.NEXT;
+function WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot) {
+  return async function() {
+    TrialHandler.fromSnapshot(snapshot); // update internal variables (.thisN etc) of the loop
+    
+    // set up handler to look after randomisation of conditions etc
+    WTPTaskLoop = new TrialHandler({
+      psychoJS: psychoJS,
+      nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
+      extraInfo: expInfo, originPath: undefined,
+      trialList: TrialHandler.importConditions(psychoJS.serverManager, wtp_sheet, trialset),
+      seed: undefined, name: 'WTPTaskLoop'
+    });
+    psychoJS.experiment.addLoop(WTPTaskLoop); // add the loop to the experiment
+    currentLoop = WTPTaskLoop;  // we're now the current loop
+    
+    // Schedule all the trials in the trialList:
+    for (const thisWTPTaskLoop of WTPTaskLoop) {
+      snapshot = WTPTaskLoop.getSnapshot();
+      WTPTaskLoopLoopScheduler.add(importConditions(snapshot));
+      WTPTaskLoopLoopScheduler.add(WTPTaskRoutineBegin(snapshot));
+      WTPTaskLoopLoopScheduler.add(WTPTaskRoutineEachFrame());
+      WTPTaskLoopLoopScheduler.add(WTPTaskRoutineEnd(snapshot));
+      WTPTaskLoopLoopScheduler.add(ITIRoutineBegin(snapshot));
+      WTPTaskLoopLoopScheduler.add(ITIRoutineEachFrame());
+      WTPTaskLoopLoopScheduler.add(ITIRoutineEnd(snapshot));
+      WTPTaskLoopLoopScheduler.add(WTPTaskLoopLoopEndIteration(WTPTaskLoopLoopScheduler, snapshot));
     }
-  }
-
-  async function WTPTaskLoopLoopEnd() {
-    // terminate loop
-    psychoJS.experiment.removeLoop(WTPTaskLoop);
-    // update the current loop from the ExperimentHandler
-    if (psychoJS.experiment._unfinishedLoops.length>0)
-      currentLoop = psychoJS.experiment._unfinishedLoops.at(-1);
-    else
-      currentLoop = psychoJS.experiment;  // so we use addData from the experiment
+    
     return Scheduler.Event.NEXT;
   }
+}
 
-  function WTPTaskLoopLoopEndIteration(scheduler, snapshot) {
-    // ------Prepare for next entry------
-    return async function () {
-      if (typeof snapshot !== 'undefined') {
-        // ------Check if user ended loop early------
-        if (snapshot.finished) {
-          // Check for and save orphaned data
-          if (psychoJS.experiment.isEntryEmpty()) {
-            psychoJS.experiment.nextEntry(snapshot);
-          }
-          scheduler.stop();
-        } else {
+async function WTPTaskLoopLoopEnd() {
+  // terminate loop
+  psychoJS.experiment.removeLoop(WTPTaskLoop);
+  // update the current loop from the ExperimentHandler
+  if (psychoJS.experiment._unfinishedLoops.length>0)
+    currentLoop = psychoJS.experiment._unfinishedLoops.at(-1);
+  else
+    currentLoop = psychoJS.experiment;  // so we use addData from the experiment
+  return Scheduler.Event.NEXT;
+}
+
+function WTPTaskLoopLoopEndIteration(scheduler, snapshot) {
+  // ------Prepare for next entry------
+  return async function () {
+    if (typeof snapshot !== 'undefined') {
+      // ------Check if user ended loop early------
+      if (snapshot.finished) {
+        // Check for and save orphaned data
+        if (psychoJS.experiment.isEntryEmpty()) {
           psychoJS.experiment.nextEntry(snapshot);
         }
-      return Scheduler.Event.NEXT;
+        scheduler.stop();
+      } else {
+        psychoJS.experiment.nextEntry(snapshot);
       }
-    };
-  }
-
-  async function startWTPloopLoopEnd() {
-    // terminate loop
-    psychoJS.experiment.removeLoop(startWTPloop);
-    // update the current loop from the ExperimentHandler
-    if (psychoJS.experiment._unfinishedLoops.length>0)
-      currentLoop = psychoJS.experiment._unfinishedLoops.at(-1);
-    else
-      currentLoop = psychoJS.experiment;  // so we use addData from the experiment
     return Scheduler.Event.NEXT;
-  }
+    }
+  };
+}
+
+async function startWTPloopLoopEnd() {
+  // terminate loop
+  psychoJS.experiment.removeLoop(startWTPloop);
+  // update the current loop from the ExperimentHandler
+  if (psychoJS.experiment._unfinishedLoops.length>0)
+    currentLoop = psychoJS.experiment._unfinishedLoops.at(-1);
+  else
+    currentLoop = psychoJS.experiment;  // so we use addData from the experiment
+  return Scheduler.Event.NEXT;
+}
 
 function startWTPloopLoopEndIteration(scheduler, snapshot) {
   // ------Prepare for next entry------
