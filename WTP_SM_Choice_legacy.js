@@ -1,4 +1,4 @@
-``/***************************** 
+/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -1126,18 +1126,18 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-  var Right_Exp;
-  var Left_Exp;
-  var leftmoney;
-  var rightmoney;
-  var startWTPloop;
-  var social_left;
-  var left;
-  var right;
-  var WTP_ITI;
-  var left_more_than_right;
-  var matching_prices;
-  var social_worthmore;
+  // var Right_Exp;
+  // var Left_Exp;
+  // var leftmoney;
+  // var rightmoney;
+  // var startWTPloop;
+  // var social_left;
+  // var left;
+  // var right;
+  // var WTP_ITI;
+  // var left_more_than_right;
+  // var matching_prices;
+  // var social_worthmore;
   function startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot) {
     return async function() {
       TrialHandler.fromSnapshot(snapshot); // update internal variables (.thisN etc) of the loop
