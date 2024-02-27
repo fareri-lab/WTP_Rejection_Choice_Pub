@@ -1163,14 +1163,14 @@ function startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot) {
       startWTPloopLoopScheduler.add(WTP_Instructions2RoutineBegin(snapshot));
       startWTPloopLoopScheduler.add(WTP_Instructions2RoutineEachFrame());
       startWTPloopLoopScheduler.add(WTP_Instructions2RoutineEnd(snapshot));
-      const WTPTaskLoopLoopScheduler = new Scheduler(psychoJS);
-      startWTPloopLoopScheduler.add(WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot));
-      startWTPloopLoopScheduler.add(WTPTaskLoopLoopScheduler);
-      startWTPloopLoopScheduler.add(WTPTaskLoopLoopEnd);
-      startWTPloopLoopScheduler.add(ContinueRoutineBegin(snapshot));
-      startWTPloopLoopScheduler.add(ContinueRoutineEachFrame());
-      startWTPloopLoopScheduler.add(ContinueRoutineEnd(snapshot));
-      startWTPloopLoopScheduler.add(startWTPloopLoopEndIteration(startWTPloopLoopScheduler, snapshot));
+      // const WTPTaskLoopLoopScheduler = new Scheduler(psychoJS);
+      // startWTPloopLoopScheduler.add(WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot));
+      // startWTPloopLoopScheduler.add(WTPTaskLoopLoopScheduler);
+      // startWTPloopLoopScheduler.add(WTPTaskLoopLoopEnd);
+      // startWTPloopLoopScheduler.add(ContinueRoutineBegin(snapshot));
+      // startWTPloopLoopScheduler.add(ContinueRoutineEachFrame());
+      // startWTPloopLoopScheduler.add(ContinueRoutineEnd(snapshot));
+      // startWTPloopLoopScheduler.add(startWTPloopLoopEndIteration(startWTPloopLoopScheduler, snapshot));
     }
     
     return Scheduler.Event.NEXT;
