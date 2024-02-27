@@ -1110,17 +1110,17 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
       entiretaskloopLoopScheduler.add(continuesharingRoutineBegin(snapshot));
       entiretaskloopLoopScheduler.add(continuesharingRoutineEachFrame());
       entiretaskloopLoopScheduler.add(continuesharingRoutineEnd(snapshot));
-      const startWTPloopLoopScheduler = new Scheduler(psychoJS);
-      entiretaskloopLoopScheduler.add(startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot));
-      entiretaskloopLoopScheduler.add(startWTPloopLoopScheduler);
-      entiretaskloopLoopScheduler.add(startWTPloopLoopEnd);
-      entiretaskloopLoopScheduler.add(SalienceRatingRoutineBegin(snapshot));
-      entiretaskloopLoopScheduler.add(SalienceRatingRoutineEachFrame());
-      entiretaskloopLoopScheduler.add(SalienceRatingRoutineEnd(snapshot));
-      entiretaskloopLoopScheduler.add(StressLevelRoutineBegin(snapshot));
-      entiretaskloopLoopScheduler.add(StressLevelRoutineEachFrame());
-      entiretaskloopLoopScheduler.add(StressLevelRoutineEnd(snapshot));
-      entiretaskloopLoopScheduler.add(entiretaskloopLoopEndIteration(entiretaskloopLoopScheduler, snapshot));
+      // const startWTPloopLoopScheduler = new Scheduler(psychoJS);
+      // entiretaskloopLoopScheduler.add(startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot));
+      // entiretaskloopLoopScheduler.add(startWTPloopLoopScheduler);
+      // entiretaskloopLoopScheduler.add(startWTPloopLoopEnd);
+      // entiretaskloopLoopScheduler.add(SalienceRatingRoutineBegin(snapshot));
+      // entiretaskloopLoopScheduler.add(SalienceRatingRoutineEachFrame());
+      // entiretaskloopLoopScheduler.add(SalienceRatingRoutineEnd(snapshot));
+      // entiretaskloopLoopScheduler.add(StressLevelRoutineBegin(snapshot));
+      // entiretaskloopLoopScheduler.add(StressLevelRoutineEachFrame());
+      // entiretaskloopLoopScheduler.add(StressLevelRoutineEnd(snapshot));
+      // entiretaskloopLoopScheduler.add(entiretaskloopLoopEndIteration(entiretaskloopLoopScheduler, snapshot));
     }
     
     return Scheduler.Event.NEXT;
@@ -1163,14 +1163,14 @@ function startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot) {
       startWTPloopLoopScheduler.add(WTP_Instructions2RoutineBegin(snapshot));
       startWTPloopLoopScheduler.add(WTP_Instructions2RoutineEachFrame());
       startWTPloopLoopScheduler.add(WTP_Instructions2RoutineEnd(snapshot));
-      // const WTPTaskLoopLoopScheduler = new Scheduler(psychoJS);
-      // startWTPloopLoopScheduler.add(WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot));
-      // startWTPloopLoopScheduler.add(WTPTaskLoopLoopScheduler);
-      // startWTPloopLoopScheduler.add(WTPTaskLoopLoopEnd);
-      // startWTPloopLoopScheduler.add(ContinueRoutineBegin(snapshot));
-      // startWTPloopLoopScheduler.add(ContinueRoutineEachFrame());
-      // startWTPloopLoopScheduler.add(ContinueRoutineEnd(snapshot));
-      // startWTPloopLoopScheduler.add(startWTPloopLoopEndIteration(startWTPloopLoopScheduler, snapshot));
+      const WTPTaskLoopLoopScheduler = new Scheduler(psychoJS);
+      startWTPloopLoopScheduler.add(WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot));
+      startWTPloopLoopScheduler.add(WTPTaskLoopLoopScheduler);
+      startWTPloopLoopScheduler.add(WTPTaskLoopLoopEnd);
+      startWTPloopLoopScheduler.add(ContinueRoutineBegin(snapshot));
+      startWTPloopLoopScheduler.add(ContinueRoutineEachFrame());
+      startWTPloopLoopScheduler.add(ContinueRoutineEnd(snapshot));
+      startWTPloopLoopScheduler.add(startWTPloopLoopEndIteration(startWTPloopLoopScheduler, snapshot));
     }
     
     return Scheduler.Event.NEXT;
