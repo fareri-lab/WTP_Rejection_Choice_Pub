@@ -1,4 +1,4 @@
-/***************************** 
+``/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -593,7 +593,7 @@ async function experimentInit() {
     text: '',
     font: 'Open Sans',
     units: undefined, 
-    pos: [0.5, 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
+    pos: [(- 0.5), 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: 0.0 
@@ -605,7 +605,7 @@ async function experimentInit() {
     text: 'undefined',
     font: 'Open Sans',
     units: undefined, 
-    pos: [(- 0.5), 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
+    pos: [0.5, 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: -1.0 
@@ -2872,6 +2872,7 @@ function ITIRoutineEnd(snapshot) {
 var continueRoutine;
 var frameRemains;
 var t;
+var _Resume_keys_allKeys;
 function ContinueRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
