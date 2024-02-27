@@ -1114,13 +1114,14 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
       // entiretaskloopLoopScheduler.add(startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot));
       // entiretaskloopLoopScheduler.add(startWTPloopLoopScheduler);
       // entiretaskloopLoopScheduler.add(startWTPloopLoopEnd);
+      // 
       // entiretaskloopLoopScheduler.add(SalienceRatingRoutineBegin(snapshot));
       // entiretaskloopLoopScheduler.add(SalienceRatingRoutineEachFrame());
       // entiretaskloopLoopScheduler.add(SalienceRatingRoutineEnd(snapshot));
       // entiretaskloopLoopScheduler.add(StressLevelRoutineBegin(snapshot));
       // entiretaskloopLoopScheduler.add(StressLevelRoutineEachFrame());
       // entiretaskloopLoopScheduler.add(StressLevelRoutineEnd(snapshot));
-      // entiretaskloopLoopScheduler.add(entiretaskloopLoopEndIteration(entiretaskloopLoopScheduler, snapshot));
+      entiretaskloopLoopScheduler.add(entiretaskloopLoopEndIteration(entiretaskloopLoopScheduler, snapshot));
     }
     
     return Scheduler.Event.NEXT;
