@@ -259,7 +259,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('green'),  opacity: undefined,
+    color: new util.Color('red'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -1116,10 +1116,10 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
       entiretaskloopLoopScheduler.add(startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot));
       entiretaskloopLoopScheduler.add(startWTPloopLoopScheduler);
       entiretaskloopLoopScheduler.add(startWTPloopLoopEnd);
-      const WTPTaskLoopLoopScheduler = new Scheduler(psychoJS);
-      startWTPloopLoopScheduler.add(WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot));
-      startWTPloopLoopScheduler.add(WTPTaskLoopLoopScheduler);
-      startWTPloopLoopScheduler.add(WTPTaskLoopLoopEnd);
+      // const WTPTaskLoopLoopScheduler = new Scheduler(psychoJS);
+      // startWTPloopLoopScheduler.add(WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot));
+      // startWTPloopLoopScheduler.add(WTPTaskLoopLoopScheduler);
+      // startWTPloopLoopScheduler.add(WTPTaskLoopLoopEnd);
       startWTPloopLoopScheduler.add(ContinueRoutineBegin(snapshot));
       startWTPloopLoopScheduler.add(ContinueRoutineEachFrame());
       startWTPloopLoopScheduler.add(ContinueRoutineEnd(snapshot));
@@ -2875,6 +2875,7 @@ var continueRoutine;
 var frameRemains;
 var t;
 var _Resume_keys_allKeys;
+var ContinueComponents;
 function ContinueRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
