@@ -595,7 +595,7 @@ async function experimentInit() {
     text: '',
     font: 'Open Sans',
     units: undefined, 
-    pos: [(- 0.5), 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
+    pos: [(- 0.5), 0.1], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: 0.0 
@@ -607,7 +607,7 @@ async function experimentInit() {
     text: 'undefined',
     font: 'Open Sans',
     units: undefined, 
-    pos: [0.5, 0.1], height: 0.05,  wrapWidth: undefined, ori: 0.0,
+    pos: [0.5, 0.1], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: -1.0 
@@ -619,7 +619,7 @@ async function experimentInit() {
     text: '',
     font: 'Open Sans',
     units: undefined, 
-    pos: [0.5, (- 0.5)], height: 0.05,  wrapWidth: undefined, ori: 0.0,
+    pos: [0.5, (- 0.5)], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: -2.0 
@@ -631,7 +631,7 @@ async function experimentInit() {
     text: '',
     font: 'Open Sans',
     units: undefined, 
-    pos: [(- 0.5), (- 0.5)], height: 0.05,  wrapWidth: undefined, ori: 0.0,
+    pos: [(- 0.5), (- 0.5)], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: -3.0 
@@ -2601,9 +2601,9 @@ function WTPTaskRoutineBegin(snapshot) {
     Left_Experience.setText(left);
     Right_Experience.setColor(new util.Color('white'));
     Right_Experience.setText(right);
-    Left_Price.setText(leftmoney);
+    Left_Price.setText('$'+leftmoney);
     Right_Price.setColor(new util.Color('white'));
-    Right_Price.setText(rightmoney);
+    Right_Price.setText('$'+leftmoney);
     responses.keys = undefined;
     responses.rt = undefined;
     _responses_allKeys = [];
@@ -2717,9 +2717,11 @@ function WTPTaskRoutineEachFrame() {
     // Run 'Each Frame' code from responses_code
     if ((responses.keys === "1")) {
         Left_Experience.setColor("green");
+        Left_Price.setColor("green");
     } else {
         if ((responses.keys === "2")) {
             Right_Experience.setColor("green");
+            Right_Price.setColor("green");
         }
     }
     
@@ -2770,6 +2772,8 @@ function WTPTaskRoutineEnd(snapshot) {
     // Run 'End Routine' code from responses_code
     Left_Experience.setColor("white");
     Right_Experience.setColor("white");
+    Left_Price.setColor("white");
+    Right_Price.setColor("white");
     continueRoutine = false;
     
     // Routines running outside a loop should always advance the datafile row
