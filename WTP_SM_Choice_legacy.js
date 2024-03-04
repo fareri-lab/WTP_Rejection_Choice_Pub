@@ -248,6 +248,8 @@ var displaystressrating_text;
 
 async function experimentInit() {
   // Initialize components for Routine "Welcome_Screen"
+
+  //test changes by changing font color here
   Welcome_ScreenClock = new util.Clock();
   Welcome = new visual.TextStim({
     win: psychoJS.window,
@@ -257,7 +259,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('white'),  opacity: undefined,
+    color: new util.Color('green'),  opacity: undefined,
     depth: 0.0 
   });
   
