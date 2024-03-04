@@ -619,7 +619,7 @@ async function experimentInit() {
     text: '',
     font: 'Open Sans',
     units: undefined, 
-    pos: [0.5, (- 0.5)], height: 0.08,  wrapWidth: undefined, ori: 0.0,
+    pos: [-0.5, (- 0.5)], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: -2.0 
@@ -631,7 +631,7 @@ async function experimentInit() {
     text: '',
     font: 'Open Sans',
     units: undefined, 
-    pos: [(- 0.5), (- 0.5)], height: 0.08,  wrapWidth: undefined, ori: 0.0,
+    pos: [(0.5), (- 0.5)], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: -3.0 
