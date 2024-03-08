@@ -163,6 +163,7 @@ async function updateInfo() {
   
   return Scheduler.Event.NEXT;
 }
+var conditionalBlank;
 var globalClock;
 var Welcome_ScreenClock;
 var Welcome;
@@ -259,11 +260,23 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('cornflowerblue'),  opacity: undefined,
+    color: new util.Color('pink'),  opacity: undefined,
     depth: 0.0 
   });
   
   endwelcomescreen_keys = new core.Keyboard({psychoJS: psychoJS, clock: new util.Clock(), waitForStart: true});
+
+
+  conditionalBlank = new visual.TextStim({
+   win: psychoJS.window,
+   name: 'conditionalconditionalBlank',
+   text: '',
+   font: 'Arial',
+   pos: [0, 0], height: 0.1,  wrapWidth: undefined, ori: 0,
+   color: new util.Color('blue'),  opacity: 1,
+   depth: -6.0
+ });
+
   
   // Run 'Begin Experiment' code from spreadsheets
   partnermatch = "";
@@ -2582,6 +2595,7 @@ function WTPTaskRoutineBegin(snapshot) {
     
     //--- Prepare to start Routine 'WTPTask' ---
     t = 0;
+    conditionalBlank.setText('');
     WTPTaskClock.reset(); // clock
     frameN = -1;
     continueRoutine = true; // until we're told otherwise
@@ -2614,6 +2628,7 @@ function WTPTaskRoutineBegin(snapshot) {
     WTPTaskComponents.push(Left_Price);
     WTPTaskComponents.push(Right_Price);
     WTPTaskComponents.push(responses);
+    WTPTaskComponents.push(conditionalBlank);
     
     for (const thisComponent of WTPTaskComponents)
       if ('status' in thisComponent)
@@ -2726,6 +2741,26 @@ function WTPTaskRoutineEachFrame() {
             Right_Price.setColor("green");
         }
     }
+
+    
+    // *conditionalBlank* updates
+    if (responses.keys > 0 && conditionalBlank.status === PsychoJS.Status.NOT_STARTED) {
+      // keep track of start time/frame for later
+      conditionalBlank.tStart = t;  // (not accounting for frame time here)
+      conditionalBlank.frameNStart = frameN;  // exact frame index
+      conditionalBlank.setAutoDraw(true);
+    }
+
+    if (conditionalBlank.status === PsychoJS.Status.STARTED && t >= (conditionalBlank.tStart + 2.0)) {
+    conditionalBlank.setAutoDraw(false);
+    }
+
+  //   show the response for 2 seconds, then move on to next trial
+    if (conditionalBlank.status == PsychoJS.Status.FINISHED){
+    
+  
+       continueRoutine = false;
+     }
 
 
     
