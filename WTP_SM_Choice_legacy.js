@@ -259,7 +259,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('pink'),  opacity: undefined,
+    color: new util.Color('cornflowerblue'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -2725,10 +2725,6 @@ function WTPTaskRoutineEachFrame() {
             Right_Experience.setColor("green");
             Right_Price.setColor("green");
         }
-  setTimeout(() => {
-      console.log('Hello, World!');
-  }, 1000);
-  continueRoutine = false;
     }
 
 
@@ -2762,6 +2758,10 @@ function WTPTaskRoutineEachFrame() {
 function WTPTaskRoutineEnd(snapshot) {
   return async function () {
     //--- Ending Routine 'WTPTask' ---
+    setTimeout(() => {
+        console.log('Hello, World!');
+    }, 1000);
+    continueRoutine = false;
     for (const thisComponent of WTPTaskComponents) {
       if (typeof thisComponent.setAutoDraw === 'function') {
         thisComponent.setAutoDraw(false);
@@ -2782,7 +2782,7 @@ function WTPTaskRoutineEnd(snapshot) {
     Right_Experience.setColor("white");
     Left_Price.setColor("white");
     Right_Price.setColor("white");
-    continueRoutine = false;
+    
     
     // Routines running outside a loop should always advance the datafile row
     if (currentLoop === psychoJS.experiment) {
