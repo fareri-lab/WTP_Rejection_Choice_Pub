@@ -1,4 +1,4 @@
-``/***************************** 
+/***************************** 
  * Wtp_Sm_Choice_Legacy Test *
  *****************************/
 
@@ -259,7 +259,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('yellow'),  opacity: undefined,
+    color: new util.Color('pink'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -2718,10 +2718,19 @@ function WTPTaskRoutineEachFrame() {
     if ((responses.keys === "1")) {
         Left_Experience.setColor("green");
         Left_Price.setColor("green");
+        setTimeout(() => {
+            console.log('Hello, World!');
+        }, 1000);
+        continueRoutine = false;
+        
     } else {
         if ((responses.keys === "2")) {
             Right_Experience.setColor("green");
             Right_Price.setColor("green");
+            setTimeout(() => {
+                console.log('Hello, World!');
+            }, 1000);
+            continueRoutine = false;
         }
     }
     
