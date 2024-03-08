@@ -2718,21 +2718,19 @@ function WTPTaskRoutineEachFrame() {
     if ((responses.keys === "1")) {
         Left_Experience.setColor("green");
         Left_Price.setColor("green");
-        setTimeout(() => {
-            console.log('Hello, World!');
-        }, 1000);
-        continueRoutine = false;
+
         
     } else {
         if ((responses.keys === "2")) {
             Right_Experience.setColor("green");
             Right_Price.setColor("green");
-            setTimeout(() => {
-                console.log('Hello, World!');
-            }, 1000);
-            continueRoutine = false;
         }
     }
+
+    setTimeout(() => {
+        console.log('Hello, World!');
+    }, 1000);
+    continueRoutine = false;
     
     // check for quit (typically the Esc key)
     if (psychoJS.experiment.experimentEnded || psychoJS.eventManager.getKeys({keyList:['escape']}).length > 0) {
