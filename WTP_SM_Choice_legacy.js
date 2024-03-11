@@ -260,7 +260,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('pink'),  opacity: undefined,
+    color: new util.Color('yellow'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -282,7 +282,7 @@ async function experimentInit() {
   partnermatch = "";
   partneravatar = "";
   trialset = util.range(0, 5);
-  
+  console.log(trialset+5)
   // Initialize components for Routine "First_Instructions"
   First_InstructionsClock = new util.Clock();
   FirstInstructions = new visual.TextStim({
