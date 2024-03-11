@@ -282,7 +282,7 @@ async function experimentInit() {
   partnermatch = "";
   partneravatar = "";
   trialset = util.range(0, 5);
-  console.log(trialset+5)
+
   // Initialize components for Routine "First_Instructions"
   First_InstructionsClock = new util.Clock();
   FirstInstructions = new visual.TextStim({
@@ -1080,7 +1080,7 @@ function First_InstructionsRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+console.log(trialset+5)
 var trial_nums;
 var WTPloop;
 var WTP_trial;
