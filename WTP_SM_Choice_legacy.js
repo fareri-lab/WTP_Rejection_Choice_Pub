@@ -2312,15 +2312,7 @@ function continuesharingRoutineEnd(snapshot) {
     
     sharenextphoto_key.stop();
     // Run 'End Routine' code from hidecontinuesharingroutine_code
-    trialset = function () {
-        var _pj_a = [], _pj_b = trialset;
-        for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c < _pj_d); _pj_c += 1) {
-            var i = _pj_b[_pj_c];
-            _pj_a.push((i + 5));
-        }
-        return _pj_a;
-    }
-    .call(this);
+
     
     // the Routine "continuesharing" was not non-slip safe, so reset the non-slip timer
     routineTimer.reset();
@@ -2817,7 +2809,15 @@ function WTPTaskRoutineEnd(snapshot) {
     Right_Experience.setColor("white");
     Left_Price.setColor("white");
     Right_Price.setColor("white");
-    
+    trialset = function () {
+        var _pj_a = [], _pj_b = trialset;
+        for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c < _pj_d); _pj_c += 1) {
+            var i = _pj_b[_pj_c];
+            _pj_a.push((i + 5));
+        }
+        return _pj_a;
+    }
+    .call(this);
     
     // Routines running outside a loop should always advance the datafile row
     if (currentLoop === psychoJS.experiment) {
