@@ -260,7 +260,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('pink'),  opacity: undefined,
+    color: new util.Color('yellow'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -2785,9 +2785,16 @@ function WTPTaskRoutineEachFrame() {
 function WTPTaskRoutineEnd(snapshot) {
   return async function () {
     //--- Ending Routine 'WTPTask' ---
-    setTimeout(() => {
-        console.log('Hello, World!');
-    }, 1000);
+    trialset = function () {
+        var _pj_a = [], _pj_b = trialset;
+        for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c < _pj_d); _pj_c += 1) {
+            var i = _pj_b[_pj_c];
+            _pj_a.push((i + 5));
+        }
+        return _pj_a;
+    }
+    .call(this);
+    console.log(trialset)
     continueRoutine = false;
     for (const thisComponent of WTPTaskComponents) {
       if (typeof thisComponent.setAutoDraw === 'function') {
@@ -2809,15 +2816,7 @@ function WTPTaskRoutineEnd(snapshot) {
     Right_Experience.setColor("white");
     Left_Price.setColor("white");
     Right_Price.setColor("white");
-    trialset = function () {
-        var _pj_a = [], _pj_b = trialset;
-        for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c < _pj_d); _pj_c += 1) {
-            var i = _pj_b[_pj_c];
-            _pj_a.push((i + 5));
-        }
-        return _pj_a;
-    }
-    .call(this);
+
     
     // Routines running outside a loop should always advance the datafile row
     if (currentLoop === psychoJS.experiment) {
