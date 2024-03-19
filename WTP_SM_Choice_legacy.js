@@ -260,7 +260,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('green'),  opacity: undefined,
+    color: new util.Color('blue'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -1083,7 +1083,7 @@ function First_InstructionsRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-  console.log('2) ------------------------------------------------------')
+console.log('2) ------------------------------------------------------')
 console.log(trialset)
 var trial_nums;
 var WTPloop;
