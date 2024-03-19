@@ -282,6 +282,9 @@ async function experimentInit() {
   partnermatch = "";
   partneravatar = "";
   trialset = util.range(0, 5);
+  console.log('1) ------------------------------------------------------')
+  console.log(trialset)
+  
 
   // Initialize components for Routine "First_Instructions"
   First_InstructionsClock = new util.Clock();
@@ -1080,8 +1083,8 @@ function First_InstructionsRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-console.log('here')
-console.log(trialset+5)
+  console.log('2) ------------------------------------------------------')
+console.log(trialset)
 var trial_nums;
 var WTPloop;
 var WTP_trial;
@@ -2795,6 +2798,8 @@ function WTPTaskRoutineEnd(snapshot) {
         return _pj_a;
     }
     .call(this);
+
+    console.log('3) ----------------------------------------------------------------------')
     console.log(trialset)
     continueRoutine = false;
     for (const thisComponent of WTPTaskComponents) {
