@@ -260,7 +260,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('pink'),  opacity: undefined,
+    color: new util.Color('yellow'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -2313,15 +2313,7 @@ function continuesharingRoutineEnd(snapshot) {
         psychoJS.experiment.addData('sharenextphoto_key.rt', sharenextphoto_key.rt);
         routineTimer.reset();
         }
-    trialset = function () {
-        var _pj_a = [], _pj_b = trialset;
-        for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c < _pj_d); _pj_c += 1) {
-            var i = _pj_b[_pj_c];
-            _pj_a.push((i + 5));
-        }
-        return _pj_a;
-    }
-    .call(this);
+  
     
     sharenextphoto_key.stop();
     // Run 'End Routine' code from hidecontinuesharingroutine_code
@@ -2944,7 +2936,15 @@ function ContinueRoutineBegin(snapshot) {
         continueRoutine = false;
     }
     resumetext = "Press space to resume sharing your photos.";
-    
+    trialset = function () {
+        var _pj_a = [], _pj_b = trialset;
+        for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c < _pj_d); _pj_c += 1) {
+            var i = _pj_b[_pj_c];
+            _pj_a.push((i + 5));
+        }
+        return _pj_a;
+    }
+    .call(this);
     Resume_keys.keys = undefined;
     Resume_keys.rt = undefined;
     _Resume_keys_allKeys = [];
