@@ -2313,6 +2313,15 @@ function continuesharingRoutineEnd(snapshot) {
         psychoJS.experiment.addData('sharenextphoto_key.rt', sharenextphoto_key.rt);
         routineTimer.reset();
         }
+    trialset = function () {
+        var _pj_a = [], _pj_b = trialset;
+        for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c < _pj_d); _pj_c += 1) {
+            var i = _pj_b[_pj_c];
+            _pj_a.push((i + 5));
+        }
+        return _pj_a;
+    }
+    .call(this);
     
     sharenextphoto_key.stop();
     // Run 'End Routine' code from hidecontinuesharingroutine_code
@@ -2789,15 +2798,7 @@ function WTPTaskRoutineEachFrame() {
 function WTPTaskRoutineEnd(snapshot) {
   return async function () {
     //--- Ending Routine 'WTPTask' ---
-    trialset = function () {
-        var _pj_a = [], _pj_b = trialset;
-        for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c < _pj_d); _pj_c += 1) {
-            var i = _pj_b[_pj_c];
-            _pj_a.push((i + 5));
-        }
-        return _pj_a;
-    }
-    .call(this);
+    // original placement of trialset re-numbering
 
     console.log('3) ----------------------------------------------------------------------')
     console.log(trialset)
