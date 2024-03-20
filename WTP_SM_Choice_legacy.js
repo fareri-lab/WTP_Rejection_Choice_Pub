@@ -260,7 +260,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('yellow'),  opacity: undefined,
+    color: new util.Color('blue'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -1141,12 +1141,12 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
       entiretaskloopLoopScheduler.add(ContinueRoutineEachFrame());
       entiretaskloopLoopScheduler.add(ContinueRoutineEnd(snapshot));
       entiretaskloopLoopScheduler.add(startWTPloopLoopEndIteration(startWTPloopLoopScheduler, snapshot));
-      entiretaskloopLoopScheduler.add(SalienceRatingRoutineBegin(snapshot));
-      entiretaskloopLoopScheduler.add(SalienceRatingRoutineEachFrame());
-      entiretaskloopLoopScheduler.add(SalienceRatingRoutineEnd(snapshot));
-      entiretaskloopLoopScheduler.add(StressLevelRoutineBegin(snapshot));
-      entiretaskloopLoopScheduler.add(StressLevelRoutineEachFrame());
-      entiretaskloopLoopScheduler.add(StressLevelRoutineEnd(snapshot));
+      // entiretaskloopLoopScheduler.add(SalienceRatingRoutineBegin(snapshot));
+      // entiretaskloopLoopScheduler.add(SalienceRatingRoutineEachFrame());
+      // entiretaskloopLoopScheduler.add(SalienceRatingRoutineEnd(snapshot));
+      // entiretaskloopLoopScheduler.add(StressLevelRoutineBegin(snapshot));
+      // entiretaskloopLoopScheduler.add(StressLevelRoutineEachFrame());
+      // entiretaskloopLoopScheduler.add(StressLevelRoutineEnd(snapshot));
       entiretaskloopLoopScheduler.add(entiretaskloopLoopEndIteration(entiretaskloopLoopScheduler, snapshot));
     }
     
