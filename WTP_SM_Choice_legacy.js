@@ -1142,12 +1142,7 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
       // entiretaskloopLoopScheduler.add(ContinueRoutineEachFrame());
       // entiretaskloopLoopScheduler.add(ContinueRoutineEnd(snapshot));
       // entiretaskloopLoopScheduler.add(startWTPloopLoopEndIteration(startWTPloopLoopScheduler, snapshot));
-      entiretaskloopLoopScheduler.add(SalienceRatingRoutineBegin(snapshot));
-      entiretaskloopLoopScheduler.add(SalienceRatingRoutineEachFrame());
-      entiretaskloopLoopScheduler.add(SalienceRatingRoutineEnd(snapshot));
-      entiretaskloopLoopScheduler.add(StressLevelRoutineBegin(snapshot));
-      entiretaskloopLoopScheduler.add(StressLevelRoutineEachFrame());
-      entiretaskloopLoopScheduler.add(StressLevelRoutineEnd(snapshot));
+  
       entiretaskloopLoopScheduler.add(entiretaskloopLoopEndIteration(entiretaskloopLoopScheduler, snapshot));
     }
     
@@ -3073,9 +3068,15 @@ function SalienceRatingRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     // update component parameters for each repeat
     // Run 'Begin Routine' code from saliencyrating_code
-    if ((! ((TrialNumber % 30) === 0))) {
+    const trials = [30,60,90,120,150]
+
+      if (trials.includes(TrialNumber) == true) {
+        continueRoutine = true;
+
+      } else {
         continueRoutine = false;
-    }
+      }
+
     salienceratingtext = `How likely are you to share photos with ${Partner} in the future?
     
     Use your left and right arrows to move the arrow to your desired rating.`
@@ -3284,9 +3285,15 @@ function StressLevelRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     // update component parameters for each repeat
     // Run 'Begin Routine' code from stresslevelslider
-    if ((! ((TrialNumber % 30) === 0))) {
-        continueRoutine = false;
-    }
+    const trials = [30,60,90,120,150]
+
+        if (trials.includes(TrialNumber) == true) {
+          continueRoutine = true;
+
+        } else {
+          continueRoutine = false;
+        }
+
     stressleveltext = `Please rate your current stress level.
     
     
