@@ -1142,12 +1142,12 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
       // entiretaskloopLoopScheduler.add(ContinueRoutineEachFrame());
       // entiretaskloopLoopScheduler.add(ContinueRoutineEnd(snapshot));
       // entiretaskloopLoopScheduler.add(startWTPloopLoopEndIteration(startWTPloopLoopScheduler, snapshot));
-      // entiretaskloopLoopScheduler.add(SalienceRatingRoutineBegin(snapshot));
-      // entiretaskloopLoopScheduler.add(SalienceRatingRoutineEachFrame());
-      // entiretaskloopLoopScheduler.add(SalienceRatingRoutineEnd(snapshot));
-      // entiretaskloopLoopScheduler.add(StressLevelRoutineBegin(snapshot));
-      // entiretaskloopLoopScheduler.add(StressLevelRoutineEachFrame());
-      // entiretaskloopLoopScheduler.add(StressLevelRoutineEnd(snapshot));
+      entiretaskloopLoopScheduler.add(SalienceRatingRoutineBegin(snapshot));
+      entiretaskloopLoopScheduler.add(SalienceRatingRoutineEachFrame());
+      entiretaskloopLoopScheduler.add(SalienceRatingRoutineEnd(snapshot));
+      entiretaskloopLoopScheduler.add(StressLevelRoutineBegin(snapshot));
+      entiretaskloopLoopScheduler.add(StressLevelRoutineEachFrame());
+      entiretaskloopLoopScheduler.add(StressLevelRoutineEnd(snapshot));
       entiretaskloopLoopScheduler.add(entiretaskloopLoopEndIteration(entiretaskloopLoopScheduler, snapshot));
     }
     
