@@ -261,7 +261,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('pink'),  opacity: undefined,
+    color: new util.Color('yellow'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -2916,14 +2916,17 @@ function ContinueRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     // update component parameters for each repeat
     // Run 'Begin Routine' code from code
+    console.log(TrialNumber)
     const trials = [30,60,90,120,150]
     
         if (trials.includes(TrialNumber) == true) {
-          continueRoutine = false;
-
-        } else {
           continueRoutine = true;
+          console.log('ok')
+        } else {
+          continueRoutine = false;
+          console.log('nope')
         }
+
     resumetext = "Press space to resume sharing your photos.";
     trialset = function () {
         var _pj_a = [], _pj_b = trialset;
@@ -3046,14 +3049,14 @@ function ContinueRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-console.log(TrialNumber)
+
 var _key_resp_allKeys;
 var key_resp_allKeys;
 var SalienceRatingComponents;
 function SalienceRatingRoutineBegin(snapshot) {
   return async function () {
     TrialHandler.fromSnapshot(snapshot); // ensure that .thisN vals are up to date
-    
+
     //--- Prepare to start Routine 'SalienceRating' ---
     t = 0;
     SalienceRatingClock.reset(); // clock
@@ -3061,14 +3064,17 @@ function SalienceRatingRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     // update component parameters for each repeat
     // Run 'Begin Routine' code from saliencyrating_code
+    console.log(TrialNumber)
     const trials = [30,60,90,120,150]
+    
+        if (trials.includes(TrialNumber) == true) {
+          continueRoutine = true;
+          console.log('ok')
+        } else {
+          continueRoutine = false;
+          console.log('nope')
+        }
 
-      if (trials.includes(TrialNumber) == true) {
-        continueRoutine = true;
-
-      } else {
-        continueRoutine = false;
-      }
 
     salienceratingtext = `How likely are you to share photos with ${Partner} in the future?
     
