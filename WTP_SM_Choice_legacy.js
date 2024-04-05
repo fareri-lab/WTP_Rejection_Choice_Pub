@@ -261,7 +261,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('green'),  opacity: undefined,
+    color: new util.Color('pink'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -3263,7 +3263,7 @@ function SalienceRatingRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-console.log(TrialNumber)
+
 var _stresslevel_keypress_allKeys;
 var stresslevel_keypress_allKeys;
 var StressLevelComponents;
@@ -3278,13 +3278,15 @@ function StressLevelRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     // update component parameters for each repeat
     // Run 'Begin Routine' code from stresslevelslider
+    console.log(TrialNumber)
     const trials = [30,60,90,120,150]
     
         if (trials.includes(TrialNumber) == true) {
           continueRoutine = true;
-
+          console.log('ok')
         } else {
           continueRoutine = false;
+          console.log('nope')
         }
 
     stressleveltext = `Please rate your current stress level.
