@@ -261,7 +261,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('cornflowerblue'),  opacity: undefined,
+    color: new util.Color('green'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -283,8 +283,7 @@ async function experimentInit() {
   partnermatch = "";
   partneravatar = "";
   trialset = util.range(0, 5);
-  console.log('1) ------------------------------------------------------')
-  console.log(trialset)
+
   
 
   // Initialize components for Routine "First_Instructions"
@@ -1084,8 +1083,7 @@ function First_InstructionsRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-console.log('2) ------------------------------------------------------')
-console.log(trialset)
+
 var trial_nums;
 var WTPloop;
 var WTP_trial;
@@ -2594,16 +2592,7 @@ function WTPTaskRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     routineTimer.add(10.000000);
     // update component parameters for each repeat
-    console.log(social_left);
-    console.log(left);
-    console.log(right);
-    console.log(WTP_ITI);
-    console.log(leftmoney);
-    console.log(rightmoney);
-    console.log(greenText);
-    console.log(left_more_than_right);
-    console.log(matching_prices);
-    console.log(social_worthmore);
+
     Left_Experience.setColor(new util.Color('white'));
     Left_Experience.setText(left);
     Right_Experience.setColor(new util.Color('white'));
@@ -2788,8 +2777,7 @@ function WTPTaskRoutineEnd(snapshot) {
     //--- Ending Routine 'WTPTask' ---
     // original placement of trialset re-numbering
 
-    console.log('3) ----------------------------------------------------------------------')
-    console.log(trialset)
+  
     continueRoutine = false;
     for (const thisComponent of WTPTaskComponents) {
       if (typeof thisComponent.setAutoDraw === 'function') {
@@ -2928,9 +2916,14 @@ function ContinueRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     // update component parameters for each repeat
     // Run 'Begin Routine' code from code
-    if (((TrialNumber % 30) === 0)) {
-        continueRoutine = false;
-    }
+    const trials = [30,60,90,120,150]
+    
+        if (trials.includes(TrialNumber) == true) {
+          continueRoutine = false;
+
+        } else {
+          continueRoutine = true;
+        }
     resumetext = "Press space to resume sharing your photos.";
     trialset = function () {
         var _pj_a = [], _pj_b = trialset;
@@ -3053,7 +3046,7 @@ function ContinueRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+console.log(TrialNumber)
 var _key_resp_allKeys;
 var key_resp_allKeys;
 var SalienceRatingComponents;
@@ -3270,7 +3263,7 @@ function SalienceRatingRoutineEnd(snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-
+console.log(TrialNumber)
 var _stresslevel_keypress_allKeys;
 var stresslevel_keypress_allKeys;
 var StressLevelComponents;
@@ -3286,7 +3279,7 @@ function StressLevelRoutineBegin(snapshot) {
     // update component parameters for each repeat
     // Run 'Begin Routine' code from stresslevelslider
     const trials = [30,60,90,120,150]
-
+    
         if (trials.includes(TrialNumber) == true) {
           continueRoutine = true;
 
