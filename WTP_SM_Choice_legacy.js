@@ -261,7 +261,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('yellow'),  opacity: undefined,
+    color: new util.Color('blue'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -1132,22 +1132,12 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
       entiretaskloopLoopScheduler.add(startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot));
       entiretaskloopLoopScheduler.add(startWTPloopLoopScheduler);
       entiretaskloopLoopScheduler.add(startWTPloopLoopEnd);
-      // const WTPTaskLoopLoopScheduler = new Scheduler(psychoJS);
-      // entiretaskloopLoopScheduler.add(WTPTaskLoopLoopBegin(WTPTaskLoopLoopScheduler, snapshot));
-      // entiretaskloopLoopScheduler.add(WTPTaskLoopLoopScheduler);
-      // entiretaskloopLoopScheduler.add(WTPTaskLoopLoopEnd);
-      // entiretaskloopLoopScheduler.add(ContinueRoutineBegin(snapshot));
-      // entiretaskloopLoopScheduler.add(ContinueRoutineEachFrame());
-      // entiretaskloopLoopScheduler.add(ContinueRoutineEnd(snapshot));
-      // entiretaskloopLoopScheduler.add(startWTPloopLoopEndIteration(startWTPloopLoopScheduler, snapshot));
-      const entiretaskloopLoopScheduler = new Scheduler(psychoJS);
       entiretaskloopLoopScheduler.add(SalienceRatingRoutineBegin(snapshot));
       entiretaskloopLoopScheduler.add(SalienceRatingRoutineEachFrame());
       entiretaskloopLoopScheduler.add(SalienceRatingRoutineEnd(snapshot));
       entiretaskloopLoopScheduler.add(StressLevelRoutineBegin(snapshot));
       entiretaskloopLoopScheduler.add(StressLevelRoutineEachFrame());
       entiretaskloopLoopScheduler.add(StressLevelRoutineEnd(snapshot));
-
       entiretaskloopLoopScheduler.add(entiretaskloopLoopEndIteration(entiretaskloopLoopScheduler, snapshot));
     }
     
@@ -3071,16 +3061,23 @@ function SalienceRatingRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     // update component parameters for each repeat
     // Run 'Begin Routine' code from saliencyrating_code
-    console.log(TrialNumber)
-    const trials = [30,60,90,120,150]
+    var _pj;
+    _pj = {};
+    _pj_snippets(_pj);
+    if ((! _pj.in_es6(TrialNumber, [30,60,90,120,150]))) {
+        continueRoutine = false;
+    }
     
-        if (trials.includes(TrialNumber) == true) {
-          continueRoutine = true;
-          console.log('ok')
-        } else {
-          continueRoutine = false;
-          console.log('nope')
-        }
+    // console.log(TrialNumber)
+    // const trials = [30,60,90,120,150]
+    // 
+    //     if (trials.includes(TrialNumber) == true) {
+    //       continueRoutine = true;
+    //       console.log('ok')
+    //     } else {
+    //       continueRoutine = false;
+    //       console.log('nope')
+    //     }
 
 
     salienceratingtext = `How likely are you to share photos with ${Partner} in the future?
@@ -3291,17 +3288,23 @@ function StressLevelRoutineBegin(snapshot) {
     continueRoutine = true; // until we're told otherwise
     // update component parameters for each repeat
     // Run 'Begin Routine' code from stresslevelslider
-    console.log(TrialNumber)
-    console.log(trials.includes(TrialNumber))
-    const trials = [30,60,90,120,150]
-    
-        if (trials.includes(TrialNumber) == true) {
-          continueRoutine = true;
-          console.log('ok')
-        } else {
-          continueRoutine = false;
-          console.log('nope')
-        }
+    var _pj;
+    _pj = {};
+    _pj_snippets(_pj);
+    if ((! _pj.in_es6(TrialNumber, [30,60,90,120,150]))) {
+        continueRoutine = false;
+    }
+    // console.log(TrialNumber)
+    // console.log(trials.includes(TrialNumber))
+    // const trials = [30,60,90,120,150]
+    // 
+    //     if (trials.includes(TrialNumber) == true) {
+    //       continueRoutine = true;
+    //       console.log('ok')
+    //     } else {
+    //       continueRoutine = false;
+    //       console.log('nope')
+    //     }
 
     stressleveltext = `Please rate your current stress level.
     
