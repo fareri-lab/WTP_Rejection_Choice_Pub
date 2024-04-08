@@ -175,6 +175,7 @@ var endwelcomescreen_keys;
 var partnermatch;
 var partneravatar;
 var trialset;
+
 var First_InstructionsClock;
 var First_Instructions;
 var endinstructionscreen_keys;
@@ -232,6 +233,9 @@ var ContinueClock;
 var resumetext;
 var Resume_keys;
 var Resume_Text;
+// salience slider
+var userMouse;
+var mouseClock;
 var SalienceRatingClock;
 var salience_slider;
 var saliencequestion_text;
@@ -240,6 +244,9 @@ var salienceavatar_image;
 var saliencecontinue_text;
 var Salience_Button;
 var displayrating_text;
+// salience slider
+var userMouse;
+var mouseClock;
 var StressLevelClock;
 var stress_slider;
 var stresslevel_text;
@@ -263,7 +270,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('green'),  opacity: undefined,
+    color: new util.Color('red'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -689,7 +696,12 @@ async function experimentInit() {
     color: new util.Color('white'),  opacity: undefined,
     depth: -2.0 
   });
-  
+
+  mouseClock =  new util.Clock();
+  userMouse = new core.Mouse({
+    win: psychoJS.window,
+    name: 'userMouse',
+  });
   // Initialize components for Routine "SalienceRating"
   SalienceRatingClock = new util.Clock();
   // Run 'Begin Experiment' code from saliencyrating_code
@@ -742,13 +754,15 @@ async function experimentInit() {
   saliencecontinue_text = new visual.TextStim({
     win: psychoJS.window,
     name: 'saliencecontinue_text',
-    text: 'Press space to enter rating and continue.',
+    text: 'To continue, click the square when your desired rating appears',
     font: 'Open Sans',
-    units: undefined, 
-    pos: [0, (- 0.8)], height: 0.07,  wrapWidth: undefined, ori: 0.0,
+    units: undefined,
+    pos: [0, (- 0.8)], //[0, (- 0.8)]
+    height: 0.045, //0.07
+     wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
-    depth: -4.0 
+    depth: -4.0
   });
 
   Salience_Button = new visual.Rect ({
@@ -771,6 +785,8 @@ async function experimentInit() {
     color: new util.Color('white'),  opacity: undefined,
     depth: -5.0 
   });
+
+  
   Stress_Button = new visual.Rect ({
      win: psychoJS.window, name: 'polygon',
      width: [0.25, 0.25][0], height: [0.25, 0.25][1],
@@ -783,7 +799,19 @@ async function experimentInit() {
   // Initialize components for Routine "StressLevel"
   StressLevelClock = new util.Clock();
   // Run 'Begin Experiment' code from stresslevelslider
-  
+  stresscontinue_text = new visual.TextStim({
+    win: psychoJS.window,
+    name: 'stresscontinue_text',
+    text: 'To continue, click the square when your desired rating appears',
+    font: 'Open Sans',
+    units: undefined,
+    pos: [0, (- 0.8)], //[0, (- 0.8)]
+    height: 0.045, //0.07
+     wrapWidth: undefined, ori: 0.0,
+    languageStyle: 'LTR',
+    color: new util.Color('white'),  opacity: undefined,
+    depth: -4.0
+  });
   stresslevel_text = new visual.TextStim({
     win: psychoJS.window,
     name: 'stresslevel_text',
