@@ -252,6 +252,8 @@ var stress_slider;
 var stresslevel_text;
 var stresslevel_keypress;
 var Stress_Button;
+var stresscontinue_text;
+
 var displaystressrating_text;
 
 
@@ -270,7 +272,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('red'),  opacity: undefined,
+    color: new util.Color('teal'),  opacity: undefined,
     depth: 0.0 
   });
   
