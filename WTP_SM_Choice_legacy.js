@@ -3058,15 +3058,18 @@ function SalienceRatingRoutineBegin(snapshot) {
     t = 0;
     SalienceRatingClock.reset(); // clock
     frameN = -1;
-    continueRoutine = true; // until we're told otherwise
+    //continueRoutine = true; // until we're told otherwise
+
+    const trials = [30,60,90,120,150]
+
+    if (trials.includes(TrialNumber) == true) {
+      continueRoutine = true;
+
+    } else {
+      continueRoutine = false;
+    }
     // update component parameters for each repeat
     // Run 'Begin Routine' code from saliencyrating_code
-    var _pj;
-    _pj = {};
-    _pj_snippets(_pj);
-    if ((! _pj.in_es6(TrialNumber, [30,60,90,120,150]))) {
-        continueRoutine = false;
-    }
     
     // console.log(TrialNumber)
     // const trials = [30,60,90,120,150]
@@ -3078,7 +3081,7 @@ function SalienceRatingRoutineBegin(snapshot) {
     //       continueRoutine = false;
     //       console.log('nope')
     //     }
-
+  
 
     salienceratingtext = `How likely are you to share photos with ${Partner} in the future?
     
@@ -3285,7 +3288,15 @@ function StressLevelRoutineBegin(snapshot) {
     t = 0;
     StressLevelClock.reset(); // clock
     frameN = -1;
-    continueRoutine = true; // until we're told otherwise
+//    continueRoutine = true; // until we're told otherwise
+    const trials = [30,60,90,120,150]
+
+    if (trials.includes(TrialNumber) == true) {
+      continueRoutine = true;
+
+    } else {
+      continueRoutine = false;
+    }
     // update component parameters for each repeat
     // Run 'Begin Routine' code from stresslevelslider
     var _pj;
