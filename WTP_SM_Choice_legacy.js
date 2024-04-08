@@ -238,11 +238,13 @@ var saliencequestion_text;
 var key_resp;
 var salienceavatar_image;
 var saliencecontinue_text;
+var Salience_Button;
 var displayrating_text;
 var StressLevelClock;
 var stress_slider;
 var stresslevel_text;
 var stresslevel_keypress;
+var Stress_Button;
 var displaystressrating_text;
 
 
@@ -261,7 +263,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('magenta'),  opacity: undefined,
+    color: new util.Color('green'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -748,7 +750,16 @@ async function experimentInit() {
     color: new util.Color('white'),  opacity: undefined,
     depth: -4.0 
   });
-  
+
+  Salience_Button = new visual.Rect ({
+   win: psychoJS.window, name: 'polygon',
+   width: [0.25, 0.25][0], height: [0.25, 0.25][1],
+   ori: 0, pos: [0, (- 0.6)],
+   lineWidth: 1, lineColor: new util.Color('white'),
+   fillColor: undefined,
+   opacity: 1, depth: -1, interpolate: true,
+ });
+ 
   displayrating_text = new visual.TextStim({
     win: psychoJS.window,
     name: 'displayrating_text',
@@ -760,6 +771,14 @@ async function experimentInit() {
     color: new util.Color('white'),  opacity: undefined,
     depth: -5.0 
   });
+  Stress_Button = new visual.Rect ({
+     win: psychoJS.window, name: 'polygon',
+     width: [0.25, 0.25][0], height: [0.25, 0.25][1],
+     ori: 0, pos: [0, (- 0.6)],
+     lineWidth: 1, lineColor: new util.Color('white'),
+     fillColor: undefined,
+     opacity: 1, depth: -1, interpolate: true,
+   });
   
   // Initialize components for Routine "StressLevel"
   StressLevelClock = new util.Clock();
@@ -3047,7 +3066,14 @@ function ContinueRoutineEnd(snapshot) {
   }
 }
 
+var salienceratingtext;
 var _key_resp_allKeys;
+var SalienceRatingComponents;
+var continueRoutine;
+var salience_slider;
+var SalienceRatingClock;
+var mouserec;
+var prevButtonState;
 var key_resp_allKeys;
 var SalienceRatingComponents;
 function SalienceRatingRoutineBegin(snapshot) {
@@ -3096,6 +3122,19 @@ function SalienceRatingRoutineBegin(snapshot) {
     _key_resp_allKeys = [];
     salienceavatar_image.setImage(partneravatar);
     displayrating_text.setText(rating_forsalience);
+    userMouse.clickReset();
+    mouseClock.reset()
+    mouserec = userMouse.getPos();
+    userMouse.x = [];
+    userMouse.y = [];
+    userMouse.leftButton = [];
+    userMouse.midButton = [];
+    userMouse.rightButton = [];
+    userMouse.time=[];
+    prevButtonState = userMouse.getPressed();
+    salience_slider.reset();
+    displayrating_text.setText('Click line');
+    
     // keep track of which components have finished
     SalienceRatingComponents = [];
     SalienceRatingComponents.push(saliencequestion_text);
@@ -3103,6 +3142,9 @@ function SalienceRatingRoutineBegin(snapshot) {
     SalienceRatingComponents.push(salienceavatar_image);
     SalienceRatingComponents.push(saliencecontinue_text);
     SalienceRatingComponents.push(displayrating_text);
+    SalienceRatingComponents.push(salience_slider);
+    SalienceRatingComponents.push(SalienceRatingClock);
+    SalienceRatingComponents.push(Salience_Button);
     
     for (const thisComponent of SalienceRatingComponents)
       if ('status' in thisComponent)
@@ -3111,6 +3153,13 @@ function SalienceRatingRoutineBegin(snapshot) {
   }
 }
 var keys;
+var rating_forsalience;
+var salience_ratingvalue;
+var gotValidClick;
+var marker_pos;
+var ratingvalue;
+var buttonpress;
+var finalmouseRT;
 function SalienceRatingRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'SalienceRating' ---
@@ -3119,42 +3168,49 @@ function SalienceRatingRoutineEachFrame() {
     frameN = frameN + 1;// number of completed frames (so 0 is the first frame)
     // update/draw components on each frame
     // Run 'Each Frame' code from saliencyrating_code
-    var _pj;
-    function _pj_snippets(container) {
-        function in_es6(left, right) {
-            if (((right instanceof Array) || ((typeof right) === "string"))) {
-                return (right.indexOf(left) > (- 1));
-            } else {
-                if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {
-                    return right.has(left);
-                } else {
-                    return (left in right);
-                }
-            }
-        }
-        container["in_es6"] = in_es6;
-        return container;
-    }
-    _pj = {};
-    _pj_snippets(_pj);
-    salience_slider.draw();
-    keys = psychoJS.eventManager.getKeys();
-    displayrating_text.setText(Math.round(salience_slider.getMarkerPos(), 1));
-    if (keys.length) {
-        if (_pj.in_es6("left", keys)) {
-            salience_slider.markerPos = (salience_slider.markerPos - 0.1);
-            rating_forsalience = salience_slider.getRating();
-            displayrating_text.setText(Math.round(salience_slider.getMarkerPos(), 1));
-        } else {
-            if (_pj.in_es6("right", keys)) {
-                salience_slider.markerPos = (salience_slider.markerPos + 0.1);
-                rating_forsalience = salience_slider.getRating();
-                displayrating_text.setText(Math.round(salience_slider.getMarkerPos(), 1));
-            }
-        }
-    }
-    
-    
+    // var _pj;
+    // function _pj_snippets(container) {
+    //     function in_es6(left, right) {
+    //         if (((right instanceof Array) || ((typeof right) === "string"))) {
+    //             return (right.indexOf(left) > (- 1));
+    //         } else {
+    //             if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {
+    //                 return right.has(left);
+    //             } else {
+    //                 return (left in right);
+    //             }
+    //         }
+    //     }
+    //     container["in_es6"] = in_es6;
+    //     return container;
+    // }
+    // _pj = {};
+    // _pj_snippets(_pj);
+    // salience_slider.draw();
+    // keys = psychoJS.eventManager.getKeys();
+    // displayrating_text.setText(Math.round(salience_slider.getMarkerPos(), 1));
+    // if (keys.length) {
+    //     if (_pj.in_es6("left", keys)) {
+    //         salience_slider.markerPos = (salience_slider.markerPos - 0.1);
+    //         rating_forsalience = salience_slider.getRating();
+    //         displayrating_text.setText(Math.round(salience_slider.getMarkerPos(), 1));
+    //     } else {
+    //         if (_pj.in_es6("right", keys)) {
+    //             salience_slider.markerPos = (salience_slider.markerPos + 0.1);
+    //             rating_forsalience = salience_slider.getRating();
+    //             displayrating_text.setText(Math.round(salience_slider.getMarkerPos(), 1));
+    //         }
+    //     }
+    // }
+    // 
+    // 
+    let buttonpress = userMouse.getPressed(); // read mouse state
+      const xys = userMouse.getPos();
+      userMouse.x.push(xys[0]); // add mouse coordinates to x/y list, in principle for data storage, but not implemented right now
+      userMouse.y.push(xys[1]);
+      userMouse.leftButton.push(buttonpress[0]); // store buttons in button list, likewise for storage
+      userMouse.midButton.push(buttonpress[1]);
+      userMouse.rightButton.push(buttonpress[2]);
     // *saliencequestion_text* updates
     if (t >= 0.0 && saliencequestion_text.status === PsychoJS.Status.NOT_STARTED) {
       // keep track of start time/frame for later
@@ -3206,6 +3262,9 @@ function SalienceRatingRoutineEachFrame() {
       saliencecontinue_text.frameNStart = frameN;  // exact frame index
       
       saliencecontinue_text.setAutoDraw(true);
+      Salience_Button.setAutoDraw(true);
+      displayrating_text.setText('Click line');
+      displayrating_text.setAutoDraw(true);
     }
 
     
@@ -3217,7 +3276,89 @@ function SalienceRatingRoutineEachFrame() {
       
       displayrating_text.setAutoDraw(true);
     }
+    
+    // // *salience_slider* updates
+    if (t >= 0.0 && salience_slider.status === PsychoJS.Status.NOT_STARTED) {
+      // keep track of start time/frame for later
+      salience_slider.tStart = t;  // (not accounting for frame time here)
+      salience_slider.frameNStart = frameN;  // exact frame index
 
+      salience_slider.setAutoDraw(true);
+    }
+
+    var _pj;
+      function _pj_snippets(container) {
+          function in_es6(left, right) {
+              if (((right instanceof Array) || ((typeof right) === "string"))) {
+                  return (right.indexOf(left) > (- 1));
+              } else {
+                  if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {
+                      return right.has(left);
+                  } else {
+                      return (left in right);
+                  }
+              }
+          }
+          container["in_es6"] = in_es6;
+          return container;
+      }
+      _pj = {};
+      _pj_snippets(_pj);
+
+      const validclicks = [1,2,3,4,5]
+        ratingvalue = salience_slider.getMarkerPos();
+          if (1 < ratingvalue && ratingvalue < 1.5) {
+                salience_slider.setMarkerPos(1)
+                salience_slider.setRating(1)
+                displayrating_text.setText(1);
+                displayrating_text.setAutoDraw(true);
+
+          }
+
+          else if (1.5 < ratingvalue && ratingvalue < 2.5) {
+                salience_slider.setMarkerPos(2)
+                salience_slider.setRating(2)
+                displayrating_text.setText(2);
+                displayrating_text.setAutoDraw(true);
+
+          }
+            else if (2.5 < ratingvalue && ratingvalue < 3.5) {
+                salience_slider.setMarkerPos(3)
+                salience_slider.setRating(3)
+                displayrating_text.setText(3);
+                displayrating_text.setAutoDraw(true);
+
+          }
+          else if (3.5 < ratingvalue && ratingvalue < 4.5) {
+              salience_slider.setMarkerPos(4)
+              salience_slider.setRating(4)
+              displayrating_text.setText(4);
+              displayrating_text.setAutoDraw(true);
+            }
+          else if (4.5 < ratingvalue && ratingvalue < 5) {
+              salience_slider.setMarkerPos(5)
+              salience_slider.setRating(5)
+              displayrating_text.setText(5);
+              displayrating_text.setAutoDraw(true);
+
+        }
+            finalmouseRT = mouseClock.getTime(); // get mouse time, again for storage that is not implemented
+            if (!buttonpress.every( (e,i,) => (e == prevButtonState[i]) )) { // button state changed?
+              prevButtonState = buttonpress; //button state as of last frame, makes sure holding mouse down has not affected anything
+              //debug code
+              //console.log('new button state detected');
+              if (buttonpress.reduce( (e, acc) => (e+acc) ) > 0) { // state changed to a new click
+                // check if the mouse was inside our 'clickable' objects
+                gotValidClick = false;
+                if (Salience_Button.contains(userMouse) && ratingvalue > 0) {
+                  {gotValidClick = true};
+                }
+                if (gotValidClick === true) { // abort routine on response
+                    continueRoutine = false;
+                }
+              }
+            }
+    
     // check for quit (typically the Esc key)
     if (psychoJS.experiment.experimentEnded || psychoJS.eventManager.getKeys({keyList:['escape']}).length > 0) {
       return quitPsychoJS('The [Escape] key was pressed. Goodbye!', false);
@@ -3252,6 +3393,9 @@ function SalienceRatingRoutineEnd(snapshot) {
         thisComponent.setAutoDraw(false);
       }
     }
+    function financial(x) {
+                  return Number.parseFloat(x).toFixed(2);
+                }
     // Run 'End Routine' code from saliencyrating_code
     entiretaskloop.addData("salience_rating", Math.round(salience_slider.getMarkerPos(), 1));
     
@@ -3277,7 +3421,14 @@ function SalienceRatingRoutineEnd(snapshot) {
   }
 }
 
+var stressleveltext;
 var _stresslevel_keypress_allKeys;
+var StressLevelComponents;
+var stress_slider;
+var continueRoutine;
+var StressLevelClock;
+var mouserec;
+var prevButtonState;
 var stresslevel_keypress_allKeys;
 var StressLevelComponents;
 function StressLevelRoutineBegin(snapshot) {
@@ -3323,18 +3474,34 @@ function StressLevelRoutineBegin(snapshot) {
     Use your mouse or left and right arrows to move the arrow to your desired rating.`
     ;
     psychoJS.eventManager.clearEvents("keyboard");
-    stress_slider.markerPos = 5;
     
+    stress_slider.markerPos = 5;
     stresslevel_text.setText(stressleveltext);
     stresslevel_keypress.keys = undefined;
     stresslevel_keypress.rt = undefined;
     _stresslevel_keypress_allKeys = [];
+    userMouse.clickReset();
+    mouseClock.reset()
+    mouserec = userMouse.getPos();
+    userMouse.x = [];
+    userMouse.y = [];
+    userMouse.leftButton = [];
+    userMouse.midButton = [];
+    userMouse.rightButton = [];
+    userMouse.time=[];
+    prevButtonState = userMouse.getPressed();
+    stress_slider.reset();
     displaystressrating_text.setText(rating_forstress);
     // keep track of which components have finished
     StressLevelComponents = [];
     StressLevelComponents.push(stresslevel_text);
     StressLevelComponents.push(stresslevel_keypress);
     StressLevelComponents.push(displaystressrating_text);
+    StressLevelComponents.push(stress_slider);
+    StressLevelComponents.push(StressLevelClock);
+    StressLevelComponents.push(userMouse);
+    StressLevelComponents.push(Stress_Button);
+    StressLevelComponents.push(stresscontinue_text);
     
     for (const thisComponent of StressLevelComponents)
       if ('status' in thisComponent)
@@ -3343,6 +3510,14 @@ function StressLevelRoutineBegin(snapshot) {
   }
 }
 
+var keys;
+var rating_forstress;
+var stress_ratingvalue;
+var gotValidClick;
+var marker_pos;
+var ratingvalue;
+var buttonpress;
+var finalmouseRT;
 function StressLevelRoutineEachFrame() {
   return async function () {
     //--- Loop for each frame of Routine 'StressLevel' ---
@@ -3351,41 +3526,48 @@ function StressLevelRoutineEachFrame() {
     frameN = frameN + 1;// number of completed frames (so 0 is the first frame)
     // update/draw components on each frame
     // Run 'Each Frame' code from stresslevelslider
-    var _pj;
-    function _pj_snippets(container) {
-        function in_es6(left, right) {
-            if (((right instanceof Array) || ((typeof right) === "string"))) {
-                return (right.indexOf(left) > (- 1));
-            } else {
-                if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {
-                    return right.has(left);
-                } else {
-                    return (left in right);
-                }
-            }
-        }
-        container["in_es6"] = in_es6;
-        return container;
-    }
-    _pj = {};
-    _pj_snippets(_pj);
-    stress_slider.draw();
-    keys = psychoJS.eventManager.getKeys();
-    displaystressrating_text.setText(Math.round(stress_slider.getMarkerPos(), 1));
-    if (keys.length) {
-        if (_pj.in_es6("left", keys)) {
-            stress_slider.markerPos = (stress_slider.markerPos - 0.1);
-            rating_forstress = stress_slider.getRating();
-            displayrating_text.setText(Math.round(stress_slider.getMarkerPos(), 1));
-        } else {
-            if (_pj.in_es6("right", keys)) {
-                stress_slider.markerPos = (stress_slider.markerPos + 0.1);
-                rating_forstress = stress_slider.getRating();
-                displayrating_text.setText(Math.round(stress_slider.getMarkerPos(), 1));
-            }
-        }
-    }
-    
+    let buttonpress = userMouse.getPressed(); // read mouse state
+      const xys = userMouse.getPos();
+      userMouse.x.push(xys[0]); // add mouse coordinates to x/y list, in principle for data storage, but not implemented right now
+      userMouse.y.push(xys[1]);
+      userMouse.leftButton.push(buttonpress[0]); // store buttons in button list, likewise for storage
+      userMouse.midButton.push(buttonpress[1]);
+      userMouse.rightButton.push(buttonpress[2]);
+    // var _pj;
+    // function _pj_snippets(container) {
+    //     function in_es6(left, right) {
+    //         if (((right instanceof Array) || ((typeof right) === "string"))) {
+    //             return (right.indexOf(left) > (- 1));
+    //         } else {
+    //             if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {
+    //                 return right.has(left);
+    //             } else {
+    //                 return (left in right);
+    //             }
+    //         }
+    //     }
+    //     container["in_es6"] = in_es6;
+    //     return container;
+    // }
+    // _pj = {};
+    // _pj_snippets(_pj);
+    // stress_slider.draw();
+    // keys = psychoJS.eventManager.getKeys();
+    // displaystressrating_text.setText(Math.round(stress_slider.getMarkerPos(), 1));
+    // if (keys.length) {
+    //     if (_pj.in_es6("left", keys)) {
+    //         stress_slider.markerPos = (stress_slider.markerPos - 0.1);
+    //         rating_forstress = stress_slider.getRating();
+    //         displayrating_text.setText(Math.round(stress_slider.getMarkerPos(), 1));
+    //     } else {
+    //         if (_pj.in_es6("right", keys)) {
+    //             stress_slider.markerPos = (stress_slider.markerPos + 0.1);
+    //             rating_forstress = stress_slider.getRating();
+    //             displayrating_text.setText(Math.round(stress_slider.getMarkerPos(), 1));
+    //         }
+    //     }
+    // }
+    // 
     
     // *stresslevel_text* updates
     if (t >= 0.0 && stresslevel_text.status === PsychoJS.Status.NOT_STARTED) {
@@ -3409,26 +3591,150 @@ function StressLevelRoutineEachFrame() {
       psychoJS.window.callOnFlip(function() { stresslevel_keypress.clearEvents(); });
     }
 
-    if (stresslevel_keypress.status === PsychoJS.Status.STARTED) {
-      let theseKeys = stresslevel_keypress.getKeys({keyList: ['space'], waitRelease: false});
-      _stresslevel_keypress_allKeys = _stresslevel_keypress_allKeys.concat(theseKeys);
-      if (_stresslevel_keypress_allKeys.length > 0) {
-        stresslevel_keypress.keys = _stresslevel_keypress_allKeys[_stresslevel_keypress_allKeys.length - 1].name;  // just the last key pressed
-        stresslevel_keypress.rt = _stresslevel_keypress_allKeys[_stresslevel_keypress_allKeys.length - 1].rt;
-        // a response ends the routine
-        continueRoutine = false;
-      }
+    // if (stresslevel_keypress.status === PsychoJS.Status.STARTED) {
+    //   let theseKeys = stresslevel_keypress.getKeys({keyList: ['space'], waitRelease: false});
+    //   _stresslevel_keypress_allKeys = _stresslevel_keypress_allKeys.concat(theseKeys);
+    //   if (_stresslevel_keypress_allKeys.length > 0) {
+    //     stresslevel_keypress.keys = _stresslevel_keypress_allKeys[_stresslevel_keypress_allKeys.length - 1].name;  // just the last key pressed
+    //     stresslevel_keypress.rt = _stresslevel_keypress_allKeys[_stresslevel_keypress_allKeys.length - 1].rt;
+    //     // a response ends the routine
+    //     continueRoutine = false;
+    //   }
+    // }
+    // 
+    
+    // // *displaystressrating_text* updates
+    // if (t >= 0.0 && displaystressrating_text.status === PsychoJS.Status.NOT_STARTED) {
+    //   // keep track of start time/frame for later
+    //   displaystressrating_text.tStart = t;  // (not accounting for frame time here)
+    //   displaystressrating_text.frameNStart = frameN;  // exact frame index
+    // 
+    //   displaystressrating_text.setAutoDraw(true);
+    // }
+    // *stresscontinue_text* updates
+    //  if (t >= 0.0 && stresscontinue_text.status === PsychoJS.Status.NOT_STARTED) {
+    if (stresslevel_keypress.status === PsychoJS.Status.STARTED && stresscontinue_text.status === PsychoJS.Status.NOT_STARTED) {
+        // keep track of start time/frame for later
+        stresscontinue_text.tStart = t;  // (not accounting for frame time here)
+        stresscontinue_text.frameNStart = frameN;  // exact frame index
+
+        stresscontinue_text.setAutoDraw(true);
+        Stress_Button.setAutoDraw(true);
+        displaystressrating_text.setText('Click line');
+        displaystressrating_text.setAutoDraw(true);
     }
-    
-    
-    // *displaystressrating_text* updates
-    if (t >= 0.0 && displaystressrating_text.status === PsychoJS.Status.NOT_STARTED) {
+    // // *stress_slider* updates
+    if (t >= 0.0 && stress_slider.status === PsychoJS.Status.NOT_STARTED) {
       // keep track of start time/frame for later
-      displaystressrating_text.tStart = t;  // (not accounting for frame time here)
-      displaystressrating_text.frameNStart = frameN;  // exact frame index
-      
-      displaystressrating_text.setAutoDraw(true);
+      stress_slider.tStart = t;  // (not accounting for frame time here)
+      stress_slider.frameNStart = frameN;  // exact frame index
+
+      stress_slider.setAutoDraw(true);
     }
+
+    var _pj;
+      function _pj_snippets(container) {
+          function in_es6(left, right) {
+              if (((right instanceof Array) || ((typeof right) === "string"))) {
+                  return (right.indexOf(left) > (- 1));
+              } else {
+                  if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {
+                      return right.has(left);
+                  } else {
+                      return (left in right);
+                  }
+              }
+          }
+          container["in_es6"] = in_es6;
+          return container;
+      }
+      _pj = {};
+      _pj_snippets(_pj);
+
+
+      const validclicks = [1,2,3,4,5,6,7,8,9]
+        ratingvalue = stress_slider.getMarkerPos();
+          if (1 < ratingvalue && ratingvalue < 1.5) {
+                stress_slider.setMarkerPos(1)
+                stress_slider.setRating(1)
+                displaystressrating_text.setText(1);
+                displaystressrating_text.setAutoDraw(true);
+
+          }
+
+          else if (1.5 < ratingvalue && ratingvalue < 2.5) {
+                stress_slider.setMarkerPos(2)
+                stress_slider.setRating(2)
+                displaystressrating_text.setText(2);
+                displaystressrating_text.setAutoDraw(true);
+
+          }
+            else if (2.5 < ratingvalue && ratingvalue < 3.5) {
+                stress_slider.setMarkerPos(3)
+                stress_slider.setRating(3)
+                displaystressrating_text.setText(3);
+                displaystressrating_text.setAutoDraw(true);
+
+          }
+          else if (3.5 < ratingvalue && ratingvalue < 4.5) {
+              stress_slider.setMarkerPos(4)
+              stress_slider.setRating(4)
+              displaystressrating_text.setText(4);
+              displaystressrating_text.setAutoDraw(true);
+            }
+          else if (4.5 < ratingvalue && ratingvalue < 5.5) {
+              stress_slider.setMarkerPos(5)
+              stress_slider.setRating(5)
+              displaystressrating_text.setText(5);
+              displaystressrating_text.setAutoDraw(true);
+
+        }
+        else if (5.5 < ratingvalue && ratingvalue < 6.5) {
+            stress_slider.setMarkerPos(6)
+            stress_slider.setRating(6)
+            displaystressrating_text.setText(6);
+            displaystressrating_text.setAutoDraw(true);
+
+      }
+      else if (6.5 < ratingvalue && ratingvalue < 7.5) {
+          stress_slider.setMarkerPos(7)
+          stress_slider.setRating(7)
+          displaystressrating_text.setText(7);
+          displaystressrating_text.setAutoDraw(true);
+
+    }
+    else if (7.5 < ratingvalue && ratingvalue < 8.5) {
+        stress_slider.setMarkerPos(8)
+        stress_slider.setRating(8)
+        displaystressrating_text.setText(8);
+        displaystressrating_text.setAutoDraw(true);
+
+  }
+  else if (8.5 < ratingvalue && ratingvalue < 9) {
+      stress_slider.setMarkerPos(9)
+      stress_slider.setRating(9)
+      displaystressrating_text.setText(9);
+      displaystressrating_text.setAutoDraw(true);
+
+}
+
+            finalmouseRT = mouseClock.getTime(); // get mouse time, again for storage that is not implemented
+            if (!buttonpress.every( (e,i,) => (e == prevButtonState[i]) )) { // button state changed?
+              prevButtonState = buttonpress; //button state as of last frame, makes sure holding mouse down has not affected anything
+              //debug code
+              //console.log('new button state detected');
+              if (buttonpress.reduce( (e, acc) => (e+acc) ) > 0) { // state changed to a new click
+                // check if the mouse was inside our 'clickable' objects
+                gotValidClick = false;
+                if (Stress_Button.contains(userMouse) && ratingvalue > 0) {
+                  {gotValidClick = true};
+                }
+                if (gotValidClick === true) { // abort routine on response
+                    continueRoutine = false;
+                }
+              }
+            }
+
 
     // check for quit (typically the Esc key)
     if (psychoJS.experiment.experimentEnded || psychoJS.eventManager.getKeys({keyList:['escape']}).length > 0) {
@@ -3466,6 +3772,9 @@ function StressLevelRoutineEnd(snapshot) {
     }
     // Run 'End Routine' code from stresslevelslider
     stresslevel = stress_slider.getRating();
+    function financial(x) {
+                  return Number.parseFloat(x).toFixed(2);
+                }
     entiretaskloop.addData("stress_level", Math.round(stress_slider.getMarkerPos(), 1));
     
     // update the trial handler
