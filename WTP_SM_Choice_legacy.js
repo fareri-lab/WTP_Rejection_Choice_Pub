@@ -1440,10 +1440,10 @@ function partner_codeRoutineEnd(snapshot) {
             } else {
                 if ((Partner === "Alex")) {
                     partneravatar = "Images/cowboyemoji.png";
-                } else {
-                    if ((Partner === "Taylor")) {
-                        partneravatar = "Images/huggingemoji.png";
-                    }
+                // } else {
+                //     if ((Partner === "Taylor")) {
+                //         partneravatar = "Images/huggingemoji.png";
+                //     }
                 }
             }
         }
@@ -2963,7 +2963,7 @@ function ContinueRoutineBegin(snapshot) {
     // update component parameters for each repeat
     // Run 'Begin Routine' code from code
     console.log(TrialNumber)
-    const trials = [30,60,90,120,150]
+    const trials = [25,50,75,100]
     
         if (trials.includes(TrialNumber) == true) {
           continueRoutine = true;
@@ -3116,7 +3116,7 @@ function SalienceRatingRoutineBegin(snapshot) {
     frameN = -1;
     //continueRoutine = true; // until we're told otherwise
 
-    const trials = [30,60,90,120,150]
+    const trials = [25,50,75,100]
 
     if (trials.includes(TrialNumber) == true) {
       continueRoutine = true;
@@ -3470,7 +3470,7 @@ function StressLevelRoutineBegin(snapshot) {
     StressLevelClock.reset(); // clock
     frameN = -1;
 //    continueRoutine = true; // until we're told otherwise
-    const trials = [30,60,90,120,150]
+    const trials = [25,50,75,100]
 
     if (trials.includes(TrialNumber) == true) {
       continueRoutine = true;
