@@ -261,7 +261,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('orange'),  opacity: undefined,
+    color: new util.Color('magenta'),  opacity: undefined,
     depth: 0.0 
   });
   
@@ -3299,12 +3299,12 @@ function StressLevelRoutineBegin(snapshot) {
     }
     // update component parameters for each repeat
     // Run 'Begin Routine' code from stresslevelslider
-    var _pj;
-    _pj = {};
-    _pj_snippets(_pj);
-    if ((! _pj.in_es6(TrialNumber, [30,60,90,120,150]))) {
-        continueRoutine = false;
-    }
+    // var _pj;
+    // _pj = {};
+    // _pj_snippets(_pj);
+    // if ((! _pj.in_es6(TrialNumber, [30,60,90,120,150]))) {
+    //     continueRoutine = false;
+    // }
     // console.log(TrialNumber)
     // console.log(trials.includes(TrialNumber))
     // const trials = [30,60,90,120,150]
