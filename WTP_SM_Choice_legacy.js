@@ -164,6 +164,9 @@ async function updateInfo() {
   
   return Scheduler.Event.NEXT;
 }
+
+var prac_subtract_bonus = 0;
+var subtract_bonus=0;
 var conditionalBlank;
 var globalClock;
 var Welcome_ScreenClock;
@@ -255,6 +258,9 @@ var Stress_Button;
 var stresscontinue_text;
 
 var displaystressrating_text;
+var weblink;
+weblink = `https://adelphiderner.qualtrics.com/jfe/form/SV_2bF7lXuTQzoEIGq?PROLIFIC_PID=${expInfo["participant"]}`;
+console.log(weblink);
 
 
 
@@ -272,9 +278,9 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('purple'),  opacity: undefined,
+    color: new util.Color('pink'),  opacity: undefined,
     depth: 0.0 
-  });
+  }); //change font color here to test changes 
   
   endwelcomescreen_keys = new core.Keyboard({psychoJS: psychoJS, clock: new util.Clock(), waitForStart: true});
 
@@ -1137,6 +1143,7 @@ var trial_nums;
 var WTPloop;
 var WTP_trial;
 var entiretaskloop;
+var subtract_bonus = 0;
 function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
   return async function() {
     TrialHandler.fromSnapshot(snapshot); // update internal variables (.thisN etc) of the loop
@@ -2817,7 +2824,7 @@ function WTPTaskRoutineEachFrame() {
     }
   };
 }
-
+var subtract_bonus;
 function WTPTaskRoutineEnd(snapshot) {
   return async function () {
     //--- Ending Routine 'WTPTask' ---
@@ -2830,6 +2837,17 @@ function WTPTaskRoutineEnd(snapshot) {
         thisComponent.setAutoDraw(false);
       }
     }
+    if ((responses.keys === "1")) {
+      psychoJS.experiment.addData('decision_price', leftmoney);
+      subtract_bonus =  subtract_bonus + leftmoney;
+
+        
+    } else {
+        if ((responses.keys === "2")) {
+          psychoJS.experiment.addData('decision_price', rightmoney);
+          subtract_bonus =  subtract_bonus + rightmoney;
+        }
+    }
     // update the trial handler
     if (currentLoop instanceof MultiStairHandler) {
       currentLoop.addResponse(responses.corr, level);
@@ -2840,6 +2858,9 @@ function WTPTaskRoutineEnd(snapshot) {
         }
     
     responses.stop();
+    // Run 'Each Frame' code from responses_code
+  
+
     // Run 'End Routine' code from responses_code
     Left_Experience.setColor("white");
     Right_Experience.setColor("white");
@@ -3806,7 +3827,9 @@ function StressLevelRoutineEnd(snapshot) {
                   return Number.parseFloat(x).toFixed(2);
                 }
     entiretaskloop.addData("stress_level", Math.round(stress_slider.getMarkerPos(), 1));
-    
+    psychoJS.experiment.addData('subtract_bonus', subtract_bonus);
+    psychoJS.experiment.addData('TOTAL_TASK_BONUS', 6- subtract_bonus);
+
     // update the trial handler
     if (currentLoop instanceof MultiStairHandler) {
       currentLoop.addResponse(stresslevel_keypress.corr, level);
@@ -3883,6 +3906,6 @@ async function quitPsychoJS(message, isCompleted) {
   
   psychoJS.window.close();
   psychoJS.quit({message: message, isCompleted: isCompleted});
-  
+  window.location.replace(weblink);
   return Scheduler.Event.QUIT;
 }
