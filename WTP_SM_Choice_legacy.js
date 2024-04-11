@@ -278,7 +278,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('pink'),  opacity: undefined,
+    color: new util.Color('blue'),  opacity: undefined,
     depth: 0.0 
   }); //change font color here to test changes 
   
@@ -2984,7 +2984,7 @@ function ContinueRoutineBegin(snapshot) {
     // update component parameters for each repeat
     // Run 'Begin Routine' code from code
     console.log(TrialNumber)
-    const trials = [25,50,75,100]
+    const trials = [26,51,76,100]
     
         if (trials.includes(TrialNumber) == true) {
           continueRoutine = true;
@@ -3137,7 +3137,7 @@ function SalienceRatingRoutineBegin(snapshot) {
     frameN = -1;
     //continueRoutine = true; // until we're told otherwise
 
-    const trials = [25,50,75,100]
+    const trials = [26,51,76,100]
 
     if (trials.includes(TrialNumber) == true) {
       continueRoutine = true;
@@ -3491,7 +3491,7 @@ function StressLevelRoutineBegin(snapshot) {
     StressLevelClock.reset(); // clock
     frameN = -1;
 //    continueRoutine = true; // until we're told otherwise
-    const trials = [25,50,75,100]
+    const trials = [26,51,76,100]
 
     if (trials.includes(TrialNumber) == true) {
       continueRoutine = true;
