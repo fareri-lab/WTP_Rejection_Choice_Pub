@@ -299,7 +299,7 @@ async function experimentInit() {
   // Run 'Begin Experiment' code from spreadsheets
   partnermatch = "";
   partneravatar = "";
-  trialset = util.range(0, 5);
+  trialset = util.range(0, 6);
 
   
 
