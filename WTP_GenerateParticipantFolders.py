@@ -17,7 +17,7 @@ import shutil
 # read in raw qualtrics data and excel sheet of completed participants
 # make csv into data frame
 homedir = os.getcwd()
-rawqualtrics = pd.read_csv('WTP_PhotoUpload_04112024.csv')
+rawqualtrics = pd.read_csv('WTP_PhotoUpload_04122024.csv')
 completedparticipantlist = pd.read_excel('participantlist.xlsx')
 completedparticipantlist = completedparticipantlist.loc[
     completedparticipantlist['PhotosUploaded? (y/n)'] == 'n']
@@ -126,7 +126,7 @@ for sub in range(0, len(qualtrics)):
                             file_name, file_extension = os.path.splitext(photo)
     
                             destination = indv_image_folder % (
-                                p, p) + '/' + p + "_Image_" + str(count) + ".jpg"
+                                p, p) + '/' + p + "_Image_" + str(count) + ".jpeg"
                             # Renaming the file
                             os.rename(source, destination)
                             count += 1
