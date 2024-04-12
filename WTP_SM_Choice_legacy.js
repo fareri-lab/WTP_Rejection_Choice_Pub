@@ -278,7 +278,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('blue'),  opacity: undefined,
+    color: new util.Color('yellow'),  opacity: undefined,
     depth: 0.0 
   }); //change font color here to test changes 
   
@@ -1501,7 +1501,7 @@ function WaitingToMatchRoutineBegin(snapshot) {
     }
     _pj = {};
     _pj_snippets(_pj);
-    if ((! _pj.in_es6(TrialNumber, [1, 31, 61]))) {
+    if ((! _pj.in_es6(TrialNumber, [1, 26, 51,76]))) {
         continueRoutine = false;
     }
     
@@ -2984,7 +2984,7 @@ function ContinueRoutineBegin(snapshot) {
     // update component parameters for each repeat
     // Run 'Begin Routine' code from code
     console.log(TrialNumber)
-    const trials = [26,51,76,100]
+    const trials = [25,50,75,100]
     
         if (trials.includes(TrialNumber) == true) {
           continueRoutine = true;
@@ -2994,7 +2994,7 @@ function ContinueRoutineBegin(snapshot) {
           console.log('nope')
         }
 
-    resumetext = "Press space to resume sharing your photos.";
+    resumetext = "Press space to resume.";
     trialset = function () {
         var _pj_a = [], _pj_b = trialset;
         for (var _pj_c = 0, _pj_d = _pj_b.length; (_pj_c < _pj_d); _pj_c += 1) {
@@ -3137,7 +3137,7 @@ function SalienceRatingRoutineBegin(snapshot) {
     frameN = -1;
     //continueRoutine = true; // until we're told otherwise
 
-    const trials = [26,51,76,100]
+    const trials = [25,50,75,100]
 
     if (trials.includes(TrialNumber) == true) {
       continueRoutine = true;
@@ -3491,7 +3491,7 @@ function StressLevelRoutineBegin(snapshot) {
     StressLevelClock.reset(); // clock
     frameN = -1;
 //    continueRoutine = true; // until we're told otherwise
-    const trials = [26,51,76,100]
+    const trials = [25,50,75,100]
 
     if (trials.includes(TrialNumber) == true) {
       continueRoutine = true;
