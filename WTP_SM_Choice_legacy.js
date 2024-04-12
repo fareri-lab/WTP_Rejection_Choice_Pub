@@ -278,7 +278,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('yellow'),  opacity: undefined,
+    color: new util.Color('cornflowerblue'),  opacity: undefined,
     depth: 0.0 
   }); //change font color here to test changes 
   
@@ -754,7 +754,7 @@ async function experimentInit() {
     win : psychoJS.window,
     name : 'salienceavatar_image', units : undefined, 
     image : undefined, mask : undefined,
-    ori : 0.0, pos : [0, 0], size : [0.3, 0.55],
+    ori : 0.0, pos : [0, 0], size : [0.3, 0.60],
     color : new util.Color([1,1,1]), opacity : undefined,
     flipHoriz : false, flipVert : false,
     texRes : 128.0, interpolate : true, depth : -3.0 
@@ -788,7 +788,7 @@ async function experimentInit() {
     text: '',
     font: 'Open Sans',
     units: undefined, 
-    pos: [0, (- 0.65)], height: 0.065,  wrapWidth: undefined, ori: 0.0,
+    pos: [0, (- 0.70)], height: 0.065,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: -5.0 
@@ -1776,7 +1776,7 @@ function Partner_MatchRoutineBegin(snapshot) {
     }
     _pj = {};
     _pj_snippets(_pj);
-    if ((! _pj.in_es6(TrialNumber, [1, 31, 61]))) {
+    if ((! _pj.in_es6(TrialNumber, [1, 26, 51,76]))) {
         continueRoutine = false;
     }
     
