@@ -1,0 +1,5 @@
+social_left	left	right	leftmoney	rightmoney	greenText	left_more_than_right	matching_prices	social_worthmore0	Rearranging furniture in your house	Going to a carnival with friends	0.01	0.01	green	0	1	10	Watching a new episode of a television show	Having a picnic with family	0.02	0.01	green	1	0	00	"Painting your bedroom
+a new color"	Having a romantic dinner with a significant other	0.03	0.01	green	1	0	00	Playing with a pet	Studying abroad with friends	0.04	0.01	green	1	0	00	Reading a book	Going to a friend’s birthday party	0.05	0.01	green	1	0	00	"Listening to music
+by yourself"	"Giving a friend a ride
+to school"	0.01	0.02	green	0	0	10	Writing journal entries	Going to a nightclub with a group of friends	0.02	0.02	green	0	1	10	Looking through old photo albums	Having a movie marathon with a roommate	0.03	0.02	green	1	0	00	Studying for a test alone	Playing cards with friends	0.04	0.02	green	1	0	00	Going to the beach alone	"Shopping for clothes
+with friends"	0.05	0.02	green	1	0	0
