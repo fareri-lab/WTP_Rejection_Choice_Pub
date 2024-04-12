@@ -278,7 +278,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('blue'),  opacity: undefined,
+    color: new util.Color('red'),  opacity: undefined,
     depth: 0.0 
   }); //change font color here to test changes 
   
@@ -742,7 +742,7 @@ async function experimentInit() {
     text: '',
     font: 'Open Sans',
     units: undefined, 
-    pos: [0, 0.6], height: 0.06,  wrapWidth: undefined, ori: 0.0,
+    pos: [0, 0.7], height: 0.06,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
     color: new util.Color('white'),  opacity: undefined,
     depth: -1.0 
