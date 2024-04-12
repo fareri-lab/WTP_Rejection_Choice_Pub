@@ -278,7 +278,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('pink'),  opacity: undefined,
+    color: new util.Color('yellow'),  opacity: undefined,
     depth: 0.0 
   }); //change font color here to test changes 
   
@@ -1501,7 +1501,7 @@ function WaitingToMatchRoutineBegin(snapshot) {
     }
     _pj = {};
     _pj_snippets(_pj);
-    if ((! _pj.in_es6(TrialNumber, [1, 31, 61]))) {
+    if ((! _pj.in_es6(TrialNumber, [1, 26, 51,76]))) {
         continueRoutine = false;
     }
     
