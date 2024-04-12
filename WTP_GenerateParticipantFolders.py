@@ -17,7 +17,7 @@ import shutil
 # read in raw qualtrics data and excel sheet of completed participants
 # make csv into data frame
 homedir = os.getcwd()
-rawqualtrics = pd.read_csv('WTP_Pretask_4102024.csv')
+rawqualtrics = pd.read_csv('WTP_PhotoUpload_04112024.csv')
 completedparticipantlist = pd.read_excel('participantlist.xlsx')
 completedparticipantlist = completedparticipantlist.loc[
     completedparticipantlist['PhotosUploaded? (y/n)'] == 'n']
@@ -87,7 +87,7 @@ for image in os.listdir(source_folder):
     for sub in range(0, len(qualtrics)):
         responseId = qualtrics['ResponseId'][sub]
         prolificId = qualtrics['PROLIFIC_PID'][sub]
-        if len(os.listdir(indv_image_folder % (prolificId, prolificId))) < 30:
+        if len(os.listdir(indv_image_folder % (prolificId, prolificId))) > 25:
             continue
         else:
             if image.startswith(responseId): #the images still start with the qualtrics response id at this point, but we will change this to prolific id in the next section
@@ -126,7 +126,7 @@ for sub in range(0, len(qualtrics)):
                             file_name, file_extension = os.path.splitext(photo)
     
                             destination = indv_image_folder % (
-                                p, p) + '/' + p + "_Image_" + str(count) + ".jpeg"
+                                p, p) + '/' + p + "_Image_" + str(count) + ".jpg"
                             # Renaming the file
                             os.rename(source, destination)
                             count += 1
@@ -137,7 +137,7 @@ for sub in range(0, len(qualtrics)):
 # insert  code to skip if a csv file already exists
 # change qualtrics ID to PROLIFIC ID
 spreadsheet = pd.read_csv('spreadsheet_template.csv')
-sociallevel = ["Rej", "Acc", "Acc", "Rej"]
+sociallevel = ["Rej", "Acc", "Rej", "Acc"]
 partnerlist = ['Charlie', 'Sam', 'Riley', 'Alex']
 condition = ''
 partner = ''
@@ -157,11 +157,11 @@ for sub in range(0, len(qualtrics)):
                 pavlovia_path = imagedir.replace(
                     homedir + '/', "")
                 photolist = [pavlovia_path + x for x in photolist]
-        
+                photolist = [photo for photo  in photolist if photo.endswith('.jpeg')]
                 condition_selected = random.sample(sociallevel, 4)
                 partner_selected = random.sample(partnerlist, 4)
                 block = 0  # before experiment
-                nTrials = 25
+                nTrials = 26
                 alltrials = pd.DataFrame(columns=[
                                          'TrialNumber', 'Partner', 'Condition', 'Photos', 'Feedback', 'FeedbackWait'])
                 alltrials['Partner'] = ''
@@ -210,10 +210,10 @@ for sub in range(0, len(qualtrics)):
                 subid = folder
                 expdir = participantimagefolder
                 alltrials['FeedbackWait'] = spreadsheet['FeedbackWait']
-                subjdir = '%s/%s' % (expdir, subid)
+                subjdir = '%s%s' % (expdir, subid)
                 trial_sheet = '%s/%s_trials.csv' % (subjdir, subid)
                 alltrials['TrialNumber'] = range(1, len(alltrials)+1)
-                alltrials.to_csv(trial_sheet, index=False)
+                alltrials.to_csv(trial_sheet, index=False, encoding = 'utf-8')
 #%%
 #Delete all extraneous photos in Raw_Participant_Folder (sourcefolder)
 # for f in os.listdir(source_folder):
