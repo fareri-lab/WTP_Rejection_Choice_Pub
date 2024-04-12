@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> fa8ed23226273ce315d2b5a05db6592f38ce5df6
 name: GitlabSync
 
 on: [workflow_dispatch]
