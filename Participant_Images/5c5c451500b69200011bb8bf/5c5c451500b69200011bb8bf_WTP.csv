@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
-1,Getting chores done,Cooking new meals that my friends haven't tried before,0.01,0.01,4.4
-2,Eating dinner on my own listening to podcasts,Going out and try new restaurants with friends.,0.02,0.01,8.8
-3,Doing the laundry,Going to the lake to relax with my good friends,0.03,0.01,3.3
-4,Getting chores done,Going out and try new restaurants with friends.,0.04,0.01,1.1
-5,Relaxing beside the pool,Going to the lake to relax with my good friends,0.05,0.01,1.1
-6,Driving around town when the weather is nice,Cooking new meals that my friends haven't tried before,0.01,0.02,3.3
-7,Relaxing beside the pool,Going to the pet store with my dog and walk her around the store,0.02,0.02,1.1
-8,Driving around town when the weather is nice,Going to the lake to relax with my good friends,0.03,0.02,1.1
-9,Cooking for myself,Cooking new meals that my friends haven't tried before,0.04,0.02,4.4
-10,Practicing music in the house,Going to NFL games with my significant other,0.05,0.02,1.1
-11,Going to the local parks for walks,Watching soccer games at the nearby professional soccer stadium,0.01,0.03,3.3
-12,Cooking for myself,Going to the pet store with my dog and walk her around the store,0.02,0.03,4.4
-13,Eating dinner on my own listening to podcasts,Going to the museum with my family,0.03,0.03,1.1
-14,Eating dinner on my own listening to podcasts,Cooking new meals that my friends haven't tried before,0.04,0.03,3.3
-15,Going to the local parks for walks,Going to concerts with other people,0.05,0.03,4.4
-16,Going to the local parks for walks,Cooking new meals that my friends haven't tried before,0.01,0.04,1.1
-17,Going to the local parks for walks,Going to the lake to relax with my good friends,0.02,0.04,8.8
-18,Relaxing beside the pool,Going to NFL games with my significant other,0.03,0.04,3.3
-19,Watching movies at the cinema alone,Going to the museum with my family,0.04,0.04,3.3
-20,Taking naps in my spare time,Cooking new meals that my friends haven't tried before,0.05,0.04,1.1
-21,Doing the laundry,Going to NFL games with my significant other,0.01,0.05,8.8
-22,Doing the laundry,Cooking new meals that my friends haven't tried before,0.02,0.05,4.4
-23,Going to the local parks for walks,Drawing with my younger siblings,0.03,0.05,1.1
-24,Watching movies at the cinema alone,Going to concerts with other people,0.04,0.05,4.4
-25,Practicing music in the house,Going to the museum with my family,0.05,0.05,3.3
-26,Relaxing beside the pool,Going to the museum with my family,0.01,0.01,4.4
-27,Getting chores done,Watching soccer games at the nearby professional soccer stadium,0.02,0.01,3.3
-28,Taking naps in my spare time,Going to the lake to relax with my good friends,0.03,0.01,3.3
-29,Watching movies at the cinema alone,Going to the pet store with my dog and walk her around the store,0.04,0.01,4.4
-30,Cooking for myself,Drawing with my younger siblings,0.05,0.01,8.8
-31,Practicing music in the house,Drawing with my younger siblings,0.01,0.02,8.8
-32,Going to the local parks for walks,Going to the pet store with my dog and walk her around the store,0.02,0.02,1.1
-33,Relaxing beside the pool,Drawing with my younger siblings,0.03,0.02,4.4
-34,Practicing music in the house,Going out and try new restaurants with friends.,0.04,0.02,3.3
-35,Doing the laundry,Going to concerts with other people,0.05,0.02,1.1
-36,Cooking for myself,Going to the lake to relax with my good friends,0.01,0.03,3.3
-37,Taking naps in my spare time,Going to the museum with my family,0.02,0.03,1.1
-38,Cooking for myself,Playing disc golf at the local park with my friends,0.03,0.03,1.1
-39,Driving around town when the weather is nice,Going to the pet store with my dog and walk her around the store,0.04,0.03,3.3
-40,Doing the laundry,Watching soccer games at the nearby professional soccer stadium,0.05,0.03,4.4
-41,Driving around town when the weather is nice,Going out and try new restaurants with friends.,0.01,0.04,1.1
-42,Getting chores done,Drawing with my younger siblings,0.02,0.04,3.3
-43,Driving around town when the weather is nice,Watching soccer games at the nearby professional soccer stadium,0.03,0.04,1.1
-44,Practicing music in the house,Watching soccer games at the nearby professional soccer stadium,0.04,0.04,1.1
-45,Practicing music in the house,Cooking new meals that my friends haven't tried before,0.05,0.04,4.4
-46,Doing the laundry,Going to the museum with my family,0.01,0.05,8.8
-47,Cooking for myself,Going to the museum with my family,0.02,0.05,1.1
-48,Taking naps in my spare time,Watching soccer games at the nearby professional soccer stadium,0.03,0.05,4.4
-49,Taking naps in my spare time,Playing disc golf at the local park with my friends,0.04,0.05,3.3
-50,Eating dinner on my own listening to podcasts,Watching soccer games at the nearby professional soccer stadium,0.05,0.05,1.1
-51,Practicing music in the house,Playing disc golf at the local park with my friends,0.01,0.01,1.1
-52,Practicing music in the house,Going to the lake to relax with my good friends,0.02,0.01,3.3
-53,Getting chores done,Playing disc golf at the local park with my friends,0.03,0.01,1.1
-54,Driving around town when the weather is nice,Going to the museum with my family,0.04,0.01,4.4
-55,Taking naps in my spare time,Going out and try new restaurants with friends.,0.05,0.01,1.1
-56,Eating dinner on my own listening to podcasts,Playing disc golf at the local park with my friends,0.01,0.02,8.8
-57,Getting chores done,Going to concerts with other people,0.02,0.02,4.4
-58,Doing the laundry,Drawing with my younger siblings,0.03,0.02,4.4
-59,Doing the laundry,Going to the pet store with my dog and walk her around the store,0.04,0.02,4.4
-60,Relaxing beside the pool,Playing disc golf at the local park with my friends,0.05,0.02,1.1
-61,Watching movies at the cinema alone,Cooking new meals that my friends haven't tried before,0.01,0.03,3.3
-62,Eating dinner on my own listening to podcasts,Going to concerts with other people,0.02,0.03,3.3
-63,Going to the local parks for walks,Playing disc golf at the local park with my friends,0.03,0.03,3.3
-64,Watching movies at the cinema alone,Going to the lake to relax with my good friends,0.04,0.03,1.1
-65,Eating dinner on my own listening to podcasts,Going to the pet store with my dog and walk her around the store,0.05,0.03,1.1
-66,Eating dinner on my own listening to podcasts,Drawing with my younger siblings,0.01,0.04,1.1
-67,Watching movies at the cinema alone,Watching soccer games at the nearby professional soccer stadium,0.02,0.04,8.8
-68,Taking naps in my spare time,Drawing with my younger siblings,0.03,0.04,4.4
-69,Driving around town when the weather is nice,Drawing with my younger siblings,0.04,0.04,1.1
-70,Watching movies at the cinema alone,Drawing with my younger siblings,0.05,0.04,1.1
-71,Relaxing beside the pool,Going to concerts with other people,0.01,0.05,3.3
-72,Driving around town when the weather is nice,Going to concerts with other people,0.02,0.05,8.8
-73,Getting chores done,Going to the museum with my family,0.03,0.05,3.3
-74,Taking naps in my spare time,Going to NFL games with my significant other,0.04,0.05,4.4
-75,Cooking for myself,Watching soccer games at the nearby professional soccer stadium,0.05,0.05,3.3
-76,Relaxing beside the pool,Going out and try new restaurants with friends.,0.01,0.01,1.1
-77,Eating dinner on my own listening to podcasts,Going to NFL games with my significant other,0.02,0.01,8.8
-78,Getting chores done,Going to the pet store with my dog and walk her around the store,0.03,0.01,1.1
-79,Doing the laundry,Playing disc golf at the local park with my friends,0.04,0.01,1.1
-80,Cooking for myself,Going to concerts with other people,0.05,0.01,4.4
-81,Driving around town when the weather is nice,Going to NFL games with my significant other,0.01,0.02,3.3
-82,Relaxing beside the pool,Watching soccer games at the nearby professional soccer stadium,0.02,0.02,4.4
-83,Eating dinner on my own listening to podcasts,Going to the lake to relax with my good friends,0.03,0.02,1.1
-84,Going to the local parks for walks,Going to NFL games with my significant other,0.04,0.02,3.3
-85,Watching movies at the cinema alone,Going to NFL games with my significant other,0.05,0.02,3.3
-86,Cooking for myself,Going out and try new restaurants with friends.,0.01,0.03,1.1
-87,Getting chores done,Going to NFL games with my significant other,0.02,0.03,4.4
-88,Going to the local parks for walks,Going to the museum with my family,0.03,0.03,1.1
-89,Taking naps in my spare time,Going to concerts with other people,0.04,0.03,3.3
-90,Getting chores done,Going to the lake to relax with my good friends,0.05,0.03,8.8
-91,Watching movies at the cinema alone,Going out and try new restaurants with friends.,0.01,0.04,3.3
-92,Going to the local parks for walks,Going out and try new restaurants with friends.,0.02,0.04,8.8
-93,Taking naps in my spare time,Going to the pet store with my dog and walk her around the store,0.03,0.04,1.1
-94,Doing the laundry,Going out and try new restaurants with friends.,0.04,0.04,4.4
-95,Watching movies at the cinema alone,Playing disc golf at the local park with my friends,0.05,0.04,4.4
-96,Practicing music in the house,Going to the pet store with my dog and walk her around the store,0.01,0.05,3.3
-97,Practicing music in the house,Going to concerts with other people,0.02,0.05,1.1
-98,Relaxing beside the pool,Cooking new meals that my friends haven't tried before,0.03,0.05,1.1
-99,Cooking for myself,Going to NFL games with my significant other,0.04,0.05,3.3
-100,Driving around town when the weather is nice,Playing disc golf at the local park with my friends,0.05,0.05,4.4
+1,Relaxing beside the pool,Going to the museum with my family,0.01,0.01,4.4
+2,Getting chores done,Going out and try new restaurants with friends.,0.02,0.01,8.8
+3,Doing the laundry,Going to the pet store with my dog and walk her around the store,0.03,0.01,3.3
+4,Taking naps in my spare time,Drawing with my younger siblings,0.04,0.01,1.1
+5,Taking naps in my spare time,Going to the pet store with my dog and walk her around the store,0.05,0.01,1.1
+6,Cooking for myself,Going to the pet store with my dog and walk her around the store,0.01,0.02,3.3
+7,Going to the local parks for walks,Playing disc golf at the local park with my friends,0.02,0.02,1.1
+8,Relaxing beside the pool,Watching soccer games at the nearby professional soccer stadium,0.03,0.02,1.1
+9,Going to the local parks for walks,Cooking new meals that my friends haven't tried before,0.04,0.02,4.4
+10,Driving around town when the weather is nice,Going out and try new restaurants with friends.,0.05,0.02,1.1
+11,Taking naps in my spare time,Cooking new meals that my friends haven't tried before,0.01,0.03,3.3
+12,Cooking for myself,Watching soccer games at the nearby professional soccer stadium,0.02,0.03,4.4
+13,Getting chores done,Drawing with my younger siblings,0.03,0.03,1.1
+14,Relaxing beside the pool,Going to concerts with other people,0.04,0.03,3.3
+15,Eating dinner on my own listening to podcasts,Watching soccer games at the nearby professional soccer stadium,0.05,0.03,4.4
+16,Eating dinner on my own listening to podcasts,Going to the museum with my family,0.01,0.04,1.1
+17,Going to the local parks for walks,Going to NFL games with my significant other,0.02,0.04,8.8
+18,Driving around town when the weather is nice,Cooking new meals that my friends haven't tried before,0.03,0.04,3.3
+19,Watching movies at the cinema alone,Watching soccer games at the nearby professional soccer stadium,0.04,0.04,3.3
+20,Taking naps in my spare time,Watching soccer games at the nearby professional soccer stadium,0.05,0.04,1.1
+21,Cooking for myself,Going out and try new restaurants with friends.,0.01,0.05,8.8
+22,Eating dinner on my own listening to podcasts,Drawing with my younger siblings,0.02,0.05,4.4
+23,Cooking for myself,Going to the lake to relax with my good friends,0.03,0.05,1.1
+24,Taking naps in my spare time,Going to NFL games with my significant other,0.04,0.05,4.4
+25,Eating dinner on my own listening to podcasts,Playing disc golf at the local park with my friends,0.05,0.05,3.3
+26,Eating dinner on my own listening to podcasts,Going to the lake to relax with my good friends,0.01,0.01,4.4
+27,Taking naps in my spare time,Going to the lake to relax with my good friends,0.02,0.01,3.3
+28,Getting chores done,Going to the pet store with my dog and walk her around the store,0.03,0.01,3.3
+29,Cooking for myself,Going to NFL games with my significant other,0.04,0.01,4.4
+30,Relaxing beside the pool,Cooking new meals that my friends haven't tried before,0.05,0.01,8.8
+31,Driving around town when the weather is nice,Going to concerts with other people,0.01,0.02,8.8
+32,Watching movies at the cinema alone,Going to concerts with other people,0.02,0.02,1.1
+33,Eating dinner on my own listening to podcasts,Going to NFL games with my significant other,0.03,0.02,4.4
+34,Practicing music in the house,Drawing with my younger siblings,0.04,0.02,3.3
+35,Cooking for myself,Going to concerts with other people,0.05,0.02,1.1
+36,Driving around town when the weather is nice,Watching soccer games at the nearby professional soccer stadium,0.01,0.03,3.3
+37,Relaxing beside the pool,Going to the lake to relax with my good friends,0.02,0.03,1.1
+38,Cooking for myself,Going to the museum with my family,0.03,0.03,1.1
+39,Driving around town when the weather is nice,Playing disc golf at the local park with my friends,0.04,0.03,3.3
+40,Eating dinner on my own listening to podcasts,Going out and try new restaurants with friends.,0.05,0.03,4.4
+41,Eating dinner on my own listening to podcasts,Going to the pet store with my dog and walk her around the store,0.01,0.04,1.1
+42,Doing the laundry,Cooking new meals that my friends haven't tried before,0.02,0.04,3.3
+43,Doing the laundry,Going out and try new restaurants with friends.,0.03,0.04,1.1
+44,Driving around town when the weather is nice,Drawing with my younger siblings,0.04,0.04,1.1
+45,Getting chores done,Cooking new meals that my friends haven't tried before,0.05,0.04,4.4
+46,Driving around town when the weather is nice,Going to NFL games with my significant other,0.01,0.05,8.8
+47,Eating dinner on my own listening to podcasts,Going to concerts with other people,0.02,0.05,1.1
+48,Getting chores done,Playing disc golf at the local park with my friends,0.03,0.05,4.4
+49,Relaxing beside the pool,Going to NFL games with my significant other,0.04,0.05,3.3
+50,Taking naps in my spare time,Playing disc golf at the local park with my friends,0.05,0.05,1.1
+51,Practicing music in the house,Watching soccer games at the nearby professional soccer stadium,0.01,0.01,1.1
+52,Practicing music in the house,Going out and try new restaurants with friends.,0.02,0.01,3.3
+53,Getting chores done,Going to the lake to relax with my good friends,0.03,0.01,1.1
+54,Taking naps in my spare time,Going out and try new restaurants with friends.,0.04,0.01,4.4
+55,Doing the laundry,Going to the museum with my family,0.05,0.01,1.1
+56,Relaxing beside the pool,Going to the pet store with my dog and walk her around the store,0.01,0.02,8.8
+57,Watching movies at the cinema alone,Going to NFL games with my significant other,0.02,0.02,4.4
+58,Relaxing beside the pool,Going out and try new restaurants with friends.,0.03,0.02,4.4
+59,Driving around town when the weather is nice,Going to the museum with my family,0.04,0.02,4.4
+60,Doing the laundry,Going to the lake to relax with my good friends,0.05,0.02,1.1
+61,Practicing music in the house,Cooking new meals that my friends haven't tried before,0.01,0.03,3.3
+62,Relaxing beside the pool,Drawing with my younger siblings,0.02,0.03,3.3
+63,Watching movies at the cinema alone,Playing disc golf at the local park with my friends,0.03,0.03,3.3
+64,Watching movies at the cinema alone,Cooking new meals that my friends haven't tried before,0.04,0.03,1.1
+65,Watching movies at the cinema alone,Going to the museum with my family,0.05,0.03,1.1
+66,Practicing music in the house,Going to concerts with other people,0.01,0.04,1.1
+67,Going to the local parks for walks,Going to the museum with my family,0.02,0.04,8.8
+68,Doing the laundry,Playing disc golf at the local park with my friends,0.03,0.04,4.4
+69,Going to the local parks for walks,Drawing with my younger siblings,0.04,0.04,1.1
+70,Cooking for myself,Cooking new meals that my friends haven't tried before,0.05,0.04,1.1
+71,Watching movies at the cinema alone,Going out and try new restaurants with friends.,0.01,0.05,3.3
+72,Practicing music in the house,Going to the museum with my family,0.02,0.05,8.8
+73,Practicing music in the house,Going to the pet store with my dog and walk her around the store,0.03,0.05,3.3
+74,Doing the laundry,Drawing with my younger siblings,0.04,0.05,4.4
+75,Driving around town when the weather is nice,Going to the pet store with my dog and walk her around the store,0.05,0.05,3.3
+76,Eating dinner on my own listening to podcasts,Cooking new meals that my friends haven't tried before,0.01,0.01,1.1
+77,Taking naps in my spare time,Going to the museum with my family,0.02,0.01,8.8
+78,Getting chores done,Going to concerts with other people,0.03,0.01,1.1
+79,Going to the local parks for walks,Going to the pet store with my dog and walk her around the store,0.04,0.01,1.1
+80,Doing the laundry,Going to concerts with other people,0.05,0.01,4.4
+81,Getting chores done,Watching soccer games at the nearby professional soccer stadium,0.01,0.02,3.3
+82,Practicing music in the house,Going to NFL games with my significant other,0.02,0.02,4.4
+83,Relaxing beside the pool,Playing disc golf at the local park with my friends,0.03,0.02,1.1
+84,Cooking for myself,Playing disc golf at the local park with my friends,0.04,0.02,3.3
+85,Driving around town when the weather is nice,Going to the lake to relax with my good friends,0.05,0.02,3.3
+86,Doing the laundry,Going to NFL games with my significant other,0.01,0.03,1.1
+87,Doing the laundry,Watching soccer games at the nearby professional soccer stadium,0.02,0.03,4.4
+88,Practicing music in the house,Going to the lake to relax with my good friends,0.03,0.03,1.1
+89,Getting chores done,Going to the museum with my family,0.04,0.03,3.3
+90,Watching movies at the cinema alone,Going to the pet store with my dog and walk her around the store,0.05,0.03,8.8
+91,Taking naps in my spare time,Going to concerts with other people,0.01,0.04,3.3
+92,Cooking for myself,Drawing with my younger siblings,0.02,0.04,8.8
+93,Going to the local parks for walks,Going out and try new restaurants with friends.,0.03,0.04,1.1
+94,Going to the local parks for walks,Going to the lake to relax with my good friends,0.04,0.04,4.4
+95,Watching movies at the cinema alone,Going to the lake to relax with my good friends,0.05,0.04,4.4
+96,Watching movies at the cinema alone,Drawing with my younger siblings,0.01,0.05,3.3
+97,Going to the local parks for walks,Watching soccer games at the nearby professional soccer stadium,0.02,0.05,1.1
+98,Practicing music in the house,Playing disc golf at the local park with my friends,0.03,0.05,1.1
+99,Going to the local parks for walks,Going to concerts with other people,0.04,0.05,3.3
+100,Getting chores done,Going to NFL games with my significant other,0.05,0.05,4.4

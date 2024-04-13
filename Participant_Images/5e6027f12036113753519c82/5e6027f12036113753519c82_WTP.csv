@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
-1,Playing video games on my PC,Shopping with friends,0.01,0.01,4.4
-2,Playing video games on my PC,Working on a game with my friends in our free time,0.02,0.01,8.8
-3,Redecorating my room multiple times a month,,0.03,0.01,3.3
-4,Redecorating my room multiple times a month,Learning new skills with my friends,0.04,0.01,1.1
-5,Working on my own video game in my free time,Cooking meals for my family and wife,0.05,0.01,1.1
-6,Redecorating my room multiple times a month,Shopping with friends,0.01,0.02,3.3
-7,Redecorating my room multiple times a month,Working on a game with my friends in our free time,0.02,0.02,1.1
-8,Working on my own video game in my free time,Working on a game with my friends in our free time,0.03,0.02,1.1
-9,Practicing coding,Cooking meals for my family and wife,0.04,0.02,4.4
-10,Binge watching 1 anime a week,Watching movies with my wife,0.05,0.02,1.1
-11,Sketch drawing in my free time,Giving gifts to my friends and family,0.01,0.03,3.3
-12,Collecting coins from different places in the world and keeping them in a case,Shopping with friends,0.02,0.03,4.4
-13,Cooking new recipes for myself a once a week,Working on a game with my friends in our free time,0.03,0.03,1.1
-14,Binge watching 1 anime a week,Traveling with my friends,0.04,0.03,3.3
-15,Sketch drawing in my free time,Playing Stardew Valley with my wife,0.05,0.03,4.4
-16,Binge watching 1 anime a week,Playing hockey with my friends,0.01,0.04,1.1
-17,Watching youtube videos of cats,Working on a game with my friends in our free time,0.02,0.04,8.8
-18,Collecting coins from different places in the world and keeping them in a case,Working on a game with my friends in our free time,0.03,0.04,3.3
-19,Watching youtube videos of cats,Learning new skills with my friends,0.04,0.04,3.3
-20,Working on my own video game in my free time,Giving gifts to my friends and family,0.05,0.04,1.1
-21,Redecorating my room multiple times a month,Cooking meals for my family and wife,0.01,0.05,8.8
-22,Collecting coins from different places in the world and keeping them in a case,Learning new skills with my friends,0.02,0.05,4.4
-23,Going metal detecting at least twice a month,Traveling with my friends,0.03,0.05,1.1
-24,Going metal detecting at least twice a month,Playing hockey with my friends,0.04,0.05,4.4
-25,Going metal detecting at least twice a month,Working on a game with my friends in our free time,0.05,0.05,3.3
-26,Sketch drawing in my free time,Watching movies with my wife,0.01,0.01,4.4
-27,Watching youtube videos of cats,Playing hockey with my friends,0.02,0.01,3.3
-28,Sketch drawing in my free time,Learning new skills with my friends,0.03,0.01,3.3
-29,Watching youtube videos of cats,Watching movies with my wife,0.04,0.01,4.4
-30,Binge watching 1 anime a week,Playing Stardew Valley with my wife,0.05,0.01,8.8
-31,Playing video games on my PC,Traveling with my friends,0.01,0.02,8.8
-32,Sketch drawing in my free time,Shopping with friends,0.02,0.02,1.1
-33,Redecorating my room multiple times a month,Playing Stardew Valley with my wife,0.03,0.02,4.4
-34,Going metal detecting at least twice a month,Watching movies with my wife,0.04,0.02,3.3
-35,Collecting coins from different places in the world and keeping them in a case,,0.05,0.02,1.1
-36,Practicing coding,Learning new skills with my friends,0.01,0.03,3.3
-37,Working on my own video game in my free time,,0.02,0.03,1.1
-38,Working on my own video game in my free time,Shopping with friends,0.03,0.03,1.1
-39,Redecorating my room multiple times a month,Playing hockey with my friends,0.04,0.03,3.3
-40,Collecting coins from different places in the world and keeping them in a case,Playing Stardew Valley with my wife,0.05,0.03,4.4
-41,Sketch drawing in my free time,Playing hockey with my friends,0.01,0.04,1.1
-42,Going metal detecting at least twice a month,Playing Stardew Valley with my wife,0.02,0.04,3.3
-43,Practicing coding,Playing hockey with my friends,0.03,0.04,1.1
-44,Working on my own video game in my free time,Watching movies with my wife,0.04,0.04,1.1
-45,Cooking new recipes for myself a once a week,Shopping with friends,0.05,0.04,4.4
-46,Watching youtube videos of cats,,0.01,0.05,8.8
-47,Playing video games on my PC,Learning new skills with my friends,0.02,0.05,1.1
-48,Going metal detecting at least twice a month,Shopping with friends,0.03,0.05,4.4
-49,Watching youtube videos of cats,Cooking meals for my family and wife,0.04,0.05,3.3
-50,Watching youtube videos of cats,Playing Stardew Valley with my wife,0.05,0.05,1.1
-51,Cooking new recipes for myself a once a week,,0.01,0.01,1.1
-52,Sketch drawing in my free time,,0.02,0.01,3.3
-53,Practicing coding,Shopping with friends,0.03,0.01,1.1
-54,Playing video games on my PC,Giving gifts to my friends and family,0.04,0.01,4.4
-55,Working on my own video game in my free time,Learning new skills with my friends,0.05,0.01,1.1
-56,Watching youtube videos of cats,Traveling with my friends,0.01,0.02,8.8
-57,Practicing coding,Playing Stardew Valley with my wife,0.02,0.02,4.4
-58,Binge watching 1 anime a week,Cooking meals for my family and wife,0.03,0.02,4.4
-59,Playing video games on my PC,Playing Stardew Valley with my wife,0.04,0.02,4.4
-60,Playing video games on my PC,Cooking meals for my family and wife,0.05,0.02,1.1
-61,Collecting coins from different places in the world and keeping them in a case,Watching movies with my wife,0.01,0.03,3.3
-62,Cooking new recipes for myself a once a week,Traveling with my friends,0.02,0.03,3.3
-63,Binge watching 1 anime a week,Learning new skills with my friends,0.03,0.03,3.3
-64,Cooking new recipes for myself a once a week,Playing Stardew Valley with my wife,0.04,0.03,1.1
-65,Watching youtube videos of cats,Giving gifts to my friends and family,0.05,0.03,1.1
-66,Sketch drawing in my free time,Working on a game with my friends in our free time,0.01,0.04,1.1
-67,Going metal detecting at least twice a month,,0.02,0.04,8.8
-68,Practicing coding,,0.03,0.04,4.4
-69,Sketch drawing in my free time,Traveling with my friends,0.04,0.04,1.1
-70,Working on my own video game in my free time,Playing Stardew Valley with my wife,0.05,0.04,1.1
-71,Cooking new recipes for myself a once a week,Watching movies with my wife,0.01,0.05,3.3
-72,Working on my own video game in my free time,Traveling with my friends,0.02,0.05,8.8
-73,Collecting coins from different places in the world and keeping them in a case,Giving gifts to my friends and family,0.03,0.05,3.3
-74,Playing video games on my PC,,0.04,0.05,4.4
-75,Cooking new recipes for myself a once a week,Learning new skills with my friends,0.05,0.05,3.3
-76,Practicing coding,Working on a game with my friends in our free time,0.01,0.01,1.1
-77,Binge watching 1 anime a week,Working on a game with my friends in our free time,0.02,0.01,8.8
-78,Redecorating my room multiple times a month,Traveling with my friends,0.03,0.01,1.1
-79,Playing video games on my PC,Watching movies with my wife,0.04,0.01,1.1
-80,Watching youtube videos of cats,Shopping with friends,0.05,0.01,4.4
-81,Working on my own video game in my free time,Playing hockey with my friends,0.01,0.02,3.3
-82,Going metal detecting at least twice a month,Learning new skills with my friends,0.02,0.02,4.4
-83,Practicing coding,Traveling with my friends,0.03,0.02,1.1
-84,Collecting coins from different places in the world and keeping them in a case,Traveling with my friends,0.04,0.02,3.3
-85,Redecorating my room multiple times a month,Giving gifts to my friends and family,0.05,0.02,3.3
-86,Collecting coins from different places in the world and keeping them in a case,Cooking meals for my family and wife,0.01,0.03,1.1
-87,Playing video games on my PC,Playing hockey with my friends,0.02,0.03,4.4
-88,Binge watching 1 anime a week,Shopping with friends,0.03,0.03,1.1
-89,Going metal detecting at least twice a month,Giving gifts to my friends and family,0.04,0.03,3.3
-90,Binge watching 1 anime a week,,0.05,0.03,8.8
-91,Cooking new recipes for myself a once a week,Cooking meals for my family and wife,0.01,0.04,3.3
-92,Sketch drawing in my free time,Cooking meals for my family and wife,0.02,0.04,8.8
-93,Redecorating my room multiple times a month,Watching movies with my wife,0.03,0.04,1.1
-94,Binge watching 1 anime a week,Giving gifts to my friends and family,0.04,0.04,4.4
-95,Cooking new recipes for myself a once a week,Giving gifts to my friends and family,0.05,0.04,4.4
-96,Practicing coding,Watching movies with my wife,0.01,0.05,3.3
-97,Collecting coins from different places in the world and keeping them in a case,Playing hockey with my friends,0.02,0.05,1.1
-98,Going metal detecting at least twice a month,Cooking meals for my family and wife,0.03,0.05,1.1
-99,Cooking new recipes for myself a once a week,Playing hockey with my friends,0.04,0.05,3.3
-100,Practicing coding,Giving gifts to my friends and family,0.05,0.05,4.4
+1,Watching youtube videos of cats,Learning new skills with my friends,0.01,0.01,4.4
+2,Working on my own video game in my free time,Giving gifts to my friends and family,0.02,0.01,8.8
+3,Sketch drawing in my free time,Giving gifts to my friends and family,0.03,0.01,3.3
+4,Cooking new recipes for myself a once a week,Watching movies with my wife,0.04,0.01,1.1
+5,Collecting coins from different places in the world and keeping them in a case,Giving gifts to my friends and family,0.05,0.01,1.1
+6,Working on my own video game in my free time,Watching movies with my wife,0.01,0.02,3.3
+7,Redecorating my room multiple times a month,Playing hockey with my friends,0.02,0.02,1.1
+8,Cooking new recipes for myself a once a week,Working on a game with my friends in our free time,0.03,0.02,1.1
+9,Sketch drawing in my free time,Traveling with my friends,0.04,0.02,4.4
+10,Going metal detecting at least twice a month,Playing hockey with my friends,0.05,0.02,1.1
+11,Working on my own video game in my free time,Playing hockey with my friends,0.01,0.03,3.3
+12,Binge watching 1 anime a week,Traveling with my friends,0.02,0.03,4.4
+13,Going metal detecting at least twice a month,Giving gifts to my friends and family,0.03,0.03,1.1
+14,Working on my own video game in my free time,Learning new skills with my friends,0.04,0.03,3.3
+15,Practicing coding,Playing Stardew Valley with my wife,0.05,0.03,4.4
+16,Practicing coding,Playing video games with my friends,0.01,0.04,1.1
+17,Sketch drawing in my free time,Playing video games with my friends,0.02,0.04,8.8
+18,Cooking new recipes for myself a once a week,Playing video games with my friends,0.03,0.04,3.3
+19,Playing video games on my PC,Cooking meals for my family and wife,0.04,0.04,3.3
+20,Sketch drawing in my free time,Watching movies with my wife,0.05,0.04,1.1
+21,Cooking new recipes for myself a once a week,Playing Stardew Valley with my wife,0.01,0.05,8.8
+22,Playing video games on my PC,Learning new skills with my friends,0.02,0.05,4.4
+23,Watching youtube videos of cats,Watching movies with my wife,0.03,0.05,1.1
+24,Going metal detecting at least twice a month,Watching movies with my wife,0.04,0.05,4.4
+25,Binge watching 1 anime a week,Shopping with friends,0.05,0.05,3.3
+26,Sketch drawing in my free time,Working on a game with my friends in our free time,0.01,0.01,4.4
+27,Redecorating my room multiple times a month,Working on a game with my friends in our free time,0.02,0.01,3.3
+28,Going metal detecting at least twice a month,Cooking meals for my family and wife,0.03,0.01,3.3
+29,Practicing coding,Watching movies with my wife,0.04,0.01,4.4
+30,Playing video games on my PC,Playing hockey with my friends,0.05,0.01,8.8
+31,Practicing coding,Working on a game with my friends in our free time,0.01,0.02,8.8
+32,Working on my own video game in my free time,Working on a game with my friends in our free time,0.02,0.02,1.1
+33,Working on my own video game in my free time,Cooking meals for my family and wife,0.03,0.02,4.4
+34,Working on my own video game in my free time,Playing video games with my friends,0.04,0.02,3.3
+35,Redecorating my room multiple times a month,Giving gifts to my friends and family,0.05,0.02,1.1
+36,Working on my own video game in my free time,Shopping with friends,0.01,0.03,3.3
+37,Watching youtube videos of cats,Playing Stardew Valley with my wife,0.02,0.03,1.1
+38,Sketch drawing in my free time,Learning new skills with my friends,0.03,0.03,1.1
+39,Watching youtube videos of cats,Traveling with my friends,0.04,0.03,3.3
+40,Watching youtube videos of cats,Shopping with friends,0.05,0.03,4.4
+41,Binge watching 1 anime a week,Cooking meals for my family and wife,0.01,0.04,1.1
+42,Redecorating my room multiple times a month,Traveling with my friends,0.02,0.04,3.3
+43,Playing video games on my PC,Shopping with friends,0.03,0.04,1.1
+44,Collecting coins from different places in the world and keeping them in a case,Traveling with my friends,0.04,0.04,1.1
+45,Redecorating my room multiple times a month,Cooking meals for my family and wife,0.05,0.04,4.4
+46,Collecting coins from different places in the world and keeping them in a case,Shopping with friends,0.01,0.05,8.8
+47,Playing video games on my PC,Playing video games with my friends,0.02,0.05,1.1
+48,Going metal detecting at least twice a month,Playing Stardew Valley with my wife,0.03,0.05,4.4
+49,Binge watching 1 anime a week,Playing Stardew Valley with my wife,0.04,0.05,3.3
+50,Redecorating my room multiple times a month,Learning new skills with my friends,0.05,0.05,1.1
+51,Cooking new recipes for myself a once a week,Playing hockey with my friends,0.01,0.01,1.1
+52,Binge watching 1 anime a week,Giving gifts to my friends and family,0.02,0.01,3.3
+53,Watching youtube videos of cats,Giving gifts to my friends and family,0.03,0.01,1.1
+54,Cooking new recipes for myself a once a week,Shopping with friends,0.04,0.01,4.4
+55,Playing video games on my PC,Giving gifts to my friends and family,0.05,0.01,1.1
+56,Working on my own video game in my free time,Traveling with my friends,0.01,0.02,8.8
+57,Practicing coding,Traveling with my friends,0.02,0.02,4.4
+58,Collecting coins from different places in the world and keeping them in a case,Watching movies with my wife,0.03,0.02,4.4
+59,Practicing coding,Playing hockey with my friends,0.04,0.02,4.4
+60,Cooking new recipes for myself a once a week,Giving gifts to my friends and family,0.05,0.02,1.1
+61,Sketch drawing in my free time,Playing hockey with my friends,0.01,0.03,3.3
+62,Practicing coding,Giving gifts to my friends and family,0.02,0.03,3.3
+63,Redecorating my room multiple times a month,Playing Stardew Valley with my wife,0.03,0.03,3.3
+64,Playing video games on my PC,Watching movies with my wife,0.04,0.03,1.1
+65,Working on my own video game in my free time,Playing Stardew Valley with my wife,0.05,0.03,1.1
+66,Watching youtube videos of cats,Playing video games with my friends,0.01,0.04,1.1
+67,Going metal detecting at least twice a month,Traveling with my friends,0.02,0.04,8.8
+68,Binge watching 1 anime a week,Watching movies with my wife,0.03,0.04,4.4
+69,Binge watching 1 anime a week,Learning new skills with my friends,0.04,0.04,1.1
+70,Going metal detecting at least twice a month,Working on a game with my friends in our free time,0.05,0.04,1.1
+71,Collecting coins from different places in the world and keeping them in a case,Playing Stardew Valley with my wife,0.01,0.05,3.3
+72,Redecorating my room multiple times a month,Shopping with friends,0.02,0.05,8.8
+73,Practicing coding,Cooking meals for my family and wife,0.03,0.05,3.3
+74,Redecorating my room multiple times a month,Watching movies with my wife,0.04,0.05,4.4
+75,Redecorating my room multiple times a month,Playing video games with my friends,0.05,0.05,3.3
+76,Sketch drawing in my free time,Cooking meals for my family and wife,0.01,0.01,1.1
+77,Practicing coding,Learning new skills with my friends,0.02,0.01,8.8
+78,Collecting coins from different places in the world and keeping them in a case,Learning new skills with my friends,0.03,0.01,1.1
+79,Sketch drawing in my free time,Shopping with friends,0.04,0.01,1.1
+80,Watching youtube videos of cats,Cooking meals for my family and wife,0.05,0.01,4.4
+81,Collecting coins from different places in the world and keeping them in a case,Working on a game with my friends in our free time,0.01,0.02,3.3
+82,Cooking new recipes for myself a once a week,Traveling with my friends,0.02,0.02,4.4
+83,Practicing coding,Shopping with friends,0.03,0.02,1.1
+84,Going metal detecting at least twice a month,Shopping with friends,0.04,0.02,3.3
+85,Collecting coins from different places in the world and keeping them in a case,Playing video games with my friends,0.05,0.02,3.3
+86,Playing video games on my PC,Traveling with my friends,0.01,0.03,1.1
+87,Playing video games on my PC,Working on a game with my friends in our free time,0.02,0.03,4.4
+88,Binge watching 1 anime a week,Working on a game with my friends in our free time,0.03,0.03,1.1
+89,Going metal detecting at least twice a month,Learning new skills with my friends,0.04,0.03,3.3
+90,Going metal detecting at least twice a month,Playing video games with my friends,0.05,0.03,8.8
+91,Watching youtube videos of cats,Working on a game with my friends in our free time,0.01,0.04,3.3
+92,Sketch drawing in my free time,Playing Stardew Valley with my wife,0.02,0.04,8.8
+93,Collecting coins from different places in the world and keeping them in a case,Playing hockey with my friends,0.03,0.04,1.1
+94,Playing video games on my PC,Playing Stardew Valley with my wife,0.04,0.04,4.4
+95,Collecting coins from different places in the world and keeping them in a case,Cooking meals for my family and wife,0.05,0.04,4.4
+96,Cooking new recipes for myself a once a week,Cooking meals for my family and wife,0.01,0.05,3.3
+97,Binge watching 1 anime a week,Playing hockey with my friends,0.02,0.05,1.1
+98,Cooking new recipes for myself a once a week,Learning new skills with my friends,0.03,0.05,1.1
+99,Binge watching 1 anime a week,Playing video games with my friends,0.04,0.05,3.3
+100,Watching youtube videos of cats,Playing hockey with my friends,0.05,0.05,4.4

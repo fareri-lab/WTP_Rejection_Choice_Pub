@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
-1,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.01,0.01,4.4
-2,Reading romance novels on the beach when its 80 degrees and sunny,Going to our favorite baseball team's games at least once a week with my husband,0.02,0.01,8.8
-3,Scrolling through my camera roll and reminiscing late at night,Calls with my mom on our way home from work and talking the entire drive,0.03,0.01,3.3
-4,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Going to our favorite baseball team's games at least once a week with my husband,0.04,0.01,1.1
-5,Reading romance novels on the beach when its 80 degrees and sunny,Girls weekend trips with my sister each summer to somewhere new,0.05,0.01,1.1
-6,Riding my horse on freshly smooth dirt alone in an outdoor arena,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.01,0.02,3.3
-7,Putting clothes away in my dimly lit bedroom while I watch TV,Girls weekend trips with my sister each summer to somewhere new,0.02,0.02,1.1
-8,Playing strategy games online while wrapped up in a blanket on my couch,Walking to Starbucks with my coworkers every Wednesday morning,0.03,0.02,1.1
-9,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Calls with my mom on our way home from work and talking the entire drive,0.04,0.02,4.4
-10,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Calls with my mom on our way home from work and talking the entire drive,0.05,0.02,1.1
-11,Putting clothes away in my dimly lit bedroom while I watch TV,Monthly family game nights where we eat snacks and play board games,0.01,0.03,3.3
-12,Doing large puzzles while sipping on a cup of tea,,0.02,0.03,4.4
-13,Doing large puzzles while sipping on a cup of tea,Playing in a recreational soccer league each week with friends,0.03,0.03,1.1
-14,Playing strategy games online while wrapped up in a blanket on my couch,Playing in a recreational soccer league each week with friends,0.04,0.03,3.3
-15,Riding my horse on freshly smooth dirt alone in an outdoor arena,Going to our favorite baseball team's games at least once a week with my husband,0.05,0.03,4.4
-16,Playing strategy games online while wrapped up in a blanket on my couch,Going to our favorite baseball team's games at least once a week with my husband,0.01,0.04,1.1
-17,Reading romance novels on the beach when its 80 degrees and sunny,Playing in a recreational soccer league each week with friends,0.02,0.04,8.8
-18,Reading romance novels on the beach when its 80 degrees and sunny,Monthly family game nights where we eat snacks and play board games,0.03,0.04,3.3
-19,Taking a long hot shower with music blasting,Monthly family game nights where we eat snacks and play board games,0.04,0.04,3.3
-20,Reading romance novels on the beach when its 80 degrees and sunny,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.05,0.04,1.1
-21,Doing the daily NYT crossword while laying in bed just before going to sleep,,0.01,0.05,8.8
-22,Doing large puzzles while sipping on a cup of tea,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.02,0.05,4.4
-23,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Girls weekend trips with my sister each summer to somewhere new,0.03,0.05,1.1
-24,Doing large puzzles while sipping on a cup of tea,Walking to Starbucks with my coworkers every Wednesday morning,0.04,0.05,4.4
-25,Scrolling through my camera roll and reminiscing late at night,Girls weekend trips with my sister each summer to somewhere new,0.05,0.05,3.3
-26,Taking a long hot shower with music blasting,Girls weekend trips with my sister each summer to somewhere new,0.01,0.01,4.4
-27,Scrolling through my camera roll and reminiscing late at night,Walking to Starbucks with my coworkers every Wednesday morning,0.02,0.01,3.3
-28,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Going to horse shows with my friends and cheer each other on when we compete,0.03,0.01,3.3
-29,Riding my horse on freshly smooth dirt alone in an outdoor arena,Girls weekend trips with my sister each summer to somewhere new,0.04,0.01,4.4
-30,Reading romance novels on the beach when its 80 degrees and sunny,Walking to Starbucks with my coworkers every Wednesday morning,0.05,0.01,8.8
-31,Playing strategy games online while wrapped up in a blanket on my couch,Going to horse shows with my friends and cheer each other on when we compete,0.01,0.02,8.8
-32,Scrolling through my camera roll and reminiscing late at night,Going to horse shows with my friends and cheer each other on when we compete,0.02,0.02,1.1
-33,Playing strategy games online while wrapped up in a blanket on my couch,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.03,0.02,4.4
-34,Putting clothes away in my dimly lit bedroom while I watch TV,,0.04,0.02,3.3
-35,Doing the daily NYT crossword while laying in bed just before going to sleep,Going to horse shows with my friends and cheer each other on when we compete,0.05,0.02,1.1
-36,Putting clothes away in my dimly lit bedroom while I watch TV,Calls with my mom on our way home from work and talking the entire drive,0.01,0.03,3.3
-37,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Playing in a recreational soccer league each week with friends,0.02,0.03,1.1
-38,Riding my horse on freshly smooth dirt alone in an outdoor arena,,0.03,0.03,1.1
-39,Putting clothes away in my dimly lit bedroom while I watch TV,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.04,0.03,3.3
-40,Taking a long hot shower with music blasting,,0.05,0.03,4.4
-41,Putting clothes away in my dimly lit bedroom while I watch TV,Walking to Starbucks with my coworkers every Wednesday morning,0.01,0.04,1.1
-42,Doing the daily NYT crossword while laying in bed just before going to sleep,Trying out new two player strategy games for date nights with my husband,0.02,0.04,3.3
-43,Riding my horse on freshly smooth dirt alone in an outdoor arena,Monthly family game nights where we eat snacks and play board games,0.03,0.04,1.1
-44,Scrolling through my camera roll and reminiscing late at night,Going to our favorite baseball team's games at least once a week with my husband,0.04,0.04,1.1
-45,Taking a long hot shower with music blasting,Trying out new two player strategy games for date nights with my husband,0.05,0.04,4.4
-46,Reading romance novels on the beach when its 80 degrees and sunny,Going to horse shows with my friends and cheer each other on when we compete,0.01,0.05,8.8
-47,Reading romance novels on the beach when its 80 degrees and sunny,,0.02,0.05,1.1
-48,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Going to horse shows with my friends and cheer each other on when we compete,0.03,0.05,4.4
-49,Riding my horse on freshly smooth dirt alone in an outdoor arena,Trying out new two player strategy games for date nights with my husband,0.04,0.05,3.3
-50,Taking a long hot shower with music blasting,Going to our favorite baseball team's games at least once a week with my husband,0.05,0.05,1.1
-51,Doing large puzzles while sipping on a cup of tea,Calls with my mom on our way home from work and talking the entire drive,0.01,0.01,1.1
-52,Doing large puzzles while sipping on a cup of tea,Going to horse shows with my friends and cheer each other on when we compete,0.02,0.01,3.3
-53,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.03,0.01,1.1
-54,Scrolling through my camera roll and reminiscing late at night,,0.04,0.01,4.4
-55,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Trying out new two player strategy games for date nights with my husband,0.05,0.01,1.1
-56,Falling asleep to superhero movies that I've already seen on the couch with the windows open,,0.01,0.02,8.8
-57,Riding my horse on freshly smooth dirt alone in an outdoor arena,Going to horse shows with my friends and cheer each other on when we compete,0.02,0.02,4.4
-58,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Girls weekend trips with my sister each summer to somewhere new,0.03,0.02,4.4
-59,Doing large puzzles while sipping on a cup of tea,Monthly family game nights where we eat snacks and play board games,0.04,0.02,4.4
-60,Doing large puzzles while sipping on a cup of tea,Going to our favorite baseball team's games at least once a week with my husband,0.05,0.02,1.1
-61,Playing strategy games online while wrapped up in a blanket on my couch,Monthly family game nights where we eat snacks and play board games,0.01,0.03,3.3
-62,Doing the daily NYT crossword while laying in bed just before going to sleep,Monthly family game nights where we eat snacks and play board games,0.02,0.03,3.3
-63,Doing the daily NYT crossword while laying in bed just before going to sleep,Walking to Starbucks with my coworkers every Wednesday morning,0.03,0.03,3.3
-64,Doing the daily NYT crossword while laying in bed just before going to sleep,Playing in a recreational soccer league each week with friends,0.04,0.03,1.1
-65,Putting clothes away in my dimly lit bedroom while I watch TV,Going to our favorite baseball team's games at least once a week with my husband,0.05,0.03,1.1
-66,Reading romance novels on the beach when its 80 degrees and sunny,Calls with my mom on our way home from work and talking the entire drive,0.01,0.04,1.1
-67,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Monthly family game nights where we eat snacks and play board games,0.02,0.04,8.8
-68,Doing the daily NYT crossword while laying in bed just before going to sleep,Calls with my mom on our way home from work and talking the entire drive,0.03,0.04,4.4
-69,Taking a long hot shower with music blasting,Playing in a recreational soccer league each week with friends,0.04,0.04,1.1
-70,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Monthly family game nights where we eat snacks and play board games,0.05,0.04,1.1
-71,Playing strategy games online while wrapped up in a blanket on my couch,Trying out new two player strategy games for date nights with my husband,0.01,0.05,3.3
-72,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Trying out new two player strategy games for date nights with my husband,0.02,0.05,8.8
-73,Playing strategy games online while wrapped up in a blanket on my couch,Calls with my mom on our way home from work and talking the entire drive,0.03,0.05,3.3
-74,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Playing in a recreational soccer league each week with friends,0.04,0.05,4.4
-75,Taking a long hot shower with music blasting,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.05,0.05,3.3
-76,Putting clothes away in my dimly lit bedroom while I watch TV,Trying out new two player strategy games for date nights with my husband,0.01,0.01,1.1
-77,Taking a long hot shower with music blasting,Walking to Starbucks with my coworkers every Wednesday morning,0.02,0.01,8.8
-78,Scrolling through my camera roll and reminiscing late at night,Monthly family game nights where we eat snacks and play board games,0.03,0.01,1.1
-79,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Going to our favorite baseball team's games at least once a week with my husband,0.04,0.01,1.1
-80,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Walking to Starbucks with my coworkers every Wednesday morning,0.05,0.01,4.4
-81,Taking a long hot shower with music blasting,Going to horse shows with my friends and cheer each other on when we compete,0.01,0.02,3.3
-82,Playing strategy games online while wrapped up in a blanket on my couch,,0.02,0.02,4.4
-83,Doing large puzzles while sipping on a cup of tea,Girls weekend trips with my sister each summer to somewhere new,0.03,0.02,1.1
-84,Riding my horse on freshly smooth dirt alone in an outdoor arena,Walking to Starbucks with my coworkers every Wednesday morning,0.04,0.02,3.3
-85,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,,0.05,0.02,3.3
-86,Scrolling through my camera roll and reminiscing late at night,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.01,0.03,1.1
-87,Scrolling through my camera roll and reminiscing late at night,Playing in a recreational soccer league each week with friends,0.02,0.03,4.4
-88,Doing the daily NYT crossword while laying in bed just before going to sleep,Girls weekend trips with my sister each summer to somewhere new,0.03,0.03,1.1
-89,Scrolling through my camera roll and reminiscing late at night,Trying out new two player strategy games for date nights with my husband,0.04,0.03,3.3
-90,Reading romance novels on the beach when its 80 degrees and sunny,Trying out new two player strategy games for date nights with my husband,0.05,0.03,8.8
-91,Putting clothes away in my dimly lit bedroom while I watch TV,Playing in a recreational soccer league each week with friends,0.01,0.04,3.3
-92,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Walking to Starbucks with my coworkers every Wednesday morning,0.02,0.04,8.8
-93,Riding my horse on freshly smooth dirt alone in an outdoor arena,Calls with my mom on our way home from work and talking the entire drive,0.03,0.04,1.1
-94,Riding my horse on freshly smooth dirt alone in an outdoor arena,Playing in a recreational soccer league each week with friends,0.04,0.04,4.4
-95,Doing the daily NYT crossword while laying in bed just before going to sleep,Going to our favorite baseball team's games at least once a week with my husband,0.05,0.04,4.4
-96,Doing the daily NYT crossword while laying in bed just before going to sleep,Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.01,0.05,3.3
-97,Taking a long hot shower with music blasting,Calls with my mom on our way home from work and talking the entire drive,0.02,0.05,1.1
-98,Playing strategy games online while wrapped up in a blanket on my couch,Girls weekend trips with my sister each summer to somewhere new,0.03,0.05,1.1
-99,Putting clothes away in my dimly lit bedroom while I watch TV,Going to horse shows with my friends and cheer each other on when we compete,0.04,0.05,3.3
-100,Doing large puzzles while sipping on a cup of tea,Trying out new two player strategy games for date nights with my husband,0.05,0.05,4.4
+1,Riding my horse on freshly smooth dirt alone in an outdoor arena,Trying out new two player strategy games for date nights with my husband,0.01,0.01,4.4
+2,Doing the daily NYT crossword while laying in bed just before going to sleep,Girls weekend trips with my sister each summer to somewhere new,0.02,0.01,8.8
+3,Reading romance novels on the beach when its 80 degrees and sunny,Going to our favorite baseball team's games at least once a week with my husband,0.03,0.01,3.3
+4,Doing the daily NYT crossword while laying in bed just before going to sleep,Traveling the world with my best friend and stopping at every coffee shop we find,0.04,0.01,1.1
+5,Scrolling through my camera roll and reminiscing late at night,Going to horse shows with my friends and cheer each other on when we compete ,0.05,0.01,1.1
+6,Taking a long hot shower with music blasting,Traveling the world with my best friend and stopping at every coffee shop we find,0.01,0.02,3.3
+7,Riding my horse on freshly smooth dirt alone in an outdoor arena,Playing in a recreational soccer league each week with friends,0.02,0.02,1.1
+8,Scrolling through my camera roll and reminiscing late at night,Playing in a recreational soccer league each week with friends,0.03,0.02,1.1
+9,Putting clothes away in my dimly lit bedroom while I watch TV,Calls with my mom on our way home from work and talking the entire drive,0.04,0.02,4.4
+10,Doing the daily NYT crossword while laying in bed just before going to sleep, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.05,0.02,1.1
+11,Doing large puzzles while sipping on a cup of tea,Playing in a recreational soccer league each week with friends,0.01,0.03,3.3
+12,Taking a long hot shower with music blasting,Walking to Starbucks with my coworkers every Wednesday morning,0.02,0.03,4.4
+13,Riding my horse on freshly smooth dirt alone in an outdoor arena,Traveling the world with my best friend and stopping at every coffee shop we find,0.03,0.03,1.1
+14,Doing the daily NYT crossword while laying in bed just before going to sleep,Going to horse shows with my friends and cheer each other on when we compete ,0.04,0.03,3.3
+15,Reading romance novels on the beach when its 80 degrees and sunny,Traveling the world with my best friend and stopping at every coffee shop we find,0.05,0.03,4.4
+16,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Traveling the world with my best friend and stopping at every coffee shop we find,0.01,0.04,1.1
+17,Doing large puzzles while sipping on a cup of tea, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.02,0.04,8.8
+18,Doing large puzzles while sipping on a cup of tea,Girls weekend trips with my sister each summer to somewhere new,0.03,0.04,3.3
+19,Scrolling through my camera roll and reminiscing late at night,Monthly family game nights where we eat snacks and play board games,0.04,0.04,3.3
+20,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Traveling the world with my best friend and stopping at every coffee shop we find,0.05,0.04,1.1
+21,Putting clothes away in my dimly lit bedroom while I watch TV,Playing in a recreational soccer league each week with friends,0.01,0.05,8.8
+22,Reading romance novels on the beach when its 80 degrees and sunny,Playing in a recreational soccer league each week with friends,0.02,0.05,4.4
+23,Taking a long hot shower with music blasting,Trying out new two player strategy games for date nights with my husband,0.03,0.05,1.1
+24,Reading romance novels on the beach when its 80 degrees and sunny,Trying out new two player strategy games for date nights with my husband,0.04,0.05,4.4
+25,Playing strategy games online while wrapped up in a blanket on my couch,Traveling the world with my best friend and stopping at every coffee shop we find,0.05,0.05,3.3
+26,Reading romance novels on the beach when its 80 degrees and sunny,Girls weekend trips with my sister each summer to somewhere new,0.01,0.01,4.4
+27,Riding my horse on freshly smooth dirt alone in an outdoor arena, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.02,0.01,3.3
+28,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Trying out new two player strategy games for date nights with my husband,0.03,0.01,3.3
+29,Putting clothes away in my dimly lit bedroom while I watch TV,Trying out new two player strategy games for date nights with my husband,0.04,0.01,4.4
+30,Scrolling through my camera roll and reminiscing late at night,Calls with my mom on our way home from work and talking the entire drive,0.05,0.01,8.8
+31,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Calls with my mom on our way home from work and talking the entire drive,0.01,0.02,8.8
+32,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Going to horse shows with my friends and cheer each other on when we compete ,0.02,0.02,1.1
+33,Scrolling through my camera roll and reminiscing late at night,Traveling the world with my best friend and stopping at every coffee shop we find,0.03,0.02,4.4
+34,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Walking to Starbucks with my coworkers every Wednesday morning,0.04,0.02,3.3
+35,Taking a long hot shower with music blasting,Girls weekend trips with my sister each summer to somewhere new,0.05,0.02,1.1
+36,Doing large puzzles while sipping on a cup of tea,Going to our favorite baseball team's games at least once a week with my husband,0.01,0.03,3.3
+37,Playing strategy games online while wrapped up in a blanket on my couch,Trying out new two player strategy games for date nights with my husband,0.02,0.03,1.1
+38,Putting clothes away in my dimly lit bedroom while I watch TV,Girls weekend trips with my sister each summer to somewhere new,0.03,0.03,1.1
+39,Scrolling through my camera roll and reminiscing late at night,Walking to Starbucks with my coworkers every Wednesday morning,0.04,0.03,3.3
+40,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Playing in a recreational soccer league each week with friends,0.05,0.03,4.4
+41,Doing large puzzles while sipping on a cup of tea,Trying out new two player strategy games for date nights with my husband,0.01,0.04,1.1
+42,Scrolling through my camera roll and reminiscing late at night,Going to our favorite baseball team's games at least once a week with my husband,0.02,0.04,3.3
+43,Riding my horse on freshly smooth dirt alone in an outdoor arena,Calls with my mom on our way home from work and talking the entire drive,0.03,0.04,1.1
+44,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Going to our favorite baseball team's games at least once a week with my husband,0.04,0.04,1.1
+45,Scrolling through my camera roll and reminiscing late at night,Girls weekend trips with my sister each summer to somewhere new,0.05,0.04,4.4
+46,Putting clothes away in my dimly lit bedroom while I watch TV,Going to horse shows with my friends and cheer each other on when we compete ,0.01,0.05,8.8
+47,Putting clothes away in my dimly lit bedroom while I watch TV,Traveling the world with my best friend and stopping at every coffee shop we find,0.02,0.05,1.1
+48,Playing strategy games online while wrapped up in a blanket on my couch,Playing in a recreational soccer league each week with friends,0.03,0.05,4.4
+49,Reading romance novels on the beach when its 80 degrees and sunny,Going to horse shows with my friends and cheer each other on when we compete ,0.04,0.05,3.3
+50,Doing the daily NYT crossword while laying in bed just before going to sleep,Playing in a recreational soccer league each week with friends,0.05,0.05,1.1
+51,Doing large puzzles while sipping on a cup of tea,Going to horse shows with my friends and cheer each other on when we compete ,0.01,0.01,1.1
+52,Doing the daily NYT crossword while laying in bed just before going to sleep,Calls with my mom on our way home from work and talking the entire drive,0.02,0.01,3.3
+53,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Girls weekend trips with my sister each summer to somewhere new,0.03,0.01,1.1
+54,Playing strategy games online while wrapped up in a blanket on my couch,Girls weekend trips with my sister each summer to somewhere new,0.04,0.01,4.4
+55,Scrolling through my camera roll and reminiscing late at night,Trying out new two player strategy games for date nights with my husband,0.05,0.01,1.1
+56,Doing the daily NYT crossword while laying in bed just before going to sleep,Trying out new two player strategy games for date nights with my husband,0.01,0.02,8.8
+57,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Trying out new two player strategy games for date nights with my husband,0.02,0.02,4.4
+58,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Girls weekend trips with my sister each summer to somewhere new,0.03,0.02,4.4
+59,Putting clothes away in my dimly lit bedroom while I watch TV, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.04,0.02,4.4
+60,Taking a long hot shower with music blasting, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.05,0.02,1.1
+61,Taking a long hot shower with music blasting,Calls with my mom on our way home from work and talking the entire drive,0.01,0.03,3.3
+62,Riding my horse on freshly smooth dirt alone in an outdoor arena,Monthly family game nights where we eat snacks and play board games,0.02,0.03,3.3
+63,Playing strategy games online while wrapped up in a blanket on my couch,Going to our favorite baseball team's games at least once a week with my husband,0.03,0.03,3.3
+64,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Going to our favorite baseball team's games at least once a week with my husband,0.04,0.03,1.1
+65,Doing the daily NYT crossword while laying in bed just before going to sleep,Going to our favorite baseball team's games at least once a week with my husband,0.05,0.03,1.1
+66,Putting clothes away in my dimly lit bedroom while I watch TV,Monthly family game nights where we eat snacks and play board games,0.01,0.04,1.1
+67,Riding my horse on freshly smooth dirt alone in an outdoor arena,Going to our favorite baseball team's games at least once a week with my husband,0.02,0.04,8.8
+68,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.03,0.04,4.4
+69,Doing large puzzles while sipping on a cup of tea,Walking to Starbucks with my coworkers every Wednesday morning,0.04,0.04,1.1
+70,Riding my horse on freshly smooth dirt alone in an outdoor arena,Girls weekend trips with my sister each summer to somewhere new,0.05,0.04,1.1
+71,Playing strategy games online while wrapped up in a blanket on my couch,Monthly family game nights where we eat snacks and play board games,0.01,0.05,3.3
+72,Taking a long hot shower with music blasting,Going to our favorite baseball team's games at least once a week with my husband,0.02,0.05,8.8
+73,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Monthly family game nights where we eat snacks and play board games,0.03,0.05,3.3
+74,Taking a long hot shower with music blasting,Playing in a recreational soccer league each week with friends,0.04,0.05,4.4
+75,Doing large puzzles while sipping on a cup of tea,Traveling the world with my best friend and stopping at every coffee shop we find,0.05,0.05,3.3
+76,Doing the daily NYT crossword while laying in bed just before going to sleep,Monthly family game nights where we eat snacks and play board games,0.01,0.01,1.1
+77,Putting clothes away in my dimly lit bedroom while I watch TV,Walking to Starbucks with my coworkers every Wednesday morning,0.02,0.01,8.8
+78,Playing strategy games online while wrapped up in a blanket on my couch,Walking to Starbucks with my coworkers every Wednesday morning,0.03,0.01,1.1
+79,Putting clothes away in my dimly lit bedroom while I watch TV,Going to our favorite baseball team's games at least once a week with my husband,0.04,0.01,1.1
+80,Falling asleep to superhero movies that I've already seen on the couch with the windows open, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.05,0.01,4.4
+81,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Monthly family game nights where we eat snacks and play board games,0.01,0.02,3.3
+82,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Walking to Starbucks with my coworkers every Wednesday morning,0.02,0.02,4.4
+83,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Calls with my mom on our way home from work and talking the entire drive,0.03,0.02,1.1
+84,Reading romance novels on the beach when its 80 degrees and sunny,Walking to Starbucks with my coworkers every Wednesday morning,0.04,0.02,3.3
+85,Playing strategy games online while wrapped up in a blanket on my couch, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.05,0.02,3.3
+86,Riding my horse on freshly smooth dirt alone in an outdoor arena,Going to horse shows with my friends and cheer each other on when we compete ,0.01,0.03,1.1
+87,Reading romance novels on the beach when its 80 degrees and sunny,Monthly family game nights where we eat snacks and play board games,0.02,0.03,4.4
+88,Falling asleep to superhero movies that I've already seen on the couch with the windows open,Playing in a recreational soccer league each week with friends,0.03,0.03,1.1
+89,Riding my horse on freshly smooth dirt alone in an outdoor arena,Walking to Starbucks with my coworkers every Wednesday morning,0.04,0.03,3.3
+90,Taking a long hot shower with music blasting,Going to horse shows with my friends and cheer each other on when we compete ,0.05,0.03,8.8
+91,Doing large puzzles while sipping on a cup of tea,Calls with my mom on our way home from work and talking the entire drive,0.01,0.04,3.3
+92,Playing strategy games online while wrapped up in a blanket on my couch,Going to horse shows with my friends and cheer each other on when we compete ,0.02,0.04,8.8
+93,Scrolling through my camera roll and reminiscing late at night, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.03,0.04,1.1
+94,Reading romance novels on the beach when its 80 degrees and sunny,Calls with my mom on our way home from work and talking the entire drive,0.04,0.04,4.4
+95,Doing the daily NYT crossword while laying in bed just before going to sleep,Walking to Starbucks with my coworkers every Wednesday morning,0.05,0.04,4.4
+96,Driving alone with the windows down on a sunny 70 degree day blasting upbeat music and singing along,Going to horse shows with my friends and cheer each other on when we compete ,0.01,0.05,3.3
+97,Playing strategy games online while wrapped up in a blanket on my couch,Calls with my mom on our way home from work and talking the entire drive,0.02,0.05,1.1
+98,Doing large puzzles while sipping on a cup of tea,Monthly family game nights where we eat snacks and play board games,0.03,0.05,1.1
+99,Reading romance novels on the beach when its 80 degrees and sunny, Traveling to different ballparks and watching various levels and teams play baseball with my husband,0.04,0.05,3.3
+100,Taking a long hot shower with music blasting,Monthly family game nights where we eat snacks and play board games,0.05,0.05,4.4

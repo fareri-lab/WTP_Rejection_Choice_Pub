@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
-1,Hiking in the mountains,Watching movies with my friends,0.01,0.01,4.4
-2,Hiking in the mountains,Hiking with the homies,0.02,0.01,8.8
-3,Shopping online or windowshopping,Watching movies with my friends,0.03,0.01,3.3
-4,Playing Destiny 2 on my gaming laptop,Hiking with the homies,0.04,0.01,1.1
-5,Going for bike rides on the harbor,Watching movies with my friends,0.05,0.01,1.1
-6,Going to Disney Land in Anaheim,Playing Rocket League with my friends,0.01,0.02,3.3
-7,Going to Disney Land in Anaheim,Going to the beach with friends and family,0.02,0.02,1.1
-8,Going for bike rides on the harbor,Going to cookouts with family and friends,0.03,0.02,1.1
-9,Hiking in the mountains,Going to the beach with friends and family,0.04,0.02,4.4
-10,Watching movies on amazon prime,Camping with friends,0.05,0.02,1.1
-11,Playing Destiny 2 on my gaming laptop,Going to cookouts with family and friends,0.01,0.03,3.3
-12,Surfing at the beach,Going to the beach with friends and family,0.02,0.03,4.4
-13,Playing Destiny 2 on my gaming laptop,,0.03,0.03,1.1
-14,Going to Disney Land in Anaheim,Going to concerts with my friends,0.04,0.03,3.3
-15,Watching youtube videos,Hiking with the homies,0.05,0.03,4.4
-16,Going to Disney Land in Anaheim,,0.01,0.04,1.1
-17,Listening to music on spotify,Going to cookouts with family and friends,0.02,0.04,8.8
-18,Playing Rocket League on my gaming laptop,,0.03,0.04,3.3
-19,Going for bike rides on the harbor,Playing Rocket League with my friends,0.04,0.04,3.3
-20,Listening to music on spotify,Watching movies with my friends,0.05,0.04,1.1
-21,Playing Rocket League on my gaming laptop,Hiking with the homies,0.01,0.05,8.8
-22,Playing Destiny 2 on my gaming laptop,Playing Rocket League with my friends,0.02,0.05,4.4
-23,Watching youtube videos,Watching movies with my friends,0.03,0.05,1.1
-24,Hiking in the mountains,Going to Six flags with family and friends,0.04,0.05,4.4
-25,Listening to music on spotify,Camping with friends,0.05,0.05,3.3
-26,Listening to music on spotify,Going to the beach with friends and family,0.01,0.01,4.4
-27,Playing Destiny 2 on my gaming laptop,Camping with friends,0.02,0.01,3.3
-28,Surfing at the beach,Playing Rocket League with my friends,0.03,0.01,3.3
-29,Going for bike rides on the harbor,,0.04,0.01,4.4
-30,Playing Destiny 2 on my gaming laptop,Going to concerts with my friends,0.05,0.01,8.8
-31,Listening to music on spotify,Hiking with the homies,0.01,0.02,8.8
-32,Watching youtube videos,Going to cookouts with family and friends,0.02,0.02,1.1
-33,Going to Disney Land in Anaheim,Hiking with the homies,0.03,0.02,4.4
-34,Hiking in the mountains,Playing Rocket League with my friends,0.04,0.02,3.3
-35,Listening to music on spotify,Playing Rocket League with my friends,0.05,0.02,1.1
-36,Watching movies on amazon prime,Going to concerts with my friends,0.01,0.03,3.3
-37,Playing Destiny 2 on my gaming laptop,Going to Six flags with family and friends,0.02,0.03,1.1
-38,Surfing at the beach,Going to Six flags with family and friends,0.03,0.03,1.1
-39,Hiking in the mountains,Fishing with the homies,0.04,0.03,3.3
-40,Shopping online or windowshopping,Camping with friends,0.05,0.03,4.4
-41,Watching movies on amazon prime,Playing Rocket League with my friends,0.01,0.04,1.1
-42,Going for bike rides on the harbor,Hiking with the homies,0.02,0.04,3.3
-43,Hiking in the mountains,Going to concerts with my friends,0.03,0.04,1.1
-44,Surfing at the beach,Hiking with the homies,0.04,0.04,1.1
-45,Watching youtube videos,Playing Rocket League with my friends,0.05,0.04,4.4
-46,Listening to music on spotify,Going to concerts with my friends,0.01,0.05,8.8
-47,Surfing at the beach,Going to cookouts with family and friends,0.02,0.05,1.1
-48,Playing Rocket League on my gaming laptop,Fishing with the homies,0.03,0.05,4.4
-49,Surfing at the beach,Going to concerts with my friends,0.04,0.05,3.3
-50,Playing Destiny 2 on my gaming laptop,Watching movies with my friends,0.05,0.05,1.1
-51,Playing Rocket League on my gaming laptop,Going to the beach with friends and family,0.01,0.01,1.1
-52,Watching youtube videos,Going to Six flags with family and friends,0.02,0.01,3.3
-53,Shopping online or windowshopping,Going to the beach with friends and family,0.03,0.01,1.1
-54,Playing Rocket League on my gaming laptop,Going to cookouts with family and friends,0.04,0.01,4.4
-55,Going for bike rides on the harbor,Going to concerts with my friends,0.05,0.01,1.1
-56,Shopping online or windowshopping,Playing Rocket League with my friends,0.01,0.02,8.8
-57,Watching youtube videos,,0.02,0.02,4.4
-58,Hiking in the mountains,Camping with friends,0.03,0.02,4.4
-59,Watching youtube videos,Going to concerts with my friends,0.04,0.02,4.4
-60,Watching movies on amazon prime,Going to the beach with friends and family,0.05,0.02,1.1
-61,Going to Disney Land in Anaheim,Fishing with the homies,0.01,0.03,3.3
-62,Surfing at the beach,Camping with friends,0.02,0.03,3.3
-63,Playing Rocket League on my gaming laptop,Going to Six flags with family and friends,0.03,0.03,3.3
-64,Watching youtube videos,Going to the beach with friends and family,0.04,0.03,1.1
-65,Going to Disney Land in Anaheim,Going to Six flags with family and friends,0.05,0.03,1.1
-66,Going for bike rides on the harbor,Going to Six flags with family and friends,0.01,0.04,1.1
-67,Playing Rocket League on my gaming laptop,Camping with friends,0.02,0.04,8.8
-68,Watching movies on amazon prime,,0.03,0.04,4.4
-69,Going for bike rides on the harbor,Going to the beach with friends and family,0.04,0.04,1.1
-70,Watching movies on amazon prime,Hiking with the homies,0.05,0.04,1.1
-71,Listening to music on spotify,Going to Six flags with family and friends,0.01,0.05,3.3
-72,Playing Destiny 2 on my gaming laptop,Fishing with the homies,0.02,0.05,8.8
-73,Going to Disney Land in Anaheim,Going to cookouts with family and friends,0.03,0.05,3.3
-74,Hiking in the mountains,,0.04,0.05,4.4
-75,Going for bike rides on the harbor,Camping with friends,0.05,0.05,3.3
-76,Watching movies on amazon prime,Watching movies with my friends,0.01,0.01,1.1
-77,Going to Disney Land in Anaheim,Watching movies with my friends,0.02,0.01,8.8
-78,Shopping online or windowshopping,Going to Six flags with family and friends,0.03,0.01,1.1
+1,Playing Rocket League on my gaming laptop,Watching movies with my friends,0.01,0.01,4.4
+2,Watching movies on amazon prime,Going to concerts with my friends,0.02,0.01,8.8
+3,Going for bike rides on the harbor,Playing Rocket League with my friends,0.03,0.01,3.3
+4,Watching movies on amazon prime,Going to cookouts with family and friends,0.04,0.01,1.1
+5,Watching movies on amazon prime,Playing Rocket League with my friends,0.05,0.01,1.1
+6,Surfing at the beach,Watching movies with my friends,0.01,0.02,3.3
+7,Going to Disney Land in Anaheim,Camping with friends,0.02,0.02,1.1
+8,Listening to music on spotify,Hiking with the homies,0.03,0.02,1.1
+9,Going for bike rides on the harbor,Going to Six flags with family and friends,0.04,0.02,4.4
+10,Hiking in the mountains,Going to the beach with friends and family,0.05,0.02,1.1
+11,Hiking in the mountains,Going to concerts with my friends,0.01,0.03,3.3
+12,Listening to music on spotify,Going to concerts with my friends,0.02,0.03,4.4
+13,Surfing at the beach,Hiking with the homies,0.03,0.03,1.1
+14,Playing Rocket League on my gaming laptop,Going to cookouts with family and friends,0.04,0.03,3.3
+15,Playing Destiny 2 on my gaming laptop,Going to the beach with friends and family,0.05,0.03,4.4
+16,Listening to music on spotify,Watching movies with my friends,0.01,0.04,1.1
+17,Hiking in the mountains,Playing Rocket League with my friends,0.02,0.04,8.8
+18,Listening to music on spotify,Going to cookouts with family and friends,0.03,0.04,3.3
+19,Watching movies on amazon prime,Hiking with the homies,0.04,0.04,3.3
+20,Surfing at the beach,Going to cookouts with family and friends,0.05,0.04,1.1
+21,Listening to music on spotify,Going to the beach with friends and family,0.01,0.05,8.8
+22,Going to Disney Land in Anaheim,Watching movies with my friends,0.02,0.05,4.4
+23,Listening to music on spotify,Playing Destiny 2 with my friends,0.03,0.05,1.1
+24,Surfing at the beach,Going to Six flags with family and friends,0.04,0.05,4.4
+25,Surfing at the beach,Fishing with the homies,0.05,0.05,3.3
+26,Watching movies on amazon prime,Fishing with the homies,0.01,0.01,4.4
+27,Listening to music on spotify,Camping with friends,0.02,0.01,3.3
+28,Watching youtube videos,Going to concerts with my friends,0.03,0.01,3.3
+29,Going to Disney Land in Anaheim,Playing Rocket League with my friends,0.04,0.01,4.4
+30,Playing Rocket League on my gaming laptop,Playing Rocket League with my friends,0.05,0.01,8.8
+31,Listening to music on spotify,Fishing with the homies,0.01,0.02,8.8
+32,Watching movies on amazon prime,Going to the beach with friends and family,0.02,0.02,1.1
+33,Playing Destiny 2 on my gaming laptop,Playing Rocket League with my friends,0.03,0.02,4.4
+34,Watching youtube videos,Going to Six flags with family and friends,0.04,0.02,3.3
+35,Hiking in the mountains,Hiking with the homies,0.05,0.02,1.1
+36,Going to Disney Land in Anaheim,Going to concerts with my friends,0.01,0.03,3.3
+37,Shopping online or windowshopping,Going to concerts with my friends,0.02,0.03,1.1
+38,Going for bike rides on the harbor,Fishing with the homies,0.03,0.03,1.1
+39,Watching youtube videos,Hiking with the homies,0.04,0.03,3.3
+40,Going to Disney Land in Anaheim,Going to Six flags with family and friends,0.05,0.03,4.4
+41,Shopping online or windowshopping,Playing Destiny 2 with my friends,0.01,0.04,1.1
+42,Playing Rocket League on my gaming laptop,Going to Six flags with family and friends,0.02,0.04,3.3
+43,Shopping online or windowshopping,Camping with friends,0.03,0.04,1.1
+44,Watching youtube videos,Watching movies with my friends,0.04,0.04,1.1
+45,Shopping online or windowshopping,Fishing with the homies,0.05,0.04,4.4
+46,Shopping online or windowshopping,Going to the beach with friends and family,0.01,0.05,8.8
+47,Surfing at the beach,Playing Rocket League with my friends,0.02,0.05,1.1
+48,Going for bike rides on the harbor,Going to concerts with my friends,0.03,0.05,4.4
+49,Going to Disney Land in Anaheim,Playing Destiny 2 with my friends,0.04,0.05,3.3
+50,Playing Destiny 2 on my gaming laptop,Going to cookouts with family and friends,0.05,0.05,1.1
+51,Shopping online or windowshopping,Watching movies with my friends,0.01,0.01,1.1
+52,Playing Rocket League on my gaming laptop,Fishing with the homies,0.02,0.01,3.3
+53,Playing Rocket League on my gaming laptop,Hiking with the homies,0.03,0.01,1.1
+54,Watching movies on amazon prime,Playing Destiny 2 with my friends,0.04,0.01,4.4
+55,Hiking in the mountains,Playing Destiny 2 with my friends,0.05,0.01,1.1
+56,Surfing at the beach,Playing Destiny 2 with my friends,0.01,0.02,8.8
+57,Playing Rocket League on my gaming laptop,Camping with friends,0.02,0.02,4.4
+58,Hiking in the mountains,Watching movies with my friends,0.03,0.02,4.4
+59,Listening to music on spotify,Going to Six flags with family and friends,0.04,0.02,4.4
+60,Watching youtube videos,Camping with friends,0.05,0.02,1.1
+61,Playing Destiny 2 on my gaming laptop,Playing Destiny 2 with my friends,0.01,0.03,3.3
+62,Playing Rocket League on my gaming laptop,Playing Destiny 2 with my friends,0.02,0.03,3.3
+63,Surfing at the beach,Camping with friends,0.03,0.03,3.3
+64,Playing Rocket League on my gaming laptop,Going to concerts with my friends,0.04,0.03,1.1
+65,Going for bike rides on the harbor,Watching movies with my friends,0.05,0.03,1.1
+66,Hiking in the mountains,Going to cookouts with family and friends,0.01,0.04,1.1
+67,Playing Destiny 2 on my gaming laptop,Fishing with the homies,0.02,0.04,8.8
+68,Watching youtube videos,Going to the beach with friends and family,0.03,0.04,4.4
+69,Watching movies on amazon prime,Watching movies with my friends,0.04,0.04,1.1
+70,Playing Destiny 2 on my gaming laptop,Going to Six flags with family and friends,0.05,0.04,1.1
+71,Hiking in the mountains,Fishing with the homies,0.01,0.05,3.3
+72,Hiking in the mountains,Going to Six flags with family and friends,0.02,0.05,8.8
+73,Going for bike rides on the harbor,Camping with friends,0.03,0.05,3.3
+74,Surfing at the beach,Going to concerts with my friends,0.04,0.05,4.4
+75,Playing Destiny 2 on my gaming laptop,Camping with friends,0.05,0.05,3.3
+76,Shopping online or windowshopping,Going to Six flags with family and friends,0.01,0.01,1.1
+77,Going for bike rides on the harbor,Hiking with the homies,0.02,0.01,8.8
+78,Going to Disney Land in Anaheim,Going to cookouts with family and friends,0.03,0.01,1.1
 79,Shopping online or windowshopping,Going to cookouts with family and friends,0.04,0.01,1.1
-80,Shopping online or windowshopping,Fishing with the homies,0.05,0.01,4.4
-81,Listening to music on spotify,Fishing with the homies,0.01,0.02,3.3
-82,Listening to music on spotify,,0.02,0.02,4.4
-83,Watching movies on amazon prime,Fishing with the homies,0.03,0.02,1.1
-84,Playing Rocket League on my gaming laptop,Playing Rocket League with my friends,0.04,0.02,3.3
-85,Playing Rocket League on my gaming laptop,Watching movies with my friends,0.05,0.02,3.3
-86,Shopping online or windowshopping,Hiking with the homies,0.01,0.03,1.1
-87,Watching youtube videos,Camping with friends,0.02,0.03,4.4
-88,Watching youtube videos,Fishing with the homies,0.03,0.03,1.1
-89,Going for bike rides on the harbor,Fishing with the homies,0.04,0.03,3.3
-90,Shopping online or windowshopping,Going to concerts with my friends,0.05,0.03,8.8
-91,Surfing at the beach,Fishing with the homies,0.01,0.04,3.3
-92,Surfing at the beach,,0.02,0.04,8.8
-93,Playing Destiny 2 on my gaming laptop,Going to the beach with friends and family,0.03,0.04,1.1
-94,Shopping online or windowshopping,,0.04,0.04,4.4
-95,Hiking in the mountains,Going to cookouts with family and friends,0.05,0.04,4.4
-96,Watching movies on amazon prime,Going to Six flags with family and friends,0.01,0.05,3.3
-97,Surfing at the beach,Watching movies with my friends,0.02,0.05,1.1
-98,Playing Rocket League on my gaming laptop,Going to concerts with my friends,0.03,0.05,1.1
-99,Going to Disney Land in Anaheim,Camping with friends,0.04,0.05,3.3
-100,Watching movies on amazon prime,Going to cookouts with family and friends,0.05,0.05,4.4
+80,Shopping online or windowshopping,Hiking with the homies,0.05,0.01,4.4
+81,Going to Disney Land in Anaheim,Going to the beach with friends and family,0.01,0.02,3.3
+82,Playing Destiny 2 on my gaming laptop,Watching movies with my friends,0.02,0.02,4.4
+83,Watching youtube videos,Playing Destiny 2 with my friends,0.03,0.02,1.1
+84,Playing Destiny 2 on my gaming laptop,Hiking with the homies,0.04,0.02,3.3
+85,Going for bike rides on the harbor,Going to cookouts with family and friends,0.05,0.02,3.3
+86,Going to Disney Land in Anaheim,Fishing with the homies,0.01,0.03,1.1
+87,Listening to music on spotify,Playing Rocket League with my friends,0.02,0.03,4.4
+88,Watching movies on amazon prime,Camping with friends,0.03,0.03,1.1
+89,Watching movies on amazon prime,Going to Six flags with family and friends,0.04,0.03,3.3
+90,Surfing at the beach,Going to the beach with friends and family,0.05,0.03,8.8
+91,Watching youtube videos,Going to cookouts with family and friends,0.01,0.04,3.3
+92,Going for bike rides on the harbor,Going to the beach with friends and family,0.02,0.04,8.8
+93,Going for bike rides on the harbor,Playing Destiny 2 with my friends,0.03,0.04,1.1
+94,Watching youtube videos,Fishing with the homies,0.04,0.04,4.4
+95,Hiking in the mountains,Camping with friends,0.05,0.04,4.4
+96,Watching youtube videos,Playing Rocket League with my friends,0.01,0.05,3.3
+97,Playing Destiny 2 on my gaming laptop,Going to concerts with my friends,0.02,0.05,1.1
+98,Shopping online or windowshopping,Playing Rocket League with my friends,0.03,0.05,1.1
+99,Going to Disney Land in Anaheim,Hiking with the homies,0.04,0.05,3.3
+100,Playing Rocket League on my gaming laptop,Going to the beach with friends and family,0.05,0.05,4.4
