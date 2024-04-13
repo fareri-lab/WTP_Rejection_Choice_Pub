@@ -278,7 +278,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('red'),  opacity: undefined,
+    color: new util.Color('blue'),  opacity: undefined,
     depth: 0.0 
   }); //change font color here to test changes 
   
@@ -308,7 +308,7 @@ async function experimentInit() {
   FirstInstructions = new visual.TextStim({
     win: psychoJS.window,
     name: 'FirstInstructions',
-    text: 'To begin, you will be assigned a partner at random by the computer. Next, your instagram photos will be shared with your partner. After each photo is shared, your partner will give you feedback on whether they liked or disliked your photo. You will have the chance to share your photos with 3 different partners during todays task.\n\n\nYou may be eligible throughout the task to participate in a lottery, which you may play yourself or have the computer play on your behalf. Further instructions about this task will be provided should you be eligible to participate.\n\n\nPress space to continue.',
+    text: 'To begin, you will be assigned a partner at random by the computer. Next, your instagram photos will be shared with your partner. After each photo is shared, your partner will give you feedback on whether they liked or disliked your photo. You will have the chance to share your photos with 4 different partners during todays task.\n\n\nYou may be eligible throughout the task to participate in a decision-making task, where you may be eligible to earn a bonus. Further instructions about this task will be provided should you be eligible to participate.\n\n\nPress space to continue.',
     font: 'Open Sans',
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
@@ -593,7 +593,7 @@ async function experimentInit() {
   WTP_ins_text1 = new visual.TextStim({
     win: psychoJS.window,
     name: 'WTP_ins_text1',
-    text: "In this part of the task, you will be choosing between two options.\n\nPlease indicate which option you would prefer by using your keyboard to press '1' for the choice on the left, or '2' for the choice on the right. \n\nEach option is associated with a price, which will be subtracted from your earnings from the previous task upon making a selection. \n\nPress SPACE to continue.",
+    text: "In this part of the task, you will be choosing between two options.\n\nPlease indicate which option you would prefer by using your keyboard to press '1' for the choice on the left, or '2' for the choice on the right. \n\nEach option is associated with a price, which will be subtracted from your earnings of $6 from the previous task upon making a selection. \n\nPress SPACE to continue.",
     font: 'Open Sans',
     units: undefined, 
     pos: [0, 0.3], height: 0.07,  wrapWidth: undefined, ori: 0.0,
@@ -3137,7 +3137,7 @@ function SalienceRatingRoutineBegin(snapshot) {
     frameN = -1;
     //continueRoutine = true; // until we're told otherwise
 
-    const trials = [1,25,50,75,100]
+    const trials = [25,50,75,100]
 
     if (trials.includes(TrialNumber) == true) {
       continueRoutine = true;
