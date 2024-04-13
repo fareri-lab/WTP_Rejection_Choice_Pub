@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
+1,Reading books and relaxing,,0.01,0.01,4.4
+2,Trying new hobbies or sports on my own,Getting drinks and catching up with my friends,0.02,0.01,8.8
+3,Cooking or baking a new recipe,,0.03,0.01,3.3
+4,Reading books and relaxing,Trying new recipes with my best friend,0.04,0.01,1.1
+5,Cooking or baking a new recipe,Getting drinks and catching up with my friends,0.05,0.01,1.1
+6,Trying new hairstyles and outfits,,0.01,0.02,3.3
+7,Watching new shows,Getting drinks and catching up with my friends,0.02,0.02,1.1
+8,Exploring bookstores or thrift shops on my own,Getting drinks and catching up with my friends,0.03,0.02,1.1
+9,Reading books and relaxing,Going out to dinner or a meal with my dad,0.04,0.02,4.4
+10,Driving around listening to music,Going shopping with my mom,0.05,0.02,1.1
+11,Taking walks,Going shopping with my mom,0.01,0.03,3.3
+12,Sitting outside on my porch at night and light my firepit,Trying new recipes with my best friend,0.02,0.03,4.4
+13,Trying new hairstyles and outfits,Taking a long drive with friends and singing,0.03,0.03,1.1
+14,Reading books and relaxing,Catching up with my parents,0.04,0.03,3.3
+15,Cooking or baking a new recipe,Catching up with my parents,0.05,0.03,4.4
+16,Driving around listening to music,Going out to dinner or a meal with my dad,0.01,0.04,1.1
+17,Taking my dogs to run in the open field near my house,Taking a long drive with friends and singing,0.02,0.04,8.8
+18,Watching new shows,Going on adventures with my friends,0.03,0.04,3.3
+19,Sitting outside on my porch at night and light my firepit,Going shopping with my mom,0.04,0.04,3.3
+20,Driving around listening to music,Going on adventures with my friends,0.05,0.04,1.1
+21,Reading books and relaxing,Going shopping with my mom,0.01,0.05,8.8
+22,Sitting outside on my porch at night and light my firepit,Playing video games with my partner,0.02,0.05,4.4
+23,Trying new hairstyles and outfits,Trying new activities with friends,0.03,0.05,1.1
+24,Cooking or baking a new recipe,Going shopping with my mom,0.04,0.05,4.4
+25,Taking walks,Taking a long drive with friends and singing,0.05,0.05,3.3
+26,Trying new hobbies or sports on my own,Going on adventures with my friends,0.01,0.01,4.4
+27,Trying new hairstyles and outfits,Playing video games with my partner,0.02,0.01,3.3
+28,Trying new hairstyles and outfits,Catching up with my parents,0.03,0.01,3.3
+29,Taking my dogs to run in the open field near my house,Playing video games with my partner,0.04,0.01,4.4
+30,Taking walks,Going on adventures with my friends,0.05,0.01,8.8
+31,Taking walks,Trying new activities with friends,0.01,0.02,8.8
+32,Watching new shows,Trying new activities with friends,0.02,0.02,1.1
+33,Sitting outside on my porch at night and light my firepit,Trying new activities with friends,0.03,0.02,4.4
+34,Trying new hobbies or sports on my own,Taking a long drive with friends and singing,0.04,0.02,3.3
+35,Trying new hairstyles and outfits,Going on adventures with my friends,0.05,0.02,1.1
+36,Taking my dogs to run in the open field near my house,Going on adventures with my friends,0.01,0.03,3.3
+37,Exploring bookstores or thrift shops on my own,,0.02,0.03,1.1
+38,Taking my dogs to run in the open field near my house,Catching up with my parents,0.03,0.03,1.1
+39,Sitting outside on my porch at night and light my firepit,Getting drinks and catching up with my friends,0.04,0.03,3.3
+40,Trying new hairstyles and outfits,Going shopping with my mom,0.05,0.03,4.4
+41,Exploring bookstores or thrift shops on my own,Going out to dinner or a meal with my dad,0.01,0.04,1.1
+42,Reading books and relaxing,Trying new activities with friends,0.02,0.04,3.3
+43,Trying new hobbies or sports on my own,,0.03,0.04,1.1
+44,Taking walks,Getting drinks and catching up with my friends,0.04,0.04,1.1
+45,Watching new shows,Catching up with my parents,0.05,0.04,4.4
+46,Watching new shows,Going shopping with my mom,0.01,0.05,8.8
+47,Reading books and relaxing,Getting drinks and catching up with my friends,0.02,0.05,1.1
+48,Cooking or baking a new recipe,Going out to dinner or a meal with my dad,0.03,0.05,4.4
+49,Driving around listening to music,Getting drinks and catching up with my friends,0.04,0.05,3.3
+50,Sitting outside on my porch at night and light my firepit,Taking a long drive with friends and singing,0.05,0.05,1.1
+51,Watching new shows,,0.01,0.01,1.1
+52,Taking my dogs to run in the open field near my house,Going out to dinner or a meal with my dad,0.02,0.01,3.3
+53,Exploring bookstores or thrift shops on my own,Taking a long drive with friends and singing,0.03,0.01,1.1
+54,Sitting outside on my porch at night and light my firepit,Going on adventures with my friends,0.04,0.01,4.4
+55,Reading books and relaxing,Going on adventures with my friends,0.05,0.01,1.1
+56,Taking my dogs to run in the open field near my house,Going shopping with my mom,0.01,0.02,8.8
+57,Reading books and relaxing,Taking a long drive with friends and singing,0.02,0.02,4.4
+58,Exploring bookstores or thrift shops on my own,Trying new recipes with my best friend,0.03,0.02,4.4
+59,Exploring bookstores or thrift shops on my own,Catching up with my parents,0.04,0.02,4.4
+60,Taking walks,,0.05,0.02,1.1
+61,Driving around listening to music,Playing video games with my partner,0.01,0.03,3.3
+62,Reading books and relaxing,Playing video games with my partner,0.02,0.03,3.3
+63,Trying new hairstyles and outfits,Getting drinks and catching up with my friends,0.03,0.03,3.3
+64,Watching new shows,Playing video games with my partner,0.04,0.03,1.1
+65,Exploring bookstores or thrift shops on my own,Going shopping with my mom,0.05,0.03,1.1
+66,Driving around listening to music,Trying new activities with friends,0.01,0.04,1.1
+67,Taking walks,Playing video games with my partner,0.02,0.04,8.8
+68,Watching new shows,Going out to dinner or a meal with my dad,0.03,0.04,4.4
+69,Cooking or baking a new recipe,Trying new activities with friends,0.04,0.04,1.1
+70,Watching new shows,Trying new recipes with my best friend,0.05,0.04,1.1
+71,Taking walks,Trying new recipes with my best friend,0.01,0.05,3.3
+72,Taking my dogs to run in the open field near my house,Getting drinks and catching up with my friends,0.02,0.05,8.8
+73,Cooking or baking a new recipe,Playing video games with my partner,0.03,0.05,3.3
+74,Exploring bookstores or thrift shops on my own,Playing video games with my partner,0.04,0.05,4.4
+75,Driving around listening to music,Catching up with my parents,0.05,0.05,3.3
+76,Sitting outside on my porch at night and light my firepit,Catching up with my parents,0.01,0.01,1.1
+77,Trying new hobbies or sports on my own,Trying new recipes with my best friend,0.02,0.01,8.8
+78,Driving around listening to music,Trying new recipes with my best friend,0.03,0.01,1.1
+79,Trying new hobbies or sports on my own,Going shopping with my mom,0.04,0.01,1.1
+80,Driving around listening to music,Taking a long drive with friends and singing,0.05,0.01,4.4
+81,Trying new hairstyles and outfits,Trying new recipes with my best friend,0.01,0.02,3.3
+82,Trying new hairstyles and outfits,Going out to dinner or a meal with my dad,0.02,0.02,4.4
+83,Sitting outside on my porch at night and light my firepit,Going out to dinner or a meal with my dad,0.03,0.02,1.1
+84,Trying new hobbies or sports on my own,Playing video games with my partner,0.04,0.02,3.3
+85,Exploring bookstores or thrift shops on my own,Trying new activities with friends,0.05,0.02,3.3
+86,Trying new hobbies or sports on my own,Going out to dinner or a meal with my dad,0.01,0.03,1.1
+87,Taking my dogs to run in the open field near my house,,0.02,0.03,4.4
+88,Taking my dogs to run in the open field near my house,Trying new recipes with my best friend,0.03,0.03,1.1
+89,Driving around listening to music,,0.04,0.03,3.3
+90,Cooking or baking a new recipe,Taking a long drive with friends and singing,0.05,0.03,8.8
+91,Taking walks,Catching up with my parents,0.01,0.04,3.3
+92,Taking walks,Going out to dinner or a meal with my dad,0.02,0.04,8.8
+93,Watching new shows,Taking a long drive with friends and singing,0.03,0.04,1.1
+94,Sitting outside on my porch at night and light my firepit,,0.04,0.04,4.4
+95,Exploring bookstores or thrift shops on my own,Going on adventures with my friends,0.05,0.04,4.4
+96,Cooking or baking a new recipe,Going on adventures with my friends,0.01,0.05,3.3
+97,Taking my dogs to run in the open field near my house,Trying new activities with friends,0.02,0.05,1.1
+98,Trying new hobbies or sports on my own,Trying new activities with friends,0.03,0.05,1.1
+99,Cooking or baking a new recipe,Trying new recipes with my best friend,0.04,0.05,3.3
+100,Trying new hobbies or sports on my own,Catching up with my parents,0.05,0.05,4.4
