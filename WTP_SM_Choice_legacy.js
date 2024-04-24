@@ -281,7 +281,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('white'),  opacity: undefined,
+    color: new util.Color('pink'),  opacity: undefined,
     depth: 0.0 
   }); //change font color here to test changes 
   
@@ -1173,7 +1173,7 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
     // set up handler to look after randomisation of conditions etc
     entiretaskloop = new TrialHandler({
       psychoJS: psychoJS,
-      nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
+      nReps: 0, method: TrialHandler.Method.SEQUENTIAL,
       extraInfo: expInfo, originPath: undefined,
       trialList: trial_sheet,
       seed: undefined, name: 'entiretaskloop'
