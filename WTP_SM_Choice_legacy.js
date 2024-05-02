@@ -9,7 +9,8 @@ const { Scheduler } = util;
 //some handy aliases as in the psychopy scripts;
 const { abs, sin, cos, PI: pi, sqrt } = Math;
 const { round } = util;
-
+// Import dataframe-js library
+import DataFrame from 'dataframe-js';
 
 
 // store info about the experiment session:
@@ -67,6 +68,10 @@ psychoJS.schedule(psychoJS.gui.DlgFromDict({
 const flowScheduler = new Scheduler(psychoJS);
 const dialogCancelScheduler = new Scheduler(psychoJS);
 psychoJS.scheduleCondition(function() { return (psychoJS.gui.dialogComponent.button === 'OK'); }, flowScheduler, dialogCancelScheduler);
+// Save CSV data to a file in the Pavlovia repository
+const saveFilename = 'test_data.csv'; // Specify the filename you want to use
+const savePath = 'data/' + saveFilename; // Specify the path where you want to save the file
+
 
 // flowScheduler gets run if the participants presses OK
 flowScheduler.add(updateInfo); // add timeStamp
@@ -263,8 +268,12 @@ console.log(weblink);
 var end_screen;
 var end_screenclock;
 var end_screen_keys;
-
-
+// initialize empty dataframe
+const df = new DataFrame();
+// function to collect and append data to the dataframe
+function collectData(dataPoint) {
+    df.push(dataPoint);
+}
 
 
 
@@ -2799,7 +2808,6 @@ function WTPTaskRoutineEachFrame() {
         }
     }
 
-    
     // *conditionalBlank* updates
     if (responses.keys > 0 && conditionalBlank.status === PsychoJS.Status.NOT_STARTED) {
       // keep track of start time/frame for later
@@ -2824,8 +2832,15 @@ function WTPTaskRoutineEachFrame() {
     // check for quit (typically the Esc key)
     if (psychoJS.experiment.experimentEnded || psychoJS.eventManager.getKeys({keyList:['escape']}).length > 0) {
       return quitPsychoJS('The [Escape] key was pressed. Goodbye!', false);
+      // use psychojs file handling functions to save the CSV data
+      psychoJS.experiment.save({'filename': savePath, 'data': csvData,  'format': 'CSV' }).then(() => {
+          console.log('CSV data saved successfully.');
+      }).catch((error) => {
+          console.error('Error saving CSV data:', error);
+      });
+      
     }
-    
+
     // check if the Routine should terminate
     if (!continueRoutine) {  // a component has requested a forced-end of Routine
       return Scheduler.Event.NEXT;
@@ -2870,6 +2885,11 @@ function WTPTaskRoutineEnd(snapshot) {
           subtract_bonus =  subtract_bonus + rightmoney;
         }
     }
+    const dataPoint = {
+      ParticipantID: participantID,
+      Response: responses.keys
+                            };
+    collectData(dataPoint);
     // update the trial handler
     if (currentLoop instanceof MultiStairHandler) {
       currentLoop.addResponse(responses.corr, level);
@@ -2878,6 +2898,7 @@ function WTPTaskRoutineEnd(snapshot) {
     if (typeof responses.keys !== 'undefined') {  // we had a response
         psychoJS.experiment.addData('responses.rt', responses.rt);
         }
+    
     
     responses.stop();
     // Run 'Each Frame' code from responses_code
@@ -4019,8 +4040,17 @@ async function quitPsychoJS(message, isCompleted) {
   if (psychoJS.experiment.isEntryEmpty()) {
     psychoJS.experiment.nextEntry();
   }
-  
-  
+    // Use PsychoJS's file handling functions to save the CSV data
+  psychoJS.experiment.save({
+      'filename': savePath,
+      'data': csvData,
+      'format': 'CSV'
+  }).then(() => {
+      console.log('CSV data saved successfully.');
+  }).catch((error) => {
+      console.error('Error saving CSV data:', error);
+  });
+    
   
   
   
