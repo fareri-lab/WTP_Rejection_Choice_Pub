@@ -7,23 +7,16 @@ jobs:
     runs-on: ubuntu-latest
     name: Git Repo Sync
     steps:
-      - name: Checkout source repository
-        uses: actions/checkout@v2
+
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      
-      - name: Sync with target repository
-        uses: jordansiegel/rej_git_repo_sync@v0.1.0
+      - uses: melanieziur/rej_git_repo_sync@v0.1.0
         with:
+          # Such as https://github.com/melanieziur/rej_git_repo_sync.git
           target-url: ${{ secrets.TARGET_URL }}
+          # Such as melanieziur
           target-username: ${{ secrets.TARGET_USERNAME }}
+            # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ACCESS\_TOKEN }}
           target-token: ${{ secrets.TARGET_TOKEN }}
-      
-      - name: Push to GitLab
-        run: |
-          git remote add target ${{ secrets.TARGET_URL }}
-          git push --mirror target
-        env:
-          TARGET_URL: ${{ secrets.TARGET_URL }}
-          TARGET_USERNAME: ${{ secrets.TARGET_USERNAME }}
-          TARGET_TOKEN: ${{ secrets.TARGET_TOKEN }}
+      - run: git push --mirror target
