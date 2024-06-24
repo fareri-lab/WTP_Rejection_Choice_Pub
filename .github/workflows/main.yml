@@ -13,11 +13,11 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - uses: melanieziur/rej_git_repo_sync@v0.1.0
+      - uses: jordansiegel/rej_git_repo_sync@v0.1.0
         with:
-          # Such as https://github.com/melanieziur/rej_git_repo_sync.git
+          # Such as https://github.com/jordansiegel/rej_git_repo_sync.git
           target-url: ${{ secrets.TARGET_URL }}
-          # Such as melanieziur
+          # Such as jordansiegel
           target-username: ${{ secrets.TARGET_USERNAME }}
             # You can store token in your project's 'Setting > Secrets' and reference the name here. Such as ${{ secrets.ACCESS\_TOKEN }}
           target-token: ${{ secrets.TARGET_TOKEN }}
