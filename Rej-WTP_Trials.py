@@ -12,9 +12,9 @@ from itertools import product
 
 completedparticipantlist = pd.read_excel('participantlist.xlsx')
 completedparticipantlist = completedparticipantlist.loc[
-    completedparticipantlist['PhotosUploaded? (y/n)'] == 'n']
+    completedparticipantlist['PhotosOk?'] == 'n']
 
-exp = pd.read_csv('WTP-Rej_Experiences.csv')
+exp = pd.read_csv('WTP-Rej_Experiences_62524.csv')
 
 clean = exp.filter(regex='ocial_A')
 clean.insert(0, 'PROLIFIC_PID', exp['PROLIFIC_PID'])
