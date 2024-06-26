@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
-1,I like to try new hobbies or sports on my own.,I love going out to dinner or a meal with my dad.,0.01,0.01,4.4
-2,"I like to drive around and listen to music and just drive, ",I love going on adventures with my friends.,0.02,0.01,8.8
-3,I like to take walks. ,I love going out to dinner or a meal with my dad.,0.03,0.01,3.3
-4,I like to cook or bake a new recipe. ,I love going shopping with my mom.,0.04,0.01,1.1
-5,I like to read books and relax. ,I love to go catch up with my parents. ,0.05,0.01,1.1
-6,I like to sit outside on my porch at night and light my firepit. ,I love to play video games with my partner. ,0.01,0.02,3.3
-7,I like to try new hairstyles and outfits. ,I love trying new recipes with my best friend. ,0.02,0.02,1.1
-8,I like to go explore bookstores or thrift shops on my own. ,I love going on adventures with my friends.,0.03,0.02,1.1
-9,I like to go explore bookstores or thrift shops on my own. ,I love to go catch up with my parents. ,0.04,0.02,4.4
-10,I like to try new hairstyles and outfits. ,I love going out to dinner or a meal with my dad.,0.05,0.02,1.1
-11,"I like to drive around and listen to music and just drive, ",I love taking a long drive with friends and singing. ,0.01,0.03,3.3
-12,I like to try new hobbies or sports on my own.,I love taking a long drive with friends and singing. ,0.02,0.03,4.4
-13,I like to try new hairstyles and outfits. ,I enjoy getting drinks and catching up with my friends.,0.03,0.03,1.1
-14,"I like to drive around and listen to music and just drive, ",I enjoy trying new activities with friends. ,0.04,0.03,3.3
-15,I like to read books and relax. ,I love to play video games with my partner. ,0.05,0.03,4.4
-16,I like to try new hobbies or sports on my own.,I enjoy getting drinks and catching up with my friends.,0.01,0.04,1.1
-17,I like to cook or bake a new recipe. ,I love trying new recipes with my best friend. ,0.02,0.04,8.8
-18,I like to sit outside on my porch at night and light my firepit. ,I enjoy getting drinks and catching up with my friends.,0.03,0.04,3.3
-19,I like to take my dogs to run in the open field near my house. ,I love to go catch up with my parents. ,0.04,0.04,3.3
-20,I like to take my dogs to run in the open field near my house. ,I love taking a long drive with friends and singing. ,0.05,0.04,1.1
-21,I like to try new hobbies or sports on my own.,I love trying new recipes with my best friend. ,0.01,0.05,8.8
-22,I like to take walks. ,I enjoy getting drinks and catching up with my friends.,0.02,0.05,4.4
-23,I like to read books and relax. ,I enjoy trying new activities with friends. ,0.03,0.05,1.1
-24,I like to sit outside on my porch at night and light my firepit. ,I love trying new recipes with my best friend. ,0.04,0.05,4.4
-25,I like to take walks. ,I love to play video games with my partner. ,0.05,0.05,3.3
-26,I like to cook or bake a new recipe. ,I love going out to dinner or a meal with my dad.,0.01,0.01,4.4
-27,I like to go explore bookstores or thrift shops on my own. ,I love going out to dinner or a meal with my dad.,0.02,0.01,3.3
-28,I like to sit outside on my porch at night and light my firepit. ,I love going shopping with my mom.,0.03,0.01,3.3
-29,I like to try new hairstyles and outfits. ,I love watching new movies or shows with my partner. ,0.04,0.01,4.4
-30,I like to take walks. ,I love taking a long drive with friends and singing. ,0.05,0.01,8.8
-31,I like to read books and relax. ,I enjoy getting drinks and catching up with my friends.,0.01,0.02,8.8
-32,I like to sit outside on my porch at night and light my firepit. ,I love to go catch up with my parents. ,0.02,0.02,1.1
-33,I like to try new hobbies or sports on my own.,I love to go catch up with my parents. ,0.03,0.02,4.4
-34,I like to try new hairstyles and outfits. ,I love to play video games with my partner. ,0.04,0.02,3.3
-35,I like to take walks. ,I love going shopping with my mom.,0.05,0.02,1.1
-36,I like to take my dogs to run in the open field near my house. ,I enjoy trying new activities with friends. ,0.01,0.03,3.3
-37,I like to watch new shows. ,I love watching new movies or shows with my partner. ,0.02,0.03,1.1
-38,I like to go explore bookstores or thrift shops on my own. ,I enjoy getting drinks and catching up with my friends.,0.03,0.03,1.1
-39,I like to sit outside on my porch at night and light my firepit. ,I love taking a long drive with friends and singing. ,0.04,0.03,3.3
-40,I like to try new hobbies or sports on my own.,I enjoy trying new activities with friends. ,0.05,0.03,4.4
-41,I like to take walks. ,I love watching new movies or shows with my partner. ,0.01,0.04,1.1
-42,I like to sit outside on my porch at night and light my firepit. ,I enjoy trying new activities with friends. ,0.02,0.04,3.3
-43,I like to try new hairstyles and outfits. ,I enjoy trying new activities with friends. ,0.03,0.04,1.1
-44,I like to take my dogs to run in the open field near my house. ,I love watching new movies or shows with my partner. ,0.04,0.04,1.1
-45,I like to take walks. ,I enjoy trying new activities with friends. ,0.05,0.04,4.4
-46,I like to watch new shows. ,I love going shopping with my mom.,0.01,0.05,8.8
-47,I like to try new hobbies or sports on my own.,I love going shopping with my mom.,0.02,0.05,1.1
-48,I like to take my dogs to run in the open field near my house. ,I love going shopping with my mom.,0.03,0.05,4.4
-49,"I like to drive around and listen to music and just drive, ",I love trying new recipes with my best friend. ,0.04,0.05,3.3
-50,I like to watch new shows. ,I love to play video games with my partner. ,0.05,0.05,1.1
-51,"I like to drive around and listen to music and just drive, ",I love to go catch up with my parents. ,0.01,0.01,1.1
-52,I like to read books and relax. ,I love going shopping with my mom.,0.02,0.01,3.3
-53,I like to go explore bookstores or thrift shops on my own. ,I love trying new recipes with my best friend. ,0.03,0.01,1.1
-54,I like to take my dogs to run in the open field near my house. ,I love going on adventures with my friends.,0.04,0.01,4.4
-55,I like to watch new shows. ,I love trying new recipes with my best friend. ,0.05,0.01,1.1
-56,I like to watch new shows. ,I enjoy getting drinks and catching up with my friends.,0.01,0.02,8.8
-57,I like to try new hairstyles and outfits. ,I love to go catch up with my parents. ,0.02,0.02,4.4
-58,I like to take my dogs to run in the open field near my house. ,I love trying new recipes with my best friend. ,0.03,0.02,4.4
-59,I like to take walks. ,I love trying new recipes with my best friend. ,0.04,0.02,4.4
-60,I like to take walks. ,I love going on adventures with my friends.,0.05,0.02,1.1
-61,I like to cook or bake a new recipe. ,I enjoy getting drinks and catching up with my friends.,0.01,0.03,3.3
-62,I like to go explore bookstores or thrift shops on my own. ,I enjoy trying new activities with friends. ,0.02,0.03,3.3
-63,"I like to drive around and listen to music and just drive, ",I love going out to dinner or a meal with my dad.,0.03,0.03,3.3
-64,I like to read books and relax. ,I love going on adventures with my friends.,0.04,0.03,1.1
-65,I like to try new hairstyles and outfits. ,I love taking a long drive with friends and singing. ,0.05,0.03,1.1
-66,I like to cook or bake a new recipe. ,I love to play video games with my partner. ,0.01,0.04,1.1
-67,"I like to drive around and listen to music and just drive, ",I enjoy getting drinks and catching up with my friends.,0.02,0.04,8.8
-68,I like to try new hobbies or sports on my own.,I love to play video games with my partner. ,0.03,0.04,4.4
-69,I like to sit outside on my porch at night and light my firepit. ,I love going on adventures with my friends.,0.04,0.04,1.1
-70,I like to sit outside on my porch at night and light my firepit. ,I love going out to dinner or a meal with my dad.,0.05,0.04,1.1
-71,I like to go explore bookstores or thrift shops on my own. ,I love going shopping with my mom.,0.01,0.05,3.3
-72,I like to take my dogs to run in the open field near my house. ,I love going out to dinner or a meal with my dad.,0.02,0.05,8.8
-73,I like to take walks. ,I love to go catch up with my parents. ,0.03,0.05,3.3
-74,I like to watch new shows. ,I love taking a long drive with friends and singing. ,0.04,0.05,4.4
-75,I like to sit outside on my porch at night and light my firepit. ,I love watching new movies or shows with my partner. ,0.05,0.05,3.3
-76,I like to cook or bake a new recipe. ,I love watching new movies or shows with my partner. ,0.01,0.01,1.1
-77,I like to go explore bookstores or thrift shops on my own. ,I love watching new movies or shows with my partner. ,0.02,0.01,8.8
-78,I like to cook or bake a new recipe. ,I love to go catch up with my parents. ,0.03,0.01,1.1
-79,I like to cook or bake a new recipe. ,I enjoy trying new activities with friends. ,0.04,0.01,1.1
-80,I like to cook or bake a new recipe. ,I love going on adventures with my friends.,0.05,0.01,4.4
-81,I like to go explore bookstores or thrift shops on my own. ,I love taking a long drive with friends and singing. ,0.01,0.02,3.3
-82,I like to take my dogs to run in the open field near my house. ,I love to play video games with my partner. ,0.02,0.02,4.4
-83,I like to watch new shows. ,I love going out to dinner or a meal with my dad.,0.03,0.02,1.1
-84,I like to read books and relax. ,I love watching new movies or shows with my partner. ,0.04,0.02,3.3
-85,I like to read books and relax. ,I love taking a long drive with friends and singing. ,0.05,0.02,3.3
-86,I like to go explore bookstores or thrift shops on my own. ,I love to play video games with my partner. ,0.01,0.03,1.1
-87,I like to watch new shows. ,I love to go catch up with my parents. ,0.02,0.03,4.4
-88,I like to watch new shows. ,I love going on adventures with my friends.,0.03,0.03,1.1
-89,I like to cook or bake a new recipe. ,I love taking a long drive with friends and singing. ,0.04,0.03,3.3
-90,I like to read books and relax. ,I love trying new recipes with my best friend. ,0.05,0.03,8.8
-91,"I like to drive around and listen to music and just drive, ",I love going shopping with my mom.,0.01,0.04,3.3
-92,"I like to drive around and listen to music and just drive, ",I love to play video games with my partner. ,0.02,0.04,8.8
-93,I like to take my dogs to run in the open field near my house. ,I enjoy getting drinks and catching up with my friends.,0.03,0.04,1.1
-94,I like to watch new shows. ,I enjoy trying new activities with friends. ,0.04,0.04,4.4
-95,I like to try new hairstyles and outfits. ,I love going on adventures with my friends.,0.05,0.04,4.4
-96,"I like to drive around and listen to music and just drive, ",I love watching new movies or shows with my partner. ,0.01,0.05,3.3
-97,I like to read books and relax. ,I love going out to dinner or a meal with my dad.,0.02,0.05,1.1
-98,I like to try new hairstyles and outfits. ,I love going shopping with my mom.,0.03,0.05,1.1
-99,I like to try new hobbies or sports on my own.,I love watching new movies or shows with my partner. ,0.04,0.05,3.3
-100,I like to try new hobbies or sports on my own.,I love going on adventures with my friends.,0.05,0.05,4.4
+1,explore bookstores or thrift shops on my own,I enjoy trying new activities with friends. ,0.01,0.01,4.4
+2,read books and relax,I love to play video games with my partner. ,0.02,0.01,8.8
+3,watch new shows,I love taking a long drive with friends and singing. ,0.03,0.01,3.3
+4,take walks,I love to play video games with my partner. ,0.04,0.01,1.1
+5,take walks,I love trying new recipes with my best friend. ,0.05,0.01,1.1
+6,sit outside on my porch at night and light my firepit,I love watching new movies or shows with my partner. ,0.01,0.02,3.3
+7,watch new shows,I love going shopping with my mom.,0.02,0.02,1.1
+8,take walks,I enjoy trying new activities with friends. ,0.03,0.02,1.1
+9,drive around and listen to music ,I love to go catch up with my parents. ,0.04,0.02,4.4
+10,cook or bake a new recipe,I love watching new movies or shows with my partner. ,0.05,0.02,1.1
+11,try new hairstyles and outfits,I enjoy trying new activities with friends. ,0.01,0.03,3.3
+12,sit outside on my porch at night and light my firepit,I love trying new recipes with my best friend. ,0.02,0.03,4.4
+13,read books and relax,I love going on adventures with my friends.,0.03,0.03,1.1
+14,try new hairstyles and outfits,I love to play video games with my partner. ,0.04,0.03,3.3
+15,explore bookstores or thrift shops on my own,I love to play video games with my partner. ,0.05,0.03,4.4
+16,explore bookstores or thrift shops on my own,I love taking a long drive with friends and singing. ,0.01,0.04,1.1
+17,watch new shows,I love trying new recipes with my best friend. ,0.02,0.04,8.8
+18,drive around and listen to music ,I enjoy trying new activities with friends. ,0.03,0.04,3.3
+19,try new hairstyles and outfits,I love going on adventures with my friends.,0.04,0.04,3.3
+20,explore bookstores or thrift shops on my own,I love trying new recipes with my best friend. ,0.05,0.04,1.1
+21,cook or bake a new recipe,I love to go catch up with my parents. ,0.01,0.05,8.8
+22,take my dogs to run in the open field near my house,I love going shopping with my mom.,0.02,0.05,4.4
+23,drive around and listen to music ,I love watching new movies or shows with my partner. ,0.03,0.05,1.1
+24,read books and relax,I love watching new movies or shows with my partner. ,0.04,0.05,4.4
+25,read books and relax,I love trying new recipes with my best friend. ,0.05,0.05,3.3
+26, try new hobbies or sport,I love taking a long drive with friends and singing. ,0.01,0.01,4.4
+27,take walks,I love watching new movies or shows with my partner. ,0.02,0.01,3.3
+28, try new hobbies or sport,I enjoy trying new activities with friends. ,0.03,0.01,3.3
+29, try new hobbies or sport,I love going out to dinner or a meal with my dad.,0.04,0.01,4.4
+30,drive around and listen to music ,I love to play video games with my partner. ,0.05,0.01,8.8
+31,take my dogs to run in the open field near my house,I love to play video games with my partner. ,0.01,0.02,8.8
+32,try new hairstyles and outfits,I love trying new recipes with my best friend. ,0.02,0.02,1.1
+33,try new hairstyles and outfits,I love watching new movies or shows with my partner. ,0.03,0.02,4.4
+34,cook or bake a new recipe,I love taking a long drive with friends and singing. ,0.04,0.02,3.3
+35,cook or bake a new recipe,I love trying new recipes with my best friend. ,0.05,0.02,1.1
+36,explore bookstores or thrift shops on my own,I love going on adventures with my friends.,0.01,0.03,3.3
+37, try new hobbies or sport,I love to go catch up with my parents. ,0.02,0.03,1.1
+38,sit outside on my porch at night and light my firepit,I love taking a long drive with friends and singing. ,0.03,0.03,1.1
+39,drive around and listen to music ,I love going on adventures with my friends.,0.04,0.03,3.3
+40,take walks,I love to go catch up with my parents. ,0.05,0.03,4.4
+41,explore bookstores or thrift shops on my own,I love going shopping with my mom.,0.01,0.04,1.1
+42,read books and relax,I enjoy trying new activities with friends. ,0.02,0.04,3.3
+43,sit outside on my porch at night and light my firepit,I love to play video games with my partner. ,0.03,0.04,1.1
+44,sit outside on my porch at night and light my firepit,I love to go catch up with my parents. ,0.04,0.04,1.1
+45,drive around and listen to music ,I love taking a long drive with friends and singing. ,0.05,0.04,4.4
+46,try new hairstyles and outfits,I enjoy getting drinks and catching up with my friends.,0.01,0.05,8.8
+47,explore bookstores or thrift shops on my own,I love watching new movies or shows with my partner. ,0.02,0.05,1.1
+48,try new hairstyles and outfits,I love going shopping with my mom.,0.03,0.05,4.4
+49,watch new shows,I enjoy getting drinks and catching up with my friends.,0.04,0.05,3.3
+50,sit outside on my porch at night and light my firepit,I enjoy getting drinks and catching up with my friends.,0.05,0.05,1.1
+51,watch new shows,I love watching new movies or shows with my partner. ,0.01,0.01,1.1
+52,take my dogs to run in the open field near my house,I love trying new recipes with my best friend. ,0.02,0.01,3.3
+53,cook or bake a new recipe,I enjoy trying new activities with friends. ,0.03,0.01,1.1
+54, try new hobbies or sport,I love trying new recipes with my best friend. ,0.04,0.01,4.4
+55,take my dogs to run in the open field near my house,I love going out to dinner or a meal with my dad.,0.05,0.01,1.1
+56, try new hobbies or sport,I love going on adventures with my friends.,0.01,0.02,8.8
+57,take walks,I love going shopping with my mom.,0.02,0.02,4.4
+58,try new hairstyles and outfits,I love to go catch up with my parents. ,0.03,0.02,4.4
+59,take walks,I love taking a long drive with friends and singing. ,0.04,0.02,4.4
+60,take my dogs to run in the open field near my house,I love to go catch up with my parents. ,0.05,0.02,1.1
+61,drive around and listen to music ,I love going out to dinner or a meal with my dad.,0.01,0.03,3.3
+62,sit outside on my porch at night and light my firepit,I love going on adventures with my friends.,0.02,0.03,3.3
+63,sit outside on my porch at night and light my firepit,I enjoy trying new activities with friends. ,0.03,0.03,3.3
+64,watch new shows,I love going out to dinner or a meal with my dad.,0.04,0.03,1.1
+65,take my dogs to run in the open field near my house,I enjoy getting drinks and catching up with my friends.,0.05,0.03,1.1
+66,read books and relax,I love to go catch up with my parents. ,0.01,0.04,1.1
+67,read books and relax,I enjoy getting drinks and catching up with my friends.,0.02,0.04,8.8
+68,try new hairstyles and outfits,I love taking a long drive with friends and singing. ,0.03,0.04,4.4
+69,watch new shows,I love to play video games with my partner. ,0.04,0.04,1.1
+70,take my dogs to run in the open field near my house,I enjoy trying new activities with friends. ,0.05,0.04,1.1
+71,cook or bake a new recipe,I love to play video games with my partner. ,0.01,0.05,3.3
+72,drive around and listen to music ,I love trying new recipes with my best friend. ,0.02,0.05,8.8
+73,cook or bake a new recipe,I enjoy getting drinks and catching up with my friends.,0.03,0.05,3.3
+74,cook or bake a new recipe,I love going on adventures with my friends.,0.04,0.05,4.4
+75,take my dogs to run in the open field near my house,I love going on adventures with my friends.,0.05,0.05,3.3
+76,explore bookstores or thrift shops on my own,I love to go catch up with my parents. ,0.01,0.01,1.1
+77, try new hobbies or sport,I love going shopping with my mom.,0.02,0.01,8.8
+78,sit outside on my porch at night and light my firepit,I love going out to dinner or a meal with my dad.,0.03,0.01,1.1
+79,take my dogs to run in the open field near my house,I love watching new movies or shows with my partner. ,0.04,0.01,1.1
+80,explore bookstores or thrift shops on my own,I enjoy getting drinks and catching up with my friends.,0.05,0.01,4.4
+81,cook or bake a new recipe,I love going out to dinner or a meal with my dad.,0.01,0.02,3.3
+82,drive around and listen to music ,I love going shopping with my mom.,0.02,0.02,4.4
+83,watch new shows,I enjoy trying new activities with friends. ,0.03,0.02,1.1
+84, try new hobbies or sport,I love to play video games with my partner. ,0.04,0.02,3.3
+85,try new hairstyles and outfits,I love going out to dinner or a meal with my dad.,0.05,0.02,3.3
+86,watch new shows,I love going on adventures with my friends.,0.01,0.03,1.1
+87, try new hobbies or sport,I enjoy getting drinks and catching up with my friends.,0.02,0.03,4.4
+88,cook or bake a new recipe,I love going shopping with my mom.,0.03,0.03,1.1
+89,drive around and listen to music ,I enjoy getting drinks and catching up with my friends.,0.04,0.03,3.3
+90,read books and relax,I love going shopping with my mom.,0.05,0.03,8.8
+91,read books and relax,I love taking a long drive with friends and singing. ,0.01,0.04,3.3
+92,read books and relax,I love going out to dinner or a meal with my dad.,0.02,0.04,8.8
+93,take walks,I love going on adventures with my friends.,0.03,0.04,1.1
+94, try new hobbies or sport,I love watching new movies or shows with my partner. ,0.04,0.04,4.4
+95,sit outside on my porch at night and light my firepit,I love going shopping with my mom.,0.05,0.04,4.4
+96,take walks,I love going out to dinner or a meal with my dad.,0.01,0.05,3.3
+97,take walks,I enjoy getting drinks and catching up with my friends.,0.02,0.05,1.1
+98,explore bookstores or thrift shops on my own,I love going out to dinner or a meal with my dad.,0.03,0.05,1.1
+99,watch new shows,I love to go catch up with my parents. ,0.04,0.05,3.3
+100,take my dogs to run in the open field near my house,I love taking a long drive with friends and singing. ,0.05,0.05,4.4
