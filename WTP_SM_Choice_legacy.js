@@ -10,7 +10,7 @@ const { Scheduler } = util;
 const { abs, sin, cos, PI: pi, sqrt } = Math;
 const { round } = util;
 // Import dataframe-js library
-import DataFrame from 'dataframe-js';
+
 
 
 // store info about the experiment session:
@@ -269,11 +269,6 @@ var end_screen;
 var end_screenclock;
 var end_screen_keys;
 // initialize empty dataframe
-const df = new DataFrame();
-// function to collect and append data to the dataframe
-function collectData(dataPoint) {
-    df.push(dataPoint);
-}
 
 
 
@@ -2889,7 +2884,6 @@ function WTPTaskRoutineEnd(snapshot) {
       ParticipantID: participantID,
       Response: responses.keys
                             };
-    collectData(dataPoint);
     // update the trial handler
     if (currentLoop instanceof MultiStairHandler) {
       currentLoop.addResponse(responses.corr, level);
