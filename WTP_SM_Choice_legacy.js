@@ -68,9 +68,6 @@ psychoJS.schedule(psychoJS.gui.DlgFromDict({
 const flowScheduler = new Scheduler(psychoJS);
 const dialogCancelScheduler = new Scheduler(psychoJS);
 psychoJS.scheduleCondition(function() { return (psychoJS.gui.dialogComponent.button === 'OK'); }, flowScheduler, dialogCancelScheduler);
-// Save CSV data to a file in the Pavlovia repository
-const saveFilename = 'test_data.csv'; // Specify the filename you want to use
-const savePath = 'data/' + saveFilename; // Specify the path where you want to save the file
 
 
 // flowScheduler gets run if the participants presses OK
@@ -4034,17 +4031,7 @@ async function quitPsychoJS(message, isCompleted) {
   if (psychoJS.experiment.isEntryEmpty()) {
     psychoJS.experiment.nextEntry();
   }
-    // Use PsychoJS's file handling functions to save the CSV data
-  psychoJS.experiment.save({
-      'filename': savePath,
-      'data': csvData,
-      'format': 'CSV'
-  }).then(() => {
-      console.log('CSV data saved successfully.');
-  }).catch((error) => {
-      console.error('Error saving CSV data:', error);
-  });
-    
+
   
   
   
