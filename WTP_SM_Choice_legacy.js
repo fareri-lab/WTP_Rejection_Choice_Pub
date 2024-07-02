@@ -2824,12 +2824,7 @@ function WTPTaskRoutineEachFrame() {
     // check for quit (typically the Esc key)
     if (psychoJS.experiment.experimentEnded || psychoJS.eventManager.getKeys({keyList:['escape']}).length > 0) {
       return quitPsychoJS('The [Escape] key was pressed. Goodbye!', false);
-      // use psychojs file handling functions to save the CSV data
-      psychoJS.experiment.save({'filename': savePath, 'data': csvData,  'format': 'CSV' }).then(() => {
-          console.log('CSV data saved successfully.');
-      }).catch((error) => {
-          console.error('Error saving CSV data:', error);
-      });
+
       
     }
 
