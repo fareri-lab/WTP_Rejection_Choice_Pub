@@ -2666,7 +2666,7 @@ function WTPTaskRoutineBegin(snapshot) {
     Right_Experience.setText(right);
     Left_Price.setText('$'+leftmoney);
     Right_Price.setColor(new util.Color('white'));
-    Right_Price.setText('$'+leftmoney);
+    Right_Price.setText('$'+rightmoney);
     responses.keys = undefined;
     responses.rt = undefined;
     _responses_allKeys = [];
