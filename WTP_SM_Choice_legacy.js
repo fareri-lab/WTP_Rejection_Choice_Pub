@@ -282,7 +282,7 @@ async function experimentInit() {
     units: undefined, 
     pos: [0, 0], height: 0.08,  wrapWidth: undefined, ori: 0.0,
     languageStyle: 'LTR',
-    color: new util.Color('yellow'),  opacity: undefined,
+    color: new util.Color('blue'),  opacity: undefined,
     depth: 0.0 
   }); //change font color here to test changes 
   
@@ -1223,18 +1223,9 @@ function entiretaskloopLoopBegin(entiretaskloopLoopScheduler, snapshot) {
     return Scheduler.Event.NEXT;
   }
 }
-// var Right_Exp;
-// var Left_Exp;
-// var leftmoney;
-// var rightmoney;
+
 var startWTPloop;
-// var social_left;
-// var left;
-// var right;
-// var WTP_ITI;
-// var left_more_than_right;
-// var matching_prices;
-// var social_worthmore;
+
 function startWTPloopLoopBegin(startWTPloopLoopScheduler, snapshot) {
   return async function() {
     TrialHandler.fromSnapshot(snapshot); // update internal variables (.thisN etc) of the loop
@@ -3174,19 +3165,6 @@ function SalienceRatingRoutineBegin(snapshot) {
     } else {
       continueRoutine = false;
     }
-    // update component parameters for each repeat
-    // Run 'Begin Routine' code from saliencyrating_code
-    
-    // console.log(TrialNumber)
-    // const trials = [30,60,90,120,150]
-    // 
-    //     if (trials.includes(TrialNumber) == true) {
-    //       continueRoutine = true;
-    //       console.log('ok')
-    //     } else {
-    //       continueRoutine = false;
-    //       console.log('nope')
-    //     }
   
 
     salienceratingtext = `How likely are you to share photos with ${Partner} in the future?
@@ -3246,44 +3224,7 @@ function SalienceRatingRoutineEachFrame() {
     // get current time
     t = SalienceRatingClock.getTime();
     frameN = frameN + 1;// number of completed frames (so 0 is the first frame)
-    // update/draw components on each frame
-    // Run 'Each Frame' code from saliencyrating_code
-    // var _pj;
-    // function _pj_snippets(container) {
-    //     function in_es6(left, right) {
-    //         if (((right instanceof Array) || ((typeof right) === "string"))) {
-    //             return (right.indexOf(left) > (- 1));
-    //         } else {
-    //             if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {
-    //                 return right.has(left);
-    //             } else {
-    //                 return (left in right);
-    //             }
-    //         }
-    //     }
-    //     container["in_es6"] = in_es6;
-    //     return container;
-    // }
-    // _pj = {};
-    // _pj_snippets(_pj);
-    // salience_slider.draw();
-    // keys = psychoJS.eventManager.getKeys();
-    // displayrating_text.setText(Math.round(salience_slider.getMarkerPos(), 1));
-    // if (keys.length) {
-    //     if (_pj.in_es6("left", keys)) {
-    //         salience_slider.markerPos = (salience_slider.markerPos - 0.1);
-    //         rating_forsalience = salience_slider.getRating();
-    //         displayrating_text.setText(Math.round(salience_slider.getMarkerPos(), 1));
-    //     } else {
-    //         if (_pj.in_es6("right", keys)) {
-    //             salience_slider.markerPos = (salience_slider.markerPos + 0.1);
-    //             rating_forsalience = salience_slider.getRating();
-    //             displayrating_text.setText(Math.round(salience_slider.getMarkerPos(), 1));
-    //         }
-    //     }
-    // }
-    // 
-    // 
+   
     let buttonpress = userMouse.getPressed(); // read mouse state
       const xys = userMouse.getPos();
       userMouse.x.push(xys[0]); // add mouse coordinates to x/y list, in principle for data storage, but not implemented right now
@@ -3528,25 +3469,7 @@ function StressLevelRoutineBegin(snapshot) {
     } else {
       continueRoutine = false;
     }
-    // update component parameters for each repeat
-    // Run 'Begin Routine' code from stresslevelslider
-    // var _pj;
-    // _pj = {};
-    // _pj_snippets(_pj);
-    // if ((! _pj.in_es6(TrialNumber, [30,60,90,120,150]))) {
-    //     continueRoutine = false;
-    // }
-    // console.log(TrialNumber)
-    // console.log(trials.includes(TrialNumber))
-    // const trials = [30,60,90,120,150]
-    // 
-    //     if (trials.includes(TrialNumber) == true) {
-    //       continueRoutine = true;
-    //       console.log('ok')
-    //     } else {
-    //       continueRoutine = false;
-    //       console.log('nope')
-    //     }
+
 
     stressleveltext = `Please rate your current stress level.
     
@@ -3613,41 +3536,7 @@ function StressLevelRoutineEachFrame() {
       userMouse.leftButton.push(buttonpress[0]); // store buttons in button list, likewise for storage
       userMouse.midButton.push(buttonpress[1]);
       userMouse.rightButton.push(buttonpress[2]);
-    // var _pj;
-    // function _pj_snippets(container) {
-    //     function in_es6(left, right) {
-    //         if (((right instanceof Array) || ((typeof right) === "string"))) {
-    //             return (right.indexOf(left) > (- 1));
-    //         } else {
-    //             if (((right instanceof Map) || (right instanceof Set) || (right instanceof WeakMap) || (right instanceof WeakSet))) {
-    //                 return right.has(left);
-    //             } else {
-    //                 return (left in right);
-    //             }
-    //         }
-    //     }
-    //     container["in_es6"] = in_es6;
-    //     return container;
-    // }
-    // _pj = {};
-    // _pj_snippets(_pj);
-    // stress_slider.draw();
-    // keys = psychoJS.eventManager.getKeys();
-    // displaystressrating_text.setText(Math.round(stress_slider.getMarkerPos(), 1));
-    // if (keys.length) {
-    //     if (_pj.in_es6("left", keys)) {
-    //         stress_slider.markerPos = (stress_slider.markerPos - 0.1);
-    //         rating_forstress = stress_slider.getRating();
-    //         displayrating_text.setText(Math.round(stress_slider.getMarkerPos(), 1));
-    //     } else {
-    //         if (_pj.in_es6("right", keys)) {
-    //             stress_slider.markerPos = (stress_slider.markerPos + 0.1);
-    //             rating_forstress = stress_slider.getRating();
-    //             displayrating_text.setText(Math.round(stress_slider.getMarkerPos(), 1));
-    //         }
-    //     }
-    // }
-    // 
+
     
     // *stresslevel_text* updates
     if (t >= 0.0 && stresslevel_text.status === PsychoJS.Status.NOT_STARTED) {
@@ -3671,28 +3560,6 @@ function StressLevelRoutineEachFrame() {
       psychoJS.window.callOnFlip(function() { stresslevel_keypress.clearEvents(); });
     }
 
-    // if (stresslevel_keypress.status === PsychoJS.Status.STARTED) {
-    //   let theseKeys = stresslevel_keypress.getKeys({keyList: ['space'], waitRelease: false});
-    //   _stresslevel_keypress_allKeys = _stresslevel_keypress_allKeys.concat(theseKeys);
-    //   if (_stresslevel_keypress_allKeys.length > 0) {
-    //     stresslevel_keypress.keys = _stresslevel_keypress_allKeys[_stresslevel_keypress_allKeys.length - 1].name;  // just the last key pressed
-    //     stresslevel_keypress.rt = _stresslevel_keypress_allKeys[_stresslevel_keypress_allKeys.length - 1].rt;
-    //     // a response ends the routine
-    //     continueRoutine = false;
-    //   }
-    // }
-    // 
-    
-    // // *displaystressrating_text* updates
-    // if (t >= 0.0 && displaystressrating_text.status === PsychoJS.Status.NOT_STARTED) {
-    //   // keep track of start time/frame for later
-    //   displaystressrating_text.tStart = t;  // (not accounting for frame time here)
-    //   displaystressrating_text.frameNStart = frameN;  // exact frame index
-    // 
-    //   displaystressrating_text.setAutoDraw(true);
-    // }
-    // *stresscontinue_text* updates
-    //  if (t >= 0.0 && stresscontinue_text.status === PsychoJS.Status.NOT_STARTED) {
     if (stresslevel_keypress.status === PsychoJS.Status.STARTED && stresscontinue_text.status === PsychoJS.Status.NOT_STARTED) {
         // keep track of start time/frame for later
         stresscontinue_text.tStart = t;  // (not accounting for frame time here)
@@ -4011,9 +3878,6 @@ function End_ScreenRoutineEnd(snapshot) {
 }
 
 
-
-
-
 function importConditions(currentLoop) {
   return async function () {
     psychoJS.importAttributes(currentLoop.getCurrentTrial());
@@ -4027,42 +3891,6 @@ async function quitPsychoJS(message, isCompleted) {
     psychoJS.experiment.nextEntry();
   }
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
   
   psychoJS.window.close();
