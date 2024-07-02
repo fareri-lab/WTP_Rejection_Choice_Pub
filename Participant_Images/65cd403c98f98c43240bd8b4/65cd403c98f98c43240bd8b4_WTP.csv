@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
-1,cook, go to the gym with my workout buddies early in the morning,0.01,0.01,4.4
-2,take  solo trips to the beach to begin embracing my independence,attend book club meetings with my classmates at a quiet caf,0.02,0.01,8.8
-3,sleep,go to the movies with my coworkers on a Friday evening after a long week,0.03,0.01,3.3
-4,watch movies in different settings,go to a local cafe with my significant other on a rainy autumn afternoon,0.04,0.01,1.1
-5,dance to music when I am home alone as a way to relax,go to the movies with my coworkers on a Friday evening after a long week,0.05,0.01,1.1
-6,take  solo trips to the beach to begin embracing my independence,cook a big dinner with my friends in my kitchen,0.01,0.02,3.3
-7,go to new coffee shops and try new drinks, go to the gym with my workout buddies early in the morning,0.02,0.02,1.1
-8,take my dog on hikes and being in nature with him,have game nights with my close friends in the cozy comfort of my living room,0.03,0.02,1.1
-9,dance to music when I am home alone as a way to relax,attend book club meetings with my classmates at a quiet caf,0.04,0.02,4.4
-10,take my dog on hikes and being in nature with him,attend outdoor music festivals with my friends in the spring,0.05,0.02,1.1
+1,take my dog on hikes and being in nature with him, go to the gym with my workout buddies early in the morning,0.01,0.01,4.4
+2,go to new coffee shops and try new drinks,have a picnic in the park with my family during a sunny weekend,0.02,0.01,8.8
+3,read books and collect them,have a beach barbecue with my family in the summer,0.03,0.01,3.3
+4,cook,have a beach barbecue with my family in the summer,0.04,0.01,1.1
+5,sleep,have a beach barbecue with my family in the summer,0.05,0.01,1.1
+6,dance to music when I am home alone as a way to relax,go hiking with friends in the cool crisp air of a fall morning,0.01,0.02,3.3
+7,cook,go to a local cafe with my significant other on a rainy autumn afternoon,0.02,0.02,1.1
+8,spend time going to stores,have a beach barbecue with my family in the summer,0.03,0.02,1.1
+9,spend time going to stores,go to the movies with my coworkers on a Friday evening after a long week,0.04,0.02,4.4
+10,cook,attend book club meetings with my classmates at a quiet caf,0.05,0.02,1.1
 11,spend time going to stores,go hiking with friends in the cool crisp air of a fall morning,0.01,0.03,3.3
-12,spend time going to stores,go to a local cafe with my significant other on a rainy autumn afternoon,0.02,0.03,4.4
-13,sleep,have game nights with my close friends in the cozy comfort of my living room,0.03,0.03,1.1
-14,take my dog on hikes and being in nature with him,go hiking with friends in the cool crisp air of a fall morning,0.04,0.03,3.3
-15,read books and collect them,go to the movies with my coworkers on a Friday evening after a long week,0.05,0.03,4.4
-16,watch movies in different settings,cook a big dinner with my friends in my kitchen,0.01,0.04,1.1
-17,cook,go hiking with friends in the cool crisp air of a fall morning,0.02,0.04,8.8
-18,spend time going to stores,go to the movies with my coworkers on a Friday evening after a long week,0.03,0.04,3.3
-19,watch movies in different settings,have game nights with my close friends in the cozy comfort of my living room,0.04,0.04,3.3
-20,cook,go to the movies with my coworkers on a Friday evening after a long week,0.05,0.04,1.1
-21,dance to music when I am home alone as a way to relax,have a picnic in the park with my family during a sunny weekend,0.01,0.05,8.8
-22,spend time going to stores,have game nights with my close friends in the cozy comfort of my living room,0.02,0.05,4.4
-23,dance to music when I am home alone as a way to relax,go to a local cafe with my significant other on a rainy autumn afternoon,0.03,0.05,1.1
-24,take  solo trips to the beach to begin embracing my independence,go to the movies with my coworkers on a Friday evening after a long week,0.04,0.05,4.4
-25,cook,have game nights with my close friends in the cozy comfort of my living room,0.05,0.05,3.3
-26,go to new coffee shops and try new drinks,attend book club meetings with my classmates at a quiet caf,0.01,0.01,4.4
-27,sleep,cook a big dinner with my friends in my kitchen,0.02,0.01,3.3
-28,dance to music when I am home alone as a way to relax,have game nights with my close friends in the cozy comfort of my living room,0.03,0.01,3.3
-29,watch movies in different settings,have a beach barbecue with my family in the summer,0.04,0.01,4.4
-30,sleep, go to the gym with my workout buddies early in the morning,0.05,0.01,8.8
-31,watch movies in different settings,attend book club meetings with my classmates at a quiet caf,0.01,0.02,8.8
-32,cook,cook a big dinner with my friends in my kitchen,0.02,0.02,1.1
-33,volunteer on the weekends with various charities,cook a big dinner with my friends in my kitchen,0.03,0.02,4.4
-34,watch movies in different settings,have a picnic in the park with my family during a sunny weekend,0.04,0.02,3.3
-35,cook,have a picnic in the park with my family during a sunny weekend,0.05,0.02,1.1
-36,cook,have a beach barbecue with my family in the summer,0.01,0.03,3.3
-37,sleep,have a beach barbecue with my family in the summer,0.02,0.03,1.1
-38,take  solo trips to the beach to begin embracing my independence,have a picnic in the park with my family during a sunny weekend,0.03,0.03,1.1
-39,take  solo trips to the beach to begin embracing my independence,go hiking with friends in the cool crisp air of a fall morning,0.04,0.03,3.3
-40,sleep,attend outdoor music festivals with my friends in the spring,0.05,0.03,4.4
-41,watch movies in different settings,go to the movies with my coworkers on a Friday evening after a long week,0.01,0.04,1.1
-42,take my dog on hikes and being in nature with him,have a picnic in the park with my family during a sunny weekend,0.02,0.04,3.3
-43,take  solo trips to the beach to begin embracing my independence, go to the gym with my workout buddies early in the morning,0.03,0.04,1.1
-44,watch movies in different settings,go hiking with friends in the cool crisp air of a fall morning,0.04,0.04,1.1
-45,sleep,attend book club meetings with my classmates at a quiet caf,0.05,0.04,4.4
-46,volunteer on the weekends with various charities,go to a local cafe with my significant other on a rainy autumn afternoon,0.01,0.05,8.8
-47,read books and collect them,have game nights with my close friends in the cozy comfort of my living room,0.02,0.05,1.1
-48,dance to music when I am home alone as a way to relax,have a beach barbecue with my family in the summer,0.03,0.05,4.4
-49,read books and collect them,attend outdoor music festivals with my friends in the spring,0.04,0.05,3.3
-50,take  solo trips to the beach to begin embracing my independence,have game nights with my close friends in the cozy comfort of my living room,0.05,0.05,1.1
-51,read books and collect them,cook a big dinner with my friends in my kitchen,0.01,0.01,1.1
-52,take  solo trips to the beach to begin embracing my independence,go to a local cafe with my significant other on a rainy autumn afternoon,0.02,0.01,3.3
-53,go to new coffee shops and try new drinks,go to a local cafe with my significant other on a rainy autumn afternoon,0.03,0.01,1.1
-54,cook,attend book club meetings with my classmates at a quiet caf,0.04,0.01,4.4
-55,dance to music when I am home alone as a way to relax,cook a big dinner with my friends in my kitchen,0.05,0.01,1.1
-56,go to new coffee shops and try new drinks,have a beach barbecue with my family in the summer,0.01,0.02,8.8
-57,volunteer on the weekends with various charities,go to the movies with my coworkers on a Friday evening after a long week,0.02,0.02,4.4
-58,spend time going to stores,attend book club meetings with my classmates at a quiet caf,0.03,0.02,4.4
-59,take my dog on hikes and being in nature with him,have a beach barbecue with my family in the summer,0.04,0.02,4.4
-60,go to new coffee shops and try new drinks,go to the movies with my coworkers on a Friday evening after a long week,0.05,0.02,1.1
-61,spend time going to stores,have a picnic in the park with my family during a sunny weekend,0.01,0.03,3.3
-62,read books and collect them,attend book club meetings with my classmates at a quiet caf,0.02,0.03,3.3
-63,watch movies in different settings, go to the gym with my workout buddies early in the morning,0.03,0.03,3.3
-64,cook,go to a local cafe with my significant other on a rainy autumn afternoon,0.04,0.03,1.1
-65,volunteer on the weekends with various charities,have a beach barbecue with my family in the summer,0.05,0.03,1.1
-66,dance to music when I am home alone as a way to relax,attend outdoor music festivals with my friends in the spring,0.01,0.04,1.1
-67,volunteer on the weekends with various charities,have game nights with my close friends in the cozy comfort of my living room,0.02,0.04,8.8
-68,read books and collect them,have a picnic in the park with my family during a sunny weekend,0.03,0.04,4.4
-69,volunteer on the weekends with various charities,have a picnic in the park with my family during a sunny weekend,0.04,0.04,1.1
+12,take  solo trips to the beach to begin embracing my independence,go to a local cafe with my significant other on a rainy autumn afternoon,0.02,0.03,4.4
+13,sleep,go to the movies with my coworkers on a Friday evening after a long week,0.03,0.03,1.1
+14,go to new coffee shops and try new drinks, go to the gym with my workout buddies early in the morning,0.04,0.03,3.3
+15,take my dog on hikes and being in nature with him,go to the movies with my coworkers on a Friday evening after a long week,0.05,0.03,4.4
+16,dance to music when I am home alone as a way to relax,attend outdoor music festivals with my friends in the spring,0.01,0.04,1.1
+17,spend time going to stores,cook a big dinner with my friends in my kitchen,0.02,0.04,8.8
+18,volunteer on the weekends with various charities,go hiking with friends in the cool crisp air of a fall morning,0.03,0.04,3.3
+19,take  solo trips to the beach to begin embracing my independence,attend outdoor music festivals with my friends in the spring,0.04,0.04,3.3
+20,watch movies in different settings,have game nights with my close friends in the cozy comfort of my living room,0.05,0.04,1.1
+21,read books and collect them,attend book club meetings with my classmates at a quiet caf,0.01,0.05,8.8
+22,sleep,have a picnic in the park with my family during a sunny weekend,0.02,0.05,4.4
+23,take  solo trips to the beach to begin embracing my independence,go hiking with friends in the cool crisp air of a fall morning,0.03,0.05,1.1
+24,sleep,attend book club meetings with my classmates at a quiet caf,0.04,0.05,4.4
+25,read books and collect them,attend outdoor music festivals with my friends in the spring,0.05,0.05,3.3
+26,cook,have game nights with my close friends in the cozy comfort of my living room,0.01,0.01,4.4
+27,volunteer on the weekends with various charities,have a picnic in the park with my family during a sunny weekend,0.02,0.01,3.3
+28,take my dog on hikes and being in nature with him,attend book club meetings with my classmates at a quiet caf,0.03,0.01,3.3
+29,volunteer on the weekends with various charities,have a beach barbecue with my family in the summer,0.04,0.01,4.4
+30,watch movies in different settings,go to a local cafe with my significant other on a rainy autumn afternoon,0.05,0.01,8.8
+31,take my dog on hikes and being in nature with him,go to a local cafe with my significant other on a rainy autumn afternoon,0.01,0.02,8.8
+32,sleep,go to a local cafe with my significant other on a rainy autumn afternoon,0.02,0.02,1.1
+33,sleep,have game nights with my close friends in the cozy comfort of my living room,0.03,0.02,4.4
+34,watch movies in different settings,cook a big dinner with my friends in my kitchen,0.04,0.02,3.3
+35,go to new coffee shops and try new drinks,go hiking with friends in the cool crisp air of a fall morning,0.05,0.02,1.1
+36,cook,have a picnic in the park with my family during a sunny weekend,0.01,0.03,3.3
+37,go to new coffee shops and try new drinks,attend book club meetings with my classmates at a quiet caf,0.02,0.03,1.1
+38,spend time going to stores,go to a local cafe with my significant other on a rainy autumn afternoon,0.03,0.03,1.1
+39,watch movies in different settings,have a beach barbecue with my family in the summer,0.04,0.03,3.3
+40,spend time going to stores,attend book club meetings with my classmates at a quiet caf,0.05,0.03,4.4
+41,take my dog on hikes and being in nature with him,go hiking with friends in the cool crisp air of a fall morning,0.01,0.04,1.1
+42,take my dog on hikes and being in nature with him,attend outdoor music festivals with my friends in the spring,0.02,0.04,3.3
+43,watch movies in different settings,attend outdoor music festivals with my friends in the spring,0.03,0.04,1.1
+44,dance to music when I am home alone as a way to relax,go to the movies with my coworkers on a Friday evening after a long week,0.04,0.04,1.1
+45,go to new coffee shops and try new drinks,cook a big dinner with my friends in my kitchen,0.05,0.04,4.4
+46,read books and collect them, go to the gym with my workout buddies early in the morning,0.01,0.05,8.8
+47,take  solo trips to the beach to begin embracing my independence,attend book club meetings with my classmates at a quiet caf,0.02,0.05,1.1
+48,watch movies in different settings, go to the gym with my workout buddies early in the morning,0.03,0.05,4.4
+49,sleep,attend outdoor music festivals with my friends in the spring,0.04,0.05,3.3
+50,take  solo trips to the beach to begin embracing my independence,have a beach barbecue with my family in the summer,0.05,0.05,1.1
+51,go to new coffee shops and try new drinks,go to the movies with my coworkers on a Friday evening after a long week,0.01,0.01,1.1
+52,watch movies in different settings,go hiking with friends in the cool crisp air of a fall morning,0.02,0.01,3.3
+53,dance to music when I am home alone as a way to relax, go to the gym with my workout buddies early in the morning,0.03,0.01,1.1
+54,read books and collect them,cook a big dinner with my friends in my kitchen,0.04,0.01,4.4
+55,read books and collect them,go to the movies with my coworkers on a Friday evening after a long week,0.05,0.01,1.1
+56,go to new coffee shops and try new drinks,have game nights with my close friends in the cozy comfort of my living room,0.01,0.02,8.8
+57,read books and collect them,have game nights with my close friends in the cozy comfort of my living room,0.02,0.02,4.4
+58,volunteer on the weekends with various charities,go to the movies with my coworkers on a Friday evening after a long week,0.03,0.02,4.4
+59,volunteer on the weekends with various charities,have game nights with my close friends in the cozy comfort of my living room,0.04,0.02,4.4
+60,sleep,go hiking with friends in the cool crisp air of a fall morning,0.05,0.02,1.1
+61,take  solo trips to the beach to begin embracing my independence,cook a big dinner with my friends in my kitchen,0.01,0.03,3.3
+62,volunteer on the weekends with various charities,go to a local cafe with my significant other on a rainy autumn afternoon,0.02,0.03,3.3
+63,cook, go to the gym with my workout buddies early in the morning,0.03,0.03,3.3
+64,spend time going to stores, go to the gym with my workout buddies early in the morning,0.04,0.03,1.1
+65,spend time going to stores,have game nights with my close friends in the cozy comfort of my living room,0.05,0.03,1.1
+66,sleep,cook a big dinner with my friends in my kitchen,0.01,0.04,1.1
+67,take  solo trips to the beach to begin embracing my independence,go to the movies with my coworkers on a Friday evening after a long week,0.02,0.04,8.8
+68,take  solo trips to the beach to begin embracing my independence, go to the gym with my workout buddies early in the morning,0.03,0.04,4.4
+69,dance to music when I am home alone as a way to relax,have game nights with my close friends in the cozy comfort of my living room,0.04,0.04,1.1
 70,volunteer on the weekends with various charities,attend book club meetings with my classmates at a quiet caf,0.05,0.04,1.1
-71,go to new coffee shops and try new drinks,go hiking with friends in the cool crisp air of a fall morning,0.01,0.05,3.3
-72,watch movies in different settings,attend outdoor music festivals with my friends in the spring,0.02,0.05,8.8
-73,read books and collect them,go hiking with friends in the cool crisp air of a fall morning,0.03,0.05,3.3
-74,spend time going to stores,have a beach barbecue with my family in the summer,0.04,0.05,4.4
-75,dance to music when I am home alone as a way to relax, go to the gym with my workout buddies early in the morning,0.05,0.05,3.3
-76,dance to music when I am home alone as a way to relax,go hiking with friends in the cool crisp air of a fall morning,0.01,0.01,1.1
-77,take  solo trips to the beach to begin embracing my independence,have a beach barbecue with my family in the summer,0.02,0.01,8.8
-78,take my dog on hikes and being in nature with him,cook a big dinner with my friends in my kitchen,0.03,0.01,1.1
-79,sleep,go to a local cafe with my significant other on a rainy autumn afternoon,0.04,0.01,1.1
-80,read books and collect them,have a beach barbecue with my family in the summer,0.05,0.01,4.4
-81,take  solo trips to the beach to begin embracing my independence,attend outdoor music festivals with my friends in the spring,0.01,0.02,3.3
-82,go to new coffee shops and try new drinks,have game nights with my close friends in the cozy comfort of my living room,0.02,0.02,4.4
-83,take my dog on hikes and being in nature with him, go to the gym with my workout buddies early in the morning,0.03,0.02,1.1
-84,volunteer on the weekends with various charities, go to the gym with my workout buddies early in the morning,0.04,0.02,3.3
-85,cook,attend outdoor music festivals with my friends in the spring,0.05,0.02,3.3
-86,read books and collect them,go to a local cafe with my significant other on a rainy autumn afternoon,0.01,0.03,1.1
-87,spend time going to stores,cook a big dinner with my friends in my kitchen,0.02,0.03,4.4
-88,sleep,go hiking with friends in the cool crisp air of a fall morning,0.03,0.03,1.1
-89,read books and collect them, go to the gym with my workout buddies early in the morning,0.04,0.03,3.3
-90,volunteer on the weekends with various charities,go hiking with friends in the cool crisp air of a fall morning,0.05,0.03,8.8
-91,spend time going to stores,attend outdoor music festivals with my friends in the spring,0.01,0.04,3.3
-92,go to new coffee shops and try new drinks,attend outdoor music festivals with my friends in the spring,0.02,0.04,8.8
-93,go to new coffee shops and try new drinks,cook a big dinner with my friends in my kitchen,0.03,0.04,1.1
-94,spend time going to stores, go to the gym with my workout buddies early in the morning,0.04,0.04,4.4
-95,volunteer on the weekends with various charities,attend outdoor music festivals with my friends in the spring,0.05,0.04,4.4
-96,go to new coffee shops and try new drinks,have a picnic in the park with my family during a sunny weekend,0.01,0.05,3.3
-97,sleep,have a picnic in the park with my family during a sunny weekend,0.02,0.05,1.1
-98,take my dog on hikes and being in nature with him,attend book club meetings with my classmates at a quiet caf,0.03,0.05,1.1
-99,take my dog on hikes and being in nature with him,go to the movies with my coworkers on a Friday evening after a long week,0.04,0.05,3.3
-100,take my dog on hikes and being in nature with him,go to a local cafe with my significant other on a rainy autumn afternoon,0.05,0.05,4.4
+71,cook,go hiking with friends in the cool crisp air of a fall morning,0.01,0.05,3.3
+72,spend time going to stores,attend outdoor music festivals with my friends in the spring,0.02,0.05,8.8
+73,take  solo trips to the beach to begin embracing my independence,have a picnic in the park with my family during a sunny weekend,0.03,0.05,3.3
+74,volunteer on the weekends with various charities,attend outdoor music festivals with my friends in the spring,0.04,0.05,4.4
+75,go to new coffee shops and try new drinks,have a beach barbecue with my family in the summer,0.05,0.05,3.3
+76,watch movies in different settings,go to the movies with my coworkers on a Friday evening after a long week,0.01,0.01,1.1
+77,take  solo trips to the beach to begin embracing my independence,have game nights with my close friends in the cozy comfort of my living room,0.02,0.01,8.8
+78,dance to music when I am home alone as a way to relax,cook a big dinner with my friends in my kitchen,0.03,0.01,1.1
+79,read books and collect them,have a picnic in the park with my family during a sunny weekend,0.04,0.01,1.1
+80,read books and collect them,go hiking with friends in the cool crisp air of a fall morning,0.05,0.01,4.4
+81,take my dog on hikes and being in nature with him,cook a big dinner with my friends in my kitchen,0.01,0.02,3.3
+82,spend time going to stores,have a picnic in the park with my family during a sunny weekend,0.02,0.02,4.4
+83,volunteer on the weekends with various charities,cook a big dinner with my friends in my kitchen,0.03,0.02,1.1
+84,cook,cook a big dinner with my friends in my kitchen,0.04,0.02,3.3
+85,take my dog on hikes and being in nature with him,have game nights with my close friends in the cozy comfort of my living room,0.05,0.02,3.3
+86,watch movies in different settings,attend book club meetings with my classmates at a quiet caf,0.01,0.03,1.1
+87,dance to music when I am home alone as a way to relax,attend book club meetings with my classmates at a quiet caf,0.02,0.03,4.4
+88,dance to music when I am home alone as a way to relax,have a beach barbecue with my family in the summer,0.03,0.03,1.1
+89,take my dog on hikes and being in nature with him,have a picnic in the park with my family during a sunny weekend,0.04,0.03,3.3
+90,sleep, go to the gym with my workout buddies early in the morning,0.05,0.03,8.8
+91,volunteer on the weekends with various charities, go to the gym with my workout buddies early in the morning,0.01,0.04,3.3
+92,read books and collect them,go to a local cafe with my significant other on a rainy autumn afternoon,0.02,0.04,8.8
+93,cook,attend outdoor music festivals with my friends in the spring,0.03,0.04,1.1
+94,watch movies in different settings,have a picnic in the park with my family during a sunny weekend,0.04,0.04,4.4
+95,go to new coffee shops and try new drinks,attend outdoor music festivals with my friends in the spring,0.05,0.04,4.4
+96,take my dog on hikes and being in nature with him,have a beach barbecue with my family in the summer,0.01,0.05,3.3
+97,dance to music when I am home alone as a way to relax,go to a local cafe with my significant other on a rainy autumn afternoon,0.02,0.05,1.1
+98,cook,go to the movies with my coworkers on a Friday evening after a long week,0.03,0.05,1.1
+99,dance to music when I am home alone as a way to relax,have a picnic in the park with my family during a sunny weekend,0.04,0.05,3.3
+100,go to new coffee shops and try new drinks,go to a local cafe with my significant other on a rainy autumn afternoon,0.05,0.05,4.4

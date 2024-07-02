@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
-1,drive around town when the weather is nice,I like to go to the museum with my family.,0.01,0.01,4.4
-2,drive around town when the weather is nice,I like to go out and try new restaurants with friends.,0.02,0.01,8.8
-3,watch movies at the cinema alone,I like to go to concerts with other people.,0.03,0.01,3.3
-4,do the laundry,I like to go to NFL games with my significant other.,0.04,0.01,1.1
-5,practice music in the house,I like to go watch soccer games at the nearby professional soccer stadium.,0.05,0.01,1.1
-6,drive around town when the weather is nice,I like to draw with my younger siblings.,0.01,0.02,3.3
-7,do the laundry,I like to go out and try new restaurants with friends.,0.02,0.02,1.1
-8,take naps in my spare time,I like to draw with my younger siblings.,0.03,0.02,1.1
-9,watch movies at the cinema alone,I like to cook new meals that my friends haven't tried before.,0.04,0.02,4.4
-10,take naps in my spare time,I like to go to the pet store with my dog and walk her around the store.,0.05,0.02,1.1
-11,relax beside the pool,I like to go to NFL games with my significant other.,0.01,0.03,3.3
-12,watch movies at the cinema alone,I like to go to the lake and relax with my good friends.,0.02,0.03,4.4
-13,practice music in the house,I like to go to the lake and relax with my good friends.,0.03,0.03,1.1
-14,drive around town when the weather is nice,I like to go to the lake and relax with my good friends.,0.04,0.03,3.3
-15,watch movies at the cinema alone,I like to go to the museum with my family.,0.05,0.03,4.4
-16,get chores done,I like to cook new meals that my friends haven't tried before.,0.01,0.04,1.1
-17,cook for myself,I like to go to the museum with my family.,0.02,0.04,8.8
-18,cook for myself,I like to draw with my younger siblings.,0.03,0.04,3.3
-19,get chores done,I like to go to the lake and relax with my good friends.,0.04,0.04,3.3
-20,watch movies at the cinema alone,I like to go watch soccer games at the nearby professional soccer stadium.,0.05,0.04,1.1
-21,practice music in the house,I like to cook new meals that my friends haven't tried before.,0.01,0.05,8.8
-22,drive around town when the weather is nice,I like to go play disc golf at the local park with my friends.,0.02,0.05,4.4
-23,do the laundry,I like to go to the pet store with my dog and walk her around the store.,0.03,0.05,1.1
-24,get chores done,I like to draw with my younger siblings.,0.04,0.05,4.4
+1,take naps in my spare time,I like to draw with my younger siblings.,0.01,0.01,4.4
+2,drive around town when the weather is nice,I like to cook new meals that my friends haven't tried before.,0.02,0.01,8.8
+3,drive around town when the weather is nice,I like to go to the museum with my family.,0.03,0.01,3.3
+4,drive around town when the weather is nice,I like to go to NFL games with my significant other.,0.04,0.01,1.1
+5,practice music in the house,I like to draw with my younger siblings.,0.05,0.01,1.1
+6,do the laundry,I like to go to NFL games with my significant other.,0.01,0.02,3.3
+7,practice music in the house,I like to cook new meals that my friends haven't tried before.,0.02,0.02,1.1
+8,go to the local parks for walks,I like to go to the pet store with my dog and walk her around the store.,0.03,0.02,1.1
+9,practice music in the house,I like to go to the lake and relax with my good friends.,0.04,0.02,4.4
+10,practice music in the house,I like to go to concerts with other people.,0.05,0.02,1.1
+11,go eat dinner on my own and listen to podcasts,I like to go to the lake and relax with my good friends.,0.01,0.03,3.3
+12,go eat dinner on my own and listen to podcasts,I like to go to the pet store with my dog and walk her around the store.,0.02,0.03,4.4
+13,take naps in my spare time,I like to go to the pet store with my dog and walk her around the store.,0.03,0.03,1.1
+14,go eat dinner on my own and listen to podcasts,I like to go play disc golf at the local park with my friends.,0.04,0.03,3.3
+15,drive around town when the weather is nice,I like to draw with my younger siblings.,0.05,0.03,4.4
+16,go eat dinner on my own and listen to podcasts,I like to go to the museum with my family.,0.01,0.04,1.1
+17,watch movies at the cinema alone,I like to draw with my younger siblings.,0.02,0.04,8.8
+18,go to the local parks for walks,I like to go out and try new restaurants with friends.,0.03,0.04,3.3
+19,do the laundry,I like to go to the museum with my family.,0.04,0.04,3.3
+20,do the laundry,I like to draw with my younger siblings.,0.05,0.04,1.1
+21,relax beside the pool,I like to go to NFL games with my significant other.,0.01,0.05,8.8
+22,watch movies at the cinema alone,I like to go to NFL games with my significant other.,0.02,0.05,4.4
+23,go eat dinner on my own and listen to podcasts,I like to go out and try new restaurants with friends.,0.03,0.05,1.1
+24,get chores done,I like to cook new meals that my friends haven't tried before.,0.04,0.05,4.4
 25,practice music in the house,I like to go out and try new restaurants with friends.,0.05,0.05,3.3
-26,drive around town when the weather is nice,I like to go to the pet store with my dog and walk her around the store.,0.01,0.01,4.4
-27,get chores done,I like to go to NFL games with my significant other.,0.02,0.01,3.3
-28,cook for myself,I like to go to the lake and relax with my good friends.,0.03,0.01,3.3
-29,cook for myself,I like to go to the pet store with my dog and walk her around the store.,0.04,0.01,4.4
-30,relax beside the pool,I like to go to the pet store with my dog and walk her around the store.,0.05,0.01,8.8
-31,drive around town when the weather is nice,I like to cook new meals that my friends haven't tried before.,0.01,0.02,8.8
-32,take naps in my spare time,I like to go to the museum with my family.,0.02,0.02,1.1
-33,go eat dinner on my own and listen to podcasts,I like to cook new meals that my friends haven't tried before.,0.03,0.02,4.4
-34,go to the local parks for walks,I like to go to the pet store with my dog and walk her around the store.,0.04,0.02,3.3
-35,take naps in my spare time,I like to go play disc golf at the local park with my friends.,0.05,0.02,1.1
-36,practice music in the house,I like to go to the museum with my family.,0.01,0.03,3.3
-37,go to the local parks for walks,I like to go to NFL games with my significant other.,0.02,0.03,1.1
-38,cook for myself,I like to go to NFL games with my significant other.,0.03,0.03,1.1
-39,get chores done,I like to go to the pet store with my dog and walk her around the store.,0.04,0.03,3.3
-40,go eat dinner on my own and listen to podcasts,I like to go to the lake and relax with my good friends.,0.05,0.03,4.4
-41,relax beside the pool,I like to go watch soccer games at the nearby professional soccer stadium.,0.01,0.04,1.1
-42,relax beside the pool,I like to cook new meals that my friends haven't tried before.,0.02,0.04,3.3
-43,cook for myself,I like to go out and try new restaurants with friends.,0.03,0.04,1.1
-44,go eat dinner on my own and listen to podcasts,I like to go watch soccer games at the nearby professional soccer stadium.,0.04,0.04,1.1
-45,go eat dinner on my own and listen to podcasts,I like to go to the museum with my family.,0.05,0.04,4.4
-46,watch movies at the cinema alone,I like to go out and try new restaurants with friends.,0.01,0.05,8.8
-47,go eat dinner on my own and listen to podcasts,I like to go to concerts with other people.,0.02,0.05,1.1
-48,do the laundry,I like to go play disc golf at the local park with my friends.,0.03,0.05,4.4
-49,go to the local parks for walks,I like to draw with my younger siblings.,0.04,0.05,3.3
-50,practice music in the house,I like to go to NFL games with my significant other.,0.05,0.05,1.1
-51,watch movies at the cinema alone,I like to go to the pet store with my dog and walk her around the store.,0.01,0.01,1.1
-52,go eat dinner on my own and listen to podcasts,I like to go to NFL games with my significant other.,0.02,0.01,3.3
-53,go eat dinner on my own and listen to podcasts,I like to go to the pet store with my dog and walk her around the store.,0.03,0.01,1.1
-54,do the laundry,I like to draw with my younger siblings.,0.04,0.01,4.4
-55,drive around town when the weather is nice,I like to go to NFL games with my significant other.,0.05,0.01,1.1
-56,take naps in my spare time,I like to go to NFL games with my significant other.,0.01,0.02,8.8
-57,get chores done,I like to go to concerts with other people.,0.02,0.02,4.4
-58,relax beside the pool,I like to go to the museum with my family.,0.03,0.02,4.4
-59,relax beside the pool,I like to draw with my younger siblings.,0.04,0.02,4.4
-60,go to the local parks for walks,I like to go play disc golf at the local park with my friends.,0.05,0.02,1.1
-61,go to the local parks for walks,I like to cook new meals that my friends haven't tried before.,0.01,0.03,3.3
-62,go to the local parks for walks,I like to go to concerts with other people.,0.02,0.03,3.3
-63,take naps in my spare time,I like to go to the lake and relax with my good friends.,0.03,0.03,3.3
-64,do the laundry,I like to go to concerts with other people.,0.04,0.03,1.1
-65,cook for myself,I like to cook new meals that my friends haven't tried before.,0.05,0.03,1.1
-66,practice music in the house,I like to go to the pet store with my dog and walk her around the store.,0.01,0.04,1.1
-67,take naps in my spare time,I like to go out and try new restaurants with friends.,0.02,0.04,8.8
-68,go to the local parks for walks,I like to go watch soccer games at the nearby professional soccer stadium.,0.03,0.04,4.4
-69,cook for myself,I like to go play disc golf at the local park with my friends.,0.04,0.04,1.1
-70,go eat dinner on my own and listen to podcasts,I like to draw with my younger siblings.,0.05,0.04,1.1
-71,go eat dinner on my own and listen to podcasts,I like to go play disc golf at the local park with my friends.,0.01,0.05,3.3
-72,do the laundry,I like to cook new meals that my friends haven't tried before.,0.02,0.05,8.8
-73,relax beside the pool,I like to go to the lake and relax with my good friends.,0.03,0.05,3.3
-74,get chores done,I like to go watch soccer games at the nearby professional soccer stadium.,0.04,0.05,4.4
-75,take naps in my spare time,I like to go watch soccer games at the nearby professional soccer stadium.,0.05,0.05,3.3
-76,watch movies at the cinema alone,I like to go to NFL games with my significant other.,0.01,0.01,1.1
-77,practice music in the house,I like to go play disc golf at the local park with my friends.,0.02,0.01,8.8
-78,go to the local parks for walks,I like to go to the museum with my family.,0.03,0.01,1.1
-79,do the laundry,I like to go to the lake and relax with my good friends.,0.04,0.01,1.1
-80,relax beside the pool,I like to go out and try new restaurants with friends.,0.05,0.01,4.4
-81,take naps in my spare time,I like to cook new meals that my friends haven't tried before.,0.01,0.02,3.3
-82,drive around town when the weather is nice,I like to go to concerts with other people.,0.02,0.02,4.4
-83,cook for myself,I like to go watch soccer games at the nearby professional soccer stadium.,0.03,0.02,1.1
-84,watch movies at the cinema alone,I like to go play disc golf at the local park with my friends.,0.04,0.02,3.3
-85,relax beside the pool,I like to go play disc golf at the local park with my friends.,0.05,0.02,3.3
-86,get chores done,I like to go out and try new restaurants with friends.,0.01,0.03,1.1
-87,go to the local parks for walks,I like to go to the lake and relax with my good friends.,0.02,0.03,4.4
-88,do the laundry,I like to go watch soccer games at the nearby professional soccer stadium.,0.03,0.03,1.1
-89,take naps in my spare time,I like to go to concerts with other people.,0.04,0.03,3.3
-90,do the laundry,I like to go to the museum with my family.,0.05,0.03,8.8
-91,go eat dinner on my own and listen to podcasts,I like to go out and try new restaurants with friends.,0.01,0.04,3.3
-92,practice music in the house,I like to draw with my younger siblings.,0.02,0.04,8.8
-93,practice music in the house,I like to go to concerts with other people.,0.03,0.04,1.1
-94,get chores done,I like to go to the museum with my family.,0.04,0.04,4.4
-95,relax beside the pool,I like to go to concerts with other people.,0.05,0.04,4.4
-96,watch movies at the cinema alone,I like to draw with my younger siblings.,0.01,0.05,3.3
-97,go to the local parks for walks,I like to go out and try new restaurants with friends.,0.02,0.05,1.1
-98,get chores done,I like to go play disc golf at the local park with my friends.,0.03,0.05,1.1
-99,cook for myself,I like to go to concerts with other people.,0.04,0.05,3.3
-100,drive around town when the weather is nice,I like to go watch soccer games at the nearby professional soccer stadium.,0.05,0.05,4.4
+26,go to the local parks for walks,I like to go watch soccer games at the nearby professional soccer stadium.,0.01,0.01,4.4
+27,practice music in the house,I like to go to NFL games with my significant other.,0.02,0.01,3.3
+28,go eat dinner on my own and listen to podcasts,I like to go to concerts with other people.,0.03,0.01,3.3
+29,get chores done,I like to draw with my younger siblings.,0.04,0.01,4.4
+30,get chores done,I like to go play disc golf at the local park with my friends.,0.05,0.01,8.8
+31,watch movies at the cinema alone,I like to go to the museum with my family.,0.01,0.02,8.8
+32,relax beside the pool,I like to go to the museum with my family.,0.02,0.02,1.1
+33,drive around town when the weather is nice,I like to go out and try new restaurants with friends.,0.03,0.02,4.4
+34,take naps in my spare time,I like to go to the museum with my family.,0.04,0.02,3.3
+35,practice music in the house,I like to go play disc golf at the local park with my friends.,0.05,0.02,1.1
+36,relax beside the pool,I like to go play disc golf at the local park with my friends.,0.01,0.03,3.3
+37,do the laundry,I like to go out and try new restaurants with friends.,0.02,0.03,1.1
+38,do the laundry,I like to go to concerts with other people.,0.03,0.03,1.1
+39,get chores done,I like to go to the lake and relax with my good friends.,0.04,0.03,3.3
+40,take naps in my spare time,I like to go watch soccer games at the nearby professional soccer stadium.,0.05,0.03,4.4
+41,cook for myself,I like to go to the lake and relax with my good friends.,0.01,0.04,1.1
+42,watch movies at the cinema alone,I like to go to the pet store with my dog and walk her around the store.,0.02,0.04,3.3
+43,drive around town when the weather is nice,I like to go to the pet store with my dog and walk her around the store.,0.03,0.04,1.1
+44,take naps in my spare time,I like to go play disc golf at the local park with my friends.,0.04,0.04,1.1
+45,go to the local parks for walks,I like to go to the museum with my family.,0.05,0.04,4.4
+46,go to the local parks for walks,I like to go to the lake and relax with my good friends.,0.01,0.05,8.8
+47,watch movies at the cinema alone,I like to go to concerts with other people.,0.02,0.05,1.1
+48,cook for myself,I like to go to concerts with other people.,0.03,0.05,4.4
+49,relax beside the pool,I like to go to the pet store with my dog and walk her around the store.,0.04,0.05,3.3
+50,get chores done,I like to go to NFL games with my significant other.,0.05,0.05,1.1
+51,cook for myself,I like to go watch soccer games at the nearby professional soccer stadium.,0.01,0.01,1.1
+52,drive around town when the weather is nice,I like to go play disc golf at the local park with my friends.,0.02,0.01,3.3
+53,relax beside the pool,I like to go watch soccer games at the nearby professional soccer stadium.,0.03,0.01,1.1
+54,get chores done,I like to go to the pet store with my dog and walk her around the store.,0.04,0.01,4.4
+55,take naps in my spare time,I like to go to the lake and relax with my good friends.,0.05,0.01,1.1
+56,go eat dinner on my own and listen to podcasts,I like to go to NFL games with my significant other.,0.01,0.02,8.8
+57,do the laundry,I like to cook new meals that my friends haven't tried before.,0.02,0.02,4.4
+58,take naps in my spare time,I like to cook new meals that my friends haven't tried before.,0.03,0.02,4.4
+59,go to the local parks for walks,I like to go to NFL games with my significant other.,0.04,0.02,4.4
+60,go to the local parks for walks,I like to cook new meals that my friends haven't tried before.,0.05,0.02,1.1
+61,cook for myself,I like to draw with my younger siblings.,0.01,0.03,3.3
+62,drive around town when the weather is nice,I like to go to the lake and relax with my good friends.,0.02,0.03,3.3
+63,drive around town when the weather is nice,I like to go to concerts with other people.,0.03,0.03,3.3
+64,take naps in my spare time,I like to go out and try new restaurants with friends.,0.04,0.03,1.1
+65,go to the local parks for walks,I like to go to concerts with other people.,0.05,0.03,1.1
+66,do the laundry,I like to go play disc golf at the local park with my friends.,0.01,0.04,1.1
+67,cook for myself,I like to go out and try new restaurants with friends.,0.02,0.04,8.8
+68,go eat dinner on my own and listen to podcasts,I like to cook new meals that my friends haven't tried before.,0.03,0.04,4.4
+69,watch movies at the cinema alone,I like to go play disc golf at the local park with my friends.,0.04,0.04,1.1
+70,go to the local parks for walks,I like to draw with my younger siblings.,0.05,0.04,1.1
+71,take naps in my spare time,I like to go to concerts with other people.,0.01,0.05,3.3
+72,practice music in the house,I like to go watch soccer games at the nearby professional soccer stadium.,0.02,0.05,8.8
+73,practice music in the house,I like to go to the museum with my family.,0.03,0.05,3.3
+74,do the laundry,I like to go to the pet store with my dog and walk her around the store.,0.04,0.05,4.4
+75,relax beside the pool,I like to cook new meals that my friends haven't tried before.,0.05,0.05,3.3
+76,relax beside the pool,I like to go out and try new restaurants with friends.,0.01,0.01,1.1
+77,go eat dinner on my own and listen to podcasts,I like to draw with my younger siblings.,0.02,0.01,8.8
+78,relax beside the pool,I like to go to concerts with other people.,0.03,0.01,1.1
+79,practice music in the house,I like to go to the pet store with my dog and walk her around the store.,0.04,0.01,1.1
+80,get chores done,I like to go watch soccer games at the nearby professional soccer stadium.,0.05,0.01,4.4
+81,do the laundry,I like to go watch soccer games at the nearby professional soccer stadium.,0.01,0.02,3.3
+82,get chores done,I like to go to the museum with my family.,0.02,0.02,4.4
+83,take naps in my spare time,I like to go to NFL games with my significant other.,0.03,0.02,1.1
+84,watch movies at the cinema alone,I like to go watch soccer games at the nearby professional soccer stadium.,0.04,0.02,3.3
+85,get chores done,I like to go out and try new restaurants with friends.,0.05,0.02,3.3
+86,relax beside the pool,I like to draw with my younger siblings.,0.01,0.03,1.1
+87,go to the local parks for walks,I like to go play disc golf at the local park with my friends.,0.02,0.03,4.4
+88,watch movies at the cinema alone,I like to go to the lake and relax with my good friends.,0.03,0.03,1.1
+89,cook for myself,I like to go to the museum with my family.,0.04,0.03,3.3
+90,watch movies at the cinema alone,I like to cook new meals that my friends haven't tried before.,0.05,0.03,8.8
+91,go eat dinner on my own and listen to podcasts,I like to go watch soccer games at the nearby professional soccer stadium.,0.01,0.04,3.3
+92,cook for myself,I like to go to the pet store with my dog and walk her around the store.,0.02,0.04,8.8
+93,watch movies at the cinema alone,I like to go out and try new restaurants with friends.,0.03,0.04,1.1
+94,cook for myself,I like to cook new meals that my friends haven't tried before.,0.04,0.04,4.4
+95,drive around town when the weather is nice,I like to go watch soccer games at the nearby professional soccer stadium.,0.05,0.04,4.4
+96,cook for myself,I like to go to NFL games with my significant other.,0.01,0.05,3.3
+97,get chores done,I like to go to concerts with other people.,0.02,0.05,1.1
+98,cook for myself,I like to go play disc golf at the local park with my friends.,0.03,0.05,1.1
+99,relax beside the pool,I like to go to the lake and relax with my good friends.,0.04,0.05,3.3
+100,do the laundry,I like to go to the lake and relax with my good friends.,0.05,0.05,4.4
