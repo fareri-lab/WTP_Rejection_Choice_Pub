@@ -9,7 +9,7 @@ const { Scheduler } = util;
 //some handy aliases as in the psychopy scripts;
 const { abs, sin, cos, PI: pi, sqrt } = Math;
 const { round } = util;
-// Import dataframe-js library
+
 
 
 
