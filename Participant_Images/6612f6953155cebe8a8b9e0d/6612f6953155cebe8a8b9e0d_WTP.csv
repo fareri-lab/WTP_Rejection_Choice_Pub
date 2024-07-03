@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
+1,browse reddit,Cook for my family with my sister,0.01,0.01,4.4
+2,swim in the ocean,Talk about anime with my brother,0.02,0.01,8.8
+3,write poetry,Perform at poetry open mics with my friends,0.03,0.01,3.3
+4,daydream for long periods,Go out to eat with my mom,0.04,0.01,1.1
+5,browse reddit,Work on crafts with my girlfriend,0.05,0.01,1.1
+6,daydream for long periods,Have a lazy day with my girlfriend,0.01,0.02,3.3
+7,set up my hammock,Go hiking with my best friends,0.02,0.02,1.1
+8,watch anime for hours,Explore new places with my cousins,0.03,0.02,1.1
+9,browse reddit,Binge shows with my girlfiend,0.04,0.02,4.4
+10,set up my hammock,Talk about anime with my brother,0.05,0.02,1.1
+11,set up my hammock,Binge shows with my girlfiend,0.01,0.03,3.3
+12,swim in the ocean,Go out to eat with my mom,0.02,0.03,4.4
+13,listen to instrumental music,Explore new places with my cousins,0.03,0.03,1.1
+14,eat steak while it rains,Cook for my family with my sister,0.04,0.03,3.3
+15,watch anime for hours,Go out to eat with my mom,0.05,0.03,4.4
+16,eat steak while it rains,Binge shows with my girlfiend,0.01,0.04,1.1
+17,listen to instrumental music,Binge shows with my girlfiend,0.02,0.04,8.8
+18,go for a hike,Explore new places with my cousins,0.03,0.04,3.3
+19,write poetry,Go hiking with my best friends,0.04,0.04,3.3
+20,watch anime for hours,Cook for my family with my sister,0.05,0.04,1.1
+21,listen to instrumental music,Cook for my family with my sister,0.01,0.05,8.8
+22,go for a hike,Have a lazy day with my girlfriend,0.02,0.05,4.4
+23,learn about new topics,Work on crafts with my girlfriend,0.03,0.05,1.1
+24,go for a hike,Talk about anime with my brother,0.04,0.05,4.4
+25,browse reddit,Go hiking with my best friends,0.05,0.05,3.3
+26,daydream for long periods,Watch movies with my brother,0.01,0.01,4.4
+27,write poetry,Go out to eat with my mom,0.02,0.01,3.3
+28,watch anime for hours,Have a lazy day with my girlfriend,0.03,0.01,3.3
+29,go for a hike,Work on crafts with my girlfriend,0.04,0.01,4.4
+30,eat steak while it rains,Work on crafts with my girlfriend,0.05,0.01,8.8
+31,browse reddit,Have a lazy day with my girlfriend,0.01,0.02,8.8
+32,learn about new topics,Perform at poetry open mics with my friends,0.02,0.02,1.1
+33,learn about new topics,Watch movies with my brother,0.03,0.02,4.4
+34,watch anime for hours,Perform at poetry open mics with my friends,0.04,0.02,3.3
+35,listen to instrumental music,Perform at poetry open mics with my friends,0.05,0.02,1.1
+36,go for a hike,Watch movies with my brother,0.01,0.03,3.3
+37,daydream for long periods,Talk about anime with my brother,0.02,0.03,1.1
+38,browse reddit,Explore new places with my cousins,0.03,0.03,1.1
+39,browse reddit,Go out to eat with my mom,0.04,0.03,3.3
+40,eat steak while it rains,Explore new places with my cousins,0.05,0.03,4.4
+41,go for a hike,Cook for my family with my sister,0.01,0.04,1.1
+42,listen to instrumental music,Have a lazy day with my girlfriend,0.02,0.04,3.3
+43,go for a hike,Binge shows with my girlfiend,0.03,0.04,1.1
+44,watch anime for hours,Go hiking with my best friends,0.04,0.04,1.1
+45,learn about new topics,Go out to eat with my mom,0.05,0.04,4.4
+46,daydream for long periods,Cook for my family with my sister,0.01,0.05,8.8
+47,go for a hike,Go hiking with my best friends,0.02,0.05,1.1
+48,set up my hammock,Work on crafts with my girlfriend,0.03,0.05,4.4
+49,daydream for long periods,Binge shows with my girlfiend,0.04,0.05,3.3
+50,set up my hammock,Have a lazy day with my girlfriend,0.05,0.05,1.1
+51,listen to instrumental music,Watch movies with my brother,0.01,0.01,1.1
+52,listen to instrumental music,Work on crafts with my girlfriend,0.02,0.01,3.3
+53,learn about new topics,Binge shows with my girlfiend,0.03,0.01,1.1
+54,write poetry,Talk about anime with my brother,0.04,0.01,4.4
+55,learn about new topics,Talk about anime with my brother,0.05,0.01,1.1
+56,watch anime for hours,Watch movies with my brother,0.01,0.02,8.8
+57,watch anime for hours,Binge shows with my girlfiend,0.02,0.02,4.4
+58,learn about new topics,Have a lazy day with my girlfriend,0.03,0.02,4.4
+59,learn about new topics,Go hiking with my best friends,0.04,0.02,4.4
+60,daydream for long periods,Explore new places with my cousins,0.05,0.02,1.1
+61,set up my hammock,Cook for my family with my sister,0.01,0.03,3.3
+62,swim in the ocean,Explore new places with my cousins,0.02,0.03,3.3
+63,eat steak while it rains,Go out to eat with my mom,0.03,0.03,3.3
+64,write poetry,Watch movies with my brother,0.04,0.03,1.1
+65,listen to instrumental music,Go out to eat with my mom,0.05,0.03,1.1
+66,daydream for long periods,Go hiking with my best friends,0.01,0.04,1.1
+67,swim in the ocean,Have a lazy day with my girlfriend,0.02,0.04,8.8
+68,eat steak while it rains,Go hiking with my best friends,0.03,0.04,4.4
+69,swim in the ocean,Binge shows with my girlfiend,0.04,0.04,1.1
+70,browse reddit,Perform at poetry open mics with my friends,0.05,0.04,1.1
+71,swim in the ocean,Cook for my family with my sister,0.01,0.05,3.3
+72,swim in the ocean,Watch movies with my brother,0.02,0.05,8.8
+73,eat steak while it rains,Have a lazy day with my girlfriend,0.03,0.05,3.3
+74,write poetry,Cook for my family with my sister,0.04,0.05,4.4
+75,set up my hammock,Watch movies with my brother,0.05,0.05,3.3
+76,browse reddit,Watch movies with my brother,0.01,0.01,1.1
+77,eat steak while it rains,Perform at poetry open mics with my friends,0.02,0.01,8.8
+78,go for a hike,Perform at poetry open mics with my friends,0.03,0.01,1.1
+79,set up my hammock,Explore new places with my cousins,0.04,0.01,1.1
+80,write poetry,Work on crafts with my girlfriend,0.05,0.01,4.4
+81,listen to instrumental music,Talk about anime with my brother,0.01,0.02,3.3
+82,set up my hammock,Go out to eat with my mom,0.02,0.02,4.4
+83,eat steak while it rains,Watch movies with my brother,0.03,0.02,1.1
+84,swim in the ocean,Go hiking with my best friends,0.04,0.02,3.3
+85,daydream for long periods,Work on crafts with my girlfriend,0.05,0.02,3.3
+86,swim in the ocean,Perform at poetry open mics with my friends,0.01,0.03,1.1
+87,write poetry,Binge shows with my girlfiend,0.02,0.03,4.4
+88,watch anime for hours,Work on crafts with my girlfriend,0.03,0.03,1.1
+89,write poetry,Have a lazy day with my girlfriend,0.04,0.03,3.3
+90,set up my hammock,Perform at poetry open mics with my friends,0.05,0.03,8.8
+91,go for a hike,Go out to eat with my mom,0.01,0.04,3.3
+92,learn about new topics,Cook for my family with my sister,0.02,0.04,8.8
+93,watch anime for hours,Talk about anime with my brother,0.03,0.04,1.1
+94,write poetry,Explore new places with my cousins,0.04,0.04,4.4
+95,swim in the ocean,Work on crafts with my girlfriend,0.05,0.04,4.4
+96,browse reddit,Talk about anime with my brother,0.01,0.05,3.3
+97,learn about new topics,Explore new places with my cousins,0.02,0.05,1.1
+98,listen to instrumental music,Go hiking with my best friends,0.03,0.05,1.1
+99,daydream for long periods,Perform at poetry open mics with my friends,0.04,0.05,3.3
+100,eat steak while it rains,Talk about anime with my brother,0.05,0.05,4.4

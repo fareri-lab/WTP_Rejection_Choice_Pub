@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
+1,Be outdoors ,Go to the park,0.01,0.01,4.4
+2,Sleep to comfort the mind,Go to the movies,0.02,0.01,8.8
+3,Be with my pets,Go to the movies,0.03,0.01,3.3
+4,Walk around the park,go on motorcycle rides with friends,0.04,0.01,1.1
+5,participate in online studies,Work out with friends,0.05,0.01,1.1
+6,Be outdoors ,Go to movies with friends,0.01,0.02,3.3
+7,Read a book,Work out with friends,0.02,0.02,1.1
+8,participate in online studies,Go to the park,0.03,0.02,1.1
+9,Read a book,Vent with friends,0.04,0.02,4.4
+10,Walk around the park,work out with friends,0.05,0.02,1.1
+11,Listen to music ,Work out with friends,0.01,0.03,3.3
+12,Go to the gym to workout,work out with friends,0.02,0.03,4.4
+13,Listen to music ,Go to the movies,0.03,0.03,1.1
+14,Be with my pets,Have cookouts with family and friends,0.04,0.03,3.3
+15,Read a book,Go to the park,0.05,0.03,4.4
+16,Clean the house,Go to the park,0.01,0.04,1.1
+17,participate in online studies,Go to the movies,0.02,0.04,8.8
+18,Do Yoga to relax the body,Work out with friends,0.03,0.04,3.3
+19,participate in online studies,thrift with friends,0.04,0.04,3.3
+20,Read a book,thrift with friends,0.05,0.04,1.1
+21,Walk around the park,thrift with friends,0.01,0.05,8.8
+22,Go to the gym to workout,Vent with friends,0.02,0.05,4.4
+23,Be outdoors ,Have cookouts with family and friends,0.03,0.05,1.1
+24,Do Yoga to relax the body,Vent with friends,0.04,0.05,4.4
+25,Be outdoors ,go on motorcycle rides with friends,0.05,0.05,3.3
+26,Sleep to comfort the mind,Have cookouts with family and friends,0.01,0.01,4.4
+27,Be outdoors ,Vent with friends,0.02,0.01,3.3
+28,Read a book,Go to dine in somewhere,0.03,0.01,3.3
+29,Do Yoga to relax the body,go on motorcycle rides with friends,0.04,0.01,4.4
+30,Do Yoga to relax the body,Go to dine in somewhere,0.05,0.01,8.8
+31,Clean the house,Go to movies with friends,0.01,0.02,8.8
+32,Sleep to comfort the mind,Vent with friends,0.02,0.02,1.1
+33,Walk around the park,Have cookouts with family and friends,0.03,0.02,4.4
+34,Do Yoga to relax the body,Go to the park,0.04,0.02,3.3
+35,Do Yoga to relax the body,thrift with friends,0.05,0.02,1.1
+36,Clean the house,work out with friends,0.01,0.03,3.3
+37,Sleep to comfort the mind,Work out with friends,0.02,0.03,1.1
+38,Go to the gym to workout,go on motorcycle rides with friends,0.03,0.03,1.1
+39,participate in online studies,Go to dine in somewhere,0.04,0.03,3.3
+40,Walk around the park,Go to the park,0.05,0.03,4.4
+41,Listen to music ,Have cookouts with family and friends,0.01,0.04,1.1
+42,Go to the gym to workout,Go to dine in somewhere,0.02,0.04,3.3
+43,Be with my pets,work out with friends,0.03,0.04,1.1
+44,Read a book,work out with friends,0.04,0.04,1.1
+45,Listen to music ,Go to the park,0.05,0.04,4.4
+46,participate in online studies,go on motorcycle rides with friends,0.01,0.05,8.8
+47,Listen to music ,go on motorcycle rides with friends,0.02,0.05,1.1
+48,Walk around the park,Go to the movies,0.03,0.05,4.4
+49,participate in online studies,work out with friends,0.04,0.05,3.3
+50,Go to the gym to workout,Have cookouts with family and friends,0.05,0.05,1.1
+51,Clean the house,thrift with friends,0.01,0.01,1.1
+52,Clean the house,Go to the movies,0.02,0.01,3.3
+53,Do Yoga to relax the body,work out with friends,0.03,0.01,1.1
+54,Walk around the park,Go to dine in somewhere,0.04,0.01,4.4
+55,Be with my pets,Go to the park,0.05,0.01,1.1
+56,Listen to music ,Vent with friends,0.01,0.02,8.8
+57,Clean the house,Go to dine in somewhere,0.02,0.02,4.4
+58,Do Yoga to relax the body,Have cookouts with family and friends,0.03,0.02,4.4
+59,Sleep to comfort the mind,go on motorcycle rides with friends,0.04,0.02,4.4
+60,Listen to music ,thrift with friends,0.05,0.02,1.1
+61,Read a book,Go to movies with friends,0.01,0.03,3.3
+62,Walk around the park,Go to movies with friends,0.02,0.03,3.3
+63,Read a book,Have cookouts with family and friends,0.03,0.03,3.3
+64,participate in online studies,Have cookouts with family and friends,0.04,0.03,1.1
+65,Be outdoors ,Go to the movies,0.05,0.03,1.1
+66,Do Yoga to relax the body,Go to the movies,0.01,0.04,1.1
+67,Clean the house,Work out with friends,0.02,0.04,8.8
+68,Sleep to comfort the mind,Go to movies with friends,0.03,0.04,4.4
+69,Listen to music ,work out with friends,0.04,0.04,1.1
+70,Be outdoors ,work out with friends,0.05,0.04,1.1
+71,Be with my pets,thrift with friends,0.01,0.05,3.3
+72,Be outdoors ,Work out with friends,0.02,0.05,8.8
+73,Walk around the park,Work out with friends,0.03,0.05,3.3
+74,Be with my pets,Work out with friends,0.04,0.05,4.4
+75,Walk around the park,Vent with friends,0.05,0.05,3.3
+76,Clean the house,go on motorcycle rides with friends,0.01,0.01,1.1
+77,Sleep to comfort the mind,work out with friends,0.02,0.01,8.8
+78,Be outdoors ,thrift with friends,0.03,0.01,1.1
+79,Go to the gym to workout,Go to movies with friends,0.04,0.01,1.1
+80,Be with my pets,Go to dine in somewhere,0.05,0.01,4.4
+81,participate in online studies,Go to movies with friends,0.01,0.02,3.3
+82,Listen to music ,Go to movies with friends,0.02,0.02,4.4
+83,Be outdoors ,Go to dine in somewhere,0.03,0.02,1.1
+84,Be with my pets,go on motorcycle rides with friends,0.04,0.02,3.3
+85,Sleep to comfort the mind,thrift with friends,0.05,0.02,3.3
+86,Be with my pets,Go to movies with friends,0.01,0.03,1.1
+87,Do Yoga to relax the body,Go to movies with friends,0.02,0.03,4.4
+88,Clean the house,Vent with friends,0.03,0.03,1.1
+89,Go to the gym to workout,thrift with friends,0.04,0.03,3.3
+90,Go to the gym to workout,Go to the park,0.05,0.03,8.8
+91,Clean the house,Have cookouts with family and friends,0.01,0.04,3.3
+92,Be with my pets,Vent with friends,0.02,0.04,8.8
+93,Read a book,go on motorcycle rides with friends,0.03,0.04,1.1
+94,Go to the gym to workout,Go to the movies,0.04,0.04,4.4
+95,Listen to music ,Go to dine in somewhere,0.05,0.04,4.4
+96,Read a book,Go to the movies,0.01,0.05,3.3
+97,Sleep to comfort the mind,Go to dine in somewhere,0.02,0.05,1.1
+98,Sleep to comfort the mind,Go to the park,0.03,0.05,1.1
+99,Go to the gym to workout,Work out with friends,0.04,0.05,3.3
+100,participate in online studies,Vent with friends,0.05,0.05,4.4

@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
+1,invest in clothes,play with my little brothers,0.01,0.01,4.4
+2,invest in clothes,play basketball with othersq,0.02,0.01,8.8
+3,participate in a fantasy league of football,play basketball with othersq,0.03,0.01,3.3
+4,watch basketball,discuss business ideas with others,0.04,0.01,1.1
+5,watch basketball,watch videos with others,0.05,0.01,1.1
+6,practice basketball,discuss business ideas with others,0.01,0.02,3.3
+7,scroll on social media by myself,watch videos with others,0.02,0.02,1.1
+8,scroll on social media by myself,discuss current events with others,0.03,0.02,1.1
+9,participate in a fantasy league of football,discuss current events with others,0.04,0.02,4.4
+10,scroll on social media by myself,run with others,0.05,0.02,1.1
+11,trade stocks and crypto,eat with others,0.01,0.03,3.3
+12,scroll on social media by myself,wrestle with others,0.02,0.03,4.4
+13,read online,discuss business ideas with others,0.03,0.03,1.1
+14,practice basketball,talk with others,0.04,0.03,3.3
+15,invest in clothes,discuss current events with others,0.05,0.03,4.4
+16,practice basketball,watch videos with others,0.01,0.04,1.1
+17,participate in a fantasy league of basketball,watch basketball with others,0.02,0.04,8.8
+18,invest in clothes,run with others,0.03,0.04,3.3
+19,read online,watch videos with others,0.04,0.04,3.3
+20,play video games by myself,play basketball with othersq,0.05,0.04,1.1
+21,read online,wrestle with others,0.01,0.05,8.8
+22,trade stocks and crypto,discuss current events with others,0.02,0.05,4.4
+23,participate in a fantasy league of basketball,discuss business ideas with others,0.03,0.05,1.1
+24,participate in a fantasy league of basketball,run with others,0.04,0.05,4.4
+25,trade stocks and crypto,run with others,0.05,0.05,3.3
+26,play video games by myself,play with my little brothers,0.01,0.01,4.4
+27,watch basketball,discuss current events with others,0.02,0.01,3.3
+28,read online,eat with others,0.03,0.01,3.3
+29,participate in a fantasy league of basketball,play basketball with othersq,0.04,0.01,4.4
+30,participate in a fantasy league of football,eat with others,0.05,0.01,8.8
+31,scroll on social media by myself,watch basketball with others,0.01,0.02,8.8
+32,play video games by myself,watch basketball with others,0.02,0.02,1.1
+33,invest in clothes,discuss business ideas with others,0.03,0.02,4.4
+34,participate in a fantasy league of football,talk with others,0.04,0.02,3.3
+35,read online,play basketball with othersq,0.05,0.02,1.1
+36,practice basketball,watch basketball with others,0.01,0.03,3.3
+37,invest in clothes,eat with others,0.02,0.03,1.1
+38,read online,discuss current events with others,0.03,0.03,1.1
+39,trade stocks and crypto,watch videos with others,0.04,0.03,3.3
+40,watch basketball,play with my little brothers,0.05,0.03,4.4
+41,trade stocks and crypto,talk with others,0.01,0.04,1.1
+42,play video games by myself,run with others,0.02,0.04,3.3
+43,scroll on social media by myself,discuss business ideas with others,0.03,0.04,1.1
+44,practice basketball,play basketball with othersq,0.04,0.04,1.1
+45,watch basketball,play basketball with othersq,0.05,0.04,4.4
+46,scroll on social media by myself,talk with others,0.01,0.05,8.8
+47,practice basketball,run with others,0.02,0.05,1.1
+48,read online,play with my little brothers,0.03,0.05,4.4
+49,participate in a fantasy league of basketball,wrestle with others,0.04,0.05,3.3
+50,participate in a fantasy league of basketball,watch videos with others,0.05,0.05,1.1
+51,watch basketball,wrestle with others,0.01,0.01,1.1
+52,read online,watch basketball with others,0.02,0.01,3.3
+53,watch basketball,talk with others,0.03,0.01,1.1
+54,scroll on social media by myself,play with my little brothers,0.04,0.01,4.4
+55,play video games by myself,eat with others,0.05,0.01,1.1
+56,participate in a fantasy league of football,run with others,0.01,0.02,8.8
+57,participate in a fantasy league of football,discuss business ideas with others,0.02,0.02,4.4
+58,earn money,discuss business ideas with others,0.03,0.02,4.4
+59,play video games by myself,talk with others,0.04,0.02,4.4
+60,earn money,play basketball with othersq,0.05,0.02,1.1
+61,invest in clothes,watch videos with others,0.01,0.03,3.3
+62,participate in a fantasy league of football,wrestle with others,0.02,0.03,3.3
+63,practice basketball,play with my little brothers,0.03,0.03,3.3
+64,trade stocks and crypto,wrestle with others,0.04,0.03,1.1
+65,play video games by myself,discuss current events with others,0.05,0.03,1.1
+66,play video games by myself,discuss business ideas with others,0.01,0.04,1.1
+67,scroll on social media by myself,play basketball with othersq,0.02,0.04,8.8
+68,trade stocks and crypto,play basketball with othersq,0.03,0.04,4.4
+69,practice basketball,discuss current events with others,0.04,0.04,1.1
+70,earn money,wrestle with others,0.05,0.04,1.1
+71,trade stocks and crypto,discuss business ideas with others,0.01,0.05,3.3
+72,participate in a fantasy league of basketball,discuss current events with others,0.02,0.05,8.8
+73,scroll on social media by myself,eat with others,0.03,0.05,3.3
+74,practice basketball,wrestle with others,0.04,0.05,4.4
+75,trade stocks and crypto,play with my little brothers,0.05,0.05,3.3
+76,invest in clothes,talk with others,0.01,0.01,1.1
+77,participate in a fantasy league of basketball,talk with others,0.02,0.01,8.8
+78,invest in clothes,watch basketball with others,0.03,0.01,1.1
+79,earn money,play with my little brothers,0.04,0.01,1.1
+80,invest in clothes,wrestle with others,0.05,0.01,4.4
+81,play video games by myself,watch videos with others,0.01,0.02,3.3
+82,earn money,eat with others,0.02,0.02,4.4
+83,earn money,run with others,0.03,0.02,1.1
+84,earn money,discuss current events with others,0.04,0.02,3.3
+85,trade stocks and crypto,watch basketball with others,0.05,0.02,3.3
+86,participate in a fantasy league of football,watch videos with others,0.01,0.03,1.1
+87,watch basketball,watch basketball with others,0.02,0.03,4.4
+88,watch basketball,run with others,0.03,0.03,1.1
+89,earn money,watch videos with others,0.04,0.03,3.3
+90,read online,run with others,0.05,0.03,8.8
+91,participate in a fantasy league of basketball,eat with others,0.01,0.04,3.3
+92,participate in a fantasy league of basketball,play with my little brothers,0.02,0.04,8.8
+93,earn money,watch basketball with others,0.03,0.04,1.1
+94,earn money,talk with others,0.04,0.04,4.4
+95,participate in a fantasy league of football,watch basketball with others,0.05,0.04,4.4
+96,watch basketball,eat with others,0.01,0.05,3.3
+97,participate in a fantasy league of football,play with my little brothers,0.02,0.05,1.1
+98,read online,talk with others,0.03,0.05,1.1
+99,practice basketball,eat with others,0.04,0.05,3.3
+100,play video games by myself,wrestle with others,0.05,0.05,4.4

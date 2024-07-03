@@ -17,7 +17,7 @@ import shutil
 # read in raw qualtrics data and excel sheet of completed participants
 # make csv into data frame
 homedir = os.getcwd()
-rawqualtrics = pd.read_csv('WTP_PhotoUpload_06202024.csv')
+rawqualtrics = pd.read_csv('WTP_PhotoUpload_07032024.csv')
 completedparticipantlist = pd.read_excel('participantlist.xlsx')
 completedparticipantlist = completedparticipantlist.loc[
     completedparticipantlist['PhotosUploaded? (y/n)'] == 'n']

@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
+1,Clean up my workspace,Go bowling at a local alley,0.01,0.01,4.4
+2,Make myself a nice sandwich,Watch a tennis match ,0.02,0.01,8.8
+3,Clean up my workspace,Binge watch a bad show on Netflix,0.03,0.01,3.3
+4,Rewatch old episodes of Friends.,Go on a walk to the park and fly a kite,0.04,0.01,1.1
+5,Walk to the library and find a new book to read,Work on a puzzle together,0.05,0.01,1.1
+6,Take a walk around the block,Play a video game together,0.01,0.02,3.3
+7,Rewatch old episodes of Friends.,Play a board game like Taboo,0.02,0.02,1.1
+8,Make myself a matcha green tea latte,Play a board game like Taboo,0.03,0.02,1.1
+9,Rewatch old episodes of Friends.,Shop together on Amazon for some nice to haves,0.04,0.02,4.4
+10,Go on a hike at a local spot,Cook a nice dinner together,0.05,0.02,1.1
+11,Listen to nostalgic music from my childhood,Shop together on Amazon for some nice to haves,0.01,0.03,3.3
+12,Take a walk around the block,Cook a nice dinner together,0.02,0.03,4.4
+13,Make myself a matcha green tea latte,Watch a tennis match ,0.03,0.03,1.1
+14,Read a book by myself in a corner of my house,Work on a puzzle together,0.04,0.03,3.3
+15,Read a book by myself in a corner of my house,Watch a tennis match ,0.05,0.03,4.4
+16,Make myself a matcha green tea latte,Cook a nice dinner together,0.01,0.04,1.1
+17,Make myself a nice sandwich,Play a board game like Taboo,0.02,0.04,8.8
+18,Make myself a nice sandwich,Shop together on Amazon for some nice to haves,0.03,0.04,3.3
+19,Walk to the library and find a new book to read,Go grocery shopping for the week ahead,0.04,0.04,3.3
+20,Read a book by myself in a corner of my house,Shop together on Amazon for some nice to haves,0.05,0.04,1.1
+21,Clean up my workspace,Go grocery shopping for the week ahead,0.01,0.05,8.8
+22,Binge watch some Youtube videos on finance,Play a board game like Taboo,0.02,0.05,4.4
+23,Rewatch old episodes of Friends.,Go bowling at a local alley,0.03,0.05,1.1
+24,Walk to the library and find a new book to read,Binge watch a bad show on Netflix,0.04,0.05,4.4
+25,Make myself a matcha green tea latte,Shop together on Amazon for some nice to haves,0.05,0.05,3.3
+26,Binge watch some Youtube videos on finance,Work on a puzzle together,0.01,0.01,4.4
+27,Read a book by myself in a corner of my house,Go grocery shopping for the week ahead,0.02,0.01,3.3
+28,Make myself a nice sandwich,Cook a nice dinner together,0.03,0.01,3.3
+29,Go on a hike at a local spot,Work on a puzzle together,0.04,0.01,4.4
+30,Go on a hike at a local spot,Shop together on Amazon for some nice to haves,0.05,0.01,8.8
+31,Binge watch some Youtube videos on finance,Binge watch a bad show on Netflix,0.01,0.02,8.8
+32,Make myself a matcha green tea latte,Go grocery shopping for the week ahead,0.02,0.02,1.1
+33,Make myself a matcha green tea latte,Go bowling at a local alley,0.03,0.02,4.4
+34,Walk to the library and find a new book to read,Cook a nice dinner together,0.04,0.02,3.3
+35,Make myself a nice sandwich,Play a video game together,0.05,0.02,1.1
+36,Go on a hike at a local spot,Watch a tennis match ,0.01,0.03,3.3
+37,Clean up my workspace,Shop together on Amazon for some nice to haves,0.02,0.03,1.1
+38,Walk to the library and find a new book to read,Go on a walk to the park and fly a kite,0.03,0.03,1.1
+39,Clean up my workspace,Go on a walk to the park and fly a kite,0.04,0.03,3.3
+40,Go on a hike at a local spot,Go bowling at a local alley,0.05,0.03,4.4
+41,Go on a hike at a local spot,Play a board game like Taboo,0.01,0.04,1.1
+42,Rewatch old episodes of Friends.,Watch a tennis match ,0.02,0.04,3.3
+43,Take a walk around the block,Binge watch a bad show on Netflix,0.03,0.04,1.1
+44,Take a walk around the block,Go grocery shopping for the week ahead,0.04,0.04,1.1
+45,Make myself a nice sandwich,Go bowling at a local alley,0.05,0.04,4.4
+46,Rewatch old episodes of Friends.,Binge watch a bad show on Netflix,0.01,0.05,8.8
+47,Listen to nostalgic music from my childhood,Watch a tennis match ,0.02,0.05,1.1
+48,Walk to the library and find a new book to read,Play a video game together,0.03,0.05,4.4
+49,Listen to nostalgic music from my childhood,Go bowling at a local alley,0.04,0.05,3.3
+50,Make myself a nice sandwich,Go on a walk to the park and fly a kite,0.05,0.05,1.1
+51,Clean up my workspace,Work on a puzzle together,0.01,0.01,1.1
+52,Make myself a matcha green tea latte,Play a video game together,0.02,0.01,3.3
+53,Rewatch old episodes of Friends.,Play a video game together,0.03,0.01,1.1
+54,Take a walk around the block,Shop together on Amazon for some nice to haves,0.04,0.01,4.4
+55,Listen to nostalgic music from my childhood,Binge watch a bad show on Netflix,0.05,0.01,1.1
+56,Walk to the library and find a new book to read,Go bowling at a local alley,0.01,0.02,8.8
+57,Take a walk around the block,Go on a walk to the park and fly a kite,0.02,0.02,4.4
+58,Rewatch old episodes of Friends.,Cook a nice dinner together,0.03,0.02,4.4
+59,Walk to the library and find a new book to read,Watch a tennis match ,0.04,0.02,4.4
+60,Go on a hike at a local spot,Go grocery shopping for the week ahead,0.05,0.02,1.1
+61,Read a book by myself in a corner of my house,Play a video game together,0.01,0.03,3.3
+62,Read a book by myself in a corner of my house,Binge watch a bad show on Netflix,0.02,0.03,3.3
+63,Binge watch some Youtube videos on finance,Cook a nice dinner together,0.03,0.03,3.3
+64,Listen to nostalgic music from my childhood,Play a video game together,0.04,0.03,1.1
+65,Walk to the library and find a new book to read,Shop together on Amazon for some nice to haves,0.05,0.03,1.1
+66,Clean up my workspace,Cook a nice dinner together,0.01,0.04,1.1
+67,Binge watch some Youtube videos on finance,Go bowling at a local alley,0.02,0.04,8.8
+68,Make myself a matcha green tea latte,Go on a walk to the park and fly a kite,0.03,0.04,4.4
+69,Make myself a nice sandwich,Work on a puzzle together,0.04,0.04,1.1
+70,Read a book by myself in a corner of my house,Go on a walk to the park and fly a kite,0.05,0.04,1.1
+71,Go on a hike at a local spot,Binge watch a bad show on Netflix,0.01,0.05,3.3
+72,Binge watch some Youtube videos on finance,Play a video game together,0.02,0.05,8.8
+73,Take a walk around the block,Go bowling at a local alley,0.03,0.05,3.3
+74,Listen to nostalgic music from my childhood,Cook a nice dinner together,0.04,0.05,4.4
+75,Read a book by myself in a corner of my house,Cook a nice dinner together,0.05,0.05,3.3
+76,Clean up my workspace,Play a video game together,0.01,0.01,1.1
+77,Binge watch some Youtube videos on finance,Go grocery shopping for the week ahead,0.02,0.01,8.8
+78,Go on a hike at a local spot,Play a video game together,0.03,0.01,1.1
+79,Listen to nostalgic music from my childhood,Work on a puzzle together,0.04,0.01,1.1
+80,Rewatch old episodes of Friends.,Work on a puzzle together,0.05,0.01,4.4
+81,Walk to the library and find a new book to read,Play a board game like Taboo,0.01,0.02,3.3
+82,Rewatch old episodes of Friends.,Go grocery shopping for the week ahead,0.02,0.02,4.4
+83,Make myself a matcha green tea latte,Work on a puzzle together,0.03,0.02,1.1
+84,Binge watch some Youtube videos on finance,Shop together on Amazon for some nice to haves,0.04,0.02,3.3
+85,Read a book by myself in a corner of my house,Go bowling at a local alley,0.05,0.02,3.3
+86,Listen to nostalgic music from my childhood,Go grocery shopping for the week ahead,0.01,0.03,1.1
+87,Take a walk around the block,Play a board game like Taboo,0.02,0.03,4.4
+88,Read a book by myself in a corner of my house,Play a board game like Taboo,0.03,0.03,1.1
+89,Clean up my workspace,Watch a tennis match ,0.04,0.03,3.3
+90,Binge watch some Youtube videos on finance,Go on a walk to the park and fly a kite,0.05,0.03,8.8
+91,Listen to nostalgic music from my childhood,Play a board game like Taboo,0.01,0.04,3.3
+92,Listen to nostalgic music from my childhood,Go on a walk to the park and fly a kite,0.02,0.04,8.8
+93,Binge watch some Youtube videos on finance,Watch a tennis match ,0.03,0.04,1.1
+94,Go on a hike at a local spot,Go on a walk to the park and fly a kite,0.04,0.04,4.4
+95,Clean up my workspace,Play a board game like Taboo,0.05,0.04,4.4
+96,Make myself a nice sandwich,Go grocery shopping for the week ahead,0.01,0.05,3.3
+97,Take a walk around the block,Work on a puzzle together,0.02,0.05,1.1
+98,Make myself a matcha green tea latte,Binge watch a bad show on Netflix,0.03,0.05,1.1
+99,Make myself a nice sandwich,Binge watch a bad show on Netflix,0.04,0.05,3.3
+100,Take a walk around the block,Watch a tennis match ,0.05,0.05,4.4

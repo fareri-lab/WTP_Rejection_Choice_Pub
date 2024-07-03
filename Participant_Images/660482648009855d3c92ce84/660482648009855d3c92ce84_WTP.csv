@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
-1,Watch movies,Play DND,0.01,0.01,4.4
-2,Play video games,Play exploding kittens,0.02,0.01,8.8
-3,Work on prolific,Play Magic the gathering,0.03,0.01,3.3
-4,Watch movies,Have parties,0.04,0.01,1.1
-5,Watch movies,Play Magic the gathering,0.05,0.01,1.1
-6,Play with dogs,Play DND,0.01,0.02,3.3
-7,sleep,Play Villainous,0.02,0.02,1.1
-8,Play video games,Play Magic the gathering,0.03,0.02,1.1
-9,Play with dogs,Watch movies at the movie theater,0.04,0.02,4.4
-10,Hang out with friends,Watch movies at the movie theater,0.05,0.02,1.1
-11,Watch movies,Go to the park,0.01,0.03,3.3
-12,Eat fancier foods,Have parties,0.02,0.03,4.4
-13,Play video games,Have parties,0.03,0.03,1.1
-14,Swim,Play Villainous,0.04,0.03,3.3
-15,sleep,Play Baldurs gate board game,0.05,0.03,4.4
-16,Read a book,Play competitive video games,0.01,0.04,1.1
-17,Eat fancier foods,Play exploding kittens,0.02,0.04,8.8
-18,Work on prolific,Go to the park,0.03,0.04,3.3
-19,Watch movies,Go to pizza places or other mass gathering areas,0.04,0.04,3.3
-20,Swim,Play Baldurs gate board game,0.05,0.04,1.1
-21,Play with dogs,Play exploding kittens,0.01,0.05,8.8
-22,Watch movies,Play Villainous,0.02,0.05,4.4
-23,Play with dogs,Have parties,0.03,0.05,1.1
-24,Work on prolific,Watch movies at the movie theater,0.04,0.05,4.4
-25,Work on a craft project like chainmail,Go to the park,0.05,0.05,3.3
-26,Eat fancier foods,Play competitive video games,0.01,0.01,4.4
-27,Eat fancier foods,Go to the park,0.02,0.01,3.3
-28,Work on a craft project like chainmail,Have parties,0.03,0.01,3.3
-29,Swim,Play DND,0.04,0.01,4.4
-30,Swim,Go to the park,0.05,0.01,8.8
-31,Play video games,Play competitive video games,0.01,0.02,8.8
-32,Work on prolific,Play exploding kittens,0.02,0.02,1.1
-33,Eat fancier foods,Play Villainous,0.03,0.02,4.4
-34,Play with dogs,Play Baldurs gate board game,0.04,0.02,3.3
-35,sleep,Go to pizza places or other mass gathering areas,0.05,0.02,1.1
-36,Swim,Watch movies at the movie theater,0.01,0.03,3.3
-37,Swim,Play competitive video games,0.02,0.03,1.1
-38,Swim,Play exploding kittens,0.03,0.03,1.1
-39,Play video games,Play DND,0.04,0.03,3.3
-40,Eat fancier foods,Go to pizza places or other mass gathering areas,0.05,0.03,4.4
-41,Eat fancier foods,Play Baldurs gate board game,0.01,0.04,1.1
-42,Hang out with friends,Go to pizza places or other mass gathering areas,0.02,0.04,3.3
-43,sleep,Have parties,0.03,0.04,1.1
-44,Play video games,Go to the park,0.04,0.04,1.1
-45,Hang out with friends,Play competitive video games,0.05,0.04,4.4
-46,Read a book,Play Villainous,0.01,0.05,8.8
-47,Watch movies,Play exploding kittens,0.02,0.05,1.1
-48,Work on a craft project like chainmail,Play competitive video games,0.03,0.05,4.4
-49,Work on a craft project like chainmail,Watch movies at the movie theater,0.04,0.05,3.3
-50,Eat fancier foods,Play DND,0.05,0.05,1.1
-51,Work on prolific,Play Villainous,0.01,0.01,1.1
-52,sleep,Go to the park,0.02,0.01,3.3
-53,sleep,Watch movies at the movie theater,0.03,0.01,1.1
-54,Play video games,Watch movies at the movie theater,0.04,0.01,4.4
-55,Play video games,Play Baldurs gate board game,0.05,0.01,1.1
-56,Play video games,Go to pizza places or other mass gathering areas,0.01,0.02,8.8
-57,sleep,Play exploding kittens,0.02,0.02,4.4
-58,Play with dogs,Go to pizza places or other mass gathering areas,0.03,0.02,4.4
-59,Hang out with friends,Play Villainous,0.04,0.02,4.4
-60,Play with dogs,Play Magic the gathering,0.05,0.02,1.1
-61,Read a book,Play Magic the gathering,0.01,0.03,3.3
-62,Hang out with friends,Go to the park,0.02,0.03,3.3
-63,Watch movies,Play competitive video games,0.03,0.03,3.3
-64,Swim,Go to pizza places or other mass gathering areas,0.04,0.03,1.1
-65,Read a book,Watch movies at the movie theater,0.05,0.03,1.1
-66,Hang out with friends,Have parties,0.01,0.04,1.1
-67,Read a book,Go to the park,0.02,0.04,8.8
-68,Watch movies,Play Baldurs gate board game,0.03,0.04,4.4
-69,Read a book,Go to pizza places or other mass gathering areas,0.04,0.04,1.1
-70,Swim,Have parties,0.05,0.04,1.1
-71,Read a book,Play exploding kittens,0.01,0.05,3.3
-72,Work on prolific,Play Baldurs gate board game,0.02,0.05,8.8
-73,Read a book,Play DND,0.03,0.05,3.3
-74,Eat fancier foods,Play Magic the gathering,0.04,0.05,4.4
-75,sleep,Play DND,0.05,0.05,3.3
-76,Work on a craft project like chainmail,Play exploding kittens,0.01,0.01,1.1
-77,Hang out with friends,Play exploding kittens,0.02,0.01,8.8
-78,Hang out with friends,Play Magic the gathering,0.03,0.01,1.1
-79,Work on a craft project like chainmail,Go to pizza places or other mass gathering areas,0.04,0.01,1.1
-80,Hang out with friends,Play Baldurs gate board game,0.05,0.01,4.4
-81,Play video games,Play Villainous,0.01,0.02,3.3
-82,sleep,Play Magic the gathering,0.02,0.02,4.4
-83,Hang out with friends,Play DND,0.03,0.02,1.1
-84,Work on prolific,Play DND,0.04,0.02,3.3
-85,Read a book,Have parties,0.05,0.02,3.3
-86,Work on a craft project like chainmail,Play Magic the gathering,0.01,0.03,1.1
-87,Eat fancier foods,Watch movies at the movie theater,0.02,0.03,4.4
-88,Work on a craft project like chainmail,Play Villainous,0.03,0.03,1.1
-89,Work on prolific,Have parties,0.04,0.03,3.3
-90,Work on a craft project like chainmail,Play DND,0.05,0.03,8.8
-91,Play with dogs,Go to the park,0.01,0.04,3.3
-92,Read a book,Play Baldurs gate board game,0.02,0.04,8.8
-93,Work on prolific,Go to pizza places or other mass gathering areas,0.03,0.04,1.1
-94,Watch movies,Watch movies at the movie theater,0.04,0.04,4.4
-95,Work on prolific,Play competitive video games,0.05,0.04,4.4
-96,Play with dogs,Play Villainous,0.01,0.05,3.3
-97,Play with dogs,Play competitive video games,0.02,0.05,1.1
-98,Work on a craft project like chainmail,Play Baldurs gate board game,0.03,0.05,1.1
-99,sleep,Play competitive video games,0.04,0.05,3.3
-100,Swim,Play Magic the gathering,0.05,0.05,4.4
+1,Swim,Go to the park,0.01,0.01,4.4
+2,Watch movies,Play exploding kittens,0.02,0.01,8.8
+3,Swim,Have parties,0.03,0.01,3.3
+4,Play with dogs,Play Magic the gathering,0.04,0.01,1.1
+5,Play with dogs,Play exploding kittens,0.05,0.01,1.1
+6,Hang out with friends,Go to the park,0.01,0.02,3.3
+7,Eat fancier foods,Play Villainous,0.02,0.02,1.1
+8,Hang out with friends,Play DND,0.03,0.02,1.1
+9,Hang out with friends,Play competitive video games,0.04,0.02,4.4
+10,Eat fancier foods,Watch movies at the movie theater,0.05,0.02,1.1
+11,Work on a craft project like chainmail,Have parties,0.01,0.03,3.3
+12,sleep,Go to the park,0.02,0.03,4.4
+13,Work on prolific,Play exploding kittens,0.03,0.03,1.1
+14,Swim,Play DND,0.04,0.03,3.3
+15,Hang out with friends,Play Baldurs gate board game,0.05,0.03,4.4
+16,Watch movies,Watch movies at the movie theater,0.01,0.04,1.1
+17,sleep,Play Baldurs gate board game,0.02,0.04,8.8
+18,Read a book,Play DND,0.03,0.04,3.3
+19,Play with dogs,Play Baldurs gate board game,0.04,0.04,3.3
+20,Read a book,Play Villainous,0.05,0.04,1.1
+21,Eat fancier foods,Go to the park,0.01,0.05,8.8
+22,Play video games,Play Baldurs gate board game,0.02,0.05,4.4
+23,Play video games,Play Magic the gathering,0.03,0.05,1.1
+24,Play video games,Watch movies at the movie theater,0.04,0.05,4.4
+25,Eat fancier foods,Play exploding kittens,0.05,0.05,3.3
+26,Play video games,Go to pizza places or other mass gathering areas,0.01,0.01,4.4
+27,Read a book,Play exploding kittens,0.02,0.01,3.3
+28,Read a book,Play competitive video games,0.03,0.01,3.3
+29,Read a book,Go to pizza places or other mass gathering areas,0.04,0.01,4.4
+30,Watch movies,Play Magic the gathering,0.05,0.01,8.8
+31,Watch movies,Play competitive video games,0.01,0.02,8.8
+32,Play video games,Have parties,0.02,0.02,1.1
+33,Watch movies,Go to the park,0.03,0.02,4.4
+34,Eat fancier foods,Play competitive video games,0.04,0.02,3.3
+35,Work on prolific,Watch movies at the movie theater,0.05,0.02,1.1
+36,Read a book,Play Magic the gathering,0.01,0.03,3.3
+37,Swim,Play Baldurs gate board game,0.02,0.03,1.1
+38,Play with dogs,Have parties,0.03,0.03,1.1
+39,Hang out with friends,Go to pizza places or other mass gathering areas,0.04,0.03,3.3
+40,Swim,Play competitive video games,0.05,0.03,4.4
+41,Swim,Go to pizza places or other mass gathering areas,0.01,0.04,1.1
+42,Eat fancier foods,Play Baldurs gate board game,0.02,0.04,3.3
+43,Eat fancier foods,Go to pizza places or other mass gathering areas,0.03,0.04,1.1
+44,Swim,Play Villainous,0.04,0.04,1.1
+45,sleep,Play Villainous,0.05,0.04,4.4
+46,Play video games,Play competitive video games,0.01,0.05,8.8
+47,Work on a craft project like chainmail,Play Villainous,0.02,0.05,1.1
+48,Eat fancier foods,Play Magic the gathering,0.03,0.05,4.4
+49,Read a book,Go to the park,0.04,0.05,3.3
+50,Read a book,Have parties,0.05,0.05,1.1
+51,Eat fancier foods,Have parties,0.01,0.01,1.1
+52,sleep,Play exploding kittens,0.02,0.01,3.3
+53,Work on a craft project like chainmail,Play exploding kittens,0.03,0.01,1.1
+54,Work on prolific,Play DND,0.04,0.01,4.4
+55,Play with dogs,Go to the park,0.05,0.01,1.1
+56,Play with dogs,Play competitive video games,0.01,0.02,8.8
+57,Play with dogs,Go to pizza places or other mass gathering areas,0.02,0.02,4.4
+58,Eat fancier foods,Play DND,0.03,0.02,4.4
+59,Work on prolific,Go to pizza places or other mass gathering areas,0.04,0.02,4.4
+60,Watch movies,Play DND,0.05,0.02,1.1
+61,Work on prolific,Have parties,0.01,0.03,3.3
+62,sleep,Have parties,0.02,0.03,3.3
+63,Play with dogs,Play Villainous,0.03,0.03,3.3
+64,Play with dogs,Play DND,0.04,0.03,1.1
+65,Swim,Watch movies at the movie theater,0.05,0.03,1.1
+66,Read a book,Play Baldurs gate board game,0.01,0.04,1.1
+67,Play video games,Play Villainous,0.02,0.04,8.8
+68,Play video games,Play DND,0.03,0.04,4.4
+69,sleep,Play DND,0.04,0.04,1.1
+70,sleep,Go to pizza places or other mass gathering areas,0.05,0.04,1.1
+71,Work on prolific,Play Villainous,0.01,0.05,3.3
+72,sleep,Play Magic the gathering,0.02,0.05,8.8
+73,Hang out with friends,Play exploding kittens,0.03,0.05,3.3
+74,Work on a craft project like chainmail,Play Baldurs gate board game,0.04,0.05,4.4
+75,Play video games,Go to the park,0.05,0.05,3.3
+76,Work on prolific,Play competitive video games,0.01,0.01,1.1
+77,sleep,Watch movies at the movie theater,0.02,0.01,8.8
+78,Play with dogs,Watch movies at the movie theater,0.03,0.01,1.1
+79,Work on a craft project like chainmail,Play Magic the gathering,0.04,0.01,1.1
+80,Work on a craft project like chainmail,Go to pizza places or other mass gathering areas,0.05,0.01,4.4
+81,Hang out with friends,Have parties,0.01,0.02,3.3
+82,Swim,Play exploding kittens,0.02,0.02,4.4
+83,Work on a craft project like chainmail,Play competitive video games,0.03,0.02,1.1
+84,Swim,Play Magic the gathering,0.04,0.02,3.3
+85,Read a book,Watch movies at the movie theater,0.05,0.02,3.3
+86,sleep,Play competitive video games,0.01,0.03,1.1
+87,Watch movies,Have parties,0.02,0.03,4.4
+88,Watch movies,Play Villainous,0.03,0.03,1.1
+89,Work on a craft project like chainmail,Play DND,0.04,0.03,3.3
+90,Watch movies,Go to pizza places or other mass gathering areas,0.05,0.03,8.8
+91,Play video games,Play exploding kittens,0.01,0.04,3.3
+92,Work on prolific,Play Magic the gathering,0.02,0.04,8.8
+93,Work on prolific,Play Baldurs gate board game,0.03,0.04,1.1
+94,Hang out with friends,Play Magic the gathering,0.04,0.04,4.4
+95,Work on prolific,Go to the park,0.05,0.04,4.4
+96,Work on a craft project like chainmail,Go to the park,0.01,0.05,3.3
+97,Hang out with friends,Watch movies at the movie theater,0.02,0.05,1.1
+98,Hang out with friends,Play Villainous,0.03,0.05,1.1
+99,Work on a craft project like chainmail,Watch movies at the movie theater,0.04,0.05,3.3
+100,Watch movies,Play Baldurs gate board game,0.05,0.05,4.4

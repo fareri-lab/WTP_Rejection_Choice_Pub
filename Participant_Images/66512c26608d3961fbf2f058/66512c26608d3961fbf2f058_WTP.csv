@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
+1,do maintenance on work,watch soccer with friends,0.01,0.01,4.4
+2,clean my house,play board game with friends,0.02,0.01,8.8
+3,play online game,go to gym with friends,0.03,0.01,3.3
+4,Practice music instuments,watch soccer with friends,0.04,0.01,1.1
+5,do maintenance on work,go to church,0.05,0.01,1.1
+6,do maintenance on work,watch my with friends,0.01,0.02,3.3
+7,work from home,go on car ride with friends,0.02,0.02,1.1
+8,mow my lawn,go on car ride with friends,0.03,0.02,1.1
+9,play online game,go to church,0.04,0.02,4.4
+10,mow my lawn,watch soccer with friends,0.05,0.02,1.1
+11,Go to the gym,do maintenance,0.01,0.03,3.3
+12,do laundry,watch soccer with friends,0.02,0.03,4.4
+13,do maintenance on work,go on car ride with friends,0.03,0.03,1.1
+14,do laundry,barbecue gathering,0.04,0.03,3.3
+15,Go to the gym,go to party,0.05,0.03,4.4
+16,Go to the gym,watch my with friends,0.01,0.04,1.1
+17,clean my house,attend wedding with friends,0.02,0.04,8.8
+18,play online game,go to party,0.03,0.04,3.3
+19,play online game,go on car ride with friends,0.04,0.04,3.3
+20,do laundry,watch my with friends,0.05,0.04,1.1
+21,work from home,do maintenance,0.01,0.05,8.8
+22,do laundry,go to church,0.02,0.05,4.4
+23,Go to the gym,play board game with friends,0.03,0.05,1.1
+24,play online game,do maintenance,0.04,0.05,4.4
+25,work from home,attend wedding with friends,0.05,0.05,3.3
+26,clean my house,watch my with friends,0.01,0.01,4.4
+27,do laundry,do maintenance,0.02,0.01,3.3
+28,Practice music instuments,watch my with friends,0.03,0.01,3.3
+29,work from home,watch my with friends,0.04,0.01,4.4
+30,Go to the gym,barbecue gathering,0.05,0.01,8.8
+31,clean my house,do maintenance,0.01,0.02,8.8
+32,Practice music instuments,do maintenance,0.02,0.02,1.1
+33,Practice music instuments,attend wedding with friends,0.03,0.02,4.4
+34,do laundry,go on car ride with friends,0.04,0.02,3.3
+35,Walk my dog,go to church,0.05,0.02,1.1
+36,mow my lawn,do maintenance,0.01,0.03,3.3
+37,Walk my dog,watch soccer with friends,0.02,0.03,1.1
+38,clean my house,go to gym with friends,0.03,0.03,1.1
+39,do maintenance on work,attend wedding with friends,0.04,0.03,3.3
+40,watching movie,attend wedding with friends,0.05,0.03,4.4
+41,Practice music instuments,play board game with friends,0.01,0.04,1.1
+42,watching movie,go to party,0.02,0.04,3.3
+43,watching movie,watch soccer with friends,0.03,0.04,1.1
+44,do maintenance on work,barbecue gathering,0.04,0.04,1.1
+45,Go to the gym,go to gym with friends,0.05,0.04,4.4
+46,play online game,play board game with friends,0.01,0.05,8.8
+47,Practice music instuments,go on car ride with friends,0.02,0.05,1.1
+48,Walk my dog,go to gym with friends,0.03,0.05,4.4
+49,work from home,go to church,0.04,0.05,3.3
+50,play online game,attend wedding with friends,0.05,0.05,1.1
+51,Go to the gym,go to church,0.01,0.01,1.1
+52,do laundry,attend wedding with friends,0.02,0.01,3.3
+53,watching movie,do maintenance,0.03,0.01,1.1
+54,clean my house,watch soccer with friends,0.04,0.01,4.4
+55,watching movie,play board game with friends,0.05,0.01,1.1
+56,Walk my dog,watch my with friends,0.01,0.02,8.8
+57,mow my lawn,go to party,0.02,0.02,4.4
+58,do maintenance on work,go to party,0.03,0.02,4.4
+59,mow my lawn,watch my with friends,0.04,0.02,4.4
+60,Practice music instuments,go to gym with friends,0.05,0.02,1.1
+61,do maintenance on work,go to gym with friends,0.01,0.03,3.3
+62,work from home,go to gym with friends,0.02,0.03,3.3
+63,do maintenance on work,do maintenance,0.03,0.03,3.3
+64,Walk my dog,barbecue gathering,0.04,0.03,1.1
+65,work from home,play board game with friends,0.05,0.03,1.1
+66,watching movie,barbecue gathering,0.01,0.04,1.1
+67,Practice music instuments,barbecue gathering,0.02,0.04,8.8
+68,Walk my dog,go to party,0.03,0.04,4.4
+69,Go to the gym,go on car ride with friends,0.04,0.04,1.1
+70,clean my house,go on car ride with friends,0.05,0.04,1.1
+71,clean my house,barbecue gathering,0.01,0.05,3.3
+72,mow my lawn,go to gym with friends,0.02,0.05,8.8
+73,mow my lawn,play board game with friends,0.03,0.05,3.3
+74,work from home,barbecue gathering,0.04,0.05,4.4
+75,Walk my dog,do maintenance,0.05,0.05,3.3
+76,mow my lawn,attend wedding with friends,0.01,0.01,1.1
+77,Practice music instuments,go to church,0.02,0.01,8.8
+78,Walk my dog,attend wedding with friends,0.03,0.01,1.1
+79,mow my lawn,go to church,0.04,0.01,1.1
+80,watching movie,watch my with friends,0.05,0.01,4.4
+81,watching movie,go on car ride with friends,0.01,0.02,3.3
+82,clean my house,go to party,0.02,0.02,4.4
+83,play online game,barbecue gathering,0.03,0.02,1.1
+84,clean my house,go to church,0.04,0.02,3.3
+85,Practice music instuments,go to party,0.05,0.02,3.3
+86,Go to the gym,watch soccer with friends,0.01,0.03,1.1
+87,watching movie,go to church,0.02,0.03,4.4
+88,do laundry,play board game with friends,0.03,0.03,1.1
+89,Walk my dog,go on car ride with friends,0.04,0.03,3.3
+90,do laundry,go to gym with friends,0.05,0.03,8.8
+91,mow my lawn,barbecue gathering,0.01,0.04,3.3
+92,Go to the gym,attend wedding with friends,0.02,0.04,8.8
+93,do laundry,go to party,0.03,0.04,1.1
+94,work from home,go to party,0.04,0.04,4.4
+95,play online game,watch my with friends,0.05,0.04,4.4
+96,work from home,watch soccer with friends,0.01,0.05,3.3
+97,watching movie,go to gym with friends,0.02,0.05,1.1
+98,Walk my dog,play board game with friends,0.03,0.05,1.1
+99,play online game,watch soccer with friends,0.04,0.05,3.3
+100,do maintenance on work,play board game with friends,0.05,0.05,4.4

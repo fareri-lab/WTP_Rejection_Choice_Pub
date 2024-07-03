@@ -14,7 +14,7 @@ completedparticipantlist = pd.read_excel('participantlist.xlsx')
 completedparticipantlist = completedparticipantlist.loc[
     completedparticipantlist['PhotosUploaded? (y/n)'] == 'n']
 
-exp = pd.read_csv('WTP-Rej_Experiences_62524.csv', encoding='latin1')
+exp = pd.read_csv('WTP-Rej_Experiences_07032024.csv', encoding='latin1')
 
 clean = exp.filter(regex='ocial_A')
 clean.insert(0, 'PROLIFIC_PID', exp['PROLIFIC_PID'])

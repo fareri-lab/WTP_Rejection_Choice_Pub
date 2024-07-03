@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
+1,Write poetry in my favorite park during the golden hour,Cook a homemade dinner with my partner on a quiet Friday night,0.01,0.01,4.4
+2,Hike in the forest on a crisp autumn morning,Hike trails with my coworkers during a team-building retreat,0.02,0.01,8.8
+3,Write poetry in my favorite park during the golden hour,Watch movies with my family during the holidays,0.03,0.01,3.3
+4,Read a novel in my cozy armchair by the window on a rainy afternoon,Hike trails with my coworkers during a team-building retreat,0.04,0.01,1.1
+5,Read a novel in my cozy armchair by the window on a rainy afternoon,Visit museums with my classmates during a school field trip,0.05,0.01,1.1
+6,Meditate in my backyard garden at sunrise,Host game nights with my neighbors in my living room,0.01,0.02,3.3
+7,Read a novel in my cozy armchair by the window on a rainy afternoon,Cook a homemade dinner with my partner on a quiet Friday night,0.02,0.02,1.1
+8,Write poetry in my favorite park during the golden hour,Play board games with friends at a cozy cabin during a winter weekend,0.03,0.02,1.1
+9,Stargaze in my backyard on a clear summer night,Hike trails with my coworkers during a team-building retreat,0.04,0.02,4.4
+10,Sketch landscapes at a secluded spot by the lake,Hike trails with my coworkers during a team-building retreat,0.05,0.02,1.1
+11,Listen to classical music while doing yoga in my living room,Cook a homemade dinner with my partner on a quiet Friday night,0.01,0.03,3.3
+12,Listen to classical music while doing yoga in my living room,Play board games with friends at a cozy cabin during a winter weekend,0.02,0.03,4.4
+13,Meditate in my backyard garden at sunrise,Visit museums with my classmates during a school field trip,0.03,0.03,1.1
+14,Meditate in my backyard garden at sunrise,Play board games with friends at a cozy cabin during a winter weekend,0.04,0.03,3.3
+15,Hike in the forest on a crisp autumn morning,Watch movies with my family during the holidays,0.05,0.03,4.4
+16,Watch classic films in my bedroom with fairy lights on,Participate in book club discussions with fellow book enthusiasts at a local caf,0.01,0.04,1.1
+17,Hike in the forest on a crisp autumn morning,Cook a homemade dinner with my partner on a quiet Friday night,0.02,0.04,8.8
+18,Write poetry in my favorite park during the golden hour,Go on beach picnics with my siblings on sunny summer days,0.03,0.04,3.3
+19,Watch classic films in my bedroom with fairy lights on,Hike trails with my coworkers during a team-building retreat,0.04,0.04,3.3
+20,Listen to classical music while doing yoga in my living room,Visit museums with my classmates during a school field trip,0.05,0.04,1.1
+21,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Host game nights with my neighbors in my living room,0.01,0.05,8.8
+22,Meditate in my backyard garden at sunrise,Watch movies with my family during the holidays,0.02,0.05,4.4
+23,Journal my thoughts and reflections at a local coffee shop,Watch movies with my family during the holidays,0.03,0.05,1.1
+24,Stargaze in my backyard on a clear summer night,Visit museums with my classmates during a school field trip,0.04,0.05,4.4
+25,Watch classic films in my bedroom with fairy lights on,Watch movies with my family during the holidays,0.05,0.05,3.3
+26,Watch classic films in my bedroom with fairy lights on,Host game nights with my neighbors in my living room,0.01,0.01,4.4
+27,Journal my thoughts and reflections at a local coffee shop,Go on beach picnics with my siblings on sunny summer days,0.02,0.01,3.3
+28,Stargaze in my backyard on a clear summer night,Attend live concerts with my best friend on weekends,0.03,0.01,3.3
+29,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Play board games with friends at a cozy cabin during a winter weekend,0.04,0.01,4.4
+30,Meditate in my backyard garden at sunrise,Explore new cities with my cousins on annual road trips,0.05,0.01,8.8
+31,Journal my thoughts and reflections at a local coffee shop,Attend live concerts with my best friend on weekends,0.01,0.02,8.8
+32,Read a novel in my cozy armchair by the window on a rainy afternoon,Play board games with friends at a cozy cabin during a winter weekend,0.02,0.02,1.1
+33,Write poetry in my favorite park during the golden hour,Hike trails with my coworkers during a team-building retreat,0.03,0.02,4.4
+34,Read a novel in my cozy armchair by the window on a rainy afternoon,Go on beach picnics with my siblings on sunny summer days,0.04,0.02,3.3
+35,Stargaze in my backyard on a clear summer night,Go on beach picnics with my siblings on sunny summer days,0.05,0.02,1.1
+36,Stargaze in my backyard on a clear summer night,Host game nights with my neighbors in my living room,0.01,0.03,3.3
+37,Journal my thoughts and reflections at a local coffee shop,Explore new cities with my cousins on annual road trips,0.02,0.03,1.1
+38,Listen to classical music while doing yoga in my living room,Participate in book club discussions with fellow book enthusiasts at a local caf,0.03,0.03,1.1
+39,Journal my thoughts and reflections at a local coffee shop,Host game nights with my neighbors in my living room,0.04,0.03,3.3
+40,Watch classic films in my bedroom with fairy lights on,Cook a homemade dinner with my partner on a quiet Friday night,0.05,0.03,4.4
+41,Journal my thoughts and reflections at a local coffee shop,Play board games with friends at a cozy cabin during a winter weekend,0.01,0.04,1.1
+42,Hike in the forest on a crisp autumn morning,Attend live concerts with my best friend on weekends,0.02,0.04,3.3
+43,Sketch landscapes at a secluded spot by the lake,Cook a homemade dinner with my partner on a quiet Friday night,0.03,0.04,1.1
+44,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Watch movies with my family during the holidays,0.04,0.04,1.1
+45,Watch classic films in my bedroom with fairy lights on,Go on beach picnics with my siblings on sunny summer days,0.05,0.04,4.4
+46,Meditate in my backyard garden at sunrise,Attend live concerts with my best friend on weekends,0.01,0.05,8.8
+47,Watch classic films in my bedroom with fairy lights on,Play board games with friends at a cozy cabin during a winter weekend,0.02,0.05,1.1
+48,Hike in the forest on a crisp autumn morning,Go on beach picnics with my siblings on sunny summer days,0.03,0.05,4.4
+49,Write poetry in my favorite park during the golden hour,Explore new cities with my cousins on annual road trips,0.04,0.05,3.3
+50,Listen to classical music while doing yoga in my living room,Host game nights with my neighbors in my living room,0.05,0.05,1.1
+51,Sketch landscapes at a secluded spot by the lake,Explore new cities with my cousins on annual road trips,0.01,0.01,1.1
+52,Meditate in my backyard garden at sunrise,Go on beach picnics with my siblings on sunny summer days,0.02,0.01,3.3
+53,Sketch landscapes at a secluded spot by the lake,Host game nights with my neighbors in my living room,0.03,0.01,1.1
+54,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Hike trails with my coworkers during a team-building retreat,0.04,0.01,4.4
+55,Sketch landscapes at a secluded spot by the lake,Go on beach picnics with my siblings on sunny summer days,0.05,0.01,1.1
+56,Journal my thoughts and reflections at a local coffee shop,Hike trails with my coworkers during a team-building retreat,0.01,0.02,8.8
+57,Listen to classical music while doing yoga in my living room,Attend live concerts with my best friend on weekends,0.02,0.02,4.4
+58,Listen to classical music while doing yoga in my living room,Explore new cities with my cousins on annual road trips,0.03,0.02,4.4
+59,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Visit museums with my classmates during a school field trip,0.04,0.02,4.4
+60,Journal my thoughts and reflections at a local coffee shop,Participate in book club discussions with fellow book enthusiasts at a local caf,0.05,0.02,1.1
+61,Watch classic films in my bedroom with fairy lights on,Attend live concerts with my best friend on weekends,0.01,0.03,3.3
+62,Sketch landscapes at a secluded spot by the lake,Watch movies with my family during the holidays,0.02,0.03,3.3
+63,Read a novel in my cozy armchair by the window on a rainy afternoon,Participate in book club discussions with fellow book enthusiasts at a local caf,0.03,0.03,3.3
+64,Hike in the forest on a crisp autumn morning,Participate in book club discussions with fellow book enthusiasts at a local caf,0.04,0.03,1.1
+65,Watch classic films in my bedroom with fairy lights on,Explore new cities with my cousins on annual road trips,0.05,0.03,1.1
+66,Write poetry in my favorite park during the golden hour,Host game nights with my neighbors in my living room,0.01,0.04,1.1
+67,Write poetry in my favorite park during the golden hour,Visit museums with my classmates during a school field trip,0.02,0.04,8.8
+68,Listen to classical music while doing yoga in my living room,Watch movies with my family during the holidays,0.03,0.04,4.4
+69,Hike in the forest on a crisp autumn morning,Play board games with friends at a cozy cabin during a winter weekend,0.04,0.04,1.1
+70,Read a novel in my cozy armchair by the window on a rainy afternoon,Watch movies with my family during the holidays,0.05,0.04,1.1
+71,Meditate in my backyard garden at sunrise,Participate in book club discussions with fellow book enthusiasts at a local caf,0.01,0.05,3.3
+72,Listen to classical music while doing yoga in my living room,Hike trails with my coworkers during a team-building retreat,0.02,0.05,8.8
+73,Journal my thoughts and reflections at a local coffee shop,Visit museums with my classmates during a school field trip,0.03,0.05,3.3
+74,Stargaze in my backyard on a clear summer night,Play board games with friends at a cozy cabin during a winter weekend,0.04,0.05,4.4
+75,Meditate in my backyard garden at sunrise,Cook a homemade dinner with my partner on a quiet Friday night,0.05,0.05,3.3
+76,Sketch landscapes at a secluded spot by the lake,Participate in book club discussions with fellow book enthusiasts at a local caf,0.01,0.01,1.1
+77,Stargaze in my backyard on a clear summer night,Cook a homemade dinner with my partner on a quiet Friday night,0.02,0.01,8.8
+78,Hike in the forest on a crisp autumn morning,Host game nights with my neighbors in my living room,0.03,0.01,1.1
+79,Journal my thoughts and reflections at a local coffee shop,Cook a homemade dinner with my partner on a quiet Friday night,0.04,0.01,1.1
+80,Stargaze in my backyard on a clear summer night,Participate in book club discussions with fellow book enthusiasts at a local caf,0.05,0.01,4.4
+81,Watch classic films in my bedroom with fairy lights on,Visit museums with my classmates during a school field trip,0.01,0.02,3.3
+82,Hike in the forest on a crisp autumn morning,Explore new cities with my cousins on annual road trips,0.02,0.02,4.4
+83,Read a novel in my cozy armchair by the window on a rainy afternoon,Attend live concerts with my best friend on weekends,0.03,0.02,1.1
+84,Write poetry in my favorite park during the golden hour,Attend live concerts with my best friend on weekends,0.04,0.02,3.3
+85,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Go on beach picnics with my siblings on sunny summer days,0.05,0.02,3.3
+86,Sketch landscapes at a secluded spot by the lake,Visit museums with my classmates during a school field trip,0.01,0.03,1.1
+87,Stargaze in my backyard on a clear summer night,Explore new cities with my cousins on annual road trips,0.02,0.03,4.4
+88,Read a novel in my cozy armchair by the window on a rainy afternoon,Host game nights with my neighbors in my living room,0.03,0.03,1.1
+89,Read a novel in my cozy armchair by the window on a rainy afternoon,Explore new cities with my cousins on annual road trips,0.04,0.03,3.3
+90,Sketch landscapes at a secluded spot by the lake,Play board games with friends at a cozy cabin during a winter weekend,0.05,0.03,8.8
+91,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Cook a homemade dinner with my partner on a quiet Friday night,0.01,0.04,3.3
+92,Sketch landscapes at a secluded spot by the lake,Attend live concerts with my best friend on weekends,0.02,0.04,8.8
+93,Meditate in my backyard garden at sunrise,Hike trails with my coworkers during a team-building retreat,0.03,0.04,1.1
+94,Stargaze in my backyard on a clear summer night,Watch movies with my family during the holidays,0.04,0.04,4.4
+95,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Explore new cities with my cousins on annual road trips,0.05,0.04,4.4
+96,Listen to classical music while doing yoga in my living room,Go on beach picnics with my siblings on sunny summer days,0.01,0.05,3.3
+97,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Attend live concerts with my best friend on weekends,0.02,0.05,1.1
+98,Write poetry in my favorite park during the golden hour,Participate in book club discussions with fellow book enthusiasts at a local caf,0.03,0.05,1.1
+99,Hike in the forest on a crisp autumn morning,Visit museums with my classmates during a school field trip,0.04,0.05,3.3
+100,Bake chocolate chip cookies in my kitchen on a quiet Sunday,Participate in book club discussions with fellow book enthusiasts at a local caf,0.05,0.05,4.4

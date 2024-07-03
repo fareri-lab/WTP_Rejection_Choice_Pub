@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
+1,Learn new cooking recipes ,Spend time with my significant other cooking a meal together ,0.01,0.01,4.4
+2,Hike the Santa Monica mountains,Travel with friends to foreign countries,0.02,0.01,8.8
+3,Drive along the coast,Ice-skate with my significant other,0.03,0.01,3.3
+4,Research new places to eat and visit in Japan ,Watch anime together with my significant other ,0.04,0.01,1.1
+5,Research new places to eat and visit in Japan ,Travel with friends to foreign countries,0.05,0.01,1.1
+6,Drive along the coast,Go on a road trip with my significant other to San Diego,0.01,0.02,3.3
+7,Walk around the neighborhood and enjoy the warm Summer weather,Learn about the research my significant other is conducting in her lab,0.02,0.02,1.1
+8,Research new places to eat and visit in Japan ,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.03,0.02,1.1
+9,Learn new cooking recipes ,Go on little chore trips with friends,0.04,0.02,4.4
+10,Read academic papers,Spend time with my significant other cooking a meal together ,0.05,0.02,1.1
+11,Listen to music ,Spend time with my significant other cooking a meal together ,0.01,0.03,3.3
+12,Watch anime on the weekend ,Catch up with friends who have since moved around the country after college,0.02,0.03,4.4
+13,Write in my diary ,Spend time with my significant other cooking a meal together ,0.03,0.03,1.1
+14,Learn new cooking recipes ,Catch up with friends who have since moved around the country after college,0.04,0.03,3.3
+15,Drive along the coast,Learn about the research my significant other is conducting in her lab,0.05,0.03,4.4
+16,Read academic papers,Go on little chore trips with friends,0.01,0.04,1.1
+17,Drive along the coast,Watch anime together with my significant other ,0.02,0.04,8.8
+18,Shop for new home goods to redecorate my house ,Learn about the research my significant other is conducting in her lab,0.03,0.04,3.3
+19,Listen to music ,Learn about the research my significant other is conducting in her lab,0.04,0.04,3.3
+20,Shop for new home goods to redecorate my house ,Watch anime together with my significant other ,0.05,0.04,1.1
+21,Watch anime on the weekend ,Take long walks around the city with my significant other after a large home cooked meal ,0.01,0.05,8.8
+22,Write in my diary ,Go on little chore trips with friends,0.02,0.05,4.4
+23,Read academic papers,Learn about the research my significant other is conducting in her lab,0.03,0.05,1.1
+24,Watch anime on the weekend ,Go on little chore trips with friends,0.04,0.05,4.4
+25,Walk around the neighborhood and enjoy the warm Summer weather,Take long walks around the city with my significant other after a large home cooked meal ,0.05,0.05,3.3
+26,Learn new cooking recipes ,Take long walks around the city with my significant other after a large home cooked meal ,0.01,0.01,4.4
+27,Hike the Santa Monica mountains,Go on little chore trips with friends,0.02,0.01,3.3
+28,Shop for new home goods to redecorate my house ,Go on a road trip with my significant other to San Diego,0.03,0.01,3.3
+29,Read academic papers,Watch anime together with my significant other ,0.04,0.01,4.4
+30,Drive along the coast,Go on little chore trips with friends,0.05,0.01,8.8
+31,Write in my diary ,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.01,0.02,8.8
+32,Drive along the coast,Take long walks around the city with my significant other after a large home cooked meal ,0.02,0.02,1.1
+33,Listen to music ,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.03,0.02,4.4
+34,Listen to music ,Catch up with friends who have since moved around the country after college,0.04,0.02,3.3
+35,Drive along the coast,Spend time with my significant other cooking a meal together ,0.05,0.02,1.1
+36,Shop for new home goods to redecorate my house ,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.01,0.03,3.3
+37,Walk around the neighborhood and enjoy the warm Summer weather,Go on little chore trips with friends,0.02,0.03,1.1
+38,Learn new cooking recipes ,Go on a road trip with my significant other to San Diego,0.03,0.03,1.1
+39,Learn new cooking recipes ,Ice-skate with my significant other,0.04,0.03,3.3
+40,Read academic papers,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.05,0.03,4.4
+41,Shop for new home goods to redecorate my house ,Travel with friends to foreign countries,0.01,0.04,1.1
+42,Walk around the neighborhood and enjoy the warm Summer weather,Travel with friends to foreign countries,0.02,0.04,3.3
+43,Watch anime on the weekend ,Spend time with my significant other cooking a meal together ,0.03,0.04,1.1
+44,Research new places to eat and visit in Japan ,Catch up with friends who have since moved around the country after college,0.04,0.04,1.1
+45,Read academic papers,Take long walks around the city with my significant other after a large home cooked meal ,0.05,0.04,4.4
+46,Listen to music ,Take long walks around the city with my significant other after a large home cooked meal ,0.01,0.05,8.8
+47,Drive along the coast,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.02,0.05,1.1
+48,Research new places to eat and visit in Japan ,Go on a road trip with my significant other to San Diego,0.03,0.05,4.4
+49,Learn new cooking recipes ,Learn about the research my significant other is conducting in her lab,0.04,0.05,3.3
+50,Listen to music ,Go on little chore trips with friends,0.05,0.05,1.1
+51,Write in my diary ,Travel with friends to foreign countries,0.01,0.01,1.1
+52,Write in my diary ,Ice-skate with my significant other,0.02,0.01,3.3
+53,Research new places to eat and visit in Japan ,Spend time with my significant other cooking a meal together ,0.03,0.01,1.1
+54,Research new places to eat and visit in Japan ,Go on little chore trips with friends,0.04,0.01,4.4
+55,Shop for new home goods to redecorate my house ,Take long walks around the city with my significant other after a large home cooked meal ,0.05,0.01,1.1
+56,Walk around the neighborhood and enjoy the warm Summer weather,Catch up with friends who have since moved around the country after college,0.01,0.02,8.8
+57,Read academic papers,Go on a road trip with my significant other to San Diego,0.02,0.02,4.4
+58,Hike the Santa Monica mountains,Take long walks around the city with my significant other after a large home cooked meal ,0.03,0.02,4.4
+59,Walk around the neighborhood and enjoy the warm Summer weather,Spend time with my significant other cooking a meal together ,0.04,0.02,4.4
+60,Watch anime on the weekend ,Travel with friends to foreign countries,0.05,0.02,1.1
+61,Read academic papers,Catch up with friends who have since moved around the country after college,0.01,0.03,3.3
+62,Watch anime on the weekend ,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.02,0.03,3.3
+63,Hike the Santa Monica mountains,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.03,0.03,3.3
+64,Drive along the coast,Travel with friends to foreign countries,0.04,0.03,1.1
+65,Hike the Santa Monica mountains,Spend time with my significant other cooking a meal together ,0.05,0.03,1.1
+66,Research new places to eat and visit in Japan ,Take long walks around the city with my significant other after a large home cooked meal ,0.01,0.04,1.1
+67,Drive along the coast,Catch up with friends who have since moved around the country after college,0.02,0.04,8.8
+68,Walk around the neighborhood and enjoy the warm Summer weather,Watch anime together with my significant other ,0.03,0.04,4.4
+69,Shop for new home goods to redecorate my house ,Ice-skate with my significant other,0.04,0.04,1.1
+70,Hike the Santa Monica mountains,Watch anime together with my significant other ,0.05,0.04,1.1
+71,Watch anime on the weekend ,Watch anime together with my significant other ,0.01,0.05,3.3
+72,Read academic papers,Ice-skate with my significant other,0.02,0.05,8.8
+73,Listen to music ,Travel with friends to foreign countries,0.03,0.05,3.3
+74,Learn new cooking recipes ,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.04,0.05,4.4
+75,Watch anime on the weekend ,Learn about the research my significant other is conducting in her lab,0.05,0.05,3.3
+76,Research new places to eat and visit in Japan ,Ice-skate with my significant other,0.01,0.01,1.1
+77,Write in my diary ,Watch anime together with my significant other ,0.02,0.01,8.8
+78,Write in my diary ,Take long walks around the city with my significant other after a large home cooked meal ,0.03,0.01,1.1
+79,Write in my diary ,Catch up with friends who have since moved around the country after college,0.04,0.01,1.1
+80,Listen to music ,Ice-skate with my significant other,0.05,0.01,4.4
+81,Watch anime on the weekend ,Go on a road trip with my significant other to San Diego,0.01,0.02,3.3
+82,Write in my diary ,Go on a road trip with my significant other to San Diego,0.02,0.02,4.4
+83,Listen to music ,Go on a road trip with my significant other to San Diego,0.03,0.02,1.1
+84,Hike the Santa Monica mountains,Catch up with friends who have since moved around the country after college,0.04,0.02,3.3
+85,Learn new cooking recipes ,Watch anime together with my significant other ,0.05,0.02,3.3
+86,Shop for new home goods to redecorate my house ,Spend time with my significant other cooking a meal together ,0.01,0.03,1.1
+87,Walk around the neighborhood and enjoy the warm Summer weather,Go to get ramen with my college best friend at our favorite ramen restaurant Tsujita,0.02,0.03,4.4
+88,Shop for new home goods to redecorate my house ,Catch up with friends who have since moved around the country after college,0.03,0.03,1.1
+89,Listen to music ,Watch anime together with my significant other ,0.04,0.03,3.3
+90,Learn new cooking recipes ,Travel with friends to foreign countries,0.05,0.03,8.8
+91,Write in my diary ,Learn about the research my significant other is conducting in her lab,0.01,0.04,3.3
+92,Walk around the neighborhood and enjoy the warm Summer weather,Ice-skate with my significant other,0.02,0.04,8.8
+93,Hike the Santa Monica mountains,Ice-skate with my significant other,0.03,0.04,1.1
+94,Walk around the neighborhood and enjoy the warm Summer weather,Go on a road trip with my significant other to San Diego,0.04,0.04,4.4
+95,Watch anime on the weekend ,Ice-skate with my significant other,0.05,0.04,4.4
+96,Hike the Santa Monica mountains,Learn about the research my significant other is conducting in her lab,0.01,0.05,3.3
+97,Hike the Santa Monica mountains,Go on a road trip with my significant other to San Diego,0.02,0.05,1.1
+98,Shop for new home goods to redecorate my house ,Go on little chore trips with friends,0.03,0.05,1.1
+99,Read academic papers,Travel with friends to foreign countries,0.04,0.05,3.3
+100,Research new places to eat and visit in Japan ,Learn about the research my significant other is conducting in her lab,0.05,0.05,4.4

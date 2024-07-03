@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
+1,work on fixing my moped,eat fancy dinners with my girlfriend,0.01,0.01,4.4
+2,go on long walks by the train tracks,dance with my brother and his friends,0.02,0.01,8.8
+3,blast and danc to music with my dog,dance with my brother and his friends,0.03,0.01,3.3
+4,go on long walks by the train tracks,travel to other countries with friends,0.04,0.01,1.1
+5,go on long walks by the train tracks,cuddle on the couch with my girlfriend,0.05,0.01,1.1
+6,take my dog to the park to play fetch,play kickball with my co-workers,0.01,0.02,3.3
+7,shoot basketball free throws,dance with my brother and his friends,0.02,0.02,1.1
+8,re-organize my closet and throw out or donate old things,cuddle on the couch with my girlfriend,0.03,0.02,1.1
+9,eat ice cream in my back yard on a hot day,dance with my brother and his friends,0.04,0.02,4.4
+10,Browse old vintage tee shirts at the thrift store,cuddle on the couch with my girlfriend,0.05,0.02,1.1
+11,eat ice cream in my back yard on a hot day,help my friend out with yard work or moving,0.01,0.03,3.3
+12,eat ice cream in my back yard on a hot day,eat fancy dinners with my girlfriend,0.02,0.03,4.4
+13,eat ice cream in my back yard on a hot day,play kickball with my co-workers,0.03,0.03,1.1
+14,shoot basketball free throws,help my friend out with yard work or moving,0.04,0.03,3.3
+15,shoot basketball free throws,play kickball with my co-workers,0.05,0.03,4.4
+16,deep clean my apartment with all the windows open,cuddle on the couch with my girlfriend,0.01,0.04,1.1
+17,blast and danc to music with my dog,travel to other countries with friends,0.02,0.04,8.8
+18,shoot basketball free throws,travel to other countries with friends,0.03,0.04,3.3
+19,eat ice cream in my back yard on a hot day,go hiking with friends,0.04,0.04,3.3
+20,go on long walks by the train tracks,play kickball with my co-workers,0.05,0.04,1.1
+21,shoot basketball free throws,cook out with my family,0.01,0.05,8.8
+22,take my dog to the park to play fetch,help my friend out with yard work or moving,0.02,0.05,4.4
+23,blast and danc to music with my dog,go hiking with friends,0.03,0.05,1.1
+24,find new recipes and cook them ,go hiking with friends,0.04,0.05,4.4
+25,go on long walks by the train tracks,cook out with my family,0.05,0.05,3.3
+26,deep clean my apartment with all the windows open,travel to other countries with friends,0.01,0.01,4.4
+27,Browse old vintage tee shirts at the thrift store,travel to other countries with friends,0.02,0.01,3.3
+28,blast and danc to music with my dog,help my friend out with yard work or moving,0.03,0.01,3.3
+29,take my dog to the park to play fetch,go to music festivals with my friends,0.04,0.01,4.4
+30,work on fixing my moped,explore downtown with friends,0.05,0.01,8.8
+31,Browse old vintage tee shirts at the thrift store,eat fancy dinners with my girlfriend,0.01,0.02,8.8
+32,deep clean my apartment with all the windows open,eat fancy dinners with my girlfriend,0.02,0.02,1.1
+33,eat ice cream in my back yard on a hot day,cook out with my family,0.03,0.02,4.4
+34,Browse old vintage tee shirts at the thrift store,go to music festivals with my friends,0.04,0.02,3.3
+35,take my dog to the park to play fetch,dance with my brother and his friends,0.05,0.02,1.1
+36,re-organize my closet and throw out or donate old things,explore downtown with friends,0.01,0.03,3.3
+37,Browse old vintage tee shirts at the thrift store,go hiking with friends,0.02,0.03,1.1
+38,work on fixing my moped,travel to other countries with friends,0.03,0.03,1.1
+39,deep clean my apartment with all the windows open,play kickball with my co-workers,0.04,0.03,3.3
+40,eat ice cream in my back yard on a hot day,go to music festivals with my friends,0.05,0.03,4.4
+41,eat ice cream in my back yard on a hot day,cuddle on the couch with my girlfriend,0.01,0.04,1.1
+42,Browse old vintage tee shirts at the thrift store,cook out with my family,0.02,0.04,3.3
+43,re-organize my closet and throw out or donate old things,go to music festivals with my friends,0.03,0.04,1.1
+44,re-organize my closet and throw out or donate old things,go hiking with friends,0.04,0.04,1.1
+45,find new recipes and cook them ,play kickball with my co-workers,0.05,0.04,4.4
+46,deep clean my apartment with all the windows open,cook out with my family,0.01,0.05,8.8
+47,eat ice cream in my back yard on a hot day,travel to other countries with friends,0.02,0.05,1.1
+48,go on long walks by the train tracks,help my friend out with yard work or moving,0.03,0.05,4.4
+49,work on fixing my moped,cook out with my family,0.04,0.05,3.3
+50,shoot basketball free throws,go to music festivals with my friends,0.05,0.05,1.1
+51,blast and danc to music with my dog,explore downtown with friends,0.01,0.01,1.1
+52,shoot basketball free throws,eat fancy dinners with my girlfriend,0.02,0.01,3.3
+53,find new recipes and cook them ,explore downtown with friends,0.03,0.01,1.1
+54,re-organize my closet and throw out or donate old things,help my friend out with yard work or moving,0.04,0.01,4.4
+55,eat ice cream in my back yard on a hot day,explore downtown with friends,0.05,0.01,1.1
+56,work on fixing my moped,go hiking with friends,0.01,0.02,8.8
+57,work on fixing my moped,cuddle on the couch with my girlfriend,0.02,0.02,4.4
+58,blast and danc to music with my dog,play kickball with my co-workers,0.03,0.02,4.4
+59,find new recipes and cook them ,cook out with my family,0.04,0.02,4.4
+60,deep clean my apartment with all the windows open,go hiking with friends,0.05,0.02,1.1
+61,work on fixing my moped,dance with my brother and his friends,0.01,0.03,3.3
+62,re-organize my closet and throw out or donate old things,dance with my brother and his friends,0.02,0.03,3.3
+63,go on long walks by the train tracks,go to music festivals with my friends,0.03,0.03,3.3
+64,Browse old vintage tee shirts at the thrift store,play kickball with my co-workers,0.04,0.03,1.1
+65,re-organize my closet and throw out or donate old things,travel to other countries with friends,0.05,0.03,1.1
+66,take my dog to the park to play fetch,eat fancy dinners with my girlfriend,0.01,0.04,1.1
+67,re-organize my closet and throw out or donate old things,play kickball with my co-workers,0.02,0.04,8.8
+68,blast and danc to music with my dog,go to music festivals with my friends,0.03,0.04,4.4
+69,shoot basketball free throws,go hiking with friends,0.04,0.04,1.1
+70,work on fixing my moped,go to music festivals with my friends,0.05,0.04,1.1
+71,find new recipes and cook them ,help my friend out with yard work or moving,0.01,0.05,3.3
+72,find new recipes and cook them ,eat fancy dinners with my girlfriend,0.02,0.05,8.8
+73,blast and danc to music with my dog,cuddle on the couch with my girlfriend,0.03,0.05,3.3
+74,deep clean my apartment with all the windows open,dance with my brother and his friends,0.04,0.05,4.4
+75,Browse old vintage tee shirts at the thrift store,dance with my brother and his friends,0.05,0.05,3.3
+76,shoot basketball free throws,explore downtown with friends,0.01,0.01,1.1
+77,go on long walks by the train tracks,explore downtown with friends,0.02,0.01,8.8
+78,re-organize my closet and throw out or donate old things,eat fancy dinners with my girlfriend,0.03,0.01,1.1
+79,shoot basketball free throws,cuddle on the couch with my girlfriend,0.04,0.01,1.1
+80,Browse old vintage tee shirts at the thrift store,help my friend out with yard work or moving,0.05,0.01,4.4
+81,find new recipes and cook them ,cuddle on the couch with my girlfriend,0.01,0.02,3.3
+82,blast and danc to music with my dog,cook out with my family,0.02,0.02,4.4
+83,deep clean my apartment with all the windows open,help my friend out with yard work or moving,0.03,0.02,1.1
+84,go on long walks by the train tracks,eat fancy dinners with my girlfriend,0.04,0.02,3.3
+85,go on long walks by the train tracks,go hiking with friends,0.05,0.02,3.3
+86,take my dog to the park to play fetch,cuddle on the couch with my girlfriend,0.01,0.03,1.1
+87,find new recipes and cook them ,travel to other countries with friends,0.02,0.03,4.4
+88,re-organize my closet and throw out or donate old things,cook out with my family,0.03,0.03,1.1
+89,find new recipes and cook them ,go to music festivals with my friends,0.04,0.03,3.3
+90,deep clean my apartment with all the windows open,explore downtown with friends,0.05,0.03,8.8
+91,take my dog to the park to play fetch,explore downtown with friends,0.01,0.04,3.3
+92,find new recipes and cook them ,dance with my brother and his friends,0.02,0.04,8.8
+93,Browse old vintage tee shirts at the thrift store,explore downtown with friends,0.03,0.04,1.1
+94,work on fixing my moped,play kickball with my co-workers,0.04,0.04,4.4
+95,take my dog to the park to play fetch,go hiking with friends,0.05,0.04,4.4
+96,work on fixing my moped,help my friend out with yard work or moving,0.01,0.05,3.3
+97,deep clean my apartment with all the windows open,go to music festivals with my friends,0.02,0.05,1.1
+98,take my dog to the park to play fetch,travel to other countries with friends,0.03,0.05,1.1
+99,take my dog to the park to play fetch,cook out with my family,0.04,0.05,3.3
+100,blast and danc to music with my dog,eat fancy dinners with my girlfriend,0.05,0.05,4.4

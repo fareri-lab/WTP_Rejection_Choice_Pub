@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI
-1,play video games,work on college group projects,0.01,0.01,4.4
-2,learn french,talk with my friends online,0.02,0.01,8.8
-3,exercise,spend time with my partner,0.03,0.01,3.3
-4,learn french,spent time with my family,0.04,0.01,1.1
-5,learn french,work on college group projects,0.05,0.01,1.1
-6,go for a walk,go to festivals like pride,0.01,0.02,3.3
-7,listen to music,go to the movies,0.02,0.02,1.1
-8,browse the internet,spent time with my family,0.03,0.02,1.1
-9,go for a walk,go visit my extended family,0.04,0.02,4.4
-10,read,spend time with my partner,0.05,0.02,1.1
-11,exercise,go visit my extended family,0.01,0.03,3.3
-12,read,create art and get live feedback from my partner,0.02,0.03,4.4
-13,do bead art,create art and get live feedback from my partner,0.03,0.03,1.1
-14,play video games,go to the movies,0.04,0.03,3.3
-15,listen to music,go out to eat with family,0.05,0.03,4.4
-16,do bead art,work on college group projects,0.01,0.04,1.1
-17,browse the internet,go to the movies,0.02,0.04,8.8
-18,play video games,play video games online with my partner and friends,0.03,0.04,3.3
-19,cook,create art and get live feedback from my partner,0.04,0.04,3.3
-20,read,go visit my extended family,0.05,0.04,1.1
-21,cook,talk with my friends online,0.01,0.05,8.8
-22,listen to music,create art and get live feedback from my partner,0.02,0.05,4.4
-23,play video games,spend time with my partner,0.03,0.05,1.1
-24,learn french,go to festivals like pride,0.04,0.05,4.4
-25,watch movies or TV,go to the movies,0.05,0.05,3.3
-26,read,work on college group projects,0.01,0.01,4.4
-27,browse the internet,go out to eat with family,0.02,0.01,3.3
-28,watch movies or TV,play video games online with my partner and friends,0.03,0.01,3.3
-29,watch movies or TV,go visit my extended family,0.04,0.01,4.4
-30,read,spent time with my family,0.05,0.01,8.8
-31,cook,go out to eat with family,0.01,0.02,8.8
-32,browse the internet,talk with my friends online,0.02,0.02,1.1
-33,cook,go visit my extended family,0.03,0.02,4.4
-34,browse the internet,go to festivals like pride,0.04,0.02,3.3
-35,listen to music,work on college group projects,0.05,0.02,1.1
-36,exercise,play video games online with my partner and friends,0.01,0.03,3.3
-37,read,talk with my friends online,0.02,0.03,1.1
-38,play video games,talk with my friends online,0.03,0.03,1.1
-39,watch movies or TV,work on college group projects,0.04,0.03,3.3
-40,exercise,go to festivals like pride,0.05,0.03,4.4
-41,cook,go to the movies,0.01,0.04,1.1
-42,learn french,spend time with my partner,0.02,0.04,3.3
-43,exercise,go to the movies,0.03,0.04,1.1
-44,learn french,go to the movies,0.04,0.04,1.1
-45,exercise,spent time with my family,0.05,0.04,4.4
-46,play video games,go out to eat with family,0.01,0.05,8.8
-47,do bead art,go to the movies,0.02,0.05,1.1
-48,read,go out to eat with family,0.03,0.05,4.4
-49,go for a walk,go to the movies,0.04,0.05,3.3
-50,go for a walk,spend time with my partner,0.05,0.05,1.1
-51,browse the internet,create art and get live feedback from my partner,0.01,0.01,1.1
-52,browse the internet,work on college group projects,0.02,0.01,3.3
-53,browse the internet,spend time with my partner,0.03,0.01,1.1
-54,learn french,create art and get live feedback from my partner,0.04,0.01,4.4
-55,exercise,go out to eat with family,0.05,0.01,1.1
-56,listen to music,spend time with my partner,0.01,0.02,8.8
-57,listen to music,play video games online with my partner and friends,0.02,0.02,4.4
-58,do bead art,play video games online with my partner and friends,0.03,0.02,4.4
-59,watch movies or TV,go out to eat with family,0.04,0.02,4.4
-60,watch movies or TV,create art and get live feedback from my partner,0.05,0.02,1.1
-61,watch movies or TV,go to festivals like pride,0.01,0.03,3.3
-62,learn french,go visit my extended family,0.02,0.03,3.3
-63,cook,work on college group projects,0.03,0.03,3.3
-64,go for a walk,spent time with my family,0.04,0.03,1.1
-65,listen to music,go to festivals like pride,0.05,0.03,1.1
-66,do bead art,go visit my extended family,0.01,0.04,1.1
-67,read,go to the movies,0.02,0.04,8.8
-68,listen to music,go visit my extended family,0.03,0.04,4.4
-69,go for a walk,create art and get live feedback from my partner,0.04,0.04,1.1
-70,do bead art,spend time with my partner,0.05,0.04,1.1
-71,listen to music,talk with my friends online,0.01,0.05,3.3
-72,learn french,play video games online with my partner and friends,0.02,0.05,8.8
-73,cook,spent time with my family,0.03,0.05,3.3
-74,do bead art,go to festivals like pride,0.04,0.05,4.4
-75,watch movies or TV,spend time with my partner,0.05,0.05,3.3
-76,cook,play video games online with my partner and friends,0.01,0.01,1.1
-77,play video games,spent time with my family,0.02,0.01,8.8
-78,cook,go to festivals like pride,0.03,0.01,1.1
-79,exercise,create art and get live feedback from my partner,0.04,0.01,1.1
-80,do bead art,talk with my friends online,0.05,0.01,4.4
-81,play video games,create art and get live feedback from my partner,0.01,0.02,3.3
-82,exercise,work on college group projects,0.02,0.02,4.4
-83,listen to music,spent time with my family,0.03,0.02,1.1
-84,browse the internet,play video games online with my partner and friends,0.04,0.02,3.3
-85,read,play video games online with my partner and friends,0.05,0.02,3.3
-86,learn french,go out to eat with family,0.01,0.03,1.1
-87,cook,spend time with my partner,0.02,0.03,4.4
-88,play video games,go visit my extended family,0.03,0.03,1.1
-89,browse the internet,go visit my extended family,0.04,0.03,3.3
-90,watch movies or TV,talk with my friends online,0.05,0.03,8.8
-91,go for a walk,talk with my friends online,0.01,0.04,3.3
-92,go for a walk,work on college group projects,0.02,0.04,8.8
-93,do bead art,go out to eat with family,0.03,0.04,1.1
-94,read,go to festivals like pride,0.04,0.04,4.4
-95,play video games,go to festivals like pride,0.05,0.04,4.4
-96,go for a walk,play video games online with my partner and friends,0.01,0.05,3.3
-97,exercise,talk with my friends online,0.02,0.05,1.1
-98,do bead art,spent time with my family,0.03,0.05,1.1
-99,watch movies or TV,spent time with my family,0.04,0.05,3.3
-100,go for a walk,go out to eat with family,0.05,0.05,4.4
+1,I like playing my nintendo switch a lot,I love to spend alone time listening to music in my room ,0.01,0.01,4.4
+2,"I like to watch youtube a lot, different lets players",I like to do bead art in my spare time as well alone,0.02,0.01,8.8
+3,I like painting oil paintings sometimes,I like watching things on hyperbeam with my friends online too,0.03,0.01,3.3
+4,"I like to watch youtube a lot, different lets players",I love to spend alone time listening to music in my room ,0.04,0.01,1.1
+5,I love spending time with my boyfriend a lot he's long distance,I like to go on yearly or more vacations by myself traveling,0.05,0.01,1.1
+6,I like painting oil paintings sometimes,I like to do bead art in my spare time as well alone,0.01,0.02,3.3
+7,I like hanging out with my dad watching TV,I like to paint or draw by myself a lot,0.02,0.02,1.1
+8,Also love doing college art work too,I like watching horror movies with my dad,0.03,0.02,1.1
+9,I like hanging out with my dad watching TV,I love singing in my room alone sometimes by myself,0.04,0.02,4.4
+10,I like playing my nintendo switch a lot,I love singing in my room alone sometimes by myself,0.05,0.02,1.1
+11,I like to go out on walks as well sometimes during any time of the year,I like exercising alone or with my partner walking,0.01,0.03,3.3
+12,I love spending time with my boyfriend a lot he's long distance,I like watching things on hyperbeam with my friends online too,0.02,0.03,4.4
+13,I like different mobile games like family island,I like to go on yearly or more vacations by myself traveling,0.03,0.03,1.1
+14,I like painting oil paintings sometimes,I like to paint or draw by myself a lot,0.04,0.03,3.3
+15,I like to go out on walks as well sometimes during any time of the year,I like watching horror movies with my dad,0.05,0.03,4.4
+16,I like painting oil paintings sometimes,I love watching things on my laptop with my long distance boyfriend,0.01,0.04,1.1
+17,"I like to watch youtube a lot, different lets players",I like to paint or draw by myself a lot,0.02,0.04,8.8
+18,I love drawing on my iPad in my room alone listening to music,I love to go walking by myself or with my partner,0.03,0.04,3.3
+19,"I like pushups, jumproping as well sometimes during the week",I like to do bead art in my spare time as well alone,0.04,0.04,3.3
+20,Also love doing college art work too,I like exercising alone or with my partner walking,0.05,0.04,1.1
+21,"I like pushups, jumproping as well sometimes during the week",I like watching things on hyperbeam with my friends online too,0.01,0.05,8.8
+22,I love spending time with my boyfriend a lot he's long distance,I like to do bead art in my spare time as well alone,0.02,0.05,4.4
+23,Also love doing college art work too,I like to paint or draw by myself a lot,0.03,0.05,1.1
+24,I love spending time with my boyfriend a lot he's long distance,I like to paint or draw by myself a lot,0.04,0.05,4.4
+25,I like painting oil paintings sometimes,I love to spend alone time listening to music in my room ,0.05,0.05,3.3
+26,I like playing my nintendo switch a lot,I like watching horror movies with my dad,0.01,0.01,4.4
+27,I like different mobile games like family island,I love watching things on my laptop with my long distance boyfriend,0.02,0.01,3.3
+28,I like different mobile games like family island,I like to paint or draw by myself a lot,0.03,0.01,3.3
+29,I like different mobile games like family island,I like watching things on hyperbeam with my friends online too,0.04,0.01,4.4
+30,I like playing my nintendo switch a lot,I like to go on yearly or more vacations by myself traveling,0.05,0.01,8.8
+31,I like painting oil paintings sometimes,I love singing in my room alone sometimes by myself,0.01,0.02,8.8
+32,I love drawing on my iPad in my room alone listening to music,I love singing in my room alone sometimes by myself,0.02,0.02,1.1
+33,I like hanging out with my dad watching TV,I like to do bead art in my spare time as well alone,0.03,0.02,4.4
+34,Also love doing college art work too,I love singing in my room alone sometimes by myself,0.04,0.02,3.3
+35,Also love doing college art work too,I like to do bead art in my spare time as well alone,0.05,0.02,1.1
+36,I like to go out on walks as well sometimes during any time of the year,I like watching things on hyperbeam with my friends online too,0.01,0.03,3.3
+37,I like playing my nintendo switch a lot,I like watching things on hyperbeam with my friends online too,0.02,0.03,1.1
+38,I like playing my nintendo switch a lot,I love watching things on my laptop with my long distance boyfriend,0.03,0.03,1.1
+39,I like to go out on walks as well sometimes during any time of the year,I like to paint or draw by myself a lot,0.04,0.03,3.3
+40,I like playing my nintendo switch a lot,I like to do bead art in my spare time as well alone,0.05,0.03,4.4
+41,"I like pushups, jumproping as well sometimes during the week",I like to go on yearly or more vacations by myself traveling,0.01,0.04,1.1
+42,"I like to watch youtube a lot, different lets players",I love watching things on my laptop with my long distance boyfriend,0.02,0.04,3.3
+43,"I like pushups, jumproping as well sometimes during the week",I love to go walking by myself or with my partner,0.03,0.04,1.1
+44,"I like to watch youtube a lot, different lets players",I like watching horror movies with my dad,0.04,0.04,1.1
+45,Also love doing college art work too,I like watching things on hyperbeam with my friends online too,0.05,0.04,4.4
+46,I love spending time with my boyfriend a lot he's long distance,I like watching horror movies with my dad,0.01,0.05,8.8
+47,I love spending time with my boyfriend a lot he's long distance,I love watching things on my laptop with my long distance boyfriend,0.02,0.05,1.1
+48,I like hanging out with my dad watching TV,I like watching horror movies with my dad,0.03,0.05,4.4
+49,I like hanging out with my dad watching TV,I love to go walking by myself or with my partner,0.04,0.05,3.3
+50,"I like pushups, jumproping as well sometimes during the week",I like to paint or draw by myself a lot,0.05,0.05,1.1
+51,I like different mobile games like family island,I love to go walking by myself or with my partner,0.01,0.01,1.1
+52,"I like to watch youtube a lot, different lets players",I like exercising alone or with my partner walking,0.02,0.01,3.3
+53,I love spending time with my boyfriend a lot he's long distance,I love to go walking by myself or with my partner,0.03,0.01,1.1
+54,I love drawing on my iPad in my room alone listening to music,I like to paint or draw by myself a lot,0.04,0.01,4.4
+55,I like painting oil paintings sometimes,I like watching horror movies with my dad,0.05,0.01,1.1
+56,Also love doing college art work too,I like to go on yearly or more vacations by myself traveling,0.01,0.02,8.8
+57,I like to go out on walks as well sometimes during any time of the year,I like to do bead art in my spare time as well alone,0.02,0.02,4.4
+58,I like to go out on walks as well sometimes during any time of the year,I love watching things on my laptop with my long distance boyfriend,0.03,0.02,4.4
+59,I like hanging out with my dad watching TV,I like to go on yearly or more vacations by myself traveling,0.04,0.02,4.4
+60,"I like pushups, jumproping as well sometimes during the week",I love watching things on my laptop with my long distance boyfriend,0.05,0.02,1.1
+61,I like to go out on walks as well sometimes during any time of the year,I love to spend alone time listening to music in my room ,0.01,0.03,3.3
+62,I love drawing on my iPad in my room alone listening to music,I like to do bead art in my spare time as well alone,0.02,0.03,3.3
+63,"I like pushups, jumproping as well sometimes during the week",I love singing in my room alone sometimes by myself,0.03,0.03,3.3
+64,"I like pushups, jumproping as well sometimes during the week",I like watching horror movies with my dad,0.04,0.03,1.1
+65,I like painting oil paintings sometimes,I like to go on yearly or more vacations by myself traveling,0.05,0.03,1.1
+66,I love drawing on my iPad in my room alone listening to music,I like watching horror movies with my dad,0.01,0.04,1.1
+67,I like hanging out with my dad watching TV,I love watching things on my laptop with my long distance boyfriend,0.02,0.04,8.8
+68,"I like to watch youtube a lot, different lets players",I like to go on yearly or more vacations by myself traveling,0.03,0.04,4.4
+69,I like painting oil paintings sometimes,I love to go walking by myself or with my partner,0.04,0.04,1.1
+70,I love drawing on my iPad in my room alone listening to music,I love to spend alone time listening to music in my room ,0.05,0.04,1.1
+71,I like to go out on walks as well sometimes during any time of the year,I like to go on yearly or more vacations by myself traveling,0.01,0.05,3.3
+72,"I like to watch youtube a lot, different lets players",I like watching things on hyperbeam with my friends online too,0.02,0.05,8.8
+73,I like different mobile games like family island,I like exercising alone or with my partner walking,0.03,0.05,3.3
+74,I like to go out on walks as well sometimes during any time of the year,I love singing in my room alone sometimes by myself,0.04,0.05,4.4
+75,I love drawing on my iPad in my room alone listening to music,I like to go on yearly or more vacations by myself traveling,0.05,0.05,3.3
+76,I love spending time with my boyfriend a lot he's long distance,I love singing in my room alone sometimes by myself,0.01,0.01,1.1
+77,I like different mobile games like family island,I like watching horror movies with my dad,0.02,0.01,8.8
+78,I like playing my nintendo switch a lot,I like to paint or draw by myself a lot,0.03,0.01,1.1
+79,I like to go out on walks as well sometimes during any time of the year,I love to go walking by myself or with my partner,0.04,0.01,1.1
+80,I like hanging out with my dad watching TV,I like exercising alone or with my partner walking,0.05,0.01,4.4
+81,I like different mobile games like family island,I love singing in my room alone sometimes by myself,0.01,0.02,3.3
+82,I love spending time with my boyfriend a lot he's long distance,I like exercising alone or with my partner walking,0.02,0.02,4.4
+83,I like painting oil paintings sometimes,I like exercising alone or with my partner walking,0.03,0.02,1.1
+84,"I like pushups, jumproping as well sometimes during the week",I like exercising alone or with my partner walking,0.04,0.02,3.3
+85,I love drawing on my iPad in my room alone listening to music,I like watching things on hyperbeam with my friends online too,0.05,0.02,3.3
+86,I like hanging out with my dad watching TV,I like watching things on hyperbeam with my friends online too,0.01,0.03,1.1
+87,I love spending time with my boyfriend a lot he's long distance,I love to spend alone time listening to music in my room ,0.02,0.03,4.4
+88,"I like to watch youtube a lot, different lets players",I love singing in my room alone sometimes by myself,0.03,0.03,1.1
+89,Also love doing college art work too,I love to spend alone time listening to music in my room ,0.04,0.03,3.3
+90,I like different mobile games like family island,I like to do bead art in my spare time as well alone,0.05,0.03,8.8
+91,I love drawing on my iPad in my room alone listening to music,I like exercising alone or with my partner walking,0.01,0.04,3.3
+92,I like playing my nintendo switch a lot,I love to go walking by myself or with my partner,0.02,0.04,8.8
+93,I like playing my nintendo switch a lot,I like exercising alone or with my partner walking,0.03,0.04,1.1
+94,"I like to watch youtube a lot, different lets players",I love to go walking by myself or with my partner,0.04,0.04,4.4
+95,I like different mobile games like family island,I love to spend alone time listening to music in my room ,0.05,0.04,4.4
+96,Also love doing college art work too,I love to go walking by myself or with my partner,0.01,0.05,3.3
+97,Also love doing college art work too,I love watching things on my laptop with my long distance boyfriend,0.02,0.05,1.1
+98,I love drawing on my iPad in my room alone listening to music,I love watching things on my laptop with my long distance boyfriend,0.03,0.05,1.1
+99,"I like pushups, jumproping as well sometimes during the week",I love to spend alone time listening to music in my room ,0.04,0.05,3.3
+100,I like hanging out with my dad watching TV,I love to spend alone time listening to music in my room ,0.05,0.05,4.4
