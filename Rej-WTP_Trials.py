@@ -13,8 +13,9 @@ from itertools import product
 completedparticipantlist = pd.read_excel('participantlist.xlsx')
 completedparticipantlist = completedparticipantlist.loc[
     completedparticipantlist['PhotosUploaded? (y/n)'] == 'n']
-
-exp = pd.read_csv('WTP-Rej_Experiences_07032024.csv', encoding='latin1')
+completedparticipantlist = completedparticipantlist['PROLIFIC_ID'].reset_index()
+completedparticipantlist= completedparticipantlist.drop(['index'], axis=1)
+exp = pd.read_csv('WTP-Rej_Experiences.csv')
 
 clean = exp.filter(regex='ocial_A')
 clean.insert(0, 'PROLIFIC_PID', exp['PROLIFIC_PID'])
@@ -30,7 +31,7 @@ path = os.getcwd()
 template = pd.read_excel('WTP_trials_template.xlsx')
 
 sub_folders= path + '/Participant_Images/'
-for sub in os.listdir(sub_folders):
+for sub in completedparticipantlist['PROLIFIC_ID']:
     if not sub.endswith('.DS_Store'): 
         if not sub.startswith('101'): #we do not want DS store or blank file
             sub_exp = clean.loc[
@@ -65,19 +66,19 @@ for sub in os.listdir(sub_folders):
             
             all_exp['social'] = social['social']
     
-            # social.to_csv('%s/%s_social.csv' %(subdir, sub), index= False)
-            # social=social.loc[social.index.repeat(10)]
-            # social.insert(0, 'trial', range(1,len(social)+1))
-            # social.insert(1, 'exp_type', social.rename('S_{}'.format).index)
-            # social['social_left'] = np.where(social.trial % 2, 1, 0)
-            # social.columns.values[0] = "experience"
+            #dataframe to split up the experiences on different sides
+    
             
-            # all_exp = pd.concat([nonsocial, social]).sort_index(kind='merge').reset_index()
-            # del all_exp[all_exp.columns[0]]
-            
-            # all_exp.to_csv('%s/%s_all_exp.csv' %(subdir,sub), index= False)
-            wtp = pd.DataFrame(list(product(all_exp['nonsocial'], all_exp['social'])), columns=['right', 'left'])
-            wtp = wtp.sample(frac = 1).reset_index(drop=True)
+            preshuffle = pd.DataFrame(list(product(all_exp['nonsocial'], all_exp['social'])), columns=['right', 'left'])
+         
+            preshuffle =  preshuffle.sample(frac = 1).reset_index(drop=True)
+            preshuffle['social_left'] = 1
+            wtp = pd.DataFrame(preshuffle[0:50], index= range(0,100))
+            wtp['right'][50:100]= preshuffle['left'][50:100]
+            wtp['left'][50:100]= preshuffle['right'][50:100]
+            wtp['social_left'][50:100] = 0
+            wtp =  wtp.sample(frac = 1).reset_index(drop=True)
+
             wtp.insert(0,'TrialNumber',range(1,101))
             wtp.insert(3, 'leftmoney', template['LeftPrice'])
             wtp.insert(4, 'rightmoney', template['RightPrice'])
