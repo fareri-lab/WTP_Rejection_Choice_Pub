@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Go on hikes with friends in the morning,Play on my switch on a rainy day ,0.01,0.01,4.4,0.0
+2,Go to concerts with friends ,Go running soon after I wake up in cool weather ,0.02,0.01,8.8,0.0
+3,Listen to music while I work on art,Go on hikes with friends in the morning,0.03,0.01,3.3,1.0
+4,Visit museums and observing art,Listen to music while I work on art,0.04,0.01,1.1,0.0
+5,Go running soon after I wake up in cool weather ,Visit museums and observing art,0.05,0.01,1.1,1.0
+6,Do karaoke with friends on a late night ,Go running soon after I wake up in cool weather ,0.01,0.02,3.3,0.0
+7,Bake chocolate chip cookies on a weekend,Go out at night to eat with friends ,0.02,0.02,1.1,1.0
+8,Play board games with my family ,Bake chocolate chip cookies on a weekend,0.03,0.02,1.1,0.0
+9,Visi new cafes with friends,Go on my phone before I go to bed,0.04,0.02,4.4,0.0
+10,Watch movies in my bed at night from my laptop,Go to concerts with friends ,0.05,0.02,1.1,1.0
+11,Work on my drawings and paintings in my art room with my window open on any day,Help my aunt out with her garden,0.01,0.03,3.3,1.0
+12,Visi new cafes with friends,Watch movies in my bed at night from my laptop,0.02,0.03,4.4,0.0
+13,Play board games with my family ,Play on my switch on a rainy day ,0.03,0.03,1.1,0.0
+14,Play video games with friends,Watch movies in my bed at night from my laptop,0.04,0.03,3.3,0.0
+15,Go for boba with friends,Bake chocolate chip cookies on a weekend,0.05,0.03,4.4,0.0
+16,Play video games with friends,Bake chocolate chip cookies on a weekend,0.01,0.04,1.1,0.0
+17,Help my aunt out with her garden,Watch movies in my bed at night from my laptop,0.02,0.04,8.8,0.0
+18,Watch movies in my bed at night from my laptop,Go for boba with friends,0.03,0.04,3.3,1.0
+19,Visi new cafes with friends,Eat a warm meal at dinner ,0.04,0.04,3.3,0.0
+20,Go for boba with friends,Work on my drawings and paintings in my art room with my window open on any day,0.05,0.04,1.1,0.0
+21,Eat a warm meal at dinner ,Help my aunt out with her garden,0.01,0.05,8.8,1.0
+22,Play board games with my family ,Eat a warm meal at dinner ,0.02,0.05,4.4,0.0
+23,Play on my switch on a rainy day ,Visit museums and observing art,0.03,0.05,1.1,1.0
+24,Listen to music while I work on art,Do karaoke with friends on a late night ,0.04,0.05,4.4,1.0
+25,Go out at night to eat with friends ,Write in my journal after a good long day ,0.05,0.05,3.3,0.0
+26,Bake chocolate chip cookies on a weekend,Help my aunt out with her garden,0.01,0.01,4.4,1.0
+27,Play on my switch on a rainy day ,Play video games with friends,0.02,0.01,3.3,1.0
+28,Do karaoke with friends on a late night ,Go on my phone before I go to bed,0.03,0.01,3.3,0.0
+29,Listen to music while I work on art,Play board games with my family ,0.04,0.01,4.4,1.0
+30,Organize my wardrobe at midnight looking for outfits,Visit museums and observing art,0.05,0.01,8.8,1.0
+31,Listen to music while I work on art,Play video games with friends,0.01,0.02,8.8,1.0
+32,Eat a warm meal at dinner ,Go to concerts with friends ,0.02,0.02,1.1,1.0
+33,Do karaoke with friends on a late night ,Play on my switch on a rainy day ,0.03,0.02,4.4,0.0
+34,Go out at night to eat with friends ,Go running soon after I wake up in cool weather ,0.04,0.02,3.3,0.0
+35,Go on my phone before I go to bed,Help my aunt out with her garden,0.05,0.02,1.1,1.0
+36,Bake chocolate chip cookies on a weekend,Go on hikes with friends in the morning,0.01,0.03,3.3,1.0
+37,Go running soon after I wake up in cool weather ,Go on hikes with friends in the morning,0.02,0.03,1.1,1.0
+38,Do karaoke with friends on a late night ,Watch movies in my bed at night from my laptop,0.03,0.03,1.1,0.0
+39,Help my aunt out with her garden,Write in my journal after a good long day ,0.04,0.03,3.3,0.0
+40,Play board games with my family ,Go on my phone before I go to bed,0.05,0.03,4.4,0.0
+41,Do karaoke with friends on a late night ,Eat a warm meal at dinner ,0.01,0.04,1.1,0.0
+42,Go out at night to eat with friends ,Watch movies in my bed at night from my laptop,0.02,0.04,3.3,0.0
+43,Play video games with friends,Go on my phone before I go to bed,0.03,0.04,1.1,0.0
+44,Visi new cafes with friends,Go running soon after I wake up in cool weather ,0.04,0.04,1.1,0.0
+45,Organize my wardrobe at midnight looking for outfits,Help my aunt out with her garden,0.05,0.04,4.4,1.0
+46,Go on my phone before I go to bed,Visit museums and observing art,0.01,0.05,8.8,1.0
+47,Go on my phone before I go to bed,Go for boba with friends,0.02,0.05,1.1,1.0
+48,Eat a warm meal at dinner ,Go on hikes with friends in the morning,0.03,0.05,4.4,1.0
+49,Go out at night to eat with friends ,Eat a warm meal at dinner ,0.04,0.05,3.3,0.0
+50,Go out at night to eat with friends ,Listen to music while I work on art,0.05,0.05,1.1,0.0
+51,Play on my switch on a rainy day ,Go for boba with friends,0.01,0.01,1.1,1.0
+52,Play board games with my family ,Organize my wardrobe at midnight looking for outfits,0.02,0.01,3.3,0.0
+53,Visi new cafes with friends,Write in my journal after a good long day ,0.03,0.01,1.1,0.0
+54,Listen to music while I work on art,Help my aunt out with her garden,0.04,0.01,4.4,1.0
+55,Bake chocolate chip cookies on a weekend,Visi new cafes with friends,0.05,0.01,1.1,1.0
+56,Eat a warm meal at dinner ,Go for boba with friends,0.01,0.02,8.8,1.0
+57,Go running soon after I wake up in cool weather ,Go for boba with friends,0.02,0.02,4.4,1.0
+58,Go to concerts with friends ,Bake chocolate chip cookies on a weekend,0.03,0.02,4.4,0.0
+59,Bake chocolate chip cookies on a weekend,Visit museums and observing art,0.04,0.02,4.4,1.0
+60,Play on my switch on a rainy day ,Visi new cafes with friends,0.05,0.02,1.1,1.0
+61,Write in my journal after a good long day ,Do karaoke with friends on a late night ,0.01,0.03,3.3,1.0
+62,Do karaoke with friends on a late night ,Bake chocolate chip cookies on a weekend,0.02,0.03,3.3,0.0
+63,Help my aunt out with her garden,Play on my switch on a rainy day ,0.03,0.03,3.3,0.0
+64,Go out at night to eat with friends ,Go on my phone before I go to bed,0.04,0.03,1.1,0.0
+65,Watch movies in my bed at night from my laptop,Go on hikes with friends in the morning,0.05,0.03,1.1,1.0
+66,Work on my drawings and paintings in my art room with my window open on any day,Play video games with friends,0.01,0.04,1.1,1.0
+67,Play board games with my family ,Work on my drawings and paintings in my art room with my window open on any day,0.02,0.04,8.8,0.0
+68,Help my aunt out with her garden,Go running soon after I wake up in cool weather ,0.03,0.04,4.4,0.0
+69,Do karaoke with friends on a late night ,Work on my drawings and paintings in my art room with my window open on any day,0.04,0.04,1.1,0.0
+70,Go for boba with friends,Organize my wardrobe at midnight looking for outfits,0.05,0.04,1.1,0.0
+71,Go on hikes with friends in the morning,Go on my phone before I go to bed,0.01,0.05,3.3,0.0
+72,Work on my drawings and paintings in my art room with my window open on any day,Go on hikes with friends in the morning,0.02,0.05,8.8,1.0
+73,Organize my wardrobe at midnight looking for outfits,Play video games with friends,0.03,0.05,3.3,1.0
+74,Play board games with my family ,Go running soon after I wake up in cool weather ,0.04,0.05,4.4,0.0
+75,Listen to music while I work on art,Go for boba with friends,0.05,0.05,3.3,1.0
+76,Visit museums and observing art,Eat a warm meal at dinner ,0.01,0.01,1.1,0.0
+77,Watch movies in my bed at night from my laptop,Play board games with my family ,0.02,0.01,8.8,1.0
+78,Watch movies in my bed at night from my laptop,Visit museums and observing art,0.03,0.01,1.1,1.0
+79,Visi new cafes with friends,Organize my wardrobe at midnight looking for outfits,0.04,0.01,1.1,0.0
+80,Go to concerts with friends ,Write in my journal after a good long day ,0.05,0.01,4.4,0.0
+81,Organize my wardrobe at midnight looking for outfits,Go out at night to eat with friends ,0.01,0.02,3.3,1.0
+82,Work on my drawings and paintings in my art room with my window open on any day,Visi new cafes with friends,0.02,0.02,4.4,1.0
+83,Go on my phone before I go to bed,Go to concerts with friends ,0.03,0.02,1.1,1.0
+84,Go to concerts with friends ,Play on my switch on a rainy day ,0.04,0.02,3.3,0.0
+85,Listen to music while I work on art,Go to concerts with friends ,0.05,0.02,3.3,1.0
+86,Listen to music while I work on art,Visi new cafes with friends,0.01,0.03,1.1,1.0
+87,Do karaoke with friends on a late night ,Organize my wardrobe at midnight looking for outfits,0.02,0.03,4.4,0.0
+88,Write in my journal after a good long day ,Go for boba with friends,0.03,0.03,1.1,1.0
+89,Go to concerts with friends ,Work on my drawings and paintings in my art room with my window open on any day,0.04,0.03,3.3,0.0
+90,Eat a warm meal at dinner ,Play video games with friends,0.05,0.03,8.8,1.0
+91,Work on my drawings and paintings in my art room with my window open on any day,Visit museums and observing art,0.01,0.04,3.3,1.0
+92,Write in my journal after a good long day ,Play video games with friends,0.02,0.04,8.8,1.0
+93,Organize my wardrobe at midnight looking for outfits,Go to concerts with friends ,0.03,0.04,1.1,1.0
+94,Visit museums and observing art,Write in my journal after a good long day ,0.04,0.04,4.4,0.0
+95,Go out at night to eat with friends ,Work on my drawings and paintings in my art room with my window open on any day,0.05,0.04,4.4,0.0
+96,Write in my journal after a good long day ,Play board games with my family ,0.01,0.05,3.3,1.0
+97,Go out at night to eat with friends ,Play on my switch on a rainy day ,0.02,0.05,1.1,0.0
+98,Go on hikes with friends in the morning,Organize my wardrobe at midnight looking for outfits,0.03,0.05,1.1,0.0
+99,Go running soon after I wake up in cool weather ,Play video games with friends,0.04,0.05,3.3,1.0
+100,Write in my journal after a good long day ,Go on hikes with friends in the morning,0.05,0.05,4.4,1.0

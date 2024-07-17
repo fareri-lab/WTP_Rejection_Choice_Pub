@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,swim in the public pool, go to the cafeteria with my roomate,0.01,0.01,4.4,1.0
+2,bake brownies, talk on the phone with my mother,0.02,0.01,8.8,1.0
+3, try new bakeries ,shop with my best friend,0.03,0.01,3.3,1.0
+4, practice backflips at my job, go on trails with the hiking club,0.04,0.01,1.1,1.0
+5,go to the movies with my boyfriend, bike through my neighbor hood,0.05,0.01,1.1,0.0
+6, go to the cafeteria with my roomate, go to the farmers market by the lake,0.01,0.02,3.3,0.0
+7, try new bakeries , listen to music with my friends ,0.02,0.02,1.1,1.0
+8,shop with my best friend,bake brownies,0.03,0.02,1.1,0.0
+9, try new bakeries , go on trails with the hiking club,0.04,0.02,4.4,1.0
+10, bike through my neighbor hood, listen to music with my friends ,0.05,0.02,1.1,1.0
+11, listen to music with my friends ,play fetch with my dog leon,0.01,0.03,3.3,0.0
+12, go to the thrift store , talk on the phone with my mother,0.02,0.03,4.4,1.0
+13,cook at my boyfriends house, bike through my neighbor hood,0.03,0.03,1.1,0.0
+14,play fetch with my dog leon,go to the movies with my boyfriend,0.04,0.03,3.3,1.0
+15,go to the movies with my boyfriend, go to the farmers market by the lake,0.05,0.03,4.4,0.0
+16, talk on the phone with my mother,play fetch with my dog leon,0.01,0.04,1.1,0.0
+17,take surveys online, listen to music with my friends ,0.02,0.04,8.8,1.0
+18, go to the thrift store ,visit the pet store with my friends,0.03,0.04,3.3,1.0
+19,take surveys online, go to the cafeteria with my roomate,0.04,0.04,3.3,1.0
+20, meet up with other nursing students to study, bike through my neighbor hood,0.05,0.04,1.1,0.0
+21,shop with my best friend, go to the farmers market by the lake,0.01,0.05,8.8,0.0
+22,visit the pet store with my friends,play fetch with my dog leon,0.02,0.05,4.4,0.0
+23,go to the movies with my boyfriend,swim in the public pool,0.03,0.05,1.1,0.0
+24,shop with my best friend,take surveys online,0.04,0.05,4.4,0.0
+25,take a walk in the park, talk on the phone with my mother,0.05,0.05,3.3,1.0
+26,go to the movies with my boyfriend,take a walk in the park,0.01,0.01,4.4,0.0
+27,cook at my boyfriends house, go to the farmers market by the lake,0.02,0.01,3.3,0.0
+28, go on trails with the hiking club,take surveys online,0.03,0.01,3.3,0.0
+29, practice backflips at my job, listen to music with my friends ,0.04,0.01,4.4,1.0
+30,cook at my boyfriends house, practice backflips at my job,0.05,0.01,8.8,0.0
+31, try new bakeries , meet up with other nursing students to study,0.01,0.02,8.8,1.0
+32,go to the movies with my boyfriend, practice backflips at my job,0.02,0.02,1.1,0.0
+33, try new bakeries , talk on the phone with my mother,0.03,0.02,4.4,1.0
+34, meet up with other nursing students to study,take surveys online,0.04,0.02,3.3,0.0
+35,cook at my boyfriends house, try new bakeries ,0.05,0.02,1.1,0.0
+36, bike through my neighbor hood, talk on the phone with my mother,0.01,0.03,3.3,1.0
+37, go to the farmers market by the lake, talk on the phone with my mother,0.02,0.03,1.1,1.0
+38,swim in the public pool, listen to music with my friends ,0.03,0.03,1.1,1.0
+39,visit the pet store with my friends,take a walk in the park,0.04,0.03,3.3,0.0
+40,play fetch with my dog leon, go to the cafeteria with my roomate,0.05,0.03,4.4,1.0
+41, go to the thrift store ,go to the movies with my boyfriend,0.01,0.04,1.1,1.0
+42, meet my cousins for coffee,bake brownies,0.02,0.04,3.3,0.0
+43,bake brownies,go to the movies with my boyfriend,0.03,0.04,1.1,1.0
+44, bike through my neighbor hood, go to the cafeteria with my roomate,0.04,0.04,1.1,1.0
+45,visit the pet store with my friends, try new bakeries ,0.05,0.04,4.4,0.0
+46,cook at my boyfriends house,take a walk in the park,0.01,0.05,8.8,0.0
+47, meet my cousins for coffee, go to the farmers market by the lake,0.02,0.05,1.1,0.0
+48,cook at my boyfriends house,play fetch with my dog leon,0.03,0.05,4.4,0.0
+49, go to the thrift store ,shop with my best friend,0.04,0.05,3.3,1.0
+50, meet my cousins for coffee, practice backflips at my job,0.05,0.05,1.1,0.0
+51,take a walk in the park,shop with my best friend,0.01,0.01,1.1,1.0
+52,take surveys online,go to the movies with my boyfriend,0.02,0.01,3.3,1.0
+53, go to the thrift store , meet up with other nursing students to study,0.03,0.01,1.1,1.0
+54, go to the thrift store ,cook at my boyfriends house,0.04,0.01,4.4,1.0
+55, meet my cousins for coffee,take a walk in the park,0.05,0.01,1.1,0.0
+56, practice backflips at my job, meet up with other nursing students to study,0.01,0.02,8.8,1.0
+57,take a walk in the park, listen to music with my friends ,0.02,0.02,4.4,1.0
+58, practice backflips at my job, go to the cafeteria with my roomate,0.03,0.02,4.4,1.0
+59,bake brownies, go on trails with the hiking club,0.04,0.02,4.4,1.0
+60, go on trails with the hiking club, go to the farmers market by the lake,0.05,0.02,1.1,0.0
+61, try new bakeries , go to the cafeteria with my roomate,0.01,0.03,3.3,1.0
+62, meet up with other nursing students to study,play fetch with my dog leon,0.02,0.03,3.3,0.0
+63,bake brownies, meet up with other nursing students to study,0.03,0.03,3.3,1.0
+64, meet my cousins for coffee, go to the thrift store ,0.04,0.03,1.1,0.0
+65,swim in the public pool, go on trails with the hiking club,0.05,0.03,1.1,1.0
+66, go on trails with the hiking club,take a walk in the park,0.01,0.04,1.1,0.0
+67,take surveys online, meet my cousins for coffee,0.02,0.04,8.8,1.0
+68, go to the farmers market by the lake, meet up with other nursing students to study,0.03,0.04,4.4,1.0
+69,visit the pet store with my friends, practice backflips at my job,0.04,0.04,1.1,0.0
+70,play fetch with my dog leon,shop with my best friend,0.05,0.04,1.1,1.0
+71,swim in the public pool,visit the pet store with my friends,0.01,0.05,3.3,1.0
+72, meet up with other nursing students to study,take a walk in the park,0.02,0.05,8.8,0.0
+73,shop with my best friend, practice backflips at my job,0.03,0.05,3.3,0.0
+74,play fetch with my dog leon, meet my cousins for coffee,0.04,0.05,4.4,1.0
+75,bake brownies,visit the pet store with my friends,0.05,0.05,3.3,1.0
+76, bike through my neighbor hood, go on trails with the hiking club,0.01,0.01,1.1,1.0
+77,take surveys online,cook at my boyfriends house,0.02,0.01,8.8,1.0
+78, go to the cafeteria with my roomate, go to the thrift store ,0.03,0.01,1.1,0.0
+79, meet my cousins for coffee,swim in the public pool,0.04,0.01,1.1,0.0
+80, meet my cousins for coffee, try new bakeries ,0.05,0.01,4.4,0.0
+81, talk on the phone with my mother,take surveys online,0.01,0.02,3.3,0.0
+82, bike through my neighbor hood,shop with my best friend,0.02,0.02,4.4,1.0
+83,take a walk in the park, go to the cafeteria with my roomate,0.03,0.02,1.1,1.0
+84, meet my cousins for coffee, bike through my neighbor hood,0.04,0.02,3.3,0.0
+85,swim in the public pool,cook at my boyfriends house,0.05,0.02,3.3,1.0
+86,cook at my boyfriends house,bake brownies,0.01,0.03,1.1,0.0
+87,visit the pet store with my friends,take surveys online,0.02,0.03,4.4,0.0
+88, go to the farmers market by the lake,visit the pet store with my friends,0.03,0.03,1.1,1.0
+89,swim in the public pool, talk on the phone with my mother,0.04,0.03,3.3,1.0
+90, go to the thrift store , listen to music with my friends ,0.05,0.03,8.8,1.0
+91,visit the pet store with my friends, bike through my neighbor hood,0.01,0.04,3.3,0.0
+92,shop with my best friend,swim in the public pool,0.02,0.04,8.8,0.0
+93, listen to music with my friends , go to the farmers market by the lake,0.03,0.04,1.1,0.0
+94,go to the movies with my boyfriend, try new bakeries ,0.04,0.04,4.4,0.0
+95, go to the thrift store , go on trails with the hiking club,0.05,0.04,4.4,1.0
+96, go to the cafeteria with my roomate,bake brownies,0.01,0.05,3.3,0.0
+97, listen to music with my friends ,bake brownies,0.02,0.05,1.1,0.0
+98, go on trails with the hiking club,play fetch with my dog leon,0.03,0.05,1.1,0.0
+99, meet up with other nursing students to study,swim in the public pool,0.04,0.05,3.3,0.0
+100, talk on the phone with my mother, practice backflips at my job,0.05,0.05,4.4,0.0
