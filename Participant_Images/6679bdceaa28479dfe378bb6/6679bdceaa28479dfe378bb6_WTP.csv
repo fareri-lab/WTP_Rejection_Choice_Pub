@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,go to home decor stores and judging the items ,swim in a pool with my friends,0.01,0.01,4.4,1.0
+2,drive around listening to music,swim in a pool with my friends,0.02,0.01,8.8,1.0
+3,watch real housewives with my friends ,drive around listening to music,0.03,0.01,3.3,0.0
+4,open up gifts with my friends,ride a bike around a lake,0.04,0.01,1.1,0.0
+5,go to stores and looking at pretty things,be on a boat with my friends,0.05,0.01,1.1,1.0
+6,swim in a pool with my friends,browse the web about greek mythology,0.01,0.02,3.3,0.0
+7,ride a bike around a lake,swim in a pool with my friends,0.02,0.02,1.1,1.0
+8,sit on a couch and catch up with my friends,design anything,0.03,0.02,1.1,0.0
+9,ride a bike around a lake,sit on a couch and catch up with my friends,0.04,0.02,4.4,1.0
+10,sit on a couch and catch up with my friends,watch true crime in my bedroom,0.05,0.02,1.1,0.0
+11,watch true crime in my bedroom,go to italy with my friends and buy bags,0.01,0.03,3.3,1.0
+12,watch real housewives with my friends ,go through a starbucks drive thru when there are no other cars around,0.02,0.03,4.4,0.0
+13,eat crepes with my friends,go to stores and looking at pretty things,0.03,0.03,1.1,0.0
+14,go to stores and looking at pretty things,dance with my friends on a dance floor,0.04,0.03,3.3,1.0
+15,go to home decor stores and judging the items ,go to italy with my friends and buy bags,0.05,0.03,4.4,1.0
+16,design anything,watch real housewives with my friends ,0.01,0.04,1.1,1.0
+17,watch true crime in my bedroom,eat chicken fingers by a pool with my friends,0.02,0.04,8.8,1.0
+18,watch true crime in my bedroom,watch real housewives with my friends ,0.03,0.04,3.3,1.0
+19,sit on a couch and catch up with my friends,drive around listening to music,0.04,0.04,3.3,0.0
+20,ride in a convertible by the ocean with my friends,drive around listening to music,0.05,0.04,1.1,0.0
+21,sit on a couch and catch up with my friends,go to home decor stores and judging the items ,0.01,0.05,8.8,0.0
+22,dance with my friends on a dance floor,browse the web about greek mythology,0.02,0.05,4.4,0.0
+23,watch true crime in my bedroom,swim in a pool with my friends,0.03,0.05,1.1,1.0
+24,browse the web about greek mythology,be on a boat with my friends,0.04,0.05,4.4,1.0
+25,swim in a pool with my friends,talk to myself about interesting things,0.05,0.05,3.3,0.0
+26,open up gifts with my friends,go to home decor stores and judging the items ,0.01,0.01,4.4,0.0
+27,sit on a couch and catch up with my friends,browse the web about greek mythology,0.02,0.01,3.3,0.0
+28,eat crepes with my friends,browse the web about greek mythology,0.03,0.01,3.3,0.0
+29,ride a bike around a lake,eat crepes with my friends,0.04,0.01,4.4,1.0
+30,talk to myself about interesting things,eat crepes with my friends,0.05,0.01,8.8,1.0
+31,go to italy with my friends and buy bags,ride a bike around a lake,0.01,0.02,8.8,0.0
+32,go to home decor stores and judging the items ,be on a boat with my friends,0.02,0.02,1.1,1.0
+33,talk to myself about interesting things,ride in a convertible by the ocean with my friends,0.03,0.02,4.4,1.0
+34,dance with my friends on a dance floor,swim in the warm clear ocean ,0.04,0.02,3.3,0.0
+35,ride in a convertible by the ocean with my friends,go to home decor stores and judging the items ,0.05,0.02,1.1,0.0
+36,ride a bike around a lake,eat chicken fingers by a pool with my friends,0.01,0.03,3.3,1.0
+37,dance with my friends on a dance floor,go through a starbucks drive thru when there are no other cars around,0.02,0.03,1.1,0.0
+38,go through a starbucks drive thru when there are no other cars around,eat crepes with my friends,0.03,0.03,1.1,1.0
+39,drive around listening to music,be on a boat with my friends,0.04,0.03,3.3,1.0
+40,go to home decor stores and judging the items ,eat chicken fingers by a pool with my friends,0.05,0.03,4.4,1.0
+41,design anything,go to italy with my friends and buy bags,0.01,0.04,1.1,1.0
+42,ride in a convertible by the ocean with my friends,swim in the warm clear ocean ,0.02,0.04,3.3,0.0
+43,open up gifts with my friends,go through a starbucks drive thru when there are no other cars around,0.03,0.04,1.1,0.0
+44,be on a boat with my friends,ride a bike around a lake,0.04,0.04,1.1,0.0
+45,open up gifts with my friends,swim in the warm clear ocean ,0.05,0.04,4.4,0.0
+46,swim in the warm clear ocean ,watch real housewives with my friends ,0.01,0.05,8.8,1.0
+47,design anything,dance with my friends on a dance floor,0.02,0.05,1.1,1.0
+48,browse the web about greek mythology,ride in a convertible by the ocean with my friends,0.03,0.05,4.4,1.0
+49,go to stores and looking at pretty things,ride in a convertible by the ocean with my friends,0.04,0.05,3.3,1.0
+50,design anything,swim in a pool with my friends,0.05,0.05,1.1,1.0
+51,go to italy with my friends and buy bags,swim in the warm clear ocean ,0.01,0.01,1.1,0.0
+52,eat chicken fingers by a pool with my friends,go to stores and looking at pretty things,0.02,0.01,3.3,0.0
+53,swim in a pool with my friends,go through a starbucks drive thru when there are no other cars around,0.03,0.01,1.1,0.0
+54,ride a bike around a lake,dance with my friends on a dance floor,0.04,0.01,4.4,1.0
+55,ride in a convertible by the ocean with my friends,watch true crime in my bedroom,0.05,0.01,1.1,0.0
+56,talk to myself about interesting things,go to italy with my friends and buy bags,0.01,0.02,8.8,1.0
+57,sit on a couch and catch up with my friends,swim in the warm clear ocean ,0.02,0.02,4.4,0.0
+58,be on a boat with my friends,watch true crime in my bedroom,0.03,0.02,4.4,0.0
+59,drive around listening to music,open up gifts with my friends,0.04,0.02,4.4,1.0
+60,eat chicken fingers by a pool with my friends,design anything,0.05,0.02,1.1,0.0
+61,watch real housewives with my friends ,go to home decor stores and judging the items ,0.01,0.03,3.3,0.0
+62,open up gifts with my friends,talk to myself about interesting things,0.02,0.03,3.3,0.0
+63,ride in a convertible by the ocean with my friends,ride a bike around a lake,0.03,0.03,3.3,0.0
+64,go to home decor stores and judging the items ,dance with my friends on a dance floor,0.04,0.03,1.1,1.0
+65,go to italy with my friends and buy bags,browse the web about greek mythology,0.05,0.03,1.1,0.0
+66,go through a starbucks drive thru when there are no other cars around,be on a boat with my friends,0.01,0.04,1.1,1.0
+67,design anything,eat crepes with my friends,0.02,0.04,8.8,1.0
+68,go through a starbucks drive thru when there are no other cars around,go to italy with my friends and buy bags,0.03,0.04,4.4,1.0
+69,go to stores and looking at pretty things,watch real housewives with my friends ,0.04,0.04,1.1,1.0
+70,eat crepes with my friends,drive around listening to music,0.05,0.04,1.1,0.0
+71,go to home decor stores and judging the items ,eat crepes with my friends,0.01,0.05,3.3,1.0
+72,eat chicken fingers by a pool with my friends,talk to myself about interesting things,0.02,0.05,8.8,0.0
+73,go through a starbucks drive thru when there are no other cars around,eat chicken fingers by a pool with my friends,0.03,0.05,3.3,1.0
+74,design anything,open up gifts with my friends,0.04,0.05,4.4,1.0
+75,design anything,ride in a convertible by the ocean with my friends,0.05,0.05,3.3,1.0
+76,eat chicken fingers by a pool with my friends,swim in the warm clear ocean ,0.01,0.01,1.1,0.0
+77,watch true crime in my bedroom,eat crepes with my friends,0.02,0.01,8.8,1.0
+78,sit on a couch and catch up with my friends,go to stores and looking at pretty things,0.03,0.01,1.1,0.0
+79,design anything,be on a boat with my friends,0.04,0.01,1.1,1.0
+80,go through a starbucks drive thru when there are no other cars around,ride in a convertible by the ocean with my friends,0.05,0.01,4.4,1.0
+81,eat crepes with my friends,swim in the warm clear ocean ,0.01,0.02,3.3,0.0
+82,go through a starbucks drive thru when there are no other cars around,sit on a couch and catch up with my friends,0.02,0.02,4.4,1.0
+83,watch true crime in my bedroom,dance with my friends on a dance floor,0.03,0.02,1.1,1.0
+84,talk to myself about interesting things,sit on a couch and catch up with my friends,0.04,0.02,3.3,1.0
+85,dance with my friends on a dance floor,talk to myself about interesting things,0.05,0.02,3.3,0.0
+86,eat chicken fingers by a pool with my friends,browse the web about greek mythology,0.01,0.03,1.1,0.0
+87,go to stores and looking at pretty things,swim in a pool with my friends,0.02,0.03,4.4,1.0
+88,be on a boat with my friends,swim in the warm clear ocean ,0.03,0.03,1.1,0.0
+89,go to stores and looking at pretty things,open up gifts with my friends,0.04,0.03,3.3,1.0
+90,dance with my friends on a dance floor,drive around listening to music,0.05,0.03,8.8,0.0
+91,be on a boat with my friends,talk to myself about interesting things,0.01,0.04,3.3,0.0
+92,swim in a pool with my friends,swim in the warm clear ocean ,0.02,0.04,8.8,0.0
+93,watch real housewives with my friends ,ride a bike around a lake,0.03,0.04,1.1,0.0
+94,talk to myself about interesting things,watch real housewives with my friends ,0.04,0.04,4.4,1.0
+95,open up gifts with my friends,browse the web about greek mythology,0.05,0.04,4.4,0.0
+96,drive around listening to music,go to italy with my friends and buy bags,0.01,0.05,3.3,1.0
+97,eat chicken fingers by a pool with my friends,drive around listening to music,0.02,0.05,1.1,0.0
+98,watch real housewives with my friends ,browse the web about greek mythology,0.03,0.05,1.1,0.0
+99,go to stores and looking at pretty things,go to italy with my friends and buy bags,0.04,0.05,3.3,1.0
+100,open up gifts with my friends,watch true crime in my bedroom,0.05,0.05,4.4,0.0

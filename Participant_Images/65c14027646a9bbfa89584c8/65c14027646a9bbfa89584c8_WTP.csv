@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,talking on the phone with my grandmother,take a nap,0.01,0.01,4.4,0.0
+2,sit outside,go to the movies with my significant other,0.02,0.01,8.8,1.0
+3,watch tiktok videos at home,go on vacation with my significant other,0.03,0.01,3.3,1.0
+4,go to parties with friends,watch tiktok videos at home,0.04,0.01,1.1,0.0
+5,go to parties with friends,read books at home,0.05,0.01,1.1,0.0
+6,take trips with friends,go to the park,0.01,0.02,3.3,0.0
+7,watch youtube at home,go to a bar with friends,0.02,0.02,1.1,1.0
+8,take trips with friends,read books at home,0.03,0.02,1.1,0.0
+9,take trips with friends,cook at home,0.04,0.02,4.4,0.0
+10,listen to a podcast,go to parties with friends,0.05,0.02,1.1,1.0
+11,go out to eat with my significant other,cook at home,0.01,0.03,3.3,0.0
+12,talk on the phone with my sister,go to the park,0.02,0.03,4.4,0.0
+13,read books at home,talking on the phone with my grandmother,0.03,0.03,1.1,1.0
+14,take a walk with my significant other,take a nap,0.04,0.03,3.3,0.0
+15,go to parties with friends,cook at home,0.05,0.03,4.4,0.0
+16,listen to music with my friend,read books at home,0.01,0.04,1.1,0.0
+17,take trips with friends,listen to a podcast,0.02,0.04,8.8,0.0
+18,go on vacation with my significant other,go to the park,0.03,0.04,3.3,0.0
+19,read books at home,talk on the phone with my sister,0.04,0.04,3.3,1.0
+20,go to the park,talking on the phone with my grandmother,0.05,0.04,1.1,1.0
+21,take a walk,listen to music with my friend,0.01,0.05,8.8,1.0
+22,cook at home,take a walk with my significant other,0.02,0.05,4.4,1.0
+23,meditate at home,go to the movies with my significant other,0.03,0.05,1.1,1.0
+24,listen to a podcast,talking on the phone with my grandmother,0.04,0.05,4.4,1.0
+25,take a walk with my significant other,read books at home,0.05,0.05,3.3,0.0
+26,take a nap,go on vacation with my significant other,0.01,0.01,4.4,1.0
+27,watch youtube at home,go out to eat with my significant other,0.02,0.01,3.3,1.0
+28,take a walk,go out to eat with my significant other,0.03,0.01,3.3,1.0
+29,listen to music with my friend,go to the park,0.04,0.01,4.4,0.0
+30,go to parties with friends,sit outside,0.05,0.01,8.8,0.0
+31,read books at home,go to a bar with friends,0.01,0.02,8.8,1.0
+32,listen to a podcast,take a walk with my significant other,0.02,0.02,1.1,1.0
+33,go to parties with friends,meditate at home,0.03,0.02,4.4,0.0
+34,talking on the phone with my grandmother,watch youtube at home,0.04,0.02,3.3,0.0
+35,talk on the phone with my sister,listen to a podcast,0.05,0.02,1.1,0.0
+36,listen to music with my friend,meditate at home,0.01,0.03,3.3,0.0
+37,go on vacation with my significant other,meditate at home,0.02,0.03,1.1,0.0
+38,go to the movies with my significant other,cook at home,0.03,0.03,1.1,0.0
+39,take a walk,take a walk with my significant other,0.04,0.03,3.3,1.0
+40,meditate at home,go out to eat with my significant other,0.05,0.03,4.4,1.0
+41,go to a bar with friends,meditate at home,0.01,0.04,1.1,0.0
+42,take a walk,talking on the phone with my grandmother,0.02,0.04,3.3,1.0
+43,go to the park,go to a bar with friends,0.03,0.04,1.1,1.0
+44,talk on the phone with my sister,watch tiktok videos at home,0.04,0.04,1.1,0.0
+45,watch tiktok videos at home,listen to music with my friend,0.05,0.04,4.4,1.0
+46,sit outside,take a walk with my significant other,0.01,0.05,8.8,1.0
+47,take a walk,go on vacation with my significant other,0.02,0.05,1.1,1.0
+48,go to a bar with friends,take a walk,0.03,0.05,4.4,0.0
+49,go to a bar with friends,cook at home,0.04,0.05,3.3,0.0
+50,go to the movies with my significant other,watch tiktok videos at home,0.05,0.05,1.1,0.0
+51,go to the park,go to the movies with my significant other,0.01,0.01,1.1,1.0
+52,talking on the phone with my grandmother,sit outside,0.02,0.01,3.3,0.0
+53,talking on the phone with my grandmother,cook at home,0.03,0.01,1.1,0.0
+54,go out to eat with my significant other,go to the park,0.04,0.01,4.4,0.0
+55,sit outside,listen to music with my friend,0.05,0.01,1.1,1.0
+56,take trips with friends,sit outside,0.01,0.02,8.8,0.0
+57,watch tiktok videos at home,go out to eat with my significant other,0.02,0.02,4.4,1.0
+58,go to a bar with friends,take a nap,0.03,0.02,4.4,0.0
+59,watch tiktok videos at home,talking on the phone with my grandmother,0.04,0.02,4.4,1.0
+60,talk on the phone with my sister,take a walk,0.05,0.02,1.1,0.0
+61,sit outside,talk on the phone with my sister,0.01,0.03,3.3,1.0
+62,go to the park,go to parties with friends,0.02,0.03,3.3,1.0
+63,go to parties with friends,watch youtube at home,0.03,0.03,3.3,0.0
+64,listen to music with my friend,take a nap,0.04,0.03,1.1,0.0
+65,take a walk with my significant other,watch youtube at home,0.05,0.03,1.1,0.0
+66,sit outside,go out to eat with my significant other,0.01,0.04,1.1,1.0
+67,listen to a podcast,listen to music with my friend,0.02,0.04,8.8,1.0
+68,take a walk with my significant other,watch tiktok videos at home,0.03,0.04,4.4,0.0
+69,talking on the phone with my grandmother,meditate at home,0.04,0.04,1.1,0.0
+70,go to parties with friends,take a walk,0.05,0.04,1.1,0.0
+71,cook at home,go on vacation with my significant other,0.01,0.05,3.3,1.0
+72,talk on the phone with my sister,watch youtube at home,0.02,0.05,8.8,0.0
+73,read books at home,go to the movies with my significant other,0.03,0.05,3.3,1.0
+74,listen to a podcast,go to a bar with friends,0.04,0.05,4.4,1.0
+75,watch youtube at home,go on vacation with my significant other,0.05,0.05,3.3,1.0
+76,take a nap,go to the movies with my significant other,0.01,0.01,1.1,1.0
+77,take a nap,take trips with friends,0.02,0.01,8.8,1.0
+78,listen to a podcast,go on vacation with my significant other,0.03,0.01,1.1,1.0
+79,go to the park,take a walk with my significant other,0.04,0.01,1.1,1.0
+80,go to parties with friends,take a nap,0.05,0.01,4.4,0.0
+81,talk on the phone with my sister,meditate at home,0.01,0.02,3.3,0.0
+82,go to the movies with my significant other,listen to a podcast,0.02,0.02,4.4,0.0
+83,listen to music with my friend,cook at home,0.03,0.02,1.1,0.0
+84,take a walk,go to the movies with my significant other,0.04,0.02,3.3,1.0
+85,meditate at home,take trips with friends,0.05,0.02,3.3,1.0
+86,cook at home,talk on the phone with my sister,0.01,0.03,1.1,1.0
+87,watch youtube at home,take trips with friends,0.02,0.03,4.4,1.0
+88,take trips with friends,take a walk,0.03,0.03,1.1,0.0
+89,go out to eat with my significant other,read books at home,0.04,0.03,3.3,0.0
+90,take a nap,go out to eat with my significant other,0.05,0.03,8.8,1.0
+91,sit outside,go on vacation with my significant other,0.01,0.04,3.3,1.0
+92,watch youtube at home,go to the movies with my significant other,0.02,0.04,8.8,1.0
+93,take a walk with my significant other,meditate at home,0.03,0.04,1.1,0.0
+94,listen to a podcast,go out to eat with my significant other,0.04,0.04,4.4,1.0
+95,go on vacation with my significant other,read books at home,0.05,0.04,4.4,0.0
+96,talk on the phone with my sister,take a nap,0.01,0.05,3.3,0.0
+97,listen to music with my friend,watch youtube at home,0.02,0.05,1.1,0.0
+98,watch tiktok videos at home,take trips with friends,0.03,0.05,1.1,1.0
+99,sit outside,go to a bar with friends,0.04,0.05,3.3,1.0
+100,watch tiktok videos at home,go to a bar with friends,0.05,0.05,4.4,1.0
