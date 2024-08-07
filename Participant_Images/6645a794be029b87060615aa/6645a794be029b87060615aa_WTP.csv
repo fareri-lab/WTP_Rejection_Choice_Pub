@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Listening to music,Getting food and hanging out,0.01,0.01,4.4,1.0
+2,Going on coffee and thrifting dates,Talking on the phone and catching up,0.02,0.01,8.8,1.0
+3,Buying makeup to try and experiment with,Planning solo dates for the weekend,0.03,0.01,3.3,0.0
+4,Trying out new hobbies like baking and coffee making,Decorating desserts for a weekend event,0.04,0.01,1.1,1.0
+5,Thrifting in a nearby town,Moving furniture in my room,0.05,0.01,1.1,0.0
+6,Trying out new hobbies like baking and coffee making,Talking on the phone and catching up,0.01,0.02,3.3,1.0
+7,Listening to music,Buying stuff for our pets,0.02,0.02,1.1,1.0
+8,Planning solo dates for the weekend,Talking on the phone and catching up,0.03,0.02,1.1,1.0
+9,Baking something in the kitchen,Singing and dancing by myself,0.04,0.02,4.4,0.0
+10,Going to the gym and listening to a new podcast episode,Getting food and hanging out,0.05,0.02,1.1,1.0
+11,Buying makeup to try and experiment with,Moving furniture in my room,0.01,0.03,3.3,0.0
+12,Listening to music,Buying makeup to try and experiment with,0.02,0.03,4.4,1.0
+13,Listening to music that they like,Moving furniture in my room,0.03,0.03,1.1,0.0
+14,Getting food and hanging out,Moving furniture in my room,0.04,0.03,3.3,0.0
+15,Buying makeup to try and experiment with,Buying stuff online for me and my pets,0.05,0.03,4.4,0.0
+16,Taking walks in the park,Trying out new hobbies like baking and coffee making,0.01,0.04,1.1,0.0
+17,Thrifting in a nearby town,Going to the gym and listening to a new podcast episode,0.02,0.04,8.8,0.0
+18,Taking walks in the park,Singing and dancing by myself,0.03,0.04,3.3,0.0
+19,Buying stuff for our pets,Buying stuff online for me and my pets,0.04,0.04,3.3,0.0
+20,Planning birthday gifts for my friends and family,Baking something in the kitchen,0.05,0.04,1.1,1.0
+21,Buying stuff for our pets,Going on coffee and thrifting dates,0.01,0.05,8.8,0.0
+22,Talking on the phone and catching up,Shopping around town for things for school,0.02,0.05,4.4,0.0
+23,Decorating desserts for a weekend event,Planning solo dates for the weekend,0.03,0.05,1.1,0.0
+24,Planning birthday gifts for my friends and family,Listening to music that they like,0.04,0.05,4.4,1.0
+25,Moving furniture in my room,Exercising together after work,0.05,0.05,3.3,1.0
+26,Baking something in the kitchen,Shopping around town for things for school,0.01,0.01,4.4,0.0
+27,Listening to music,Decorating desserts for a weekend event,0.02,0.01,3.3,1.0
+28,Decorating desserts for a weekend event,Going to the gym and listening to a new podcast episode,0.03,0.01,3.3,0.0
+29,Getting food and hanging out,Buying stuff online for me and my pets,0.04,0.01,4.4,0.0
+30,Moving furniture in my room,Taking walks in the park,0.05,0.01,8.8,1.0
+31,Planning solo dates for the weekend,Getting food and hanging out,0.01,0.02,8.8,1.0
+32,Buying stuff online for me and my pets,Decorating desserts for a weekend event,0.02,0.02,1.1,1.0
+33,Exercising together after work,Planning solo dates for the weekend,0.03,0.02,4.4,0.0
+34,Singing and dancing by myself,Decorating desserts for a weekend event,0.04,0.02,3.3,1.0
+35,Thrifting in a nearby town,Listening to music,0.05,0.02,1.1,0.0
+36,Planning solo dates for the weekend,Taking walks in the park,0.01,0.03,3.3,1.0
+37,Planning birthday gifts for my friends and family,Getting food and hanging out,0.02,0.03,1.1,1.0
+38,Listening to music that they like,Going to the gym and listening to a new podcast episode,0.03,0.03,1.1,0.0
+39,Going on coffee and thrifting dates,Thrifting in a nearby town,0.04,0.03,3.3,1.0
+40,Going to the gym and listening to a new podcast episode,Talking on the phone and catching up,0.05,0.03,4.4,1.0
+41,Exercising together after work,Shopping around town for things for school,0.01,0.04,1.1,0.0
+42,Going to the gym and listening to a new podcast episode,Taking walks in the park,0.02,0.04,3.3,1.0
+43,Singing and dancing by myself,Buying stuff for our pets,0.03,0.04,1.1,1.0
+44,Going to the gym and listening to a new podcast episode,Exercising together after work,0.04,0.04,1.1,1.0
+45,Talking on the phone and catching up,Planning birthday gifts for my friends and family,0.05,0.04,4.4,0.0
+46,Getting food and hanging out,Singing and dancing by myself,0.01,0.05,8.8,0.0
+47,Planning birthday gifts for my friends and family,Taking walks in the park,0.02,0.05,1.1,1.0
+48,Listening to music that they like,Shopping around town for things for school,0.03,0.05,4.4,0.0
+49,Planning solo dates for the weekend,Thrifting in a nearby town,0.04,0.05,3.3,1.0
+50,Decorating desserts for a weekend event,Moving furniture in my room,0.05,0.05,1.1,0.0
+51,Thrifting in a nearby town,Planning birthday gifts for my friends and family,0.01,0.01,1.1,0.0
+52,Going on coffee and thrifting dates,Taking walks in the park,0.02,0.01,3.3,1.0
+53,Buying stuff online for me and my pets,Baking something in the kitchen,0.03,0.01,1.1,1.0
+54,Buying stuff for our pets,Shopping around town for things for school,0.04,0.01,4.4,0.0
+55,Buying stuff for our pets,Planning solo dates for the weekend,0.05,0.01,1.1,0.0
+56,Shopping around town for things for school,Decorating desserts for a weekend event,0.01,0.02,8.8,1.0
+57,Planning birthday gifts for my friends and family,Buying stuff for our pets,0.02,0.02,4.4,1.0
+58,Exercising together after work,Listening to music,0.03,0.02,4.4,0.0
+59,Planning solo dates for the weekend,Listening to music that they like,0.04,0.02,4.4,1.0
+60,Planning birthday gifts for my friends and family,Exercising together after work,0.05,0.02,1.1,1.0
+61,Thrifting in a nearby town,Shopping around town for things for school,0.01,0.03,3.3,0.0
+62,Decorating desserts for a weekend event,Going on coffee and thrifting dates,0.02,0.03,3.3,0.0
+63,Going on coffee and thrifting dates,Exercising together after work,0.03,0.03,3.3,1.0
+64,Going on coffee and thrifting dates,Baking something in the kitchen,0.04,0.03,1.1,1.0
+65,Buying stuff online for me and my pets,Talking on the phone and catching up,0.05,0.03,1.1,1.0
+66,Going on coffee and thrifting dates,Listening to music that they like,0.01,0.04,1.1,1.0
+67,Buying makeup to try and experiment with,Singing and dancing by myself,0.02,0.04,8.8,0.0
+68,Thrifting in a nearby town,Trying out new hobbies like baking and coffee making,0.03,0.04,4.4,0.0
+69,Buying makeup to try and experiment with,Trying out new hobbies like baking and coffee making,0.04,0.04,1.1,0.0
+70,Singing and dancing by myself,Talking on the phone and catching up,0.05,0.04,1.1,1.0
+71,Thrifting in a nearby town,Singing and dancing by myself,0.01,0.05,3.3,0.0
+72,Baking something in the kitchen,Planning solo dates for the weekend,0.02,0.05,8.8,0.0
+73,Exercising together after work,Singing and dancing by myself,0.03,0.05,3.3,0.0
+74,Buying stuff online for me and my pets,Taking walks in the park,0.04,0.05,4.4,1.0
+75,Baking something in the kitchen,Going to the gym and listening to a new podcast episode,0.05,0.05,3.3,0.0
+76,Listening to music,Listening to music that they like,0.01,0.01,1.1,1.0
+77,Buying makeup to try and experiment with,Going on coffee and thrifting dates,0.02,0.01,8.8,0.0
+78,Exercising together after work,Trying out new hobbies like baking and coffee making,0.03,0.01,1.1,0.0
+79,Buying makeup to try and experiment with,Going to the gym and listening to a new podcast episode,0.04,0.01,1.1,0.0
+80,Baking something in the kitchen,Listening to music,0.05,0.01,4.4,0.0
+81,Trying out new hobbies like baking and coffee making,Listening to music that they like,0.01,0.02,3.3,1.0
+82,Shopping around town for things for school,Getting food and hanging out,0.02,0.02,4.4,1.0
+83,Buying makeup to try and experiment with,Shopping around town for things for school,0.03,0.02,1.1,0.0
+84,Decorating desserts for a weekend event,Planning birthday gifts for my friends and family,0.04,0.02,3.3,0.0
+85,Going on coffee and thrifting dates,Getting food and hanging out,0.05,0.02,3.3,1.0
+86,Listening to music,Talking on the phone and catching up,0.01,0.03,1.1,1.0
+87,Baking something in the kitchen,Trying out new hobbies like baking and coffee making,0.02,0.03,4.4,0.0
+88,Buying stuff online for me and my pets,Exercising together after work,0.03,0.03,1.1,1.0
+89,Taking walks in the park,Listening to music,0.04,0.03,3.3,0.0
+90,Listening to music that they like,Singing and dancing by myself,0.05,0.03,8.8,0.0
+91,Taking walks in the park,Shopping around town for things for school,0.01,0.04,3.3,0.0
+92,Trying out new hobbies like baking and coffee making,Getting food and hanging out,0.02,0.04,8.8,1.0
+93,Going to the gym and listening to a new podcast episode,Buying stuff for our pets,0.03,0.04,1.1,1.0
+94,Buying stuff online for me and my pets,Thrifting in a nearby town,0.04,0.04,4.4,1.0
+95,Buying stuff online for me and my pets,Listening to music that they like,0.05,0.04,4.4,1.0
+96,Baking something in the kitchen,Moving furniture in my room,0.01,0.05,3.3,0.0
+97,Moving furniture in my room,Buying stuff for our pets,0.02,0.05,1.1,1.0
+98,Buying stuff for our pets,Trying out new hobbies like baking and coffee making,0.03,0.05,1.1,0.0
+99,Moving furniture in my room,Talking on the phone and catching up,0.04,0.05,3.3,1.0
+100,Planning birthday gifts for my friends and family,Buying makeup to try and experiment with,0.05,0.05,4.4,1.0
