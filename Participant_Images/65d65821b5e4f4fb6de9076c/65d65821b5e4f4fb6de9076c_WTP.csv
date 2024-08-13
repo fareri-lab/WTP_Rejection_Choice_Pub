@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Walking around outside on campus,Walking around with my mom,0.01,0.01,4.4,1.0
+2,Sewing new clothes to wear,Going out to the bars with my friends on the weekend,0.02,0.01,8.8,1.0
+3,Doing weekly line dancing at local bars,Working from home to earn money,0.03,0.01,3.3,0.0
+4,Taking my sister to get coffee,Sewing new clothes to wear,0.04,0.01,1.1,0.0
+5,Learning how to do a new craft so I feel productive,Going to weekly trivia nights with my friends,0.05,0.01,1.1,1.0
+6,Browsing the internet for furniture that I need,Walking around with my mom,0.01,0.02,3.3,1.0
+7,Watching a new show in my room at night,Watching basketball games with my friends,0.02,0.02,1.1,1.0
+8,Showering after a long hectic day,Going out to the bars with my friends on the weekend,0.03,0.02,1.1,1.0
+9,Organizing my room for a fresh start,Talking about what is going on in our lives with my friends,0.04,0.02,4.4,1.0
+10,Shopping at the mall when I need something new to wear,Playing games with my dad and little sister,0.05,0.02,1.1,1.0
+11,Showering after a long hectic day,Walking around with my mom,0.01,0.03,3.3,1.0
+12,Taking my sister to get coffee,Exercising at the gym in the morning,0.02,0.03,4.4,0.0
+13,Playing basketball with my friends during the summer,Learning how to do a new craft so I feel productive,0.03,0.03,1.1,0.0
+14,Organizing my room for a fresh start,Playing games with my dad and little sister,0.04,0.03,3.3,1.0
+15,Showering after a long hectic day,Watching funny internet videos with my friends,0.05,0.03,4.4,1.0
+16,Sewing new clothes to wear,Watching funny internet videos with my friends,0.01,0.04,1.1,1.0
+17,Talking about what is going on in our lives with my friends,Learning how to do a new craft so I feel productive,0.02,0.04,8.8,0.0
+18,Going to weekly trivia nights with my friends,Browsing the internet for furniture that I need,0.03,0.04,3.3,0.0
+19,Browsing the internet for furniture that I need,Watching basketball games with my friends,0.04,0.04,3.3,1.0
+20,Doing weekly line dancing at local bars,Watching a new show in my room at night,0.05,0.04,1.1,0.0
+21,Walking around outside on campus,Playing games with my dad and little sister,0.01,0.05,8.8,1.0
+22,Going out to the bars with my friends on the weekend,Watching a new show in my room at night,0.02,0.05,4.4,0.0
+23,Sewing new clothes to wear,Playing basketball with my friends during the summer,0.03,0.05,1.1,1.0
+24,Playing basketball with my friends during the summer,Watching a new show in my room at night,0.04,0.05,4.4,0.0
+25,Browsing the internet for furniture that I need,Going out to the bars with my friends on the weekend,0.05,0.05,3.3,1.0
+26,Learning how to do a new craft so I feel productive,Watching basketball games with my friends,0.01,0.01,4.4,1.0
+27,Watching funny internet videos with my friends,Browsing the internet for furniture that I need,0.02,0.01,3.3,0.0
+28,Taking my sister to get coffee,Showering after a long hectic day,0.03,0.01,3.3,0.0
+29,Taking my sister to get coffee,Watching a new show in my room at night,0.04,0.01,4.4,0.0
+30,Exercising at the gym in the morning,Playing games with my dad and little sister,0.05,0.01,8.8,1.0
+31,Watching basketball games with my friends,Working from home to earn money,0.01,0.02,8.8,0.0
+32,Playing games with my dad and little sister,Showering after a long hectic day,0.02,0.02,1.1,0.0
+33,Walking around outside on campus,Taking my sister to get coffee,0.03,0.02,4.4,1.0
+34,Talking about what is going on in our lives with my friends,Sewing new clothes to wear,0.04,0.02,3.3,0.0
+35,Talking about what is going on in our lives with my friends,Working from home to earn money,0.05,0.02,1.1,0.0
+36,Shopping at the mall when I need something new to wear,Going to weekly trivia nights with my friends,0.01,0.03,3.3,1.0
+37,Shopping at the mall when I need something new to wear,Walking around with my mom,0.02,0.03,1.1,1.0
+38,Playing basketball with my friends during the summer,Walking around outside on campus,0.03,0.03,1.1,0.0
+39,Organizing my room for a fresh start,Watching funny internet videos with my friends,0.04,0.03,3.3,1.0
+40,Organizing my room for a fresh start,Walking around with my mom,0.05,0.03,4.4,1.0
+41,Playing basketball with my friends during the summer,Browsing the internet for furniture that I need,0.01,0.04,1.1,0.0
+42,Working from home to earn money,Walking around with my mom,0.02,0.04,3.3,1.0
+43,Organizing my room for a fresh start,Doing weekly line dancing at local bars,0.03,0.04,1.1,1.0
+44,Walking around outside on campus,Doing weekly line dancing at local bars,0.04,0.04,1.1,1.0
+45,Doing weekly line dancing at local bars,Showering after a long hectic day,0.05,0.04,4.4,0.0
+46,Working from home to earn money,Going to weekly trivia nights with my friends,0.01,0.05,8.8,1.0
+47,Doing weekly line dancing at local bars,Sewing new clothes to wear,0.02,0.05,1.1,0.0
+48,Walking around outside on campus,Talking about what is going on in our lives with my friends,0.03,0.05,4.4,1.0
+49,Going to weekly trivia nights with my friends,Showering after a long hectic day,0.04,0.05,3.3,0.0
+50,Watching a new show in my room at night,Going to weekly trivia nights with my friends,0.05,0.05,1.1,1.0
+51,Going to weekly trivia nights with my friends,Organizing my room for a fresh start,0.01,0.01,1.1,0.0
+52,Organizing my room for a fresh start,Playing basketball with my friends during the summer,0.02,0.01,3.3,1.0
+53,Watching basketball games with my friends,Shopping at the mall when I need something new to wear,0.03,0.01,1.1,0.0
+54,Going out to the bars with my friends on the weekend,Exercising at the gym in the morning,0.04,0.01,4.4,0.0
+55,Going out to the bars with my friends on the weekend,Organizing my room for a fresh start,0.05,0.01,1.1,0.0
+56,Going out to the bars with my friends on the weekend,Walking around outside on campus,0.01,0.02,8.8,0.0
+57,Going out to the bars with my friends on the weekend,Learning how to do a new craft so I feel productive,0.02,0.02,4.4,0.0
+58,Showering after a long hectic day,Watching basketball games with my friends,0.03,0.02,4.4,1.0
+59,Playing basketball with my friends during the summer,Exercising at the gym in the morning,0.04,0.02,4.4,0.0
+60,Doing weekly line dancing at local bars,Exercising at the gym in the morning,0.05,0.02,1.1,0.0
+61,Shopping at the mall when I need something new to wear,Talking about what is going on in our lives with my friends,0.01,0.03,3.3,1.0
+62,Browsing the internet for furniture that I need,Playing games with my dad and little sister,0.02,0.03,3.3,1.0
+63,Working from home to earn money,Taking my sister to get coffee,0.03,0.03,3.3,1.0
+64,Playing basketball with my friends during the summer,Working from home to earn money,0.04,0.03,1.1,0.0
+65,Talking about what is going on in our lives with my friends,Showering after a long hectic day,0.05,0.03,1.1,0.0
+66,Playing games with my dad and little sister,Watching a new show in my room at night,0.01,0.04,1.1,0.0
+67,Watching basketball games with my friends,Organizing my room for a fresh start,0.02,0.04,8.8,0.0
+68,Walking around with my mom,Learning how to do a new craft so I feel productive,0.03,0.04,4.4,0.0
+69,Playing games with my dad and little sister,Working from home to earn money,0.04,0.04,1.1,0.0
+70,Watching funny internet videos with my friends,Walking around outside on campus,0.05,0.04,1.1,0.0
+71,Taking my sister to get coffee,Browsing the internet for furniture that I need,0.01,0.05,3.3,0.0
+72,Watching funny internet videos with my friends,Exercising at the gym in the morning,0.02,0.05,8.8,0.0
+73,Shopping at the mall when I need something new to wear,Going out to the bars with my friends on the weekend,0.03,0.05,3.3,1.0
+74,Watching basketball games with my friends,Walking around outside on campus,0.04,0.05,4.4,0.0
+75,Going to weekly trivia nights with my friends,Exercising at the gym in the morning,0.05,0.05,3.3,0.0
+76,Sewing new clothes to wear,Walking around with my mom,0.01,0.01,1.1,1.0
+77,Going out to the bars with my friends on the weekend,Working from home to earn money,0.02,0.01,8.8,0.0
+78,Taking my sister to get coffee,Learning how to do a new craft so I feel productive,0.03,0.01,1.1,0.0
+79,Shopping at the mall when I need something new to wear,Taking my sister to get coffee,0.04,0.01,1.1,1.0
+80,Watching a new show in my room at night,Watching funny internet videos with my friends,0.05,0.01,4.4,1.0
+81,Walking around outside on campus,Going to weekly trivia nights with my friends,0.01,0.02,3.3,1.0
+82,Showering after a long hectic day,Playing basketball with my friends during the summer,0.02,0.02,4.4,1.0
+83,Shopping at the mall when I need something new to wear,Doing weekly line dancing at local bars,0.03,0.02,1.1,1.0
+84,Browsing the internet for furniture that I need,Talking about what is going on in our lives with my friends,0.04,0.02,3.3,1.0
+85,Organizing my room for a fresh start,Taking my sister to get coffee,0.05,0.02,3.3,1.0
+86,Playing games with my dad and little sister,Sewing new clothes to wear,0.01,0.03,1.1,0.0
+87,Watching funny internet videos with my friends,Working from home to earn money,0.02,0.03,4.4,0.0
+88,Watching funny internet videos with my friends,Learning how to do a new craft so I feel productive,0.03,0.03,1.1,0.0
+89,Talking about what is going on in our lives with my friends,Watching a new show in my room at night,0.04,0.03,3.3,0.0
+90,Sewing new clothes to wear,Going to weekly trivia nights with my friends,0.05,0.03,8.8,1.0
+91,Watching basketball games with my friends,Sewing new clothes to wear,0.01,0.04,3.3,0.0
+92,Playing games with my dad and little sister,Learning how to do a new craft so I feel productive,0.02,0.04,8.8,0.0
+93,Browsing the internet for furniture that I need,Doing weekly line dancing at local bars,0.03,0.04,1.1,1.0
+94,Exercising at the gym in the morning,Walking around with my mom,0.04,0.04,4.4,1.0
+95,Shopping at the mall when I need something new to wear,Playing basketball with my friends during the summer,0.05,0.04,4.4,1.0
+96,Exercising at the gym in the morning,Talking about what is going on in our lives with my friends,0.01,0.05,3.3,1.0
+97,Shopping at the mall when I need something new to wear,Watching funny internet videos with my friends,0.02,0.05,1.1,1.0
+98,Walking around with my mom,Watching a new show in my room at night,0.03,0.05,1.1,0.0
+99,Watching basketball games with my friends,Exercising at the gym in the morning,0.04,0.05,3.3,0.0
+100,Learning how to do a new craft so I feel productive,Doing weekly line dancing at local bars,0.05,0.05,4.4,1.0

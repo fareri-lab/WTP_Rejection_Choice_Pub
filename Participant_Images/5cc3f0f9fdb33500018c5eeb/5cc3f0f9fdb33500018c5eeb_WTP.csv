@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Working on sorting and organizing a coin collection,Going to a show,0.01,0.01,4.4,1.0
+2,Playing Xbox on two TVs,Taking my truck to the car wash,0.02,0.01,8.8,0.0
+3,Going to the river,Taking a long bath,0.03,0.01,3.3,0.0
+4,Going to a new resturaunt,Organizing and rearranging my room,0.04,0.01,1.1,0.0
+5,Drawing on procreate,Going to the river,0.05,0.01,1.1,1.0
+6,Going to the casino,Going to the river,0.01,0.02,3.3,1.0
+7,Going on a drive to the river,Going to go to a paint and sip,0.02,0.02,1.1,1.0
+8,Going on a drive to the river,Watching a movie,0.03,0.02,1.1,1.0
+9,Drawing on procreate,Playing Xbox on two TVs,0.04,0.02,4.4,1.0
+10,Doing a diamond painting,Going to play laser tag,0.05,0.02,1.1,1.0
+11,Taking my truck to the car wash,Watching a movie,0.01,0.03,3.3,1.0
+12,Going to the casino,Watching a movie,0.02,0.03,4.4,1.0
+13,Playing Xbox on two TVs,Organizing and rearranging my room,0.03,0.03,1.1,0.0
+14,Doing a diamond painting,Going to a show,0.04,0.03,3.3,1.0
+15,Going to play laser tag,Organizing and rearranging my room,0.05,0.03,4.4,0.0
+16,Going to go to a paint and sip,Playing Xbox,0.01,0.04,1.1,0.0
+17,Playing Xbox on two TVs,Working on sorting and organizing a coin collection,0.02,0.04,8.8,0.0
+18,Going on a drive to the river,Going to a show,0.03,0.04,3.3,1.0
+19,Going on a picnic to a park,Drawing on procreate,0.04,0.04,3.3,0.0
+20,Going to the river,Taking my truck to the car wash,0.05,0.04,1.1,0.0
+21,Drawing on procreate,Going to a football game,0.01,0.05,8.8,1.0
+22,Going to a football game,Going to the casino,0.02,0.05,4.4,0.0
+23,Going to go to a paint and sip,Taking my truck to the car wash,0.03,0.05,1.1,0.0
+24,Going to go to a paint and sip,Playing the drums,0.04,0.05,4.4,0.0
+25,Working on sorting and organizing a coin collection,Going on a picnic to a park,0.05,0.05,3.3,1.0
+26,Watching a movie,Working on sorting and organizing a coin collection,0.01,0.01,4.4,0.0
+27,Going to a new resturaunt,Drawing on procreate,0.02,0.01,3.3,0.0
+28,Playing the drums,Going to the river,0.03,0.01,3.3,1.0
+29,Playing the drums,Going to a new resturaunt,0.04,0.01,4.4,1.0
+30,Going to the river,Playing Xbox,0.05,0.01,8.8,0.0
+31,Going to a show,Taking my truck to the car wash,0.01,0.02,8.8,0.0
+32,Going to play laser tag,Going to the casino,0.02,0.02,1.1,0.0
+33,Watching a movie,Taking a long bath,0.03,0.02,4.4,0.0
+34,Playing the drums,Going to a show,0.04,0.02,3.3,1.0
+35,Going to a football game,Going on a drive to the river,0.05,0.02,1.1,0.0
+36,Doing a diamond painting,Playing Xbox on two TVs,0.01,0.03,3.3,1.0
+37,Going to the casino,Going to a show,0.02,0.03,1.1,1.0
+38,Going to the casino,Playing Xbox,0.03,0.03,1.1,0.0
+39,Taking my truck to the car wash,Going to play laser tag,0.04,0.03,3.3,1.0
+40,Going on a drive to the river,Going to a new resturaunt,0.05,0.03,4.4,1.0
+41,Playing the drums,Going on a picnic to a park,0.01,0.04,1.1,1.0
+42,Organizing and rearranging my room,Going to the casino,0.02,0.04,3.3,1.0
+43,Taking a long bath,Going to play laser tag,0.03,0.04,1.1,1.0
+44,Playing Xbox,Going to play laser tag,0.04,0.04,1.1,1.0
+45,Playing the drums,Playing Xbox on two TVs,0.05,0.04,4.4,1.0
+46,Going to the river,Working on sorting and organizing a coin collection,0.01,0.05,8.8,0.0
+47,Going on a drive to the river,Playing Xbox on two TVs,0.02,0.05,1.1,1.0
+48,Watching a movie,Organizing and rearranging my room,0.03,0.05,4.4,0.0
+49,Working on sorting and organizing a coin collection,Going to a new resturaunt,0.04,0.05,3.3,1.0
+50,Going to a show,Organizing and rearranging my room,0.05,0.05,1.1,0.0
+51,Going to play laser tag,Drawing on procreate,0.01,0.01,1.1,0.0
+52,Doing a diamond painting,Watching a movie,0.02,0.01,3.3,1.0
+53,Doing a diamond painting,Going to a new resturaunt,0.03,0.01,1.1,1.0
+54,Going to the casino,Going to go to a paint and sip,0.04,0.01,4.4,1.0
+55,Watching a movie,Drawing on procreate,0.05,0.01,1.1,0.0
+56,Going to a football game,Playing the drums,0.01,0.02,8.8,0.0
+57,Going to go to a paint and sip,Organizing and rearranging my room,0.02,0.02,4.4,0.0
+58,Taking my truck to the car wash,Going on a picnic to a park,0.03,0.02,4.4,1.0
+59,Going to a new resturaunt,Playing Xbox,0.04,0.02,4.4,0.0
+60,Going on a picnic to a park,Going to the casino,0.05,0.02,1.1,0.0
+61,Playing Xbox,Going to a show,0.01,0.03,3.3,1.0
+62,Going to a football game,Taking a long bath,0.02,0.03,3.3,0.0
+63,Taking a long bath,Going to the casino,0.03,0.03,3.3,1.0
+64,Going to play laser tag,Going on a drive to the river,0.04,0.03,1.1,0.0
+65,Working on sorting and organizing a coin collection,Going to play laser tag,0.05,0.03,1.1,1.0
+66,Going to go to a paint and sip,Doing a diamond painting,0.01,0.04,1.1,0.0
+67,Playing Xbox on two TVs,Going to the casino,0.02,0.04,8.8,0.0
+68,Going to the casino,Going to the casino,0.03,0.04,4.4,0.0
+69,Going to a new resturaunt,Taking my truck to the car wash,0.04,0.04,1.1,0.0
+70,Going to the casino,Going on a drive to the river,0.05,0.04,1.1,0.0
+71,Going to a football game,Doing a diamond painting,0.01,0.05,3.3,0.0
+72,Drawing on procreate,Going to go to a paint and sip,0.02,0.05,8.8,1.0
+73,Going on a picnic to a park,Going on a drive to the river,0.03,0.05,3.3,0.0
+74,Playing Xbox on two TVs,Taking a long bath,0.04,0.05,4.4,0.0
+75,Playing Xbox,Watching a movie,0.05,0.05,3.3,1.0
+76,Taking a long bath,Going to go to a paint and sip,0.01,0.01,1.1,1.0
+77,Going to a football game,Organizing and rearranging my room,0.02,0.01,8.8,0.0
+78,Going to a football game,Taking my truck to the car wash,0.03,0.01,1.1,0.0
+79,Going to a new resturaunt,Taking a long bath,0.04,0.01,1.1,0.0
+80,Going to the river,Going on a drive to the river,0.05,0.01,4.4,0.0
+81,Going to a new resturaunt,Going to the casino,0.01,0.02,3.3,0.0
+82,Going to the casino,Taking my truck to the car wash,0.02,0.02,4.4,0.0
+83,Playing the drums,Going to the casino,0.03,0.02,1.1,1.0
+84,Playing the drums,Going to play laser tag,0.04,0.02,3.3,1.0
+85,Playing Xbox,Going to a football game,0.05,0.02,3.3,1.0
+86,Organizing and rearranging my room,Going on a picnic to a park,0.01,0.03,1.1,1.0
+87,Playing Xbox,Going on a picnic to a park,0.02,0.03,4.4,1.0
+88,Playing Xbox,Playing Xbox on two TVs,0.03,0.03,1.1,1.0
+89,Doing a diamond painting,Going to the river,0.04,0.03,3.3,1.0
+90,Organizing and rearranging my room,Going to the river,0.05,0.03,8.8,1.0
+91,Going to a show,Taking a long bath,0.01,0.04,3.3,0.0
+92,Going to a show,Drawing on procreate,0.02,0.04,8.8,0.0
+93,Doing a diamond painting,Going to the casino,0.03,0.04,1.1,1.0
+94,Going to the casino,Working on sorting and organizing a coin collection,0.04,0.04,4.4,0.0
+95,Taking a long bath,Going on a picnic to a park,0.05,0.04,4.4,1.0
+96,Going to a football game,Working on sorting and organizing a coin collection,0.01,0.05,3.3,0.0
+97,Doing a diamond painting,Going on a picnic to a park,0.02,0.05,1.1,1.0
+98,Working on sorting and organizing a coin collection,Going to go to a paint and sip,0.03,0.05,1.1,1.0
+99,Drawing on procreate,Going to the casino,0.04,0.05,3.3,1.0
+100,Watching a movie,Playing the drums,0.05,0.05,4.4,0.0

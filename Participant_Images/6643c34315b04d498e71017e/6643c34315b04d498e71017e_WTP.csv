@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,sitting on the couch with a cozy blanket and a good book,going for a walk with my family,0.01,0.01,4.4,1.0
+2,going to the movies with my family,Redecorating my living room,0.02,0.01,8.8,0.0
+3,going bowling with my family ,sitting on the couch with a cozy blanket and a good book,0.03,0.01,3.3,0.0
+4,giving myself a facial ,going out to eat with my partner and kids ,0.04,0.01,1.1,1.0
+5,going to the park with my family,giving myself a facial ,0.05,0.01,1.1,0.0
+6,taking a nap,going bowling with my family ,0.01,0.02,3.3,1.0
+7,doing my nails,going out to eat with my partner and kids ,0.02,0.02,1.1,1.0
+8,planting flowers in the garden,going to explore a new city with my kids and my partner,0.03,0.02,1.1,1.0
+9,planting flowers in the garden,going to the park with my family,0.04,0.02,4.4,1.0
+10,Painting with acrylic paints,going out to eat with my partner and kids ,0.05,0.02,1.1,1.0
+11,going for a walk with my family,giving myself a facial ,0.01,0.03,3.3,0.0
+12,sitting on the couch with a cozy blanket and a good book,going to the lake to go swimming with my family,0.02,0.03,4.4,1.0
+13,going for a walk with my family,planting flowers in the garden,0.03,0.03,1.1,0.0
+14,Redecorating my living room,having a movie night with my family,0.04,0.03,3.3,1.0
+15,going to the movies with my family,messing around with tarot cards,0.05,0.03,4.4,0.0
+16,going bowling with my family ,giving myself a facial ,0.01,0.04,1.1,0.0
+17,scrolling on tiktok,going for a walk with my family,0.02,0.04,8.8,1.0
+18,going hiking with my family ,doing my nails,0.03,0.04,3.3,0.0
+19,going hiking with my family ,messing around with tarot cards,0.04,0.04,3.3,0.0
+20,going to the park with my family,scrolling on tiktok,0.05,0.04,1.1,0.0
+21,going for a walk with my family,doing my nails,0.01,0.05,8.8,0.0
+22,going to the park with my family,messing around with tarot cards,0.02,0.05,4.4,0.0
+23,going out to eat with my partner and kids ,taking a nap,0.03,0.05,1.1,0.0
+24,Binging a good tv show ,going to the lake to go swimming with my family,0.04,0.05,4.4,1.0
+25,messing around with tarot cards,going golfing with my family ,0.05,0.05,3.3,1.0
+26,going to the lake to go swimming with my family,doing my nails,0.01,0.01,4.4,0.0
+27,going hiking with my family ,planting flowers in the garden,0.02,0.01,3.3,0.0
+28,planting flowers in the garden,going to the movies with my family,0.03,0.01,3.3,1.0
+29,going to explore a new city with my kids and my partner,scrolling on tiktok,0.04,0.01,4.4,0.0
+30,sitting on the couch with a cozy blanket and a good book,going to the park with my family,0.05,0.01,8.8,1.0
+31,going to the lake to go swimming with my family,Redecorating my living room,0.01,0.02,8.8,0.0
+32,going bowling with my family ,Painting with acrylic paints,0.02,0.02,1.1,0.0
+33,messing around with tarot cards,going to explore a new city with my kids and my partner,0.03,0.02,4.4,1.0
+34,going bowling with my family ,messing around with tarot cards,0.04,0.02,3.3,0.0
+35,Redecorating my living room,going hiking with my family ,0.05,0.02,1.1,1.0
+36,Binging a good tv show ,going for a walk with my family,0.01,0.03,3.3,1.0
+37,Painting with acrylic paints,going to the lake to go swimming with my family,0.02,0.03,1.1,1.0
+38,messing around with tarot cards,having a movie night with my family,0.03,0.03,1.1,1.0
+39,Painting with acrylic paints,going to the movies with my family,0.04,0.03,3.3,1.0
+40,Redecorating my living room,going golfing with my family ,0.05,0.03,4.4,1.0
+41,going to the park with my family,doing my nails,0.01,0.04,1.1,0.0
+42,going to the park with my family,Painting with acrylic paints,0.02,0.04,3.3,0.0
+43,going to the lake to go swimming with my family,scrolling on tiktok,0.03,0.04,1.1,0.0
+44,giving myself a facial ,going to the lake to go swimming with my family,0.04,0.04,1.1,1.0
+45,planting flowers in the garden,going golfing with my family ,0.05,0.04,4.4,1.0
+46,going out to eat with my partner and kids ,planting flowers in the garden,0.01,0.05,8.8,0.0
+47,messing around with tarot cards,going to the lake to go swimming with my family,0.02,0.05,1.1,1.0
+48,Redecorating my living room,going to the park with my family,0.03,0.05,4.4,1.0
+49,giving myself a facial ,going hiking with my family ,0.04,0.05,3.3,1.0
+50,sitting on the couch with a cozy blanket and a good book,going to the movies with my family,0.05,0.05,1.1,1.0
+51,going hiking with my family ,Binging a good tv show ,0.01,0.01,1.1,0.0
+52,going bowling with my family ,doing my nails,0.02,0.01,3.3,0.0
+53,going out to eat with my partner and kids ,sitting on the couch with a cozy blanket and a good book,0.03,0.01,1.1,0.0
+54,going to the lake to go swimming with my family,planting flowers in the garden,0.04,0.01,4.4,0.0
+55,taking a nap,going to explore a new city with my kids and my partner,0.05,0.01,1.1,1.0
+56,going hiking with my family ,sitting on the couch with a cozy blanket and a good book,0.01,0.02,8.8,0.0
+57,going for a walk with my family,messing around with tarot cards,0.02,0.02,4.4,0.0
+58,taking a nap,going golfing with my family ,0.03,0.02,4.4,1.0
+59,going to the park with my family,taking a nap,0.04,0.02,4.4,0.0
+60,going golfing with my family ,giving myself a facial ,0.05,0.02,1.1,0.0
+61,going out to eat with my partner and kids ,Redecorating my living room,0.01,0.03,3.3,0.0
+62,sitting on the couch with a cozy blanket and a good book,going golfing with my family ,0.02,0.03,3.3,1.0
+63,scrolling on tiktok,having a movie night with my family,0.03,0.03,3.3,1.0
+64,planting flowers in the garden,having a movie night with my family,0.04,0.03,1.1,1.0
+65,scrolling on tiktok,going golfing with my family ,0.05,0.03,1.1,1.0
+66,Painting with acrylic paints,having a movie night with my family,0.01,0.04,1.1,1.0
+67,going golfing with my family ,Binging a good tv show ,0.02,0.04,8.8,0.0
+68,Painting with acrylic paints,going for a walk with my family,0.03,0.04,4.4,1.0
+69,Binging a good tv show ,going to the park with my family,0.04,0.04,1.1,1.0
+70,Redecorating my living room,going bowling with my family ,0.05,0.04,1.1,1.0
+71,giving myself a facial ,going to the movies with my family,0.01,0.05,3.3,1.0
+72,doing my nails,having a movie night with my family,0.02,0.05,8.8,1.0
+73,going to the lake to go swimming with my family,taking a nap,0.03,0.05,3.3,0.0
+74,going out to eat with my partner and kids ,Binging a good tv show ,0.04,0.05,4.4,0.0
+75,going to explore a new city with my kids and my partner,doing my nails,0.05,0.05,3.3,0.0
+76,going to explore a new city with my kids and my partner,Binging a good tv show ,0.01,0.01,1.1,0.0
+77,going golfing with my family ,doing my nails,0.02,0.01,8.8,0.0
+78,going to the movies with my family,doing my nails,0.03,0.01,1.1,0.0
+79,going out to eat with my partner and kids ,scrolling on tiktok,0.04,0.01,1.1,0.0
+80,going to the movies with my family,taking a nap,0.05,0.01,4.4,0.0
+81,Redecorating my living room,going for a walk with my family,0.01,0.02,3.3,1.0
+82,going to explore a new city with my kids and my partner,Painting with acrylic paints,0.02,0.02,4.4,0.0
+83,Binging a good tv show ,having a movie night with my family,0.03,0.02,1.1,1.0
+84,going hiking with my family ,Painting with acrylic paints,0.04,0.02,3.3,0.0
+85,giving myself a facial ,going to explore a new city with my kids and my partner,0.05,0.02,3.3,1.0
+86,going golfing with my family ,Painting with acrylic paints,0.01,0.03,1.1,0.0
+87,going hiking with my family ,taking a nap,0.02,0.03,4.4,0.0
+88,taking a nap,having a movie night with my family,0.03,0.03,1.1,1.0
+89,going to explore a new city with my kids and my partner,sitting on the couch with a cozy blanket and a good book,0.04,0.03,3.3,0.0
+90,taking a nap,going for a walk with my family,0.05,0.03,8.8,1.0
+91,scrolling on tiktok,going to the movies with my family,0.01,0.04,3.3,1.0
+92,sitting on the couch with a cozy blanket and a good book,having a movie night with my family,0.02,0.04,8.8,1.0
+93,going bowling with my family ,scrolling on tiktok,0.03,0.04,1.1,0.0
+94,Binging a good tv show ,going bowling with my family ,0.04,0.04,4.4,1.0
+95,Binging a good tv show ,going to the movies with my family,0.05,0.04,4.4,1.0
+96,Redecorating my living room,going to explore a new city with my kids and my partner,0.01,0.05,3.3,1.0
+97,going out to eat with my partner and kids ,messing around with tarot cards,0.02,0.05,1.1,0.0
+98,scrolling on tiktok,going hiking with my family ,0.03,0.05,1.1,1.0
+99,having a movie night with my family,giving myself a facial ,0.04,0.05,3.3,0.0
+100,going bowling with my family ,planting flowers in the garden,0.05,0.05,4.4,0.0
