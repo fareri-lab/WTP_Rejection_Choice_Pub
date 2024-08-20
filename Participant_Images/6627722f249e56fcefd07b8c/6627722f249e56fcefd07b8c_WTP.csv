@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Go camping with my boyfriend,Swim in the ocean,0.01,0.01,4.4,0.0
+2,Take photos of nature with my friends,Walk around downtown denver,0.02,0.01,8.8,0.0
+3,Walk in the sand in south carolina,Swim at the pool with my siblings,0.03,0.01,3.3,1.0
+4,Write poetry underneath the shade of a willow tree,Go to a concert with friends,0.04,0.01,1.1,1.0
+5,Play outside with the cats with my boyfriend,Hike at red rocks at night in the summer,0.05,0.01,1.1,0.0
+6,Go on a hike with my friends,Drink iced tea on the front porch,0.01,0.02,3.3,0.0
+7,Listen to music while driving with the windows down,Eat at a restaurant with my boyfriend,0.02,0.02,1.1,1.0
+8,Take photos of nature with my friends,Play with my cats in my cool apartment,0.03,0.02,1.1,0.0
+9,Swim at the pool with my siblings,Do yoga early in the morning outside,0.04,0.02,4.4,0.0
+10,Walk around downtown denver,Walk around the mall with my mom,0.05,0.02,1.1,1.0
+11,Swim in the ocean,Play outside with the cats with my boyfriend,0.01,0.03,3.3,1.0
+12,Play with my cats in my cool apartment,Go to a concert with friends,0.02,0.03,4.4,1.0
+13,Read a book at the park,Play outside with the cats with my boyfriend,0.03,0.03,1.1,1.0
+14,Do yoga early in the morning outside,Go camping with my boyfriend,0.04,0.03,3.3,1.0
+15,Swim in the ocean,Swim at the pool with my siblings,0.05,0.03,4.4,1.0
+16,Eat at a restaurant with my boyfriend,Write poetry underneath the shade of a willow tree,0.01,0.04,1.1,0.0
+17,Walk around downtown denver,Gril hamburgers outside with my dad,0.02,0.04,8.8,1.0
+18,Eat at a restaurant with my boyfriend,Drink iced tea on the front porch,0.03,0.04,3.3,0.0
+19,Swim at the pool with my siblings,Hike at red rocks at night in the summer,0.04,0.04,3.3,0.0
+20,Walk around the mall with my mom,Write poetry underneath the shade of a willow tree,0.05,0.04,1.1,0.0
+21,Go on a hike with my friends,Hike at red rocks at night in the summer,0.01,0.05,8.8,0.0
+22,Walk in the sand in south carolina,Eat at a restaurant with my boyfriend,0.02,0.05,4.4,1.0
+23,Do yoga early in the morning outside,Go to a concert with friends,0.03,0.05,1.1,1.0
+24,Swim in the ocean,Walk around the mall with my mom,0.04,0.05,4.4,1.0
+25,Swim in the ocean,Eat at a restaurant with my boyfriend,0.05,0.05,3.3,1.0
+26,Walk around the mall with my mom,Listen to music while driving with the windows down,0.01,0.01,4.4,0.0
+27,Listen to music while driving with the windows down,Take photos of nature with my friends,0.02,0.01,3.3,1.0
+28,Take photos of nature with my friends,Do yoga early in the morning outside,0.03,0.01,3.3,0.0
+29,Walk around the mall with my mom,Do yoga early in the morning outside,0.04,0.01,4.4,0.0
+30,Go to a concert with friends,Read a book at the park,0.05,0.01,8.8,0.0
+31,Gril hamburgers outside with my dad,Do yoga early in the morning outside,0.01,0.02,8.8,0.0
+32,Walk in the sand in south carolina,Walk around the mall with my mom,0.02,0.02,1.1,1.0
+33,Walk the dogs with my mom,Listen to music while driving with the windows down,0.03,0.02,4.4,0.0
+34,Read a book at the park,Gril hamburgers outside with my dad,0.04,0.02,3.3,1.0
+35,Drink iced tea on the front porch,Go to a concert with friends,0.05,0.02,1.1,1.0
+36,Walk in the sand in south carolina,Play outside with the cats with my boyfriend,0.01,0.03,3.3,1.0
+37,Swim in the ocean,Go to a concert with friends,0.02,0.03,1.1,1.0
+38,Listen to music while driving with the windows down,Go on a hike with my friends,0.03,0.03,1.1,1.0
+39,Go on a hike with my friends,Swim in the ocean,0.04,0.03,3.3,0.0
+40,Play with my cats in my cool apartment,Play outside with the cats with my boyfriend,0.05,0.03,4.4,1.0
+41,Read a book at the park,Swim at the pool with my siblings,0.01,0.04,1.1,1.0
+42,Walk the dogs with my mom,Write poetry underneath the shade of a willow tree,0.02,0.04,3.3,0.0
+43,Walk around the mall with my mom,Drink iced tea on the front porch,0.03,0.04,1.1,0.0
+44,Go camping with my boyfriend,Hike at red rocks at night in the summer,0.04,0.04,1.1,0.0
+45,Listen to music while driving with the windows down,Go camping with my boyfriend,0.05,0.04,4.4,1.0
+46,Play with my cats in my cool apartment,Gril hamburgers outside with my dad,0.01,0.05,8.8,1.0
+47,Drink iced tea on the front porch,Play outside with the cats with my boyfriend,0.02,0.05,1.1,1.0
+48,Drink iced tea on the front porch,Gril hamburgers outside with my dad,0.03,0.05,4.4,1.0
+49,Play outside with the cats with my boyfriend,Walk around downtown denver,0.04,0.05,3.3,0.0
+50,Walk in the sand in south carolina,Go to a concert with friends,0.05,0.05,1.1,1.0
+51,Walk in the sand in south carolina,Walk the dogs with my mom,0.01,0.01,1.1,1.0
+52,Play outside with the cats with my boyfriend,Write poetry underneath the shade of a willow tree,0.02,0.01,3.3,0.0
+53,Take photos of nature with my friends,Drink iced tea on the front porch,0.03,0.01,1.1,0.0
+54,Take photos of nature with my friends,Walk in the sand in south carolina,0.04,0.01,4.4,0.0
+55,Write poetry underneath the shade of a willow tree,Go camping with my boyfriend,0.05,0.01,1.1,1.0
+56,Take photos of nature with my friends,Write poetry underneath the shade of a willow tree,0.01,0.02,8.8,0.0
+57,Read a book at the park,Walk around the mall with my mom,0.02,0.02,4.4,1.0
+58,Drink iced tea on the front porch,Go camping with my boyfriend,0.03,0.02,4.4,1.0
+59,Read a book at the park,Go on a hike with my friends,0.04,0.02,4.4,1.0
+60,Gril hamburgers outside with my dad,Listen to music while driving with the windows down,0.05,0.02,1.1,0.0
+61,Hike at red rocks at night in the summer,Go to a concert with friends,0.01,0.03,3.3,1.0
+62,Take photos of nature with my friends,Read a book at the park,0.02,0.03,3.3,0.0
+63,Walk around downtown denver,Go on a hike with my friends,0.03,0.03,3.3,1.0
+64,Go on a hike with my friends,Play with my cats in my cool apartment,0.04,0.03,1.1,0.0
+65,Do yoga early in the morning outside,Play outside with the cats with my boyfriend,0.05,0.03,1.1,1.0
+66,Play with my cats in my cool apartment,Walk the dogs with my mom,0.01,0.04,1.1,1.0
+67,Swim at the pool with my siblings,Walk around downtown denver,0.02,0.04,8.8,0.0
+68,Walk the dogs with my mom,Hike at red rocks at night in the summer,0.03,0.04,4.4,0.0
+69,Go camping with my boyfriend,Walk around downtown denver,0.04,0.04,1.1,0.0
+70,Gril hamburgers outside with my dad,Swim in the ocean,0.05,0.04,1.1,0.0
+71,Go camping with my boyfriend,Walk in the sand in south carolina,0.01,0.05,3.3,0.0
+72,Write poetry underneath the shade of a willow tree,Go on a hike with my friends,0.02,0.05,8.8,1.0
+73,Walk around the mall with my mom,Play with my cats in my cool apartment,0.03,0.05,3.3,0.0
+74,Swim at the pool with my siblings,Play with my cats in my cool apartment,0.04,0.05,4.4,0.0
+75,Do yoga early in the morning outside,Walk the dogs with my mom,0.05,0.05,3.3,1.0
+76,Listen to music while driving with the windows down,Swim at the pool with my siblings,0.01,0.01,1.1,1.0
+77,Drink iced tea on the front porch,Walk the dogs with my mom,0.02,0.01,8.8,1.0
+78,Walk the dogs with my mom,Swim in the ocean,0.03,0.01,1.1,0.0
+79,Write poetry underneath the shade of a willow tree,Gril hamburgers outside with my dad,0.04,0.01,1.1,1.0
+80,Play with my cats in my cool apartment,Eat at a restaurant with my boyfriend,0.05,0.01,4.4,1.0
+81,Listen to music while driving with the windows down,Play outside with the cats with my boyfriend,0.01,0.02,3.3,1.0
+82,Eat at a restaurant with my boyfriend,Walk around downtown denver,0.02,0.02,4.4,0.0
+83,Hike at red rocks at night in the summer,Gril hamburgers outside with my dad,0.03,0.02,1.1,1.0
+84,Go to a concert with friends,Walk around downtown denver,0.04,0.02,3.3,0.0
+85,Walk around downtown denver,Walk the dogs with my mom,0.05,0.02,3.3,1.0
+86,Go camping with my boyfriend,Read a book at the park,0.01,0.03,1.1,0.0
+87,Go camping with my boyfriend,Play with my cats in my cool apartment,0.02,0.03,4.4,0.0
+88,Eat at a restaurant with my boyfriend,Do yoga early in the morning outside,0.03,0.03,1.1,0.0
+89,Hike at red rocks at night in the summer,Walk around the mall with my mom,0.04,0.03,3.3,1.0
+90,Go on a hike with my friends,Do yoga early in the morning outside,0.05,0.03,8.8,0.0
+91,Eat at a restaurant with my boyfriend,Read a book at the park,0.01,0.04,3.3,0.0
+92,Swim at the pool with my siblings,Drink iced tea on the front porch,0.02,0.04,8.8,0.0
+93,Read a book at the park,Walk the dogs with my mom,0.03,0.04,1.1,1.0
+94,Swim at the pool with my siblings,Write poetry underneath the shade of a willow tree,0.04,0.04,4.4,0.0
+95,Walk in the sand in south carolina,Go on a hike with my friends,0.05,0.04,4.4,1.0
+96,Take photos of nature with my friends,Swim in the ocean,0.01,0.05,3.3,0.0
+97,Hike at red rocks at night in the summer,Take photos of nature with my friends,0.02,0.05,1.1,1.0
+98,Gril hamburgers outside with my dad,Walk in the sand in south carolina,0.03,0.05,1.1,0.0
+99,Eat at a restaurant with my boyfriend,Hike at red rocks at night in the summer,0.04,0.05,3.3,0.0
+100,Go to a concert with friends,Listen to music while driving with the windows down,0.05,0.05,4.4,0.0

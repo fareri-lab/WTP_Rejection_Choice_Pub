@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Watch adult animation shows with my boyfriend,Take a warm bath,0.01,0.01,4.4,0.0
+2,Play with my animals,Watch adult animation shows with my boyfriend,0.02,0.01,8.8,1.0
+3,Play video games,Watch tv saturday nights with my dad,0.03,0.01,3.3,1.0
+4,Take a warm bath,Go fish with my family,0.04,0.01,1.1,1.0
+5,Paint my toes and nails,Go out to eat with my boyfriend,0.05,0.01,1.1,1.0
+6,Do my hair with my friends,Listen to podcasts,0.01,0.02,3.3,0.0
+7,Play video games,Play fortnite with my little brother,0.02,0.02,1.1,1.0
+8,Play fortnite with my little brother,Paint my toes and nails,0.03,0.02,1.1,0.0
+9,Go to thrift stores with my boyfriend,Do my skin care,0.04,0.02,4.4,0.0
+10,Paint frames with my friends,Take a warm bath,0.05,0.02,1.1,0.0
+11,Go on picnics with my friends,Paint my toes and nails,0.01,0.03,3.3,0.0
+12,Listen to podcasts,Play fortnite with my little brother,0.02,0.03,4.4,1.0
+13,Go on picnics with my friends,Read thriller books,0.03,0.03,1.1,0.0
+14,Go to the pool with my family,Binge watch reality tv,0.04,0.03,3.3,0.0
+15,Go to the pool with my family,Paint my toes and nails,0.05,0.03,4.4,0.0
+16,Paint frames with my friends,Listen to podcasts,0.01,0.04,1.1,0.0
+17,Go to thrift stores with my boyfriend,Paint my toes and nails,0.02,0.04,8.8,0.0
+18,Play fortnite with my little brother,Binge watch reality tv,0.03,0.04,3.3,0.0
+19,Listen to podcasts,Go fish with my family,0.04,0.04,3.3,1.0
+20,Go on picnics with my friends,Paint with acrylic paint,0.05,0.04,1.1,0.0
+21,Watch adult animation shows with my boyfriend,Try new makeup styles,0.01,0.05,8.8,0.0
+22,Try new makeup styles,Go fish with my family,0.02,0.05,4.4,1.0
+23,Paint with acrylic paint,Go to the pool with my family,0.03,0.05,1.1,1.0
+24,Read thriller books,Go to the pool with my family,0.04,0.05,4.4,1.0
+25,Read thriller books,Go out to eat with my boyfriend,0.05,0.05,3.3,1.0
+26,Try new makeup styles,Go to thrift stores with my boyfriend,0.01,0.01,4.4,1.0
+27,Paint frames with my friends,Do my skin care,0.02,0.01,3.3,0.0
+28,Do my hair with my friends,Paint my toes and nails,0.03,0.01,3.3,0.0
+29,Go to the pool with my family,Take a warm bath,0.04,0.01,4.4,0.0
+30,Listen to podcasts,Watch adult animation shows with my boyfriend,0.05,0.01,8.8,1.0
+31,Watch adult animation shows with my boyfriend,Paint with acrylic paint,0.01,0.02,8.8,0.0
+32,Play video games,Do my hair with my friends,0.02,0.02,1.1,1.0
+33,Listen to podcasts,Watch tv saturday nights with my dad,0.03,0.02,4.4,1.0
+34,Read thriller books,Go to thrift stores with my boyfriend,0.04,0.02,3.3,1.0
+35,Paint frames with my friends,Paint my toes and nails,0.05,0.02,1.1,0.0
+36,Watch tv saturday nights with my dad,Binge watch reality tv,0.01,0.03,3.3,0.0
+37,Read thriller books,Go fish with my family,0.02,0.03,1.1,1.0
+38,Go on picnics with my friends,Try new makeup styles,0.03,0.03,1.1,0.0
+39,Go on picnics with my friends,Play video games,0.04,0.03,3.3,0.0
+40,Go out to eat with my boyfriend,Play with my animals,0.05,0.03,4.4,0.0
+41,Paint with acrylic paint,Go fish with my family,0.01,0.04,1.1,1.0
+42,Listen to podcasts,Go to the pool with my family,0.02,0.04,3.3,1.0
+43,Try new makeup styles,Do my hair with my friends,0.03,0.04,1.1,1.0
+44,Go on picnics with my friends,Listen to podcasts,0.04,0.04,1.1,0.0
+45,Binge watch reality tv,Paint frames with my friends,0.05,0.04,4.4,1.0
+46,Go to the pool with my family,Play with my animals,0.01,0.05,8.8,0.0
+47,Play video games,Go to thrift stores with my boyfriend,0.02,0.05,1.1,1.0
+48,Go on picnics with my friends,Binge watch reality tv,0.03,0.05,4.4,0.0
+49,Go out to eat with my boyfriend,Listen to podcasts,0.04,0.05,3.3,0.0
+50,Play with my animals,Watch tv saturday nights with my dad,0.05,0.05,1.1,1.0
+51,Go out to eat with my boyfriend,Binge watch reality tv,0.01,0.01,1.1,0.0
+52,Do my skin care,Go to the pool with my family,0.02,0.01,3.3,1.0
+53,Paint with acrylic paint,Do my hair with my friends,0.03,0.01,1.1,1.0
+54,Go to the pool with my family,Play video games,0.04,0.01,4.4,0.0
+55,Go to thrift stores with my boyfriend,Play with my animals,0.05,0.01,1.1,0.0
+56,Paint frames with my friends,Play with my animals,0.01,0.02,8.8,0.0
+57,Do my hair with my friends,Do my skin care,0.02,0.02,4.4,0.0
+58,Try new makeup styles,Go to the pool with my family,0.03,0.02,4.4,1.0
+59,Watch tv saturday nights with my dad,Paint with acrylic paint,0.04,0.02,4.4,0.0
+60,Binge watch reality tv,Watch adult animation shows with my boyfriend,0.05,0.02,1.1,1.0
+61,Go fish with my family,Play with my animals,0.01,0.03,3.3,0.0
+62,Go out to eat with my boyfriend,Take a warm bath,0.02,0.03,3.3,0.0
+63,Play video games,Paint frames with my friends,0.03,0.03,3.3,1.0
+64,Play with my animals,Play fortnite with my little brother,0.04,0.03,1.1,1.0
+65,Watch adult animation shows with my boyfriend,Do my skin care,0.05,0.03,1.1,0.0
+66,Take a warm bath,Go to thrift stores with my boyfriend,0.01,0.04,1.1,1.0
+67,Watch tv saturday nights with my dad,Paint my toes and nails,0.02,0.04,8.8,0.0
+68,Listen to podcasts,Go to thrift stores with my boyfriend,0.03,0.04,4.4,1.0
+69,Take a warm bath,Play fortnite with my little brother,0.04,0.04,1.1,1.0
+70,Play video games,Go out to eat with my boyfriend,0.05,0.04,1.1,1.0
+71,Do my hair with my friends,Read thriller books,0.01,0.05,3.3,0.0
+72,Go fish with my family,Do my skin care,0.02,0.05,8.8,0.0
+73,Do my skin care,Play fortnite with my little brother,0.03,0.05,3.3,1.0
+74,Go fish with my family,Binge watch reality tv,0.04,0.05,4.4,0.0
+75,Watch tv saturday nights with my dad,Do my skin care,0.05,0.05,3.3,0.0
+76,Watch adult animation shows with my boyfriend,Paint my toes and nails,0.01,0.01,1.1,0.0
+77,Try new makeup styles,Watch tv saturday nights with my dad,0.02,0.01,8.8,1.0
+78,Binge watch reality tv,Do my hair with my friends,0.03,0.01,1.1,1.0
+79,Do my skin care,Go out to eat with my boyfriend,0.04,0.01,1.1,1.0
+80,Go to thrift stores with my boyfriend,Binge watch reality tv,0.05,0.01,4.4,0.0
+81,Try new makeup styles,Go out to eat with my boyfriend,0.01,0.02,3.3,1.0
+82,Watch adult animation shows with my boyfriend,Read thriller books,0.02,0.02,4.4,0.0
+83,Paint with acrylic paint,Play fortnite with my little brother,0.03,0.02,1.1,1.0
+84,Play with my animals,Do my hair with my friends,0.04,0.02,3.3,1.0
+85,Play fortnite with my little brother,Try new makeup styles,0.05,0.02,3.3,0.0
+86,Watch tv saturday nights with my dad,Take a warm bath,0.01,0.03,1.1,0.0
+87,Paint with acrylic paint,Paint frames with my friends,0.02,0.03,4.4,1.0
+88,Read thriller books,Play fortnite with my little brother,0.03,0.03,1.1,1.0
+89,Paint frames with my friends,Try new makeup styles,0.04,0.03,3.3,0.0
+90,Go to thrift stores with my boyfriend,Paint with acrylic paint,0.05,0.03,8.8,0.0
+91,Go out to eat with my boyfriend,Paint with acrylic paint,0.01,0.04,3.3,0.0
+92,Paint my toes and nails,Go fish with my family,0.02,0.04,8.8,1.0
+93,Do my skin care,Go on picnics with my friends,0.03,0.04,1.1,1.0
+94,Go on picnics with my friends,Take a warm bath,0.04,0.04,4.4,0.0
+95,Play video games,Go fish with my family,0.05,0.04,4.4,1.0
+96,Take a warm bath,Do my hair with my friends,0.01,0.05,3.3,1.0
+97,Play with my animals,Go on picnics with my friends,0.02,0.05,1.1,1.0
+98,Read thriller books,Watch tv saturday nights with my dad,0.03,0.05,1.1,1.0
+99,Read thriller books,Paint frames with my friends,0.04,0.05,3.3,1.0
+100,Play video games,Watch adult animation shows with my boyfriend,0.05,0.05,4.4,1.0

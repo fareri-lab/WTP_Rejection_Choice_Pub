@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Walk through the neighborhood with my dogs and family,Swim in the pool on a cloudy day,0.01,0.01,4.4,0.0
+2,Watch star wars movies on my couch on a rainy day,Watch scary movies in october with my significant other,0.02,0.01,8.8,1.0
+3,Work late on a weeknight with my significant other,Drink a strong cup of coffee first thing in the morning,0.03,0.01,3.3,0.0
+4,Watch football all day on sunday with my friends,Bake myself some fresh chocolate chip cookies,0.04,0.01,1.1,0.0
+5,Bake myself some fresh chocolate chip cookies,Drink beers at the local brewery with my friends,0.05,0.01,1.1,1.0
+6,Go with my family to the zoo on a Saturday morning,Scroll tiktok on my phone at the end of a long day,0.01,0.02,3.3,0.0
+7,Bake myself some fresh chocolate chip cookies,Work late on a weeknight with my significant other,0.02,0.02,1.1,1.0
+8,Watch football all day on sunday with my friends,Browse amazon for impulse purchases after I've gotten paid,0.03,0.02,1.1,0.0
+9,Walk through the neighborhood with my dogs and family,Bake myself some fresh chocolate chip cookies,0.04,0.02,4.4,0.0
+10,Swim in the pool on a cloudy day,Go out to dinner with my significant other on a friday night,0.05,0.02,1.1,1.0
+11,Scroll tiktok on my phone at the end of a long day,Work late on a weeknight with my significant other,0.01,0.03,3.3,1.0
+12,Go on a coffee run to Starbucks,Walk through the neighborhood with my dogs and family,0.02,0.03,4.4,1.0
+13,Go out to dinner with my significant other on a friday night,Watch star wars movies on my couch on a rainy day,0.03,0.03,1.1,0.0
+14,Go to target with my family on sundays,Go for a run in my neighborhood on a cloudy morning,0.04,0.03,3.3,0.0
+15,Swim in the pool on a cloudy day,Work late on a weeknight with my significant other,0.05,0.03,4.4,1.0
+16,Go out to dinner with my significant other on a friday night,Clean up the house on an early sunday morning,0.01,0.04,1.1,0.0
+17,Go out to dinner with my significant other on a friday night,Scroll tiktok on my phone at the end of a long day,0.02,0.04,8.8,0.0
+18,Write in my journal about the things that I've done this week,Go to target with my family on sundays,0.03,0.04,3.3,1.0
+19,Go on a coffee run to Starbucks,Watch football all day on sunday with my friends,0.04,0.04,3.3,1.0
+20,Walk through the neighborhood with my dogs and family,Write in my journal about the things that I've done this week,0.05,0.04,1.1,0.0
+21,Cook a nice dinner with my family on a sunday night,Bake myself some fresh chocolate chip cookies,0.01,0.05,8.8,0.0
+22,Browse amazon for impulse purchases after I've gotten paid,Go to target with my family on sundays,0.02,0.05,4.4,1.0
+23,Go on a coffee run to Starbucks,Work late on a weeknight with my significant other,0.03,0.05,1.1,1.0
+24,Browse amazon for impulse purchases after I've gotten paid,Watch scary movies in october with my significant other,0.04,0.05,4.4,1.0
+25,Swim in the pool on a cloudy day,Watch scary movies in october with my significant other,0.05,0.05,3.3,1.0
+26,Browse amazon for impulse purchases after I've gotten paid,Work late on a weeknight with my significant other,0.01,0.01,4.4,1.0
+27,Go on a coffee run to Starbucks,Watch scary movies in october with my significant other,0.02,0.01,3.3,1.0
+28,Scroll tiktok on my phone at the end of a long day,Watch football all day on sunday with my friends,0.03,0.01,3.3,1.0
+29,Bake myself some fresh chocolate chip cookies,Go out to dinner with my significant other on a friday night,0.04,0.01,4.4,1.0
+30,Drink beers at the local brewery with my friends,Drink a strong cup of coffee first thing in the morning,0.05,0.01,8.8,0.0
+31,Plan for the week ahead with my significant other on sunday afternoon,Scroll tiktok on my phone at the end of a long day,0.01,0.02,8.8,0.0
+32,Watch star wars movies on my couch on a rainy day,Go to target with my family on sundays,0.02,0.02,1.1,1.0
+33,Bake myself some fresh chocolate chip cookies,Plan for the week ahead with my significant other on sunday afternoon,0.03,0.02,4.4,1.0
+34,Drink a strong cup of coffee first thing in the morning,Cook a nice dinner with my family on a sunday night,0.04,0.02,3.3,1.0
+35,Go with my family to the zoo on a Saturday morning,Go for a run in my neighborhood on a cloudy morning,0.05,0.02,1.1,0.0
+36,Write in my journal about the things that I've done this week,Watch football all day on sunday with my friends,0.01,0.03,3.3,1.0
+37,Watch scary movies in october with my significant other,Write in my journal about the things that I've done this week,0.02,0.03,1.1,0.0
+38,Swim in the pool on a cloudy day,Plan for the week ahead with my significant other on sunday afternoon,0.03,0.03,1.1,1.0
+39,Drink a strong cup of coffee first thing in the morning,Go out to dinner with my significant other on a friday night,0.04,0.03,3.3,1.0
+40,Cook a nice dinner with my family on a sunday night,Watch star wars movies on my couch on a rainy day,0.05,0.03,4.4,0.0
+41,Plan for the week ahead with my significant other on sunday afternoon,Drink a strong cup of coffee first thing in the morning,0.01,0.04,1.1,0.0
+42,Scroll tiktok on my phone at the end of a long day,Go to target with my family on sundays,0.02,0.04,3.3,1.0
+43,Swim in the pool on a cloudy day,Go with my family to the zoo on a Saturday morning,0.03,0.04,1.1,1.0
+44,Go with my family to the zoo on a Saturday morning,Browse amazon for impulse purchases after I've gotten paid,0.04,0.04,1.1,0.0
+45,Watch scary movies in october with my significant other,Go for a run in my neighborhood on a cloudy morning,0.05,0.04,4.4,0.0
+46,Drink beers at the local brewery with my friends,Write in my journal about the things that I've done this week,0.01,0.05,8.8,0.0
+47,Scroll tiktok on my phone at the end of a long day,Drink beers at the local brewery with my friends,0.02,0.05,1.1,1.0
+48,Browse amazon for impulse purchases after I've gotten paid,Go out to dinner with my significant other on a friday night,0.03,0.05,4.4,1.0
+49,Plan for the week ahead with my significant other on sunday afternoon,Clean up the house on an early sunday morning,0.04,0.05,3.3,0.0
+50,Walk through the neighborhood with my dogs and family,Browse amazon for impulse purchases after I've gotten paid,0.05,0.05,1.1,0.0
+51,Watch star wars movies on my couch on a rainy day,Walk through the neighborhood with my dogs and family,0.01,0.01,1.1,1.0
+52,Drink a strong cup of coffee first thing in the morning,Watch football all day on sunday with my friends,0.02,0.01,3.3,1.0
+53,Watch football all day on sunday with my friends,Watch star wars movies on my couch on a rainy day,0.03,0.01,1.1,0.0
+54,Go to target with my family on sundays,Clean up the house on an early sunday morning,0.04,0.01,4.4,0.0
+55,Go with my family to the zoo on a Saturday morning,Write in my journal about the things that I've done this week,0.05,0.01,1.1,0.0
+56,Go to target with my family on sundays,Swim in the pool on a cloudy day,0.01,0.02,8.8,0.0
+57,Go for a run in my neighborhood on a cloudy morning,Watch football all day on sunday with my friends,0.02,0.02,4.4,1.0
+58,Work late on a weeknight with my significant other,Go for a run in my neighborhood on a cloudy morning,0.03,0.02,4.4,0.0
+59,Plan for the week ahead with my significant other on sunday afternoon,Go on a coffee run to Starbucks,0.04,0.02,4.4,0.0
+60,Go out to dinner with my significant other on a friday night,Go for a run in my neighborhood on a cloudy morning,0.05,0.02,1.1,0.0
+61,Cook a nice dinner with my family on a sunday night,Go on a coffee run to Starbucks,0.01,0.03,3.3,0.0
+62,Drink a strong cup of coffee first thing in the morning,Go with my family to the zoo on a Saturday morning,0.02,0.03,3.3,1.0
+63,Go out to dinner with my significant other on a friday night,Write in my journal about the things that I've done this week,0.03,0.03,3.3,0.0
+64,Watch star wars movies on my couch on a rainy day,Work late on a weeknight with my significant other,0.04,0.03,1.1,1.0
+65,Go for a run in my neighborhood on a cloudy morning,Drink beers at the local brewery with my friends,0.05,0.03,1.1,1.0
+66,Write in my journal about the things that I've done this week,Work late on a weeknight with my significant other,0.01,0.04,1.1,1.0
+67,Watch star wars movies on my couch on a rainy day,Plan for the week ahead with my significant other on sunday afternoon,0.02,0.04,8.8,1.0
+68,Scroll tiktok on my phone at the end of a long day,Cook a nice dinner with my family on a sunday night,0.03,0.04,4.4,1.0
+69,Watch scary movies in october with my significant other,Scroll tiktok on my phone at the end of a long day,0.04,0.04,1.1,0.0
+70,Go to target with my family on sundays,Go on a coffee run to Starbucks,0.05,0.04,1.1,0.0
+71,Walk through the neighborhood with my dogs and family,Drink a strong cup of coffee first thing in the morning,0.01,0.05,3.3,0.0
+72,Browse amazon for impulse purchases after I've gotten paid,Drink beers at the local brewery with my friends,0.02,0.05,8.8,1.0
+73,Go to target with my family on sundays,Bake myself some fresh chocolate chip cookies,0.03,0.05,3.3,0.0
+74,Watch scary movies in october with my significant other,Clean up the house on an early sunday morning,0.04,0.05,4.4,0.0
+75,Work late on a weeknight with my significant other,Clean up the house on an early sunday morning,0.05,0.05,3.3,0.0
+76,Watch star wars movies on my couch on a rainy day,Go with my family to the zoo on a Saturday morning,0.01,0.01,1.1,1.0
+77,Browse amazon for impulse purchases after I've gotten paid,Cook a nice dinner with my family on a sunday night,0.02,0.01,8.8,1.0
+78,Go out to dinner with my significant other on a friday night,Go on a coffee run to Starbucks,0.03,0.01,1.1,0.0
+79,Drink beers at the local brewery with my friends,Watch star wars movies on my couch on a rainy day,0.04,0.01,1.1,0.0
+80,Clean up the house on an early sunday morning,Cook a nice dinner with my family on a sunday night,0.05,0.01,4.4,1.0
+81,Clean up the house on an early sunday morning,Go with my family to the zoo on a Saturday morning,0.01,0.02,3.3,1.0
+82,Plan for the week ahead with my significant other on sunday afternoon,Browse amazon for impulse purchases after I've gotten paid,0.02,0.02,4.4,0.0
+83,Clean up the house on an early sunday morning,Watch football all day on sunday with my friends,0.03,0.02,1.1,1.0
+84,Clean up the house on an early sunday morning,Drink beers at the local brewery with my friends,0.04,0.02,3.3,1.0
+85,Go on a coffee run to Starbucks,Go with my family to the zoo on a Saturday morning,0.05,0.02,3.3,1.0
+86,Go to target with my family on sundays,Drink a strong cup of coffee first thing in the morning,0.01,0.03,1.1,0.0
+87,Go on a coffee run to Starbucks,Drink beers at the local brewery with my friends,0.02,0.03,4.4,1.0
+88,Go with my family to the zoo on a Saturday morning,Bake myself some fresh chocolate chip cookies,0.03,0.03,1.1,0.0
+89,Cook a nice dinner with my family on a sunday night,Swim in the pool on a cloudy day,0.04,0.03,3.3,0.0
+90,Watch football all day on sunday with my friends,Swim in the pool on a cloudy day,0.05,0.03,8.8,0.0
+91,Write in my journal about the things that I've done this week,Plan for the week ahead with my significant other on sunday afternoon,0.01,0.04,3.3,1.0
+92,Swim in the pool on a cloudy day,Drink beers at the local brewery with my friends,0.02,0.04,8.8,1.0
+93,Drink a strong cup of coffee first thing in the morning,Watch scary movies in october with my significant other,0.03,0.04,1.1,1.0
+94,Plan for the week ahead with my significant other on sunday afternoon,Go for a run in my neighborhood on a cloudy morning,0.04,0.04,4.4,0.0
+95,Watch scary movies in october with my significant other,Bake myself some fresh chocolate chip cookies,0.05,0.04,4.4,0.0
+96,Clean up the house on an early sunday morning,Walk through the neighborhood with my dogs and family,0.01,0.05,3.3,1.0
+97,Walk through the neighborhood with my dogs and family,Go for a run in my neighborhood on a cloudy morning,0.02,0.05,1.1,0.0
+98,Cook a nice dinner with my family on a sunday night,Write in my journal about the things that I've done this week,0.03,0.05,1.1,0.0
+99,Scroll tiktok on my phone at the end of a long day,Walk through the neighborhood with my dogs and family,0.04,0.05,3.3,1.0
+100,Cook a nice dinner with my family on a sunday night,Go for a run in my neighborhood on a cloudy morning,0.05,0.05,4.4,0.0

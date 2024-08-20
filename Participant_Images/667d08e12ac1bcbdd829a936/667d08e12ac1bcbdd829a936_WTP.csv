@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Eat spicy chips in my room,Hang out with my friends at the park,0.01,0.01,4.4,1.0
+2,Watch youtube videos on my bed,Watch tv with my dad in the living room,0.02,0.01,8.8,1.0
+3,Shop for clothes with my boyfriend,Go for target runs on the weekend,0.03,0.01,3.3,0.0
+4,Listen to sabrina carpenter songs in my room,Watch tv with my dad in the living room,0.04,0.01,1.1,1.0
+5,Listen to sabrina carpenter songs in my room,Hang out with my friends at the park,0.05,0.01,1.1,1.0
+6,Play with my guinea pigs in my room,Eat dinner with my grandparents in the living room,0.01,0.02,3.3,1.0
+7,Listen to sabrina carpenter songs in my room,Read at the bookstore with my friends,0.02,0.02,1.1,1.0
+8,Eat out with my boyfriend on fridays,Play with my guinea pigs in my room,0.03,0.02,1.1,0.0
+9,Shop for clothes with my boyfriend,Play with my guinea pigs in my room,0.04,0.02,4.4,0.0
+10,Put on a skincare mask on my face in the restroom,Hang out with my friends at the park,0.05,0.02,1.1,1.0
+11,Listen to taylor swift songs in my room,Watch tv with my dad in the living room,0.01,0.03,3.3,1.0
+12,Drink coffee with my friends at starbucks,Read a book on my bed,0.02,0.03,4.4,0.0
+13,Read a book on my bed,Watch tv with my dad in the living room,0.03,0.03,1.1,1.0
+14,Drink boba tea on the weekends,Eat out with my boyfriend on fridays,0.04,0.03,3.3,1.0
+15,Eat out with my boyfriend on fridays,Go for target runs on the weekend,0.05,0.03,4.4,0.0
+16,Drink boba tea on the weekends,Watch tv with my dad in the living room,0.01,0.04,1.1,1.0
+17,Shop for clothes with my boyfriend,Watch youtube videos on my bed,0.02,0.04,8.8,0.0
+18,Play with my guinea pigs in my room,Hang out with my friends at the park,0.03,0.04,3.3,1.0
+19,Read at the bookstore with my friends,Watch youtube videos on my bed,0.04,0.04,3.3,0.0
+20,Eat dinner with my grandparents in the living room,Go for target runs on the weekend,0.05,0.04,1.1,0.0
+21,Drink boba tea on the weekends,Drink coffee with my friends at starbucks,0.01,0.05,8.8,1.0
+22,Read at the bookstore with my friends,Eat noodles in the kitchen,0.02,0.05,4.4,0.0
+23,Shop for clothes with my boyfriend,Eat spicy chips in my room,0.03,0.05,1.1,0.0
+24,Go to target with my boyfriend on the weekends,Listen to taylor swift songs in my room,0.04,0.05,4.4,0.0
+25,Eat out with my boyfriend on fridays,Eat spicy chips in my room,0.05,0.05,3.3,0.0
+26,Listen to sabrina carpenter songs in my room,Eat out with my boyfriend on fridays,0.01,0.01,4.4,1.0
+27,Go to target with my boyfriend on the weekends,Drink boba tea on the weekends,0.02,0.01,3.3,0.0
+28,Go out to eat with my dad on saturday afternoons,Read a book on my bed,0.03,0.01,3.3,0.0
+29,Play with my guinea pigs in my room,Watch tv with my dad in the living room,0.04,0.01,4.4,1.0
+30,Go to target with my boyfriend on the weekends,Put on a skincare mask on my face in the restroom,0.05,0.01,8.8,0.0
+31,Read at the bookstore with my friends,Listen to taylor swift songs in my room,0.01,0.02,8.8,0.0
+32,Listen to sabrina carpenter songs in my room,Go to target with my boyfriend on the weekends,0.02,0.02,1.1,1.0
+33,Read at the bookstore with my friends,Play with my guinea pigs in my room,0.03,0.02,4.4,0.0
+34,Eat spicy chips in my room,Go to target with my boyfriend on the weekends,0.04,0.02,3.3,1.0
+35,Watch youtube videos on my bed,Eat out with my boyfriend on fridays,0.05,0.02,1.1,1.0
+36,Read a book on my bed,Go to target with my boyfriend on the weekends,0.01,0.03,3.3,1.0
+37,Shop for clothes with my boyfriend,Drink boba tea on the weekends,0.02,0.03,1.1,0.0
+38,Drink coffee with my friends at starbucks,Go for target runs on the weekend,0.03,0.03,1.1,0.0
+39,Put on a skincare mask on my face in the restroom,Eat dinner with my grandparents in the living room,0.04,0.03,3.3,1.0
+40,Read a book on my bed,Hang out with my friends at the park,0.05,0.03,4.4,1.0
+41,Drink boba tea on the weekends,Read at the bookstore with my friends,0.01,0.04,1.1,1.0
+42,Go to the mall with my friends on the weekends,Play with my guinea pigs in my room,0.02,0.04,3.3,0.0
+43,Hang out with my friends at the park,Eat noodles in the kitchen,0.03,0.04,1.1,0.0
+44,Drink coffee with my friends at starbucks,Watch youtube videos on my bed,0.04,0.04,1.1,0.0
+45,Watch tv with my dad in the living room,Eat noodles in the kitchen,0.05,0.04,4.4,0.0
+46,Go to the mall with my friends on the weekends,Watch youtube videos on my bed,0.01,0.05,8.8,0.0
+47,Read a book on my bed,Eat out with my boyfriend on fridays,0.02,0.05,1.1,1.0
+48,Read at the bookstore with my friends,Put on a skincare mask on my face in the restroom,0.03,0.05,4.4,0.0
+49,Drink boba tea on the weekends,Go out to eat with my dad on saturday afternoons,0.04,0.05,3.3,1.0
+50,Read a book on my bed,Shop for clothes with my boyfriend,0.05,0.05,1.1,1.0
+51,Go to target with my boyfriend on the weekends,Watch youtube videos on my bed,0.01,0.01,1.1,0.0
+52,Drink boba tea on the weekends,Eat dinner with my grandparents in the living room,0.02,0.01,3.3,1.0
+53,Play with my guinea pigs in my room,Go out to eat with my dad on saturday afternoons,0.03,0.01,1.1,1.0
+54,Watch tv with my dad in the living room,Eat spicy chips in my room,0.04,0.01,4.4,0.0
+55,Go for target runs on the weekend,Read at the bookstore with my friends,0.05,0.01,1.1,1.0
+56,Eat spicy chips in my room,Read at the bookstore with my friends,0.01,0.02,8.8,1.0
+57,Read a book on my bed,Go to the mall with my friends on the weekends,0.02,0.02,4.4,1.0
+58,Watch tv with my dad in the living room,Put on a skincare mask on my face in the restroom,0.03,0.02,4.4,0.0
+59,Listen to taylor swift songs in my room,Go out to eat with my dad on saturday afternoons,0.04,0.02,4.4,1.0
+60,Go out to eat with my dad on saturday afternoons,Go for target runs on the weekend,0.05,0.02,1.1,0.0
+61,Eat spicy chips in my room,Go to the mall with my friends on the weekends,0.01,0.03,3.3,1.0
+62,Hang out with my friends at the park,Drink boba tea on the weekends,0.02,0.03,3.3,0.0
+63,Drink coffee with my friends at starbucks,Put on a skincare mask on my face in the restroom,0.03,0.03,3.3,0.0
+64,Drink coffee with my friends at starbucks,Listen to taylor swift songs in my room,0.04,0.03,1.1,0.0
+65,Eat dinner with my grandparents in the living room,Read a book on my bed,0.05,0.03,1.1,0.0
+66,Eat dinner with my grandparents in the living room,Eat spicy chips in my room,0.01,0.04,1.1,0.0
+67,Listen to sabrina carpenter songs in my room,Eat dinner with my grandparents in the living room,0.02,0.04,8.8,1.0
+68,Eat dinner with my grandparents in the living room,Watch youtube videos on my bed,0.03,0.04,4.4,0.0
+69,Watch youtube videos on my bed,Go out to eat with my dad on saturday afternoons,0.04,0.04,1.1,1.0
+70,Shop for clothes with my boyfriend,Put on a skincare mask on my face in the restroom,0.05,0.04,1.1,0.0
+71,Eat dinner with my grandparents in the living room,Eat noodles in the kitchen,0.01,0.05,3.3,0.0
+72,Eat noodles in the kitchen,Drink coffee with my friends at starbucks,0.02,0.05,8.8,1.0
+73,Eat noodles in the kitchen,Go to target with my boyfriend on the weekends,0.03,0.05,3.3,1.0
+74,Watch tv with my dad in the living room,Go for target runs on the weekend,0.04,0.05,4.4,0.0
+75,Go to the mall with my friends on the weekends,Listen to taylor swift songs in my room,0.05,0.05,3.3,0.0
+76,Go out to eat with my dad on saturday afternoons,Put on a skincare mask on my face in the restroom,0.01,0.01,1.1,0.0
+77,Go to the mall with my friends on the weekends,Drink boba tea on the weekends,0.02,0.01,8.8,0.0
+78,Eat noodles in the kitchen,Go to the mall with my friends on the weekends,0.03,0.01,1.1,1.0
+79,Listen to taylor swift songs in my room,Eat dinner with my grandparents in the living room,0.04,0.01,1.1,1.0
+80,Eat out with my boyfriend on fridays,Eat noodles in the kitchen,0.05,0.01,4.4,0.0
+81,Shop for clothes with my boyfriend,Eat noodles in the kitchen,0.01,0.02,3.3,0.0
+82,Listen to taylor swift songs in my room,Hang out with my friends at the park,0.02,0.02,4.4,1.0
+83,Go to the mall with my friends on the weekends,Listen to sabrina carpenter songs in my room,0.03,0.02,1.1,0.0
+84,Read at the bookstore with my friends,Read a book on my bed,0.04,0.02,3.3,0.0
+85,Go out to eat with my dad on saturday afternoons,Eat noodles in the kitchen,0.05,0.02,3.3,0.0
+86,Play with my guinea pigs in my room,Go to target with my boyfriend on the weekends,0.01,0.03,1.1,1.0
+87,Put on a skincare mask on my face in the restroom,Eat out with my boyfriend on fridays,0.02,0.03,4.4,1.0
+88,Eat spicy chips in my room,Go out to eat with my dad on saturday afternoons,0.03,0.03,1.1,1.0
+89,Listen to sabrina carpenter songs in my room,Drink coffee with my friends at starbucks,0.04,0.03,3.3,1.0
+90,Go for target runs on the weekend,Hang out with my friends at the park,0.05,0.03,8.8,1.0
+91,Shop for clothes with my boyfriend,Listen to sabrina carpenter songs in my room,0.01,0.04,3.3,0.0
+92,Go for target runs on the weekend,Go to target with my boyfriend on the weekends,0.02,0.04,8.8,1.0
+93,Play with my guinea pigs in my room,Drink coffee with my friends at starbucks,0.03,0.04,1.1,1.0
+94,Listen to taylor swift songs in my room,Shop for clothes with my boyfriend,0.04,0.04,4.4,1.0
+95,Eat out with my boyfriend on fridays,Listen to taylor swift songs in my room,0.05,0.04,4.4,0.0
+96,Go to the mall with my friends on the weekends,Go for target runs on the weekend,0.01,0.05,3.3,0.0
+97,Eat spicy chips in my room,Drink coffee with my friends at starbucks,0.02,0.05,1.1,1.0
+98,Go out to eat with my dad on saturday afternoons,Listen to sabrina carpenter songs in my room,0.03,0.05,1.1,0.0
+99,Put on a skincare mask on my face in the restroom,Go to the mall with my friends on the weekends,0.04,0.05,3.3,1.0
+100,Watch youtube videos on my bed,Hang out with my friends at the park,0.05,0.05,4.4,1.0

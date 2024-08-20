@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,share reels with friends,play computer games,0.01,0.01,4.4,0.0
+2,cook for my siblings,watch a movie in my room ,0.02,0.01,8.8,0.0
+3,play musical chairs,start a book club,0.03,0.01,3.3,1.0
+4,share reels with friends,sleep in my bed,0.04,0.01,1.1,0.0
+5,eat a banana,walk to the store with friends,0.05,0.01,1.1,1.0
+6,watch a crime documentary with my boyfriend,run on track,0.01,0.02,3.3,0.0
+7,sleep in my bed,bake cookies with my boyfriend,0.02,0.02,1.1,1.0
+8,sleep in my bed,play tag with my siblings,0.03,0.02,1.1,1.0
+9,share reels with friends,play musical chairs,0.04,0.02,4.4,0.0
+10,play tag with my siblings,eat a banana,0.05,0.02,1.1,0.0
+11,run on track,eat pizza with my friends,0.01,0.03,3.3,1.0
+12,listen to music after classes,sleep in my bed,0.02,0.03,4.4,0.0
+13,sleep in my bed,cook for my siblings,0.03,0.03,1.1,1.0
+14,read a book,play tag with my siblings,0.04,0.03,3.3,1.0
+15,bake cookies with my boyfriend,play musical chairs,0.05,0.03,4.4,0.0
+16,play tag with my siblings,watch a movie in my room ,0.01,0.04,1.1,0.0
+17,draw an apple in charcol,eat pizza with my friends,0.02,0.04,8.8,1.0
+18,start a book club,sleep in my bed,0.03,0.04,3.3,0.0
+19,play computer games,cook for my siblings,0.04,0.04,3.3,1.0
+20,play a card game with friends,watch a movie in my room ,0.05,0.04,1.1,0.0
+21,play computer games,bake cookies with my boyfriend,0.01,0.05,8.8,1.0
+22,paint a picture of my friend,start a book club,0.02,0.05,4.4,1.0
+23,cook for my siblings,draw an apple in charcol,0.03,0.05,1.1,0.0
+24,run on track,play tag with my siblings,0.04,0.05,4.4,1.0
+25,paint a picture of my friend,cook for my siblings,0.05,0.05,3.3,1.0
+26,read a book,share reels with friends,0.01,0.01,4.4,1.0
+27,play computer games,watch a crime documentary with my boyfriend,0.02,0.01,3.3,1.0
+28,watch a movie in my room ,listen to music after classes,0.03,0.01,3.3,1.0
+29,cook for my siblings,read a book,0.04,0.01,4.4,0.0
+30,eat a banana,listen to music after classes,0.05,0.01,8.8,1.0
+31,play tag with my siblings,cook lunch,0.01,0.02,8.8,0.0
+32,cook lunch,walk to the store with friends,0.02,0.02,1.1,1.0
+33,eat pizza with my friends,watch a movie in my room ,0.03,0.02,4.4,0.0
+34,draw an apple in charcol,bake cookies with my boyfriend,0.04,0.02,3.3,1.0
+35,paint a picture of my friend,bake cookies with my boyfriend,0.05,0.02,1.1,1.0
+36,play musical chairs,cook for my siblings,0.01,0.03,3.3,1.0
+37,draw an apple in charcol,listen to music after classes,0.02,0.03,1.1,1.0
+38,listen to music after classes,run on track,0.03,0.03,1.1,0.0
+39,paint a picture of my friend,share reels with friends,0.04,0.03,3.3,1.0
+40,play tag with my siblings,draw an apple in charcol,0.05,0.03,4.4,0.0
+41,eat a banana,start a book club,0.01,0.04,1.1,1.0
+42,eat a banana,watch a crime documentary with my boyfriend,0.02,0.04,3.3,1.0
+43,eat pizza with my friends,play computer games,0.03,0.04,1.1,0.0
+44,watch a crime documentary with my boyfriend,sleep in my bed,0.04,0.04,1.1,0.0
+45,cook lunch,listen to music after classes,0.05,0.04,4.4,1.0
+46,run on track,bake cookies with my boyfriend,0.01,0.05,8.8,1.0
+47,walk to the store with friends,play musical chairs,0.02,0.05,1.1,0.0
+48,walk to the store with friends,paint a picture of my friend,0.03,0.05,4.4,0.0
+49,share reels with friends,watch a movie in my room ,0.04,0.05,3.3,0.0
+50,sleep in my bed,eat pizza with my friends,0.05,0.05,1.1,1.0
+51,eat pizza with my friends,paint a picture of my friend,0.01,0.01,1.1,0.0
+52,watch a crime documentary with my boyfriend,watch a movie in my room ,0.02,0.01,3.3,0.0
+53,watch a movie in my room ,walk to the store with friends,0.03,0.01,1.1,1.0
+54,watch a crime documentary with my boyfriend,cook lunch,0.04,0.01,4.4,0.0
+55,bake cookies with my boyfriend,watch a movie in my room ,0.05,0.01,1.1,0.0
+56,play a card game with friends,sleep in my bed,0.01,0.02,8.8,0.0
+57,bake cookies with my boyfriend,eat a banana,0.02,0.02,4.4,0.0
+58,watch a crime documentary with my boyfriend,paint a picture of my friend,0.03,0.02,4.4,0.0
+59,share reels with friends,run on track,0.04,0.02,4.4,0.0
+60,draw an apple in charcol,start a book club,0.05,0.02,1.1,1.0
+61,run on track,play a card game with friends,0.01,0.03,3.3,1.0
+62,play tag with my siblings,paint a picture of my friend,0.02,0.03,3.3,0.0
+63,read a book,start a book club,0.03,0.03,3.3,1.0
+64,play computer games,play a card game with friends,0.04,0.03,1.1,1.0
+65,play a card game with friends,paint a picture of my friend,0.05,0.03,1.1,0.0
+66,play musical chairs,play tag with my siblings,0.01,0.04,1.1,1.0
+67,run on track,cook for my siblings,0.02,0.04,8.8,1.0
+68,read a book,eat pizza with my friends,0.03,0.04,4.4,1.0
+69,walk to the store with friends,play computer games,0.04,0.04,1.1,0.0
+70,listen to music after classes,read a book,0.05,0.04,1.1,0.0
+71,cook for my siblings,cook lunch,0.01,0.05,3.3,0.0
+72,bake cookies with my boyfriend,cook lunch,0.02,0.05,8.8,0.0
+73,walk to the store with friends,draw an apple in charcol,0.03,0.05,3.3,0.0
+74,walk to the store with friends,sleep in my bed,0.04,0.05,4.4,0.0
+75,listen to music after classes,play computer games,0.05,0.05,3.3,0.0
+76,read a book,play a card game with friends,0.01,0.01,1.1,1.0
+77,start a book club,watch a movie in my room ,0.02,0.01,8.8,0.0
+78,start a book club,cook lunch,0.03,0.01,1.1,0.0
+79,eat a banana,cook for my siblings,0.04,0.01,1.1,1.0
+80,cook lunch,share reels with friends,0.05,0.01,4.4,1.0
+81,play tag with my siblings,play computer games,0.01,0.02,3.3,0.0
+82,share reels with friends,draw an apple in charcol,0.02,0.02,4.4,0.0
+83,draw an apple in charcol,play a card game with friends,0.03,0.02,1.1,1.0
+84,walk to the store with friends,run on track,0.04,0.02,3.3,0.0
+85,eat pizza with my friends,eat a banana,0.05,0.02,3.3,0.0
+86,read a book,watch a crime documentary with my boyfriend,0.01,0.03,1.1,1.0
+87,cook lunch,play a card game with friends,0.02,0.03,4.4,1.0
+88,play a card game with friends,eat a banana,0.03,0.03,1.1,0.0
+89,play computer games,start a book club,0.04,0.03,3.3,1.0
+90,cook lunch,eat pizza with my friends,0.05,0.03,8.8,1.0
+91,play musical chairs,eat pizza with my friends,0.01,0.04,3.3,1.0
+92,walk to the store with friends,read a book,0.02,0.04,8.8,0.0
+93,watch a crime documentary with my boyfriend,draw an apple in charcol,0.03,0.04,1.1,0.0
+94,read a book,bake cookies with my boyfriend,0.04,0.04,4.4,1.0
+95,play a card game with friends,play musical chairs,0.05,0.04,4.4,0.0
+96,start a book club,run on track,0.01,0.05,3.3,0.0
+97,eat a banana,share reels with friends,0.02,0.05,1.1,1.0
+98,play musical chairs,listen to music after classes,0.03,0.05,1.1,1.0
+99,paint a picture of my friend,listen to music after classes,0.04,0.05,3.3,1.0
+100,play musical chairs,watch a crime documentary with my boyfriend,0.05,0.05,4.4,1.0
