@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Go to a family members house with my family,Play video games with a glass of wine,0.01,0.01,4.4,0.0
+2,Watch a movie with my kids,Watch movies on my couch,0.02,0.01,8.8,0.0
+3,Play video games with my friends,Read a good book with a cup of tea,0.03,0.01,3.3,0.0
+4,Read a good book with a cup of tea,Go out to eat with my family,0.04,0.01,1.1,1.0
+5,Go out to eat with my family,Watch movies on my couch,0.05,0.01,1.1,0.0
+6,Give myself a facial and other skin care efforts,Read a book to my kids,0.01,0.02,3.3,1.0
+7,Go for a walk in nature,Go out to eat with my family,0.02,0.02,1.1,1.0
+8,Paint with acrylics while listening to music,Play board games with my famiy,0.03,0.02,1.1,1.0
+9,Give myself a facial and other skin care efforts,Play video games with my spouse ,0.04,0.02,4.4,1.0
+10,Paint with acrylics while listening to music,Go on a walk with my kids,0.05,0.02,1.1,1.0
+11,Go for a walk in nature,Play video games with my friends,0.01,0.03,3.3,1.0
+12,Watch a movie with my kids,Scroll through social media in a cold room,0.02,0.03,4.4,0.0
+13,Give myself a facial and other skin care efforts,Go to a family members house with my family,0.03,0.03,1.1,1.0
+14,Read a book to my kids,Play video games with a glass of wine,0.04,0.03,3.3,0.0
+15,Watch a movie with my kids,Sleep late in an ice cold room,0.05,0.03,4.4,0.0
+16,Read a book to my kids,Sleep late in an ice cold room,0.01,0.04,1.1,0.0
+17,Play board games with my famiy,Sleep late in an ice cold room,0.02,0.04,8.8,0.0
+18,Paint with acrylics while listening to music,Play video games with my friends,0.03,0.04,3.3,1.0
+19,Read a book to my kids,Go for a walk in nature,0.04,0.04,3.3,0.0
+20,Go for a walk in nature,Take my children to the zoo,0.05,0.04,1.1,1.0
+21,Take my children to the zoo,Take a long bath while listening to music,0.01,0.05,8.8,0.0
+22,Play blocks with my son,Give myself a facial and other skin care efforts,0.02,0.05,4.4,0.0
+23,Give myself a facial and other skin care efforts,Go out to eat with my family,0.03,0.05,1.1,1.0
+24,Play video games with my friends,Sleep late in an ice cold room,0.04,0.05,4.4,0.0
+25,Play board games with my famiy,Give myself a facial and other skin care efforts,0.05,0.05,3.3,0.0
+26,Read a book to my kids,Scroll through social media in a cold room,0.01,0.01,4.4,0.0
+27,Play video games with my friends,Give myself a facial and other skin care efforts,0.02,0.01,3.3,0.0
+28,Play board games with my famiy,Play records on my record player,0.03,0.01,3.3,0.0
+29,Go to a family members house with my family,Take a long bath while listening to music,0.04,0.01,4.4,0.0
+30,Play video games with a glass of wine,Play video games with my spouse ,0.05,0.01,8.8,1.0
+31,Paint with acrylics while listening to music,Play video games with my spouse ,0.01,0.02,8.8,1.0
+32,Sleep late in an ice cold room,Play blocks with my son,0.02,0.02,1.1,1.0
+33,Scroll through social media in a cold room,Go to a family members house with my family,0.03,0.02,4.4,1.0
+34,Sleep late in an ice cold room,Go out to eat with my family,0.04,0.02,3.3,1.0
+35,Take my children to the zoo,Scroll through social media in a cold room,0.05,0.02,1.1,0.0
+36,Paint with acrylics while listening to music,Take my children to the zoo,0.01,0.03,3.3,1.0
+37,Go on a walk with my kids,Take a long bath while listening to music,0.02,0.03,1.1,0.0
+38,Read a book to my kids,Read a good book with a cup of tea,0.03,0.03,1.1,0.0
+39,Go for a walk in nature,Play blocks with my son,0.04,0.03,3.3,1.0
+40,Sleep late in an ice cold room,Go on a walk with my kids,0.05,0.03,4.4,1.0
+41,Paint with acrylics while listening to music,Play blocks with my son,0.01,0.04,1.1,1.0
+42,Play video games with a glass of wine,Play board games with my famiy,0.02,0.04,3.3,1.0
+43,Go out to eat with my family,Scroll through social media in a cold room,0.03,0.04,1.1,0.0
+44,Play blocks with my son,Read a good book with a cup of tea,0.04,0.04,1.1,0.0
+45,Go out to eat with my family,Take a long bath while listening to music,0.05,0.04,4.4,0.0
+46,Play video games with my spouse ,Scroll through social media in a cold room,0.01,0.05,8.8,0.0
+47,Go for a walk in nature,Watch a movie with my kids,0.02,0.05,1.1,1.0
+48,Play video games with a glass of wine,Play video games with my friends,0.03,0.05,4.4,1.0
+49,Watch a movie with my kids,Take a long bath while listening to music,0.04,0.05,3.3,0.0
+50,Read a good book with a cup of tea,Take my children to the zoo,0.05,0.05,1.1,1.0
+51,Play video games with my spouse ,Play records on my record player,0.01,0.01,1.1,0.0
+52,Play video games with my spouse ,Take a long bath while listening to music,0.02,0.01,3.3,0.0
+53,Play records on my record player,Watch a movie with my kids,0.03,0.01,1.1,1.0
+54,Read a book to my kids,Paint with acrylics while listening to music,0.04,0.01,4.4,0.0
+55,Play blocks with my son,Take a long bath while listening to music,0.05,0.01,1.1,0.0
+56,Take my children to the zoo,Watch movies on my couch,0.01,0.02,8.8,0.0
+57,Go on a walk with my kids,Watch movies on my couch,0.02,0.02,4.4,0.0
+58,Play video games with a glass of wine,Take my children to the zoo,0.03,0.02,4.4,1.0
+59,Take a long bath while listening to music,Read a book to my kids,0.04,0.02,4.4,1.0
+60,Go out to eat with my family,Play video games with a glass of wine,0.05,0.02,1.1,0.0
+61,Go for a walk in nature,Play video games with my spouse ,0.01,0.03,3.3,1.0
+62,Go to a family members house with my family,Read a good book with a cup of tea,0.02,0.03,3.3,0.0
+63,Go to a family members house with my family,Go for a walk in nature,0.03,0.03,3.3,0.0
+64,Sleep late in an ice cold room,Go to a family members house with my family,0.04,0.03,1.1,1.0
+65,Paint with acrylics while listening to music,Go out to eat with my family,0.05,0.03,1.1,1.0
+66,Watch movies on my couch,Go to a family members house with my family,0.01,0.04,1.1,1.0
+67,Paint with acrylics while listening to music,Watch a movie with my kids,0.02,0.04,8.8,1.0
+68,Play board games with my famiy,Go for a walk in nature,0.03,0.04,4.4,0.0
+69,Watch movies on my couch,Play blocks with my son,0.04,0.04,1.1,1.0
+70,Go on a walk with my kids,Read a good book with a cup of tea,0.05,0.04,1.1,0.0
+71,Watch movies on my couch,Play board games with my famiy,0.01,0.05,3.3,1.0
+72,Take a long bath while listening to music,Play video games with my friends,0.02,0.05,8.8,1.0
+73,Play board games with my famiy,Read a good book with a cup of tea,0.03,0.05,3.3,0.0
+74,Play records on my record player,Go out to eat with my family,0.04,0.05,4.4,1.0
+75,Play video games with a glass of wine,Watch a movie with my kids,0.05,0.05,3.3,1.0
+76,Scroll through social media in a cold room,Go on a walk with my kids,0.01,0.01,1.1,1.0
+77,Take my children to the zoo,Give myself a facial and other skin care efforts,0.02,0.01,8.8,0.0
+78,Watch movies on my couch,Read a book to my kids,0.03,0.01,1.1,1.0
+79,Watch movies on my couch,Play video games with my friends,0.04,0.01,1.1,1.0
+80,Play video games with a glass of wine,Go on a walk with my kids,0.05,0.01,4.4,1.0
+81,Play records on my record player,Read a book to my kids,0.01,0.02,3.3,1.0
+82,Watch a movie with my kids,Give myself a facial and other skin care efforts,0.02,0.02,4.4,0.0
+83,Play records on my record player,Go to a family members house with my family,0.03,0.02,1.1,1.0
+84,Go on a walk with my kids,Give myself a facial and other skin care efforts,0.04,0.02,3.3,0.0
+85,Play board games with my famiy,Take a long bath while listening to music,0.05,0.02,3.3,0.0
+86,Play blocks with my son,Scroll through social media in a cold room,0.01,0.03,1.1,0.0
+87,Play records on my record player,Play video games with my friends,0.02,0.03,4.4,1.0
+88,Play records on my record player,Take my children to the zoo,0.03,0.03,1.1,1.0
+89,Go on a walk with my kids,Go for a walk in nature,0.04,0.03,3.3,0.0
+90,Watch movies on my couch,Play video games with my spouse ,0.05,0.03,8.8,1.0
+91,Take my children to the zoo,Sleep late in an ice cold room,0.01,0.04,3.3,0.0
+92,Paint with acrylics while listening to music,Go to a family members house with my family,0.02,0.04,8.8,1.0
+93,Read a good book with a cup of tea,Watch a movie with my kids,0.03,0.04,1.1,1.0
+94,Play video games with my friends,Scroll through social media in a cold room,0.04,0.04,4.4,0.0
+95,Go on a walk with my kids,Play records on my record player,0.05,0.04,4.4,0.0
+96,Play blocks with my son,Play video games with a glass of wine,0.01,0.05,3.3,0.0
+97,Scroll through social media in a cold room,Play board games with my famiy,0.02,0.05,1.1,1.0
+98,Play video games with my spouse ,Sleep late in an ice cold room,0.03,0.05,1.1,0.0
+99,Play blocks with my son,Play records on my record player,0.04,0.05,3.3,0.0
+100,Read a good book with a cup of tea,Play video games with my spouse ,0.05,0.05,4.4,1.0

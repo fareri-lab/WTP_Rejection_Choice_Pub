@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Shop in a new city and having laughs with my childhood buddies,Learn spanish in a dark basement,0.01,0.01,4.4,0.0
+2,Listen to ai music while laying on my carpet,Go to the movies at a luxury theatre ,0.02,0.01,8.8,1.0
+3,Eat breakfast in my living room,Cook food with new family members I just met,0.03,0.01,3.3,1.0
+4,Shop in a new city and having laughs with my childhood buddies,Listen to ai music while laying on my carpet,0.04,0.01,1.1,0.0
+5,Send emails to potential clients while on a train to NYC,Swim in the pool with family,0.05,0.01,1.1,1.0
+6,Sleep over a in-laws house and making nachos,Send emails to potential clients while on a train to NYC,0.01,0.02,3.3,0.0
+7,Code applications in my bedroom,Go to the movies at a luxury theatre ,0.02,0.02,1.1,1.0
+8,Cook food with new family members I just met,Spin my DJ records in my studio,0.03,0.02,1.1,0.0
+9,Send emails to potential clients while on a train to NYC,Cook food with new family members I just met,0.04,0.02,4.4,1.0
+10,Watch animal shows on  a friday night at my parents house,Send emails to potential clients while on a train to NYC,0.05,0.02,1.1,0.0
+11,Board a cruise and survey all the restaurants with family ,Drink a warm beer while walking in the park,0.01,0.03,3.3,0.0
+12,Watch animal shows on  a friday night at my parents house,Spin my DJ records in my studio,0.02,0.03,4.4,0.0
+13,Bet on nfl with my family at the bar,Listen to ai music while laying on my carpet,0.03,0.03,1.1,0.0
+14,watch youtube while watering my garden,Dance to salsa in a new location with my spouse and friends,0.04,0.03,3.3,1.0
+15,Shop in a new city and having laughs with my childhood buddies,Analyze data in a quiet library,0.05,0.03,4.4,0.0
+16,Dance to salsa in a new location with my spouse and friends,Eat breakfast in my living room,0.01,0.04,1.1,0.0
+17,Spin my DJ records in my studio,Catch up with a old cousin on a plane ride to the beach,0.02,0.04,8.8,1.0
+18,Eat breakfast in my living room,Sleep over a in-laws house and making nachos,0.03,0.04,3.3,1.0
+19,Swim in the pool with family,Learn spanish in a dark basement,0.04,0.04,3.3,0.0
+20,Learn spanish in a dark basement,Catch up with a old cousin on a plane ride to the beach,0.05,0.04,1.1,1.0
+21,Send emails to potential clients while on a train to NYC,Shop in a new city and having laughs with my childhood buddies,0.01,0.05,8.8,1.0
+22,Spin my DJ records in my studio,Dance to salsa in a new location with my spouse and friends,0.02,0.05,4.4,1.0
+23,watch youtube while watering my garden,Watch animal shows on  a friday night at my parents house,0.03,0.05,1.1,1.0
+24,Sleep over a in-laws house and making nachos,Listen to ai music while laying on my carpet,0.04,0.05,4.4,0.0
+25,Dance to salsa in a new location with my spouse and friends,Learn spanish in a dark basement,0.05,0.05,3.3,0.0
+26,Listen to ai music while laying on my carpet,Dance to salsa in a new location with my spouse and friends,0.01,0.01,4.4,1.0
+27,Catch up with a old cousin on a plane ride to the beach,watch youtube while watering my garden,0.02,0.01,3.3,0.0
+28,Shop in a new city and having laughs with my childhood buddies,play online RPG games in my man cave,0.03,0.01,3.3,0.0
+29,Drink a warm beer while walking in the park,Shop in a new city and having laughs with my childhood buddies,0.04,0.01,4.4,1.0
+30,Board a cruise and survey all the restaurants with family ,Analyze data in a quiet library,0.05,0.01,8.8,0.0
+31,Send emails to potential clients while on a train to NYC,Go to the movies at a luxury theatre ,0.01,0.02,8.8,1.0
+32,Send emails to potential clients while on a train to NYC,Board a cruise and survey all the restaurants with family ,0.02,0.02,1.1,1.0
+33,Watch animal shows on  a friday night at my parents house,Drink a warm beer while walking in the park,0.03,0.02,4.4,0.0
+34,Go to the movies at a luxury theatre ,watch youtube while watering my garden,0.04,0.02,3.3,0.0
+35,Eat breakfast in my living room,Board a cruise and survey all the restaurants with family ,0.05,0.02,1.1,1.0
+36,play online RPG games in my man cave,Bet on nfl with my family at the bar,0.01,0.03,3.3,1.0
+37,Board a cruise and survey all the restaurants with family ,Listen to ai music while laying on my carpet,0.02,0.03,1.1,0.0
+38,Catch up with a old cousin on a plane ride to the beach,Eat breakfast in my living room,0.03,0.03,1.1,0.0
+39,Drink a warm beer while walking in the park,Sleep over a in-laws house and making nachos,0.04,0.03,3.3,1.0
+40,Bet on nfl with my family at the bar,watch youtube while watering my garden,0.05,0.03,4.4,0.0
+41,Dance to salsa in a new location with my spouse and friends,Code applications in my bedroom,0.01,0.04,1.1,0.0
+42,watch youtube while watering my garden,Sleep over a in-laws house and making nachos,0.02,0.04,3.3,1.0
+43,Eat breakfast in my living room,Bet on nfl with my family at the bar,0.03,0.04,1.1,1.0
+44,Code applications in my bedroom,Bet on nfl with my family at the bar,0.04,0.04,1.1,1.0
+45,Cook food with new family members I just met,Drink a warm beer while walking in the park,0.05,0.04,4.4,0.0
+46,watch youtube while watering my garden,Cook food with new family members I just met,0.01,0.05,8.8,1.0
+47,Go to the movies at a luxury theatre ,Spin my DJ records in my studio,0.02,0.05,1.1,0.0
+48,watch youtube while watering my garden,Swim in the pool with family,0.03,0.05,4.4,1.0
+49,Analyze data in a quiet library,Sleep over a in-laws house and making nachos,0.04,0.05,3.3,1.0
+50,Catch up with a old cousin on a plane ride to the beach,Send emails to potential clients while on a train to NYC,0.05,0.05,1.1,0.0
+51,Board a cruise and survey all the restaurants with family ,Spin my DJ records in my studio,0.01,0.01,1.1,0.0
+52,Sleep over a in-laws house and making nachos,play online RPG games in my man cave,0.02,0.01,3.3,0.0
+53,Watch animal shows on  a friday night at my parents house,play online RPG games in my man cave,0.03,0.01,1.1,0.0
+54,Go to the movies at a luxury theatre ,Eat breakfast in my living room,0.04,0.01,4.4,0.0
+55,Learn spanish in a dark basement,Cook food with new family members I just met,0.05,0.01,1.1,1.0
+56,Listen to ai music while laying on my carpet,Swim in the pool with family,0.01,0.02,8.8,1.0
+57,Listen to ai music while laying on my carpet,Catch up with a old cousin on a plane ride to the beach,0.02,0.02,4.4,1.0
+58,Code applications in my bedroom,Catch up with a old cousin on a plane ride to the beach,0.03,0.02,4.4,1.0
+59,Go to the movies at a luxury theatre ,Learn spanish in a dark basement,0.04,0.02,4.4,0.0
+60,Swim in the pool with family,Eat breakfast in my living room,0.05,0.02,1.1,0.0
+61,Code applications in my bedroom,Swim in the pool with family,0.01,0.03,3.3,1.0
+62,Send emails to potential clients while on a train to NYC,Dance to salsa in a new location with my spouse and friends,0.02,0.03,3.3,1.0
+63,Catch up with a old cousin on a plane ride to the beach,play online RPG games in my man cave,0.03,0.03,3.3,0.0
+64,Bet on nfl with my family at the bar,Spin my DJ records in my studio,0.04,0.03,1.1,0.0
+65,Swim in the pool with family,Spin my DJ records in my studio,0.05,0.03,1.1,0.0
+66,watch youtube while watering my garden,Shop in a new city and having laughs with my childhood buddies,0.01,0.04,1.1,1.0
+67,Board a cruise and survey all the restaurants with family ,Learn spanish in a dark basement,0.02,0.04,8.8,0.0
+68,Swim in the pool with family,play online RPG games in my man cave,0.03,0.04,4.4,0.0
+69,play online RPG games in my man cave,Cook food with new family members I just met,0.04,0.04,1.1,1.0
+70,watch youtube while watering my garden,Board a cruise and survey all the restaurants with family ,0.05,0.04,1.1,1.0
+71,Analyze data in a quiet library,Cook food with new family members I just met,0.01,0.05,3.3,1.0
+72,Learn spanish in a dark basement,Bet on nfl with my family at the bar,0.02,0.05,8.8,1.0
+73,Code applications in my bedroom,Watch animal shows on  a friday night at my parents house,0.03,0.05,3.3,1.0
+74,Cook food with new family members I just met,Code applications in my bedroom,0.04,0.05,4.4,0.0
+75,Board a cruise and survey all the restaurants with family ,Code applications in my bedroom,0.05,0.05,3.3,0.0
+76,Shop in a new city and having laughs with my childhood buddies,Code applications in my bedroom,0.01,0.01,1.1,0.0
+77,Drink a warm beer while walking in the park,Go to the movies at a luxury theatre ,0.02,0.01,8.8,1.0
+78,Bet on nfl with my family at the bar,Send emails to potential clients while on a train to NYC,0.03,0.01,1.1,0.0
+79,play online RPG games in my man cave,Dance to salsa in a new location with my spouse and friends,0.04,0.01,1.1,1.0
+80,play online RPG games in my man cave,Go to the movies at a luxury theatre ,0.05,0.01,4.4,1.0
+81,Sleep over a in-laws house and making nachos,Spin my DJ records in my studio,0.01,0.02,3.3,0.0
+82,Bet on nfl with my family at the bar,Drink a warm beer while walking in the park,0.02,0.02,4.4,0.0
+83,Watch animal shows on  a friday night at my parents house,Analyze data in a quiet library,0.03,0.02,1.1,0.0
+84,Sleep over a in-laws house and making nachos,Learn spanish in a dark basement,0.04,0.02,3.3,0.0
+85,Code applications in my bedroom,Sleep over a in-laws house and making nachos,0.05,0.02,3.3,1.0
+86,Dance to salsa in a new location with my spouse and friends,Analyze data in a quiet library,0.01,0.03,1.1,0.0
+87,Listen to ai music while laying on my carpet,Watch animal shows on  a friday night at my parents house,0.02,0.03,4.4,1.0
+88,Watch animal shows on  a friday night at my parents house,Learn spanish in a dark basement,0.03,0.03,1.1,0.0
+89,Go to the movies at a luxury theatre ,Analyze data in a quiet library,0.04,0.03,3.3,0.0
+90,Spin my DJ records in my studio,Shop in a new city and having laughs with my childhood buddies,0.05,0.03,8.8,1.0
+91,Drink a warm beer while walking in the park,Swim in the pool with family,0.01,0.04,3.3,1.0
+92,Drink a warm beer while walking in the park,Dance to salsa in a new location with my spouse and friends,0.02,0.04,8.8,1.0
+93,Swim in the pool with family,Analyze data in a quiet library,0.03,0.04,1.1,0.0
+94,Shop in a new city and having laughs with my childhood buddies,Eat breakfast in my living room,0.04,0.04,4.4,0.0
+95,Drink a warm beer while walking in the park,Catch up with a old cousin on a plane ride to the beach,0.05,0.04,4.4,1.0
+96,Listen to ai music while laying on my carpet,Cook food with new family members I just met,0.01,0.05,3.3,1.0
+97,Catch up with a old cousin on a plane ride to the beach,Analyze data in a quiet library,0.02,0.05,1.1,0.0
+98,Eat breakfast in my living room,Watch animal shows on  a friday night at my parents house,0.03,0.05,1.1,1.0
+99,play online RPG games in my man cave,Board a cruise and survey all the restaurants with family ,0.04,0.05,3.3,1.0
+100,Analyze data in a quiet library,Bet on nfl with my family at the bar,0.05,0.05,4.4,1.0

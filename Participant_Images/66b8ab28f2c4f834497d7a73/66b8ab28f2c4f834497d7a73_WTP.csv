@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Go on a morning run,Have morning coffee with significant other,0.01,0.01,4.4,1.0
+2,Have drinks with friends on a friday night,Have coffee in the morning,0.02,0.01,8.8,0.0
+3,Play online multiplayer games with friends on a saturday,Do my skincare routine,0.03,0.01,3.3,0.0
+4,Go to the beach with friends,Go to the gym,0.04,0.01,1.1,0.0
+5,Have morning coffee with significant other,Read a book on the couch,0.05,0.01,1.1,0.0
+6,Watch football with friends on a sunday,Read a book on the couch,0.01,0.02,3.3,0.0
+7,Read a book on the couch,Go to the beach with friends,0.02,0.02,1.1,1.0
+8,Go to the gym,Have drinks with friends on a friday night,0.03,0.02,1.1,1.0
+9,Do my skincare routine,Go to the beach with friends,0.04,0.02,4.4,1.0
+10,Watch football with friends on a sunday,Do my skincare routine,0.05,0.02,1.1,0.0
+11,Go to the beach with friends,Scroll through my instagram and tiktok feed,0.01,0.03,3.3,0.0
+12,Scroll through my instagram and tiktok feed,Binge watch shows with significant other on a sunday night,0.02,0.03,4.4,1.0
+13,Play online multiplayer games with friends on a saturday,Go on a morning run,0.03,0.03,1.1,0.0
+14,Go on dinner date with significant other on a sunday night,Play fifa on my console,0.04,0.03,3.3,0.0
+15,Meditate for a while,Watch football with friends on a sunday,0.05,0.03,4.4,1.0
+16,Scroll through my instagram and tiktok feed,Watch football with friends on a sunday,0.01,0.04,1.1,1.0
+17,Go on picnic with family,Scroll through my instagram and tiktok feed,0.02,0.04,8.8,0.0
+18,Go to the park with family,Go to the gym,0.03,0.04,3.3,0.0
+19,Sit on the park bench while listening to my favourite playlist,Go on picnic with family,0.04,0.04,3.3,1.0
+20,Have coffee in the morning,Go on dinner date with significant other on a sunday night,0.05,0.04,1.1,1.0
+21,Go to the gym,Binge watch shows with significant other on a sunday night,0.01,0.05,8.8,1.0
+22,Go on dinner date with significant other on a sunday night,Go to the gym,0.02,0.05,4.4,0.0
+23,Go to the gym,Go on picnic with family,0.03,0.05,1.1,1.0
+24,Go on dinner date with significant other on a sunday night,Go on a morning run,0.04,0.05,4.4,0.0
+25,Go on a morning run,Go to the park with family,0.05,0.05,3.3,1.0
+26,Go to the gym,Go to the movies with significant other on a thursday night,0.01,0.01,4.4,1.0
+27,Go to the park with family,Read a book on the couch,0.02,0.01,3.3,0.0
+28,Go to the movies with significant other on a thursday night,Journal my feelings and inner thoughts,0.03,0.01,3.3,0.0
+29,Meditate for a while,Have drinks with friends on a friday night,0.04,0.01,4.4,1.0
+30,Have morning coffee with significant other,Do my skincare routine,0.05,0.01,8.8,0.0
+31,Scroll through my instagram and tiktok feed,Play online multiplayer games with friends on a saturday,0.01,0.02,8.8,1.0
+32,Sit on the park bench while listening to my favourite playlist,Go to the beach with friends,0.02,0.02,1.1,1.0
+33,Play fifa on my console,Go on picnic with family,0.03,0.02,4.4,1.0
+34,Have drinks with friends on a friday night,Do my skincare routine,0.04,0.02,3.3,0.0
+35,Play fifa on my console,Have morning coffee with significant other,0.05,0.02,1.1,1.0
+36,Binge watch shows with significant other on a sunday night,Play fifa on my console,0.01,0.03,3.3,0.0
+37,Go to the park with family,Have coffee in the morning,0.02,0.03,1.1,0.0
+38,Read a book on the couch,Go on dinner date with significant other on a sunday night,0.03,0.03,1.1,1.0
+39,Go on picnic with family,Journal my feelings and inner thoughts,0.04,0.03,3.3,0.0
+40,Sit on the park bench while listening to my favourite playlist,Go to the movies with significant other on a thursday night,0.05,0.03,4.4,1.0
+41,Meditate for a while,Play online multiplayer games with friends on a saturday,0.01,0.04,1.1,1.0
+42,Go to the movies with significant other on a thursday night,Do my skincare routine,0.02,0.04,3.3,0.0
+43,Binge watch shows with significant other on a sunday night,Meditate for a while,0.03,0.04,1.1,0.0
+44,Go on dinner date with significant other on a sunday night,Sit on the park bench while listening to my favourite playlist,0.04,0.04,1.1,0.0
+45,Go on picnic with family,Read a book on the couch,0.05,0.04,4.4,0.0
+46,Play fifa on my console,Go to the park with family,0.01,0.05,8.8,1.0
+47,Sit on the park bench while listening to my favourite playlist,Have drinks with friends on a friday night,0.02,0.05,1.1,1.0
+48,Go to the movies with significant other on a thursday night,Scroll through my instagram and tiktok feed,0.03,0.05,4.4,0.0
+49,Meditate for a while,Go to the beach with friends,0.04,0.05,3.3,1.0
+50,Have morning coffee with significant other,Meditate for a while,0.05,0.05,1.1,0.0
+51,Sit on the park bench while listening to my favourite playlist,Binge watch shows with significant other on a sunday night,0.01,0.01,1.1,1.0
+52,Play online multiplayer games with friends on a saturday,Play fifa on my console,0.02,0.01,3.3,0.0
+53,Have coffee in the morning,Play online multiplayer games with friends on a saturday,0.03,0.01,1.1,1.0
+54,Do my skincare routine,Go on dinner date with significant other on a sunday night,0.04,0.01,4.4,1.0
+55,Binge watch shows with significant other on a sunday night,Do my skincare routine,0.05,0.01,1.1,0.0
+56,Go to the beach with friends,Go on a morning run,0.01,0.02,8.8,0.0
+57,Journal my feelings and inner thoughts,Go to the beach with friends,0.02,0.02,4.4,1.0
+58,Scroll through my instagram and tiktok feed,Have drinks with friends on a friday night,0.03,0.02,4.4,1.0
+59,Go to the gym,Play online multiplayer games with friends on a saturday,0.04,0.02,4.4,1.0
+60,Have coffee in the morning,Watch football with friends on a sunday,0.05,0.02,1.1,1.0
+61,Go to the movies with significant other on a thursday night,Meditate for a while,0.01,0.03,3.3,0.0
+62,Go to the movies with significant other on a thursday night,Go on a morning run,0.02,0.03,3.3,0.0
+63,Sit on the park bench while listening to my favourite playlist,Watch football with friends on a sunday,0.03,0.03,3.3,1.0
+64,Have coffee in the morning,Binge watch shows with significant other on a sunday night,0.04,0.03,1.1,1.0
+65,Play online multiplayer games with friends on a saturday,Sit on the park bench while listening to my favourite playlist,0.05,0.03,1.1,0.0
+66,Do my skincare routine,Go on picnic with family,0.01,0.04,1.1,1.0
+67,Go to the park with family,Scroll through my instagram and tiktok feed,0.02,0.04,8.8,0.0
+68,Go on dinner date with significant other on a sunday night,Scroll through my instagram and tiktok feed,0.03,0.04,4.4,0.0
+69,Go to the beach with friends,Play fifa on my console,0.04,0.04,1.1,0.0
+70,Have morning coffee with significant other,Go to the gym,0.05,0.04,1.1,0.0
+71,Journal my feelings and inner thoughts,Have morning coffee with significant other,0.01,0.05,3.3,1.0
+72,Have morning coffee with significant other,Sit on the park bench while listening to my favourite playlist,0.02,0.05,8.8,0.0
+73,Do my skincare routine,Go to the park with family,0.03,0.05,3.3,1.0
+74,Play fifa on my console,Have drinks with friends on a friday night,0.04,0.05,4.4,1.0
+75,Journal my feelings and inner thoughts,Have drinks with friends on a friday night,0.05,0.05,3.3,1.0
+76,Read a book on the couch,Binge watch shows with significant other on a sunday night,0.01,0.01,1.1,1.0
+77,Go on dinner date with significant other on a sunday night,Meditate for a while,0.02,0.01,8.8,0.0
+78,Journal my feelings and inner thoughts,Watch football with friends on a sunday,0.03,0.01,1.1,1.0
+79,Go to the park with family,Meditate for a while,0.04,0.01,1.1,0.0
+80,Go on picnic with family,Go on a morning run,0.05,0.01,4.4,0.0
+81,Go to the park with family,Sit on the park bench while listening to my favourite playlist,0.01,0.02,3.3,0.0
+82,Go to the gym,Watch football with friends on a sunday,0.02,0.02,4.4,1.0
+83,Go to the beach with friends,Have coffee in the morning,0.03,0.02,1.1,0.0
+84,Go to the movies with significant other on a thursday night,Read a book on the couch,0.04,0.02,3.3,0.0
+85,Have drinks with friends on a friday night,Read a book on the couch,0.05,0.02,3.3,0.0
+86,Have coffee in the morning,Have morning coffee with significant other,0.01,0.03,1.1,1.0
+87,Journal my feelings and inner thoughts,Go to the park with family,0.02,0.03,4.4,1.0
+88,Have drinks with friends on a friday night,Go on a morning run,0.03,0.03,1.1,0.0
+89,Have coffee in the morning,Go on picnic with family,0.04,0.03,3.3,1.0
+90,Meditate for a while,Go on picnic with family,0.05,0.03,8.8,1.0
+91,Journal my feelings and inner thoughts,Play online multiplayer games with friends on a saturday,0.01,0.04,3.3,1.0
+92,Play fifa on my console,Go to the movies with significant other on a thursday night,0.02,0.04,8.8,1.0
+93,Play online multiplayer games with friends on a saturday,Read a book on the couch,0.03,0.04,1.1,0.0
+94,Have morning coffee with significant other,Scroll through my instagram and tiktok feed,0.04,0.04,4.4,0.0
+95,Go to the movies with significant other on a thursday night,Have coffee in the morning,0.05,0.04,4.4,0.0
+96,Journal my feelings and inner thoughts,Binge watch shows with significant other on a sunday night,0.01,0.05,3.3,1.0
+97,Binge watch shows with significant other on a sunday night,Go on a morning run,0.02,0.05,1.1,0.0
+98,Journal my feelings and inner thoughts,Go on dinner date with significant other on a sunday night,0.03,0.05,1.1,1.0
+99,Watch football with friends on a sunday,Play fifa on my console,0.04,0.05,3.3,0.0
+100,Go on a morning run,Watch football with friends on a sunday,0.05,0.05,4.4,1.0

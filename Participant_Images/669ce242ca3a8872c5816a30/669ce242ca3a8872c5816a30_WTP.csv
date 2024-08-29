@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Participate in a group fitness class , Read classic novels in a cozy coffee shop on a quiet afternoon,0.01,0.01,4.4,0.0
+2,Host a potluck dinner party with my family and neighbors ,Practice yoga on a mountaintop at sunrise,0.02,0.01,8.8,0.0
+3,Take a weekend road trip to explore a new city with my partner and friends,Meditate,0.03,0.01,3.3,0.0
+4,Go on holidays,Practice improv comedy with a group of friends at a local theater,0.04,0.01,1.1,1.0
+5,Participate in a group fitness class ,Write poetry in a journal,0.05,0.01,1.1,0.0
+6,Practice improv comedy with a group of friends at a local theater,Meditate,0.01,0.02,3.3,0.0
+7,Watch documentaries,Take a weekend road trip to explore a new city with my partner and friends,0.02,0.02,1.1,1.0
+8,Volunteer at a local animal shelter with a group of likeminded friends,Write poetry in a journal,0.03,0.02,1.1,0.0
+9,Learn a new language through an app on a daily commute,Host a potluck dinner party with my family and neighbors ,0.04,0.02,4.4,1.0
+10,Go on a hike with my partner and our dog ,Learn a new language through an app on a daily commute,0.05,0.02,1.1,0.0
+11,Take a long walk in the woods on a crisp autumn morning,Volunteer at a local animal shelter with a group of likeminded friends,0.01,0.03,3.3,1.0
+12,Try out a new recipe with my siblings ,Practice yoga on a mountaintop at sunrise,0.02,0.03,4.4,0.0
+13,Try out a new recipe with my siblings ,Play chess online,0.03,0.03,1.1,0.0
+14,Attend a music festival with a group of classmates ,Watch documentaries,0.04,0.03,3.3,0.0
+15,Meditate,Share a homemade dinner with friends and family on a warm summer evening,0.05,0.03,4.4,1.0
+16,Meditate,Play board games with friends,0.01,0.04,1.1,1.0
+17,Practice yoga on a mountaintop at sunrise,Take a weekend road trip to explore a new city with my partner and friends,0.02,0.04,8.8,1.0
+18,Play board games with friends, Read classic novels in a cozy coffee shop on a quiet afternoon,0.03,0.04,3.3,0.0
+19,Try out a new recipe with my siblings ,Go on holidays,0.04,0.04,3.3,0.0
+20,Play chess online,Attend a music festival with a group of classmates ,0.05,0.04,1.1,1.0
+21,Volunteer at a local animal shelter with a group of likeminded friends,Go on holidays,0.01,0.05,8.8,0.0
+22, Read classic novels in a cozy coffee shop on a quiet afternoon,Practice improv comedy with a group of friends at a local theater,0.02,0.05,4.4,1.0
+23,Share a homemade dinner with friends and family on a warm summer evening,Go on holidays,0.03,0.05,1.1,0.0
+24,Take a long walk in the woods on a crisp autumn morning,Take a weekend road trip to explore a new city with my partner and friends,0.04,0.05,4.4,1.0
+25,Host a potluck dinner party with my family and neighbors ,Take a long walk in the woods on a crisp autumn morning,0.05,0.05,3.3,0.0
+26,Play chess online,Volunteer at a local animal shelter with a group of likeminded friends,0.01,0.01,4.4,1.0
+27,Share a homemade dinner with friends and family on a warm summer evening,Take a long walk in the woods on a crisp autumn morning,0.02,0.01,3.3,0.0
+28,Play chess online,Practice improv comedy with a group of friends at a local theater,0.03,0.01,3.3,1.0
+29,Play board games with friends,Create digital art on a tablet in a quiet studio space,0.04,0.01,4.4,0.0
+30,Participate in a group fitness class ,Take a long walk in the woods on a crisp autumn morning,0.05,0.01,8.8,0.0
+31,Go on a hike with my partner and our dog ,Write poetry in a journal,0.01,0.02,8.8,0.0
+32,Meditate,Try out a new recipe with my siblings ,0.02,0.02,1.1,1.0
+33,Attend a music festival with a group of classmates ,Create digital art on a tablet in a quiet studio space,0.03,0.02,4.4,0.0
+34,Watch documentaries,Share a homemade dinner with friends and family on a warm summer evening,0.04,0.02,3.3,1.0
+35,Participate in a group fitness class ,Meditate,0.05,0.02,1.1,0.0
+36,Create digital art on a tablet in a quiet studio space,Host a potluck dinner party with my family and neighbors ,0.01,0.03,3.3,1.0
+37,Practice improv comedy with a group of friends at a local theater,Take a long walk in the woods on a crisp autumn morning,0.02,0.03,1.1,0.0
+38,Volunteer at a local animal shelter with a group of likeminded friends,Practice yoga on a mountaintop at sunrise,0.03,0.03,1.1,0.0
+39,Play chess online,Go on a hike with my partner and our dog ,0.04,0.03,3.3,1.0
+40,Play chess online,Participate in a group fitness class ,0.05,0.03,4.4,1.0
+41,Play board games with friends,Learn a new language through an app on a daily commute,0.01,0.04,1.1,0.0
+42,Watch documentaries,Play board games with friends,0.02,0.04,3.3,1.0
+43,Attend a music festival with a group of classmates ,Practice yoga on a mountaintop at sunrise,0.03,0.04,1.1,0.0
+44,Play board games with friends,Go on holidays,0.04,0.04,1.1,0.0
+45,Create digital art on a tablet in a quiet studio space,Participate in a group fitness class ,0.05,0.04,4.4,1.0
+46,Host a potluck dinner party with my family and neighbors ,Watch documentaries,0.01,0.05,8.8,0.0
+47,Watch documentaries,Go on a hike with my partner and our dog ,0.02,0.05,1.1,1.0
+48,Go on a hike with my partner and our dog ,Take a long walk in the woods on a crisp autumn morning,0.03,0.05,4.4,0.0
+49,Create digital art on a tablet in a quiet studio space,Share a homemade dinner with friends and family on a warm summer evening,0.04,0.05,3.3,1.0
+50,Create digital art on a tablet in a quiet studio space,Try out a new recipe with my siblings ,0.05,0.05,1.1,1.0
+51,Learn a new language through an app on a daily commute,Share a homemade dinner with friends and family on a warm summer evening,0.01,0.01,1.1,1.0
+52,Practice yoga on a mountaintop at sunrise,Share a homemade dinner with friends and family on a warm summer evening,0.02,0.01,3.3,1.0
+53,Try out a new recipe with my siblings ,Write poetry in a journal,0.03,0.01,1.1,0.0
+54,Write poetry in a journal,Attend a music festival with a group of classmates ,0.04,0.01,4.4,1.0
+55,Go on a hike with my partner and our dog ,Meditate,0.05,0.01,1.1,0.0
+56,Write poetry in a journal,Share a homemade dinner with friends and family on a warm summer evening,0.01,0.02,8.8,1.0
+57,Try out a new recipe with my siblings ,Watch documentaries,0.02,0.02,4.4,0.0
+58,Learn a new language through an app on a daily commute,Take a weekend road trip to explore a new city with my partner and friends,0.03,0.02,4.4,1.0
+59,Try out a new recipe with my siblings ,Take a long walk in the woods on a crisp autumn morning,0.04,0.02,4.4,0.0
+60,Learn a new language through an app on a daily commute,Participate in a group fitness class ,0.05,0.02,1.1,1.0
+61,Learn a new language through an app on a daily commute,Practice improv comedy with a group of friends at a local theater,0.01,0.03,3.3,1.0
+62,Go on a hike with my partner and our dog ,Practice yoga on a mountaintop at sunrise,0.02,0.03,3.3,0.0
+63, Read classic novels in a cozy coffee shop on a quiet afternoon,Try out a new recipe with my siblings ,0.03,0.03,3.3,1.0
+64,Share a homemade dinner with friends and family on a warm summer evening, Read classic novels in a cozy coffee shop on a quiet afternoon,0.04,0.03,1.1,0.0
+65,Watch documentaries,Practice improv comedy with a group of friends at a local theater,0.05,0.03,1.1,1.0
+66,Participate in a group fitness class ,Practice yoga on a mountaintop at sunrise,0.01,0.04,1.1,0.0
+67,Practice improv comedy with a group of friends at a local theater,Create digital art on a tablet in a quiet studio space,0.02,0.04,8.8,0.0
+68,Create digital art on a tablet in a quiet studio space,Take a weekend road trip to explore a new city with my partner and friends,0.03,0.04,4.4,1.0
+69,Host a potluck dinner party with my family and neighbors ,Play chess online,0.04,0.04,1.1,0.0
+70,Go on holidays,Host a potluck dinner party with my family and neighbors ,0.05,0.04,1.1,1.0
+71, Read classic novels in a cozy coffee shop on a quiet afternoon,Attend a music festival with a group of classmates ,0.01,0.05,3.3,1.0
+72,Practice improv comedy with a group of friends at a local theater,Write poetry in a journal,0.02,0.05,8.8,0.0
+73,Create digital art on a tablet in a quiet studio space,Go on a hike with my partner and our dog ,0.03,0.05,3.3,1.0
+74,Participate in a group fitness class ,Watch documentaries,0.04,0.05,4.4,0.0
+75,Take a weekend road trip to explore a new city with my partner and friends,Write poetry in a journal,0.05,0.05,3.3,0.0
+76,Play board games with friends,Play chess online,0.01,0.01,1.1,0.0
+77,Meditate,Volunteer at a local animal shelter with a group of likeminded friends,0.02,0.01,8.8,1.0
+78,Host a potluck dinner party with my family and neighbors ,Meditate,0.03,0.01,1.1,0.0
+79,Watch documentaries,Volunteer at a local animal shelter with a group of likeminded friends,0.04,0.01,1.1,1.0
+80,Attend a music festival with a group of classmates ,Meditate,0.05,0.01,4.4,0.0
+81,Play chess online,Take a weekend road trip to explore a new city with my partner and friends,0.01,0.02,3.3,1.0
+82,Create digital art on a tablet in a quiet studio space,Volunteer at a local animal shelter with a group of likeminded friends,0.02,0.02,4.4,1.0
+83,Take a weekend road trip to explore a new city with my partner and friends,Go on holidays,0.03,0.02,1.1,0.0
+84, Read classic novels in a cozy coffee shop on a quiet afternoon,Take a weekend road trip to explore a new city with my partner and friends,0.04,0.02,3.3,1.0
+85,Attend a music festival with a group of classmates ,Take a long walk in the woods on a crisp autumn morning,0.05,0.02,3.3,0.0
+86, Read classic novels in a cozy coffee shop on a quiet afternoon,Volunteer at a local animal shelter with a group of likeminded friends,0.01,0.03,1.1,1.0
+87,Practice yoga on a mountaintop at sunrise,Practice improv comedy with a group of friends at a local theater,0.02,0.03,4.4,1.0
+88,Practice yoga on a mountaintop at sunrise,Play board games with friends,0.03,0.03,1.1,1.0
+89,Learn a new language through an app on a daily commute,Try out a new recipe with my siblings ,0.04,0.03,3.3,1.0
+90,Participate in a group fitness class ,Go on holidays,0.05,0.03,8.8,0.0
+91, Read classic novels in a cozy coffee shop on a quiet afternoon,Host a potluck dinner party with my family and neighbors ,0.01,0.04,3.3,1.0
+92,Attend a music festival with a group of classmates ,Learn a new language through an app on a daily commute,0.02,0.04,8.8,0.0
+93,Go on a hike with my partner and our dog ,Go on holidays,0.03,0.04,1.1,0.0
+94,Play board games with friends,Write poetry in a journal,0.04,0.04,4.4,0.0
+95,Take a long walk in the woods on a crisp autumn morning,Play board games with friends,0.05,0.04,4.4,1.0
+96,Write poetry in a journal,Host a potluck dinner party with my family and neighbors ,0.01,0.05,3.3,1.0
+97,Go on holidays,Attend a music festival with a group of classmates ,0.02,0.05,1.1,1.0
+98,Learn a new language through an app on a daily commute,Volunteer at a local animal shelter with a group of likeminded friends,0.03,0.05,1.1,1.0
+99,Play chess online,Share a homemade dinner with friends and family on a warm summer evening,0.04,0.05,3.3,1.0
+100,Go on a hike with my partner and our dog , Read classic novels in a cozy coffee shop on a quiet afternoon,0.05,0.05,4.4,0.0

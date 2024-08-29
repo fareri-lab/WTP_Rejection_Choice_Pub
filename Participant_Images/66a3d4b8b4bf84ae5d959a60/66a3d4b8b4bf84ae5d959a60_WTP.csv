@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Play board games with my family on a cozy winter evening by the fire place,Journal in bed on a rainy evening with a warm cup of tea by my side,0.01,0.01,4.4,0.0
+2,Watch the sunset on the beach with my close friends during a summer vacation,Garden in my backyard early in the morning with the smell of fresh soil,0.02,0.01,8.8,0.0
+3,Write poetry in a cozy coffee shop with soft jazz playing in the background,Play board games with my family on a cozy winter evening by the fire place,0.03,0.01,3.3,1.0
+4,Cook a holiday dinner with my parents in our kitchen while listening to festive music,Watch a sci-fi movie marathon in my living room with the curtains drawn,0.04,0.01,1.1,0.0
+5,Walk around a local art fair with my significant other on a sunny Saturday afternoon,Listen to a podcast while walking along the beach at sunrise,0.05,0.01,1.1,0.0
+6,Explore a new neighborhood with my camera to capture interesting architecture,Attend a live concert with my college friends on a summer evening,0.01,0.02,3.3,1.0
+7,Meditate in a serene forest clearing with the sound of birds chirping,Go on a spontaneous road trip with my siblings to explore nearby towns,0.02,0.02,1.1,1.0
+8,Go on a weekend hiking trip with my best friends in the mountains,Watch a sci-fi movie marathon in my living room with the curtains drawn,0.03,0.02,1.1,0.0
+9,Share a meal at a new restaurant with my partner on a friday night in the city,Cook a new recipe in my kitchen with classical music softly playing,0.04,0.02,4.4,0.0
+10,Meditate in a serene forest clearing with the sound of birds chirping,Watch the sunset on the beach with my close friends during a summer vacation,0.05,0.02,1.1,1.0
+11,Attend a weekend farmers market with my cousin to browse for fresh produce,Explore a new neighborhood with my camera to capture interesting architecture,0.01,0.03,3.3,0.0
+12,Share a meal at a new restaurant with my partner on a friday night in the city,Garden in my backyard early in the morning with the smell of fresh soil,0.02,0.03,4.4,0.0
+13,Garden in my backyard early in the morning with the smell of fresh soil,Attend a live concert with my college friends on a summer evening,0.03,0.03,1.1,1.0
+14,Host a movie night with my coworkers at my apartment after a long week,Read a mystery novel on a park bench during a sunny afternoon,0.04,0.03,3.3,0.0
+15,Journal in bed on a rainy evening with a warm cup of tea by my side,Walk around a local art fair with my significant other on a sunny Saturday afternoon,0.05,0.03,4.4,1.0
+16,Write poetry in a cozy coffee shop with soft jazz playing in the background,Share a meal at a new restaurant with my partner on a friday night in the city,0.01,0.04,1.1,1.0
+17,Read a mystery novel on a park bench during a sunny afternoon,Attend a weekend farmers market with my cousin to browse for fresh produce,0.02,0.04,8.8,1.0
+18,Journal in bed on a rainy evening with a warm cup of tea by my side,Host a movie night with my coworkers at my apartment after a long week,0.03,0.04,3.3,1.0
+19,Watch the sunset on the beach with my close friends during a summer vacation,Watch a sci-fi movie marathon in my living room with the curtains drawn,0.04,0.04,3.3,0.0
+20,Meditate in a serene forest clearing with the sound of birds chirping,Walk around a local art fair with my significant other on a sunny Saturday afternoon,0.05,0.04,1.1,1.0
+21,Watch a sci-fi movie marathon in my living room with the curtains drawn,Share a meal at a new restaurant with my partner on a friday night in the city,0.01,0.05,8.8,1.0
+22,Cook a holiday dinner with my parents in our kitchen while listening to festive music,Write poetry in a cozy coffee shop with soft jazz playing in the background,0.02,0.05,4.4,0.0
+23,Play board games with my family on a cozy winter evening by the fire place,Listen to a podcast while walking along the beach at sunrise,0.03,0.05,1.1,0.0
+24,Attend a weekend farmers market with my cousin to browse for fresh produce,Sketch in a quiet art studio surrounded by canvases and paint supplies,0.04,0.05,4.4,0.0
+25,Cook a new recipe in my kitchen with classical music softly playing,Walk around a local art fair with my significant other on a sunny Saturday afternoon,0.05,0.05,3.3,1.0
+26,Go on a weekend hiking trip with my best friends in the mountains,Read a mystery novel on a park bench during a sunny afternoon,0.01,0.01,4.4,0.0
+27,Listen to a podcast while walking along the beach at sunrise,Watch the sunset on the beach with my close friends during a summer vacation,0.02,0.01,3.3,1.0
+28,Host a movie night with my coworkers at my apartment after a long week,Write poetry in a cozy coffee shop with soft jazz playing in the background,0.03,0.01,3.3,0.0
+29,Attend a live concert with my college friends on a summer evening,Sketch in a quiet art studio surrounded by canvases and paint supplies,0.04,0.01,4.4,0.0
+30,Go on a spontaneous road trip with my siblings to explore nearby towns,Write poetry in a cozy coffee shop with soft jazz playing in the background,0.05,0.01,8.8,0.0
+31,Attend a live concert with my college friends on a summer evening,Meditate in a serene forest clearing with the sound of birds chirping,0.01,0.02,8.8,0.0
+32,Cook a holiday dinner with my parents in our kitchen while listening to festive music,Listen to a podcast while walking along the beach at sunrise,0.02,0.02,1.1,0.0
+33,Sketch in a quiet art studio surrounded by canvases and paint supplies,Share a meal at a new restaurant with my partner on a friday night in the city,0.03,0.02,4.4,1.0
+34,Host a movie night with my coworkers at my apartment after a long week,Sketch in a quiet art studio surrounded by canvases and paint supplies,0.04,0.02,3.3,0.0
+35,Listen to a podcast while walking along the beach at sunrise,Attend a live concert with my college friends on a summer evening,0.05,0.02,1.1,1.0
+36,Share a meal at a new restaurant with my partner on a friday night in the city,Listen to a podcast while walking along the beach at sunrise,0.01,0.03,3.3,0.0
+37,Watch the sunset on the beach with my close friends during a summer vacation,Journal in bed on a rainy evening with a warm cup of tea by my side,0.02,0.03,1.1,0.0
+38,Walk around a local art fair with my significant other on a sunny Saturday afternoon,Explore a new neighborhood with my camera to capture interesting architecture,0.03,0.03,1.1,0.0
+39,Watch a sci-fi movie marathon in my living room with the curtains drawn,Go on a spontaneous road trip with my siblings to explore nearby towns,0.04,0.03,3.3,1.0
+40,Play board games with my family on a cozy winter evening by the fire place,Sketch in a quiet art studio surrounded by canvases and paint supplies,0.05,0.03,4.4,0.0
+41,Garden in my backyard early in the morning with the smell of fresh soil,Go on a weekend hiking trip with my best friends in the mountains,0.01,0.04,1.1,1.0
+42,Watch the sunset on the beach with my close friends during a summer vacation,Sketch in a quiet art studio surrounded by canvases and paint supplies,0.02,0.04,3.3,0.0
+43,Share a meal at a new restaurant with my partner on a friday night in the city,Journal in bed on a rainy evening with a warm cup of tea by my side,0.03,0.04,1.1,0.0
+44,Play board games with my family on a cozy winter evening by the fire place,Read a mystery novel on a park bench during a sunny afternoon,0.04,0.04,1.1,0.0
+45,Cook a holiday dinner with my parents in our kitchen while listening to festive music,Sketch in a quiet art studio surrounded by canvases and paint supplies,0.05,0.04,4.4,0.0
+46,Go on a spontaneous road trip with my siblings to explore nearby towns,Journal in bed on a rainy evening with a warm cup of tea by my side,0.01,0.05,8.8,0.0
+47,Watch the sunset on the beach with my close friends during a summer vacation,Cook a new recipe in my kitchen with classical music softly playing,0.02,0.05,1.1,0.0
+48,Play board games with my family on a cozy winter evening by the fire place,Cook a new recipe in my kitchen with classical music softly playing,0.03,0.05,4.4,0.0
+49,Share a meal at a new restaurant with my partner on a friday night in the city,Explore a new neighborhood with my camera to capture interesting architecture,0.04,0.05,3.3,0.0
+50,Go on a weekend hiking trip with my best friends in the mountains,Journal in bed on a rainy evening with a warm cup of tea by my side,0.05,0.05,1.1,0.0
+51,Sketch in a quiet art studio surrounded by canvases and paint supplies,Go on a spontaneous road trip with my siblings to explore nearby towns,0.01,0.01,1.1,1.0
+52,Cook a new recipe in my kitchen with classical music softly playing,Go on a spontaneous road trip with my siblings to explore nearby towns,0.02,0.01,3.3,1.0
+53,Garden in my backyard early in the morning with the smell of fresh soil,Cook a holiday dinner with my parents in our kitchen while listening to festive music,0.03,0.01,1.1,1.0
+54,Watch a sci-fi movie marathon in my living room with the curtains drawn,Attend a live concert with my college friends on a summer evening,0.04,0.01,4.4,1.0
+55,Cook a holiday dinner with my parents in our kitchen while listening to festive music,Cook a new recipe in my kitchen with classical music softly playing,0.05,0.01,1.1,0.0
+56,Attend a weekend farmers market with my cousin to browse for fresh produce,Write poetry in a cozy coffee shop with soft jazz playing in the background,0.01,0.02,8.8,0.0
+57,Read a mystery novel on a park bench during a sunny afternoon,Go on a spontaneous road trip with my siblings to explore nearby towns,0.02,0.02,4.4,1.0
+58,Meditate in a serene forest clearing with the sound of birds chirping,Share a meal at a new restaurant with my partner on a friday night in the city,0.03,0.02,4.4,1.0
+59,Listen to a podcast while walking along the beach at sunrise,Host a movie night with my coworkers at my apartment after a long week,0.04,0.02,4.4,1.0
+60,Garden in my backyard early in the morning with the smell of fresh soil,Play board games with my family on a cozy winter evening by the fire place,0.05,0.02,1.1,1.0
+61,Explore a new neighborhood with my camera to capture interesting architecture,Go on a spontaneous road trip with my siblings to explore nearby towns,0.01,0.03,3.3,1.0
+62,Cook a new recipe in my kitchen with classical music softly playing,Attend a weekend farmers market with my cousin to browse for fresh produce,0.02,0.03,3.3,1.0
+63,Host a movie night with my coworkers at my apartment after a long week,Explore a new neighborhood with my camera to capture interesting architecture,0.03,0.03,3.3,0.0
+64,Sketch in a quiet art studio surrounded by canvases and paint supplies,Go on a weekend hiking trip with my best friends in the mountains,0.04,0.03,1.1,1.0
+65,Go on a weekend hiking trip with my best friends in the mountains,Listen to a podcast while walking along the beach at sunrise,0.05,0.03,1.1,0.0
+66,Watch a sci-fi movie marathon in my living room with the curtains drawn,Attend a weekend farmers market with my cousin to browse for fresh produce,0.01,0.04,1.1,1.0
+67,Write poetry in a cozy coffee shop with soft jazz playing in the background,Watch the sunset on the beach with my close friends during a summer vacation,0.02,0.04,8.8,1.0
+68,Journal in bed on a rainy evening with a warm cup of tea by my side,Cook a holiday dinner with my parents in our kitchen while listening to festive music,0.03,0.04,4.4,1.0
+69,Watch a sci-fi movie marathon in my living room with the curtains drawn,Host a movie night with my coworkers at my apartment after a long week,0.04,0.04,1.1,1.0
+70,Walk around a local art fair with my significant other on a sunny Saturday afternoon,Watch a sci-fi movie marathon in my living room with the curtains drawn,0.05,0.04,1.1,0.0
+71,Read a mystery novel on a park bench during a sunny afternoon,Walk around a local art fair with my significant other on a sunny Saturday afternoon,0.01,0.05,3.3,1.0
+72,Garden in my backyard early in the morning with the smell of fresh soil,Walk around a local art fair with my significant other on a sunny Saturday afternoon,0.02,0.05,8.8,1.0
+73,Go on a spontaneous road trip with my siblings to explore nearby towns,Garden in my backyard early in the morning with the smell of fresh soil,0.03,0.05,3.3,0.0
+74,Attend a live concert with my college friends on a summer evening,Write poetry in a cozy coffee shop with soft jazz playing in the background,0.04,0.05,4.4,0.0
+75,Sketch in a quiet art studio surrounded by canvases and paint supplies,Walk around a local art fair with my significant other on a sunny Saturday afternoon,0.05,0.05,3.3,1.0
+76,Explore a new neighborhood with my camera to capture interesting architecture,Go on a weekend hiking trip with my best friends in the mountains,0.01,0.01,1.1,1.0
+77,Listen to a podcast while walking along the beach at sunrise,Go on a spontaneous road trip with my siblings to explore nearby towns,0.02,0.01,8.8,1.0
+78,Meditate in a serene forest clearing with the sound of birds chirping,Play board games with my family on a cozy winter evening by the fire place,0.03,0.01,1.1,1.0
+79,Listen to a podcast while walking along the beach at sunrise,Attend a weekend farmers market with my cousin to browse for fresh produce,0.04,0.01,1.1,1.0
+80,Host a movie night with my coworkers at my apartment after a long week,Cook a new recipe in my kitchen with classical music softly playing,0.05,0.01,4.4,0.0
+81,Explore a new neighborhood with my camera to capture interesting architecture,Watch the sunset on the beach with my close friends during a summer vacation,0.01,0.02,3.3,1.0
+82,Read a mystery novel on a park bench during a sunny afternoon,Watch the sunset on the beach with my close friends during a summer vacation,0.02,0.02,4.4,1.0
+83,Cook a new recipe in my kitchen with classical music softly playing,Go on a weekend hiking trip with my best friends in the mountains,0.03,0.02,1.1,1.0
+84,Meditate in a serene forest clearing with the sound of birds chirping,Attend a weekend farmers market with my cousin to browse for fresh produce,0.04,0.02,3.3,1.0
+85,Meditate in a serene forest clearing with the sound of birds chirping,Host a movie night with my coworkers at my apartment after a long week,0.05,0.02,3.3,1.0
+86,Meditate in a serene forest clearing with the sound of birds chirping,Cook a holiday dinner with my parents in our kitchen while listening to festive music,0.01,0.03,1.1,1.0
+87,Write poetry in a cozy coffee shop with soft jazz playing in the background,Go on a weekend hiking trip with my best friends in the mountains,0.02,0.03,4.4,1.0
+88,Cook a holiday dinner with my parents in our kitchen while listening to festive music,Read a mystery novel on a park bench during a sunny afternoon,0.03,0.03,1.1,0.0
+89,Share a meal at a new restaurant with my partner on a friday night in the city,Read a mystery novel on a park bench during a sunny afternoon,0.04,0.03,3.3,0.0
+90,Play board games with my family on a cozy winter evening by the fire place,Explore a new neighborhood with my camera to capture interesting architecture,0.05,0.03,8.8,0.0
+91,Attend a live concert with my college friends on a summer evening,Journal in bed on a rainy evening with a warm cup of tea by my side,0.01,0.04,3.3,0.0
+92,Attend a weekend farmers market with my cousin to browse for fresh produce,Garden in my backyard early in the morning with the smell of fresh soil,0.02,0.04,8.8,0.0
+93,Cook a holiday dinner with my parents in our kitchen while listening to festive music,Explore a new neighborhood with my camera to capture interesting architecture,0.03,0.04,1.1,0.0
+94,Garden in my backyard early in the morning with the smell of fresh soil,Host a movie night with my coworkers at my apartment after a long week,0.04,0.04,4.4,1.0
+95,Watch a sci-fi movie marathon in my living room with the curtains drawn,Play board games with my family on a cozy winter evening by the fire place,0.05,0.04,4.4,1.0
+96,Attend a live concert with my college friends on a summer evening,Cook a new recipe in my kitchen with classical music softly playing,0.01,0.05,3.3,0.0
+97,Attend a weekend farmers market with my cousin to browse for fresh produce,Journal in bed on a rainy evening with a warm cup of tea by my side,0.02,0.05,1.1,0.0
+98,Go on a weekend hiking trip with my best friends in the mountains,Meditate in a serene forest clearing with the sound of birds chirping,0.03,0.05,1.1,0.0
+99,Read a mystery novel on a park bench during a sunny afternoon,Attend a live concert with my college friends on a summer evening,0.04,0.05,3.3,1.0
+100,Write poetry in a cozy coffee shop with soft jazz playing in the background,Walk around a local art fair with my significant other on a sunny Saturday afternoon,0.05,0.05,4.4,1.0
