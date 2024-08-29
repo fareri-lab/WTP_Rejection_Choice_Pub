@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
-1,Drink a nice bottle of wine while watching a show,Travel to a new place together,0.01,0.01,4.4,1.0
-2,Cook a new recipe together,Needlepoint a canvas on a rainy day,0.02,0.01,8.8,0.0
-3,Scroll on my phone in bed,Read our books in bed,0.03,0.01,3.3,1.0
-4,Shop online on my laptop,Try a new restaurant together,0.04,0.01,1.1,1.0
-5,Play a board game,Needlepoint a canvas on a rainy day,0.05,0.01,1.1,0.0
-6,Sit and chat at a coffee shop,Start a new reality tv show,0.01,0.02,3.3,0.0
-7,Drink a fun cocktail together,Shop online on my laptop,0.02,0.02,1.1,0.0
-8,Try a new restaurant together,Bake a new dessert for the first time,0.03,0.02,1.1,0.0
-9,Watch our favorite tv show,Go on a long walk,0.04,0.02,4.4,0.0
-10,Scroll on my phone in bed,Play a board game,0.05,0.02,1.1,1.0
-11,Bake a new dessert for the first time,Travel to a new place together,0.01,0.03,3.3,1.0
-12,Scroll on my phone in bed,Travel to a new place together,0.02,0.03,4.4,1.0
-13,Cook a new recipe together,Go on a long walk,0.03,0.03,1.1,0.0
-14,Read our books in bed,Read a book in the park,0.04,0.03,3.3,0.0
-15,Drink a nice bottle of wine while watching a show,Talk on the phone and catch up,0.05,0.03,4.4,1.0
-16,Cook a delicious meal for dinner,Go on a walk together,0.01,0.04,1.1,1.0
-17,Play a board game,Drink a nice bottle of wine while watching a show,0.02,0.04,8.8,0.0
-18,Start a new reality tv show,Travel to a new place together,0.03,0.04,3.3,1.0
-19,Drink a fun cocktail together,Bake a new dessert for the first time,0.04,0.04,3.3,0.0
-20,Try a new restaurant together,Read a book in the park,0.05,0.04,1.1,0.0
-21,Talk on the phone and catch up,Scroll on my phone in bed,0.01,0.05,8.8,0.0
-22,Go on a walk together,Bake a new dessert for the first time,0.02,0.05,4.4,0.0
-23,Go on a walk together,Go on a long walk,0.03,0.05,1.1,0.0
-24,Read a book in the park,Drink a fun cocktail together,0.04,0.05,4.4,1.0
-25,Travel to a new place together,Read a book in the park,0.05,0.05,3.3,0.0
-26,Sit and chat at a coffee shop,Drink a nice bottle of wine while watching a show,0.01,0.01,4.4,0.0
-27,Go on a long walk,Read our books in bed,0.02,0.01,3.3,1.0
-28,Shop online on my laptop,Talk on the phone and catch up,0.03,0.01,3.3,1.0
-29,Scroll on my phone in bed,Try a new restaurant together,0.04,0.01,4.4,1.0
-30,Cook a delicious meal for dinner,Play a board game,0.05,0.01,8.8,1.0
-31,Watch our favorite tv show,Shop online on my laptop,0.01,0.02,8.8,0.0
-32,Talk on the phone and catch up,Listen to my favorite music on my record player,0.02,0.02,1.1,0.0
-33,Play a board game,Go on a long walk,0.03,0.02,4.4,0.0
-34,Sit and chat at a coffee shop,Read a book in the park,0.04,0.02,3.3,0.0
-35,Shop online on my laptop,Cook a new recipe together,0.05,0.02,1.1,1.0
-36,Read our books in bed,Bake a new dessert for the first time,0.01,0.03,3.3,0.0
-37,Bake a new dessert for the first time,Talk on the phone and catch up,0.02,0.03,1.1,1.0
-38,Needlepoint a canvas on a rainy day,Go on a walk together,0.03,0.03,1.1,1.0
-39,Go on a walk together,Listen to my favorite music on my record player,0.04,0.03,3.3,0.0
-40,Needlepoint a canvas on a rainy day,Talk on the phone and catch up,0.05,0.03,4.4,1.0
-41,Drink a fun cocktail together,Drink a nice bottle of wine while watching a show,0.01,0.04,1.1,0.0
-42,Cook a delicious meal for dinner,Cook a new recipe together,0.02,0.04,3.3,1.0
-43,Drink a fun cocktail together,Start a new reality tv show,0.03,0.04,1.1,0.0
-44,Drink a nice bottle of wine while watching a show,Read our books in bed,0.04,0.04,1.1,1.0
-45,Watch our favorite tv show,Cook a delicious meal for dinner,0.05,0.04,4.4,0.0
-46,Try a new restaurant together,Cook a delicious meal for dinner,0.01,0.05,8.8,0.0
-47,Watch our favorite tv show,Scroll on my phone in bed,0.02,0.05,1.1,0.0
-48,Talk on the phone and catch up,Read a book in the park,0.03,0.05,4.4,0.0
-49,Read our books in bed,Cook a delicious meal for dinner,0.04,0.05,3.3,0.0
-50,Go on a long walk,Travel to a new place together,0.05,0.05,1.1,1.0
-51,Scroll on my phone in bed,Cook a new recipe together,0.01,0.01,1.1,1.0
-52,Play a board game,Bake a new dessert for the first time,0.02,0.01,3.3,0.0
-53,Play a board game,Listen to my favorite music on my record player,0.03,0.01,1.1,0.0
-54,Sit and chat at a coffee shop,Go on a long walk,0.04,0.01,4.4,0.0
-55,Needlepoint a canvas on a rainy day,Travel to a new place together,0.05,0.01,1.1,1.0
-56,Play a board game,Read a book in the park,0.01,0.02,8.8,0.0
-57,Needlepoint a canvas on a rainy day,Sit and chat at a coffee shop,0.02,0.02,4.4,1.0
-58,Try a new restaurant together,Go on a long walk,0.03,0.02,4.4,0.0
-59,Drink a nice bottle of wine while watching a show,Watch our favorite tv show,0.04,0.02,4.4,1.0
-60,Drink a fun cocktail together,Cook a delicious meal for dinner,0.05,0.02,1.1,0.0
-61,Go on a walk together,Start a new reality tv show,0.01,0.03,3.3,0.0
-62,Sit and chat at a coffee shop,Scroll on my phone in bed,0.02,0.03,3.3,0.0
-63,Drink a nice bottle of wine while watching a show,Cook a new recipe together,0.03,0.03,3.3,1.0
-64,Try a new restaurant together,Listen to my favorite music on my record player,0.04,0.03,1.1,0.0
-65,Cook a delicious meal for dinner,Talk on the phone and catch up,0.05,0.03,1.1,1.0
-66,Drink a nice bottle of wine while watching a show,Try a new restaurant together,0.01,0.04,1.1,1.0
-67,Cook a delicious meal for dinner,Travel to a new place together,0.02,0.04,8.8,1.0
-68,Listen to my favorite music on my record player,Read our books in bed,0.03,0.04,4.4,1.0
-69,Read a book in the park,Watch our favorite tv show,0.04,0.04,1.1,1.0
-70,Listen to my favorite music on my record player,Drink a fun cocktail together,0.05,0.04,1.1,1.0
-71,Shop online on my laptop,Read our books in bed,0.01,0.05,3.3,1.0
-72,Start a new reality tv show,Try a new restaurant together,0.02,0.05,8.8,1.0
-73,Read a book in the park,Go on a walk together,0.03,0.05,3.3,1.0
-74,Bake a new dessert for the first time,Sit and chat at a coffee shop,0.04,0.05,4.4,1.0
-75,Start a new reality tv show,Play a board game,0.05,0.05,3.3,1.0
-76,Watch our favorite tv show,Bake a new dessert for the first time,0.01,0.01,1.1,0.0
-77,Needlepoint a canvas on a rainy day,Read our books in bed,0.02,0.01,8.8,1.0
-78,Go on a walk together,Scroll on my phone in bed,0.03,0.01,1.1,0.0
-79,Needlepoint a canvas on a rainy day,Watch our favorite tv show,0.04,0.01,1.1,1.0
-80,Talk on the phone and catch up,Start a new reality tv show,0.05,0.01,4.4,0.0
-81,Watch our favorite tv show,Start a new reality tv show,0.01,0.02,3.3,0.0
-82,Go on a walk together,Shop online on my laptop,0.02,0.02,4.4,0.0
-83,Cook a new recipe together,Bake a new dessert for the first time,0.03,0.02,1.1,0.0
-84,Go on a walk together,Drink a nice bottle of wine while watching a show,0.04,0.02,3.3,0.0
-85,Sit and chat at a coffee shop,Listen to my favorite music on my record player,0.05,0.02,3.3,0.0
-86,Drink a fun cocktail together,Needlepoint a canvas on a rainy day,0.01,0.03,1.1,0.0
-87,Read our books in bed,Start a new reality tv show,0.02,0.03,4.4,0.0
-88,Start a new reality tv show,Cook a new recipe together,0.03,0.03,1.1,1.0
-89,Listen to my favorite music on my record player,Cook a new recipe together,0.04,0.03,3.3,1.0
-90,Shop online on my laptop,Travel to a new place together,0.05,0.03,8.8,1.0
-91,Go on a long walk,Talk on the phone and catch up,0.01,0.04,3.3,1.0
-92,Read a book in the park,Cook a new recipe together,0.02,0.04,8.8,1.0
-93,Listen to my favorite music on my record player,Watch our favorite tv show,0.03,0.04,1.1,1.0
-94,Play a board game,Shop online on my laptop,0.04,0.04,4.4,0.0
-95,Go on a long walk,Drink a fun cocktail together,0.05,0.04,4.4,1.0
-96,Listen to my favorite music on my record player,Travel to a new place together,0.01,0.05,3.3,1.0
-97,Needlepoint a canvas on a rainy day,Try a new restaurant together,0.02,0.05,1.1,1.0
-98,Shop online on my laptop,Sit and chat at a coffee shop,0.03,0.05,1.1,1.0
-99,Sit and chat at a coffee shop,Cook a delicious meal for dinner,0.04,0.05,3.3,0.0
-100,Scroll on my phone in bed,Drink a fun cocktail together,0.05,0.05,4.4,1.0
+1,Talk on the phone and catch up with friends,Bake a new dessert for the first time,0.01,0.01,4.4,0.0
+2,Needlepoint a canvas on a rainy day,Drink a fun cocktail together with my parents,0.02,0.01,8.8,1.0
+3,Listen to my favorite music on my record player,Drink a fun cocktail together with my parents,0.03,0.01,3.3,1.0
+4,Scroll on my phone in bed,Try a new restaurant with my friends,0.04,0.01,1.1,1.0
+5,Start a new reality tv show,Cook a new recipe with my mom,0.05,0.01,1.1,1.0
+6,Listen to my favorite music on my record player,Go on a walk with my best friend,0.01,0.02,3.3,1.0
+7,Play a board game with my family,Shop online on my laptop,0.02,0.02,1.1,0.0
+8,Watch our favorite tv show with my boyfiend,Bake a new dessert for the first time,0.03,0.02,1.1,0.0
+9,Go on a long walk,Talk on the phone and catch up with friends,0.04,0.02,4.4,1.0
+10,Read our books in bed with my boyfriend,Listen to my favorite music on my record player,0.05,0.02,1.1,0.0
+11,Scroll on my phone in bed,Watch our favorite tv show with my boyfiend,0.01,0.03,3.3,1.0
+12,Shop online on my laptop,Cook a new recipe with my mom,0.02,0.03,4.4,1.0
+13,Listen to my favorite music on my record player,Travel to a new place with my boyfriend,0.03,0.03,1.1,1.0
+14,Go on a walk with my best friend,Needlepoint a canvas on a rainy day,0.04,0.03,3.3,0.0
+15,Needlepoint a canvas on a rainy day,Talk on the phone and catch up with friends,0.05,0.03,4.4,1.0
+16,Drink a fun cocktail together with my parents,Scroll on my phone in bed,0.01,0.04,1.1,0.0
+17,Try a new restaurant with my friends,Bake a new dessert for the first time,0.02,0.04,8.8,0.0
+18,Drink a nice bottle of wine while watching a show,Travel to a new place with my boyfriend,0.03,0.04,3.3,1.0
+19,Cook a delicious meal for dinner,Try a new restaurant with my friends,0.04,0.04,3.3,1.0
+20,Bake a new dessert for the first time,Read our books in bed with my boyfriend,0.05,0.04,1.1,1.0
+21,Scroll on my phone in bed,Go on a walk with my best friend,0.01,0.05,8.8,1.0
+22,Needlepoint a canvas on a rainy day,Read our books in bed with my boyfriend,0.02,0.05,4.4,1.0
+23,Go on a long walk,Travel to a new place with my boyfriend,0.03,0.05,1.1,1.0
+24,Play a board game with my family,Read a book in the park,0.04,0.05,4.4,0.0
+25,Play a board game with my family,Bake a new dessert for the first time,0.05,0.05,3.3,0.0
+26,Listen to my favorite music on my record player,Watch our favorite tv show with my boyfiend,0.01,0.01,4.4,1.0
+27,Drink a nice bottle of wine while watching a show,Play a board game with my family,0.02,0.01,3.3,1.0
+28,Start a new reality tv show,Try a new restaurant with my friends,0.03,0.01,3.3,1.0
+29,Drink a fun cocktail together with my parents,Bake a new dessert for the first time,0.04,0.01,4.4,0.0
+30,Cook a delicious meal for dinner,Talk on the phone and catch up with friends,0.05,0.01,8.8,1.0
+31,Cook a new recipe with my mom,Cook a delicious meal for dinner,0.01,0.02,8.8,0.0
+32,Shop online on my laptop,Talk on the phone and catch up with friends,0.02,0.02,1.1,1.0
+33,Cook a new recipe with my mom,Bake a new dessert for the first time,0.03,0.02,4.4,0.0
+34,Travel to a new place with my boyfriend,Scroll on my phone in bed,0.04,0.02,3.3,0.0
+35,Watch our favorite tv show with my boyfiend,Needlepoint a canvas on a rainy day,0.05,0.02,1.1,0.0
+36,Read our books in bed with my boyfriend,Scroll on my phone in bed,0.01,0.03,3.3,0.0
+37,Bake a new dessert for the first time,Sit and chat at a coffee shop with my best friend,0.02,0.03,1.1,1.0
+38,Read our books in bed with my boyfriend,Cook a delicious meal for dinner,0.03,0.03,1.1,0.0
+39,Watch our favorite tv show with my boyfiend,Shop online on my laptop,0.04,0.03,3.3,0.0
+40,Play a board game with my family,Start a new reality tv show,0.05,0.03,4.4,0.0
+41,Cook a new recipe with my mom,Scroll on my phone in bed,0.01,0.04,1.1,0.0
+42,Start a new reality tv show,Drink a fun cocktail together with my parents,0.02,0.04,3.3,1.0
+43,Read our books in bed with my boyfriend,Read a book in the park,0.03,0.04,1.1,0.0
+44,Cook a delicious meal for dinner,Play a board game with my family,0.04,0.04,1.1,1.0
+45,Play a board game with my family,Go on a long walk,0.05,0.04,4.4,0.0
+46,Listen to my favorite music on my record player,Play a board game with my family,0.01,0.05,8.8,1.0
+47,Needlepoint a canvas on a rainy day,Travel to a new place with my boyfriend,0.02,0.05,1.1,1.0
+48,Drink a nice bottle of wine while watching a show,Cook a new recipe with my mom,0.03,0.05,4.4,1.0
+49,Sit and chat at a coffee shop with my best friend,Drink a nice bottle of wine while watching a show,0.04,0.05,3.3,0.0
+50,Shop online on my laptop,Sit and chat at a coffee shop with my best friend,0.05,0.05,1.1,1.0
+51,Watch our favorite tv show with my boyfiend,Read a book in the park,0.01,0.01,1.1,0.0
+52,Drink a nice bottle of wine while watching a show,Read our books in bed with my boyfriend,0.02,0.01,3.3,1.0
+53,Drink a fun cocktail together with my parents,Go on a long walk,0.03,0.01,1.1,0.0
+54,Go on a walk with my best friend,Shop online on my laptop,0.04,0.01,4.4,0.0
+55,Read our books in bed with my boyfriend,Shop online on my laptop,0.05,0.01,1.1,0.0
+56,Scroll on my phone in bed,Sit and chat at a coffee shop with my best friend,0.01,0.02,8.8,1.0
+57,Bake a new dessert for the first time,Go on a walk with my best friend,0.02,0.02,4.4,1.0
+58,Cook a delicious meal for dinner,Sit and chat at a coffee shop with my best friend,0.03,0.02,4.4,1.0
+59,Drink a nice bottle of wine while watching a show,Talk on the phone and catch up with friends,0.04,0.02,4.4,1.0
+60,Read a book in the park,Drink a fun cocktail together with my parents,0.05,0.02,1.1,1.0
+61,Cook a delicious meal for dinner,Drink a fun cocktail together with my parents,0.01,0.03,3.3,1.0
+62,Start a new reality tv show,Go on a walk with my best friend,0.02,0.03,3.3,1.0
+63,Try a new restaurant with my friends,Shop online on my laptop,0.03,0.03,3.3,0.0
+64,Go on a walk with my best friend,Drink a nice bottle of wine while watching a show,0.04,0.03,1.1,0.0
+65,Talk on the phone and catch up with friends,Listen to my favorite music on my record player,0.05,0.03,1.1,0.0
+66,Read a book in the park,Try a new restaurant with my friends,0.01,0.04,1.1,1.0
+67,Sit and chat at a coffee shop with my best friend,Go on a long walk,0.02,0.04,8.8,0.0
+68,Go on a long walk,Read our books in bed with my boyfriend,0.03,0.04,4.4,1.0
+69,Watch our favorite tv show with my boyfiend,Start a new reality tv show,0.04,0.04,1.1,0.0
+70,Watch our favorite tv show with my boyfiend,Cook a delicious meal for dinner,0.05,0.04,1.1,0.0
+71,Go on a long walk,Watch our favorite tv show with my boyfiend,0.01,0.05,3.3,1.0
+72,Bake a new dessert for the first time,Travel to a new place with my boyfriend,0.02,0.05,8.8,1.0
+73,Scroll on my phone in bed,Talk on the phone and catch up with friends,0.03,0.05,3.3,1.0
+74,Talk on the phone and catch up with friends,Read a book in the park,0.04,0.05,4.4,0.0
+75,Cook a new recipe with my mom,Needlepoint a canvas on a rainy day,0.05,0.05,3.3,0.0
+76,Travel to a new place with my boyfriend,Read a book in the park,0.01,0.01,1.1,0.0
+77,Try a new restaurant with my friends,Listen to my favorite music on my record player,0.02,0.01,8.8,0.0
+78,Travel to a new place with my boyfriend,Shop online on my laptop,0.03,0.01,1.1,0.0
+79,Cook a new recipe with my mom,Go on a long walk,0.04,0.01,1.1,0.0
+80,Go on a walk with my best friend,Read a book in the park,0.05,0.01,4.4,0.0
+81,Sit and chat at a coffee shop with my best friend,Listen to my favorite music on my record player,0.01,0.02,3.3,0.0
+82,Try a new restaurant with my friends,Go on a long walk,0.02,0.02,4.4,0.0
+83,Travel to a new place with my boyfriend,Cook a delicious meal for dinner,0.03,0.02,1.1,0.0
+84,Go on a walk with my best friend,Cook a delicious meal for dinner,0.04,0.02,3.3,0.0
+85,Sit and chat at a coffee shop with my best friend,Start a new reality tv show,0.05,0.02,3.3,0.0
+86,Shop online on my laptop,Drink a fun cocktail together with my parents,0.01,0.03,1.1,1.0
+87,Drink a nice bottle of wine while watching a show,Try a new restaurant with my friends,0.02,0.03,4.4,1.0
+88,Needlepoint a canvas on a rainy day,Sit and chat at a coffee shop with my best friend,0.03,0.03,1.1,1.0
+89,Start a new reality tv show,Talk on the phone and catch up with friends,0.04,0.03,3.3,1.0
+90,Read our books in bed with my boyfriend,Start a new reality tv show,0.05,0.03,8.8,0.0
+91,Listen to my favorite music on my record player,Cook a new recipe with my mom,0.01,0.04,3.3,1.0
+92,Play a board game with my family,Scroll on my phone in bed,0.02,0.04,8.8,0.0
+93,Play a board game with my family,Needlepoint a canvas on a rainy day,0.03,0.04,1.1,0.0
+94,Read a book in the park,Cook a new recipe with my mom,0.04,0.04,4.4,1.0
+95,Try a new restaurant with my friends,Needlepoint a canvas on a rainy day,0.05,0.04,4.4,0.0
+96,Start a new reality tv show,Travel to a new place with my boyfriend,0.01,0.05,3.3,1.0
+97,Read a book in the park,Sit and chat at a coffee shop with my best friend,0.02,0.05,1.1,1.0
+98,Go on a long walk,Go on a walk with my best friend,0.03,0.05,1.1,1.0
+99,Watch our favorite tv show with my boyfiend,Drink a nice bottle of wine while watching a show,0.04,0.05,3.3,0.0
+100,Drink a fun cocktail together with my parents,Drink a nice bottle of wine while watching a show,0.05,0.05,4.4,0.0
