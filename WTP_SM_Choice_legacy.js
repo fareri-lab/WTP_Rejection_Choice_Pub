@@ -3894,7 +3894,7 @@ async function quitPsychoJS(message, isCompleted) {
   
   
   psychoJS.window.close();
-  psychoJS.quit({message: message, isCompleted: isCompleted});
+  await psychoJS.quit({message: message, isCompleted: isCompleted});
   window.location.replace(weblink);
   return Scheduler.Event.QUIT;
 }
