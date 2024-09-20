@@ -3892,9 +3892,19 @@ async function quitPsychoJS(message, isCompleted) {
   }
 
   
-  
+// Close the PsychoJS window
   psychoJS.window.close();
+
+  // Await the completion of the quit function to ensure data is saved
   await psychoJS.quit({message: message, isCompleted: isCompleted});
-  window.location.replace(weblink);
-  return Scheduler.Event.QUIT;
+
+  // Add a delay before redirecting to ensure data is saved
+  setTimeout(function() {
+    // Ensure that weblink is defined before redirecting
+    if (weblink) {
+      window.location.replace(weblink);
+    } else {
+      console.error("Weblink not defined");
+    }
+  }, 5000); // 5 second delay
 }
