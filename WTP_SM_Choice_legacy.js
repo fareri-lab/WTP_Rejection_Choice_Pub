@@ -3891,20 +3891,17 @@ async function quitPsychoJS(message, isCompleted) {
     psychoJS.experiment.nextEntry();
   }
 
-  
-// Close the PsychoJS window
+  // Explicitly save the experiment data
+  await psychoJS.experiment.save();
+
+  // Close the PsychoJS window
   psychoJS.window.close();
 
   // Await the completion of the quit function to ensure data is saved
   await psychoJS.quit({message: message, isCompleted: isCompleted});
 
-  // Add a delay before redirecting to ensure data is saved
+  // Optional: You can still add a delay here before redirecting if needed
   setTimeout(function() {
-    // Ensure that weblink is defined before redirecting
-    if (weblink) {
-      window.location.replace(weblink);
-    } else {
-      console.error("Weblink not defined");
-    }
-  }, 5000); // 5 second delay
+     window.location.replace(weblink);
+   }, 5000);
 }
