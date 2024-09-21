@@ -3891,17 +3891,10 @@ async function quitPsychoJS(message, isCompleted) {
     psychoJS.experiment.nextEntry();
   }
 
-  // Explicitly save the experiment data
-  await psychoJS.experiment.save();
-
-  // Close the PsychoJS window
+  
+  
   psychoJS.window.close();
-
-  // Await the completion of the quit function to ensure data is saved
   await psychoJS.quit({message: message, isCompleted: isCompleted});
-
-  // Optional: You can still add a delay here before redirecting if needed
-  setTimeout(function() {
-     window.location.replace(weblink);
-   }, 5000);
+  window.location.replace(weblink);
+  return Scheduler.Event.QUIT;
 }
