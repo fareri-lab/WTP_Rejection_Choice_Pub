@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Watch reality television shows on a thursday night with my mother,Read a book in my living room on a rainy day,0.01,0.01,4.4,0.0
+2,Do a strength training workout in the gym on a mild weathered day,Attend an indoor gym class with my friend on a rainy day,0.02,0.01,8.8,1.0
+3,Watching football on a Sunday morning with my father.,Do yoga outdoors on the beach on a sunny day,0.03,0.01,3.3,0.0
+4,Attend an outdoor gym fitness class on a sunny day,Do yoga outdoors on the beach on a sunny day,0.04,0.01,1.1,0.0
+5,Watch a movie on a sunday night with my family,Do yoga outdoors on the beach on a sunny day,0.05,0.01,1.1,0.0
+6,Watching football on a Sunday morning with my father.,Read a book in the park on a beach towel,0.01,0.02,3.3,0.0
+7,Attend an outdoor gym fitness class on a sunny day,Do a strength training workout in the gym on a mild weathered day,0.02,0.02,1.1,0.0
+8,Watch a movie on a sunday night with my family,Organize future travel plans in my room on a windy day,0.03,0.02,1.1,0.0
+9,Read a book in the park on a beach towel,Go for a walk on the beach on a sunny day with my family,0.04,0.02,4.4,1.0
+10,Go to a sushi restaraunt with my best friend on a friday evening,Read a book in the park on a beach towel,0.05,0.02,1.1,0.0
+11,Go for a walk on the beach on a sunny day with my family,Have a pampering self-care session on a rainy night in my living room,0.01,0.03,3.3,0.0
+12,Go to a sushi restaraunt with my best friend on a friday evening,Watch a new Netflix crime documentary in my living room on a rainy day ,0.02,0.03,4.4,0.0
+13,Watching football on a Sunday morning with my father.,Watch a new Netflix crime documentary in my living room on a rainy day ,0.03,0.03,1.1,0.0
+14,Play video games with my brother on a chilly day,Watch a new Netflix crime documentary in my living room on a rainy day ,0.04,0.03,3.3,0.0
+15,Do a strength training workout in the gym on a mild weathered day,Watch a movie on a sunday night with my family,0.05,0.03,4.4,1.0
+16,Have a pampering self-care session on a rainy night in my living room,Attend an outdoor gym fitness class on a sunny day,0.01,0.04,1.1,1.0
+17,Organize future travel plans in my room on a windy day,Go for a picnic on the beach with my friends,0.02,0.04,8.8,1.0
+18,Read a book in the park on a beach towel,Watch a movie on a sunday night with my family,0.03,0.04,3.3,1.0
+19,Have a pampering self-care session on a rainy night in my living room,Go to a sushi restaraunt with my best friend on a friday evening,0.04,0.04,3.3,1.0
+20,Go for an outdoor group hike around a national park on a sunny day,Have a netflix movie night on a saturday night with my friends,0.05,0.04,1.1,1.0
+21,Have a netflix movie night on a saturday night with my friends,Sunbathe on the beach on a deckchair,0.01,0.05,8.8,0.0
+22,Attend a group fitness class at the gym on a mild weathered day,Attend an outdoor gym fitness class on a sunny day,0.02,0.05,4.4,1.0
+23,Attend an indoor gym class with my friend on a rainy day,Watch a new Netflix crime documentary in my living room on a rainy day ,0.03,0.05,1.1,0.0
+24,Go for an outdoor group hike around a national park on a sunny day,Play video games with my brother on a chilly day,0.04,0.05,4.4,1.0
+25,Go for a walk on the beach on a sunny day with my family,Do yoga outdoors on the beach on a sunny day,0.05,0.05,3.3,0.0
+26,Go for a walk on the beach on a sunny day with my family,Sunbathe on the beach on a deckchair,0.01,0.01,4.4,0.0
+27,Go for a picnic on the beach with my friends,Read a book in my living room on a rainy day,0.02,0.01,3.3,0.0
+28,Read a book in my living room on a rainy day,Have a netflix movie night on a saturday night with my friends,0.03,0.01,3.3,1.0
+29,Go for an outdoor group hike around a national park on a sunny day,Go for a picnic on the beach with my friends,0.04,0.01,4.4,1.0
+30,Sunbathe on the beach on a deckchair,Attend an indoor gym class with my friend on a rainy day,0.05,0.01,8.8,1.0
+31,Read a book in the park on a beach towel,Watch reality television shows on a thursday night with my mother,0.01,0.02,8.8,1.0
+32,Watch a movie on a sunday night with my family,Have a pampering self-care session on a rainy night in my living room,0.02,0.02,1.1,0.0
+33,Do yoga outdoors on the beach on a sunny day,Have a netflix movie night on a saturday night with my friends,0.03,0.02,4.4,1.0
+34,Play video games with my brother on a chilly day,Sunbathe on the beach on a deckchair,0.04,0.02,3.3,0.0
+35,Go for a walk on the beach on a sunny day with my family,Do a strength training workout in the gym on a mild weathered day,0.05,0.02,1.1,0.0
+36,Read a book in my living room on a rainy day,Attend an outdoor gym fitness class on a sunny day,0.01,0.03,3.3,1.0
+37,Attend a group fitness class at the gym on a mild weathered day,Watching football on a Sunday morning with my father.,0.02,0.03,1.1,1.0
+38,Watching football on a Sunday morning with my father.,Organize future travel plans in my room on a windy day,0.03,0.03,1.1,0.0
+39,Go to a sushi restaraunt with my best friend on a friday evening,Read a book in my living room on a rainy day,0.04,0.03,3.3,0.0
+40,Attend an indoor gym class with my friend on a rainy day,Do yoga outdoors on the beach on a sunny day,0.05,0.03,4.4,0.0
+41,Organize future travel plans in my room on a windy day,Attend an indoor gym class with my friend on a rainy day,0.01,0.04,1.1,1.0
+42,Watch a movie on a sunday night with my family,Read a book in my living room on a rainy day,0.02,0.04,3.3,0.0
+43,Attend an indoor gym class with my friend on a rainy day,Read a book in my living room on a rainy day,0.03,0.04,1.1,0.0
+44,Sunbathe on the beach on a deckchair,Watch reality television shows on a thursday night with my mother,0.04,0.04,1.1,1.0
+45,Read a book in my living room on a rainy day,Watching football on a Sunday morning with my father.,0.05,0.04,4.4,1.0
+46,Go for an outdoor group hike around a national park on a sunny day,Watch reality television shows on a thursday night with my mother,0.01,0.05,8.8,1.0
+47,Attend a group fitness class at the gym on a mild weathered day,Play video games with my brother on a chilly day,0.02,0.05,1.1,1.0
+48,Attend a group fitness class at the gym on a mild weathered day,Watch reality television shows on a thursday night with my mother,0.03,0.05,4.4,1.0
+49,Organize future travel plans in my room on a windy day,Have a netflix movie night on a saturday night with my friends,0.04,0.05,3.3,1.0
+50,Go for a picnic on the beach with my friends,Attend a group fitness class at the gym on a mild weathered day,0.05,0.05,1.1,0.0
+51,Organize future travel plans in my room on a windy day,Play video games with my brother on a chilly day,0.01,0.01,1.1,1.0
+52,Go for a picnic on the beach with my friends,Have a pampering self-care session on a rainy night in my living room,0.02,0.01,3.3,0.0
+53,Go for an outdoor group hike around a national park on a sunny day,Watch a movie on a sunday night with my family,0.03,0.01,1.1,1.0
+54,Watching football on a Sunday morning with my father.,Have a pampering self-care session on a rainy night in my living room,0.04,0.01,4.4,0.0
+55,Attend an outdoor gym fitness class on a sunny day,Organize future travel plans in my room on a windy day,0.05,0.01,1.1,0.0
+56,Go for an outdoor group hike around a national park on a sunny day,Watching football on a Sunday morning with my father.,0.01,0.02,8.8,1.0
+57,Have a pampering self-care session on a rainy night in my living room,Have a netflix movie night on a saturday night with my friends,0.02,0.02,4.4,1.0
+58,Watch a new Netflix crime documentary in my living room on a rainy day ,Have a netflix movie night on a saturday night with my friends,0.03,0.02,4.4,1.0
+59,Go for an outdoor group hike around a national park on a sunny day,Attend an outdoor gym fitness class on a sunny day,0.04,0.02,4.4,1.0
+60,Do yoga outdoors on the beach on a sunny day,Watch reality television shows on a thursday night with my mother,0.05,0.02,1.1,1.0
+61,Do yoga outdoors on the beach on a sunny day,Play video games with my brother on a chilly day,0.01,0.03,3.3,1.0
+62,Go for a picnic on the beach with my friends,Do a strength training workout in the gym on a mild weathered day,0.02,0.03,3.3,0.0
+63,Attend an indoor gym class with my friend on a rainy day,Read a book in the park on a beach towel,0.03,0.03,3.3,0.0
+64,Have a netflix movie night on a saturday night with my friends,Attend a group fitness class at the gym on a mild weathered day,0.04,0.03,1.1,0.0
+65,Watch reality television shows on a thursday night with my mother,Have a pampering self-care session on a rainy night in my living room,0.05,0.03,1.1,0.0
+66,Go for a walk on the beach on a sunny day with my family,Attend a group fitness class at the gym on a mild weathered day,0.01,0.04,1.1,0.0
+67,Watch a new Netflix crime documentary in my living room on a rainy day ,Watch a movie on a sunday night with my family,0.02,0.04,8.8,1.0
+68,Watch a movie on a sunday night with my family,Sunbathe on the beach on a deckchair,0.03,0.04,4.4,0.0
+69,Attend an outdoor gym fitness class on a sunny day,Read a book in the park on a beach towel,0.04,0.04,1.1,0.0
+70,Sunbathe on the beach on a deckchair,Watching football on a Sunday morning with my father.,0.05,0.04,1.1,1.0
+71,Go for a picnic on the beach with my friends,Read a book in the park on a beach towel,0.01,0.05,3.3,0.0
+72,Watch a new Netflix crime documentary in my living room on a rainy day ,Attend an outdoor gym fitness class on a sunny day,0.02,0.05,8.8,1.0
+73,Have a pampering self-care session on a rainy night in my living room,Attend an indoor gym class with my friend on a rainy day,0.03,0.05,3.3,1.0
+74,Attend a group fitness class at the gym on a mild weathered day,Watch a movie on a sunday night with my family,0.04,0.05,4.4,1.0
+75,Do a strength training workout in the gym on a mild weathered day,Watching football on a Sunday morning with my father.,0.05,0.05,3.3,1.0
+76,Watch a new Netflix crime documentary in my living room on a rainy day ,Go for a picnic on the beach with my friends,0.01,0.01,1.1,1.0
+77,Watch reality television shows on a thursday night with my mother,Watch a new Netflix crime documentary in my living room on a rainy day ,0.02,0.01,8.8,0.0
+78,Do a strength training workout in the gym on a mild weathered day,Watch reality television shows on a thursday night with my mother,0.03,0.01,1.1,1.0
+79,Play video games with my brother on a chilly day,Have a pampering self-care session on a rainy night in my living room,0.04,0.01,1.1,0.0
+80,Go to a sushi restaraunt with my best friend on a friday evening,Go for an outdoor group hike around a national park on a sunny day,0.05,0.01,4.4,0.0
+81,Do yoga outdoors on the beach on a sunny day,Go to a sushi restaraunt with my best friend on a friday evening,0.01,0.02,3.3,1.0
+82,Organize future travel plans in my room on a windy day,Watch reality television shows on a thursday night with my mother,0.02,0.02,4.4,1.0
+83,Read a book in the park on a beach towel,Have a netflix movie night on a saturday night with my friends,0.03,0.02,1.1,1.0
+84,Attend an outdoor gym fitness class on a sunny day,Sunbathe on the beach on a deckchair,0.04,0.02,3.3,0.0
+85,Attend a group fitness class at the gym on a mild weathered day,Attend an indoor gym class with my friend on a rainy day,0.05,0.02,3.3,1.0
+86,Go for a picnic on the beach with my friends,Sunbathe on the beach on a deckchair,0.01,0.03,1.1,0.0
+87,Attend an indoor gym class with my friend on a rainy day,Go for an outdoor group hike around a national park on a sunny day,0.02,0.03,4.4,0.0
+88,Go to a sushi restaraunt with my best friend on a friday evening,Attend a group fitness class at the gym on a mild weathered day,0.03,0.03,1.1,0.0
+89,Read a book in my living room on a rainy day,Go for a walk on the beach on a sunny day with my family,0.04,0.03,3.3,1.0
+90,Organize future travel plans in my room on a windy day,Go for a walk on the beach on a sunny day with my family,0.05,0.03,8.8,1.0
+91,Play video games with my brother on a chilly day,Read a book in my living room on a rainy day,0.01,0.04,3.3,0.0
+92,Have a netflix movie night on a saturday night with my friends,Do a strength training workout in the gym on a mild weathered day,0.02,0.04,8.8,0.0
+93,Do a strength training workout in the gym on a mild weathered day,Play video games with my brother on a chilly day,0.03,0.04,1.1,1.0
+94,Do yoga outdoors on the beach on a sunny day,Go for a picnic on the beach with my friends,0.04,0.04,4.4,1.0
+95,Read a book in the park on a beach towel,Play video games with my brother on a chilly day,0.05,0.04,4.4,1.0
+96,Go to a sushi restaraunt with my best friend on a friday evening,Organize future travel plans in my room on a windy day,0.01,0.05,3.3,0.0
+97,Watch a new Netflix crime documentary in my living room on a rainy day ,Go for a walk on the beach on a sunny day with my family,0.02,0.05,1.1,1.0
+98,Go to a sushi restaraunt with my best friend on a friday evening,Do a strength training workout in the gym on a mild weathered day,0.03,0.05,1.1,0.0
+99,Go for a walk on the beach on a sunny day with my family,Go for an outdoor group hike around a national park on a sunny day,0.04,0.05,3.3,0.0
+100,Go to a sushi restaraunt with my best friend on a friday evening,Sunbathe on the beach on a deckchair,0.05,0.05,4.4,0.0
