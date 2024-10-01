@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Play board games at one of my friends house,Run early in the morning around my neighborhood,0.01,0.01,4.4,0.0
+2,Cycle at the park,Listen to music while we sit outside ,0.02,0.01,8.8,1.0
+3,Play video games ,Eat pizza while we watch a movie,0.03,0.01,3.3,1.0
+4,Play my guitar in my room,Eat pizza while we watch a movie,0.04,0.01,1.1,1.0
+5,Look around at local stores,Watch the clouds as I lay down outside,0.05,0.01,1.1,0.0
+6,Play hide and seek,Look around at local stores,0.01,0.02,3.3,1.0
+7,Watch the clouds as I lay down outside,Play with a pet of one of our friends,0.02,0.02,1.1,1.0
+8,Cycle at the park,Look around at local stores,0.03,0.02,1.1,1.0
+9,Read funny jokes and seeing which one is funnier,Cycle at the park,0.04,0.02,4.4,0.0
+10,Listen to music while we sit outside ,Watch the clouds as I lay down outside,0.05,0.02,1.1,0.0
+11,Play my guitar in my room,Walking around the park while we talk,0.01,0.03,3.3,1.0
+12,Run early in the morning around my neighborhood,Look around at local stores,0.02,0.03,4.4,1.0
+13,Run early in the morning around my neighborhood,Walking around the park while we talk,0.03,0.03,1.1,1.0
+14,Play my guitar in my room,Look around at local stores,0.04,0.03,3.3,1.0
+15,Eat pizza while we watch a movie,Shop online or in stores,0.05,0.03,4.4,0.0
+16,Play my guitar in my room,Laugh at funny posts we run into,0.01,0.04,1.1,1.0
+17,Listen to music while we sit outside ,Shop online or in stores,0.02,0.04,8.8,0.0
+18,Listen to music while I relax,Cruise around in the car,0.03,0.04,3.3,1.0
+19,Play hide and seek,Cruise around in the car,0.04,0.04,3.3,1.0
+20,Play hide and seek,Play with a pet of one of our friends,0.05,0.04,1.1,1.0
+21,Play board games at one of my friends house,Play video games ,0.01,0.05,8.8,0.0
+22,Read funny jokes and seeing which one is funnier,Play my guitar in my room,0.02,0.05,4.4,0.0
+23,Play video games ,Cruise around in the car,0.03,0.05,1.1,1.0
+24,Read books to my baby in our room,Read funny jokes and seeing which one is funnier,0.04,0.05,4.4,1.0
+25,Read books to my baby in our room,Play with a pet of one of our friends,0.05,0.05,3.3,1.0
+26,Play hide and seek,Cook something fun to eat together,0.01,0.01,4.4,1.0
+27,Walking around the park while we talk,Read books to my baby in our room,0.02,0.01,3.3,0.0
+28,Listen to music while I relax,Play board games at one of my friends house,0.03,0.01,3.3,1.0
+29,Play board games at one of my friends house,Read books to my baby in our room,0.04,0.01,4.4,0.0
+30,Listen to music while I relax,Play with a pet of one of our friends,0.05,0.01,8.8,1.0
+31,Cook something fun to eat together,Play video games ,0.01,0.02,8.8,0.0
+32,Play hide and seek,Listen to music while we sit outside ,0.02,0.02,1.1,1.0
+33,Eat pizza while we watch a movie,Listen to music while I relax,0.03,0.02,4.4,0.0
+34,Cook something fun to eat together,Listen to music while I relax,0.04,0.02,3.3,0.0
+35,Walking around the park while we talk,Listen to music while I relax,0.05,0.02,1.1,0.0
+36,Cook something fun to eat together,Eat snacks while I watch television,0.01,0.03,3.3,0.0
+37,Eat pizza while we watch a movie,Play hide and seek,0.02,0.03,1.1,0.0
+38,Walking around the park while we talk,Play hide and seek,0.03,0.03,1.1,0.0
+39,Play with a pet of one of our friends,Cycle at the park,0.04,0.03,3.3,0.0
+40,Read books to my baby in our room,Listen to music while we sit outside ,0.05,0.03,4.4,1.0
+41,Cook something fun to eat together,Read books to my baby in our room,0.01,0.04,1.1,0.0
+42,Shop online or in stores,Play with a pet of one of our friends,0.02,0.04,3.3,1.0
+43,Walking around the park while we talk,Shop online or in stores,0.03,0.04,1.1,0.0
+44,Play board games at one of my friends house,Cycle at the park,0.04,0.04,1.1,0.0
+45,Run early in the morning around my neighborhood,Cook something fun to eat together,0.05,0.04,4.4,1.0
+46,Play video games ,Walking around the park while we talk,0.01,0.05,8.8,1.0
+47,Eat snacks while I watch television,Cruise around in the car,0.02,0.05,1.1,1.0
+48,Play video games ,Listen to music while we sit outside ,0.03,0.05,4.4,1.0
+49,Play board games at one of my friends house,Watch the clouds as I lay down outside,0.04,0.05,3.3,0.0
+50,Watch the clouds as I lay down outside,Cruise around in the car,0.05,0.05,1.1,1.0
+51,Cruise around in the car,Run early in the morning around my neighborhood,0.01,0.01,1.1,0.0
+52,Eat pizza while we watch a movie,Run early in the morning around my neighborhood,0.02,0.01,3.3,0.0
+53,Play hide and seek,Play board games at one of my friends house,0.03,0.01,1.1,1.0
+54,Shop online or in stores,Cook something fun to eat together,0.04,0.01,4.4,1.0
+55,Laugh at funny posts we run into,Listen to music while I relax,0.05,0.01,1.1,0.0
+56,Eat snacks while I watch television,Walking around the park while we talk,0.01,0.02,8.8,1.0
+57,Cook something fun to eat together,Watch the clouds as I lay down outside,0.02,0.02,4.4,0.0
+58,Listen to music while I relax,Look around at local stores,0.03,0.02,4.4,1.0
+59,Eat pizza while we watch a movie,Watch the clouds as I lay down outside,0.04,0.02,4.4,0.0
+60,Eat snacks while I watch television,Read funny jokes and seeing which one is funnier,0.05,0.02,1.1,1.0
+61,Cycle at the park,Laugh at funny posts we run into,0.01,0.03,3.3,1.0
+62,Listen to music while we sit outside ,Run early in the morning around my neighborhood,0.02,0.03,3.3,0.0
+63,Cycle at the park,Cruise around in the car,0.03,0.03,3.3,1.0
+64,Cook something fun to eat together,Cycle at the park,0.04,0.03,1.1,0.0
+65,Play with a pet of one of our friends,Eat snacks while I watch television,0.05,0.03,1.1,0.0
+66,Walking around the park while we talk,Cycle at the park,0.01,0.04,1.1,0.0
+67,Walking around the park while we talk,Watch the clouds as I lay down outside,0.02,0.04,8.8,0.0
+68,Run early in the morning around my neighborhood,Play with a pet of one of our friends,0.03,0.04,4.4,1.0
+69,Play with a pet of one of our friends,Play video games ,0.04,0.04,1.1,0.0
+70,Cruise around in the car,Shop online or in stores,0.05,0.04,1.1,0.0
+71,Play video games ,Laugh at funny posts we run into,0.01,0.05,3.3,1.0
+72,Eat pizza while we watch a movie,Cycle at the park,0.02,0.05,8.8,0.0
+73,Watch the clouds as I lay down outside,Laugh at funny posts we run into,0.03,0.05,3.3,1.0
+74,Laugh at funny posts we run into,Play hide and seek,0.04,0.05,4.4,0.0
+75,Play video games ,Look around at local stores,0.05,0.05,3.3,1.0
+76,Read books to my baby in our room,Eat pizza while we watch a movie,0.01,0.01,1.1,1.0
+77,Laugh at funny posts we run into,Read books to my baby in our room,0.02,0.01,8.8,0.0
+78,Laugh at funny posts we run into,Shop online or in stores,0.03,0.01,1.1,0.0
+79,Play board games at one of my friends house,Shop online or in stores,0.04,0.01,1.1,0.0
+80,Listen to music while I relax,Read funny jokes and seeing which one is funnier,0.05,0.01,4.4,1.0
+81,Cook something fun to eat together,Play my guitar in my room,0.01,0.02,3.3,0.0
+82,Play my guitar in my room,Cruise around in the car,0.02,0.02,4.4,1.0
+83,Read books to my baby in our room,Cruise around in the car,0.03,0.02,1.1,1.0
+84,Listen to music while we sit outside ,Eat snacks while I watch television,0.04,0.02,3.3,0.0
+85,Eat snacks while I watch television,Play board games at one of my friends house,0.05,0.02,3.3,1.0
+86,Play my guitar in my room,Listen to music while we sit outside ,0.01,0.03,1.1,1.0
+87,Play video games ,Read funny jokes and seeing which one is funnier,0.02,0.03,4.4,1.0
+88,Look around at local stores,Eat snacks while I watch television,0.03,0.03,1.1,0.0
+89,Laugh at funny posts we run into,Eat snacks while I watch television,0.04,0.03,3.3,0.0
+90,Listen to music while we sit outside ,Listen to music while I relax,0.05,0.03,8.8,0.0
+91,Play board games at one of my friends house,Play my guitar in my room,0.01,0.04,3.3,0.0
+92,Laugh at funny posts we run into,Run early in the morning around my neighborhood,0.02,0.04,8.8,0.0
+93,Shop online or in stores,Read funny jokes and seeing which one is funnier,0.03,0.04,1.1,1.0
+94,Play with a pet of one of our friends,Play my guitar in my room,0.04,0.04,4.4,0.0
+95,Shop online or in stores,Look around at local stores,0.05,0.04,4.4,1.0
+96,Play hide and seek,Read funny jokes and seeing which one is funnier,0.01,0.05,3.3,1.0
+97,Eat pizza while we watch a movie,Eat snacks while I watch television,0.02,0.05,1.1,0.0
+98,Read books to my baby in our room,Look around at local stores,0.03,0.05,1.1,1.0
+99,Read funny jokes and seeing which one is funnier,Watch the clouds as I lay down outside,0.04,0.05,3.3,0.0
+100,Read funny jokes and seeing which one is funnier,Run early in the morning around my neighborhood,0.05,0.05,4.4,0.0

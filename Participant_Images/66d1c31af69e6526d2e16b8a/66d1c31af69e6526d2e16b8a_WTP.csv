@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Swim at the beach,Skate with friends,0.01,0.01,4.4,1.0
+2,Play video games,Play fifa on my gaming console,0.02,0.01,8.8,0.0
+3,Play paul simon songs on the ukulele,Play video games,0.03,0.01,3.3,1.0
+4,Go on mini road trips with my cousins,Redecorate my room with my favorite music playing,0.04,0.01,1.1,0.0
+5,Go on mini road trips with my cousins,Play fifa on my gaming console,0.05,0.01,1.1,0.0
+6,Practice piano in my living room,Go to the bar with my classmates after a good sunday evening study session,0.01,0.02,3.3,1.0
+7,Go out and trying new foods,Skate with friends,0.02,0.02,1.1,1.0
+8,Going skating on a sunny day.,Play video games,0.03,0.02,1.1,1.0
+9,Get starbucks and going thrift shopping with my best friend on saturday afternoons,Practice piano in my living room,0.04,0.02,4.4,0.0
+10,Watch football with my family,Go out and trying new foods,0.05,0.02,1.1,0.0
+11,Swimming at the beach.,Go on a weekend target run to browse the produce and home goods sections,0.01,0.03,3.3,0.0
+12,Get starbucks and going thrift shopping with my best friend on saturday afternoons,Going skating on a sunny day.,0.02,0.03,4.4,0.0
+13,Go to the gym to work on strength training,Skate with friends,0.03,0.03,1.1,1.0
+14,Play video games,Go out and trying new foods,0.04,0.03,3.3,0.0
+15,Go to the city on friday nights with my partner to try out a new restaurant,Practice piano in my living room,0.05,0.03,4.4,0.0
+16,Play paul simon songs on the ukulele,Go to the movie theatres,0.01,0.04,1.1,1.0
+17,Learn and research online about infrastructure,Play video games,0.02,0.04,8.8,1.0
+18,Play soccer,Go on a weekend target run to browse the produce and home goods sections,0.03,0.04,3.3,0.0
+19,Play paul simon songs on the ukulele,Skate with friends,0.04,0.04,3.3,1.0
+20,Skate with friends,Practice piano in my living room,0.05,0.04,1.1,0.0
+21,Go on a weekend target run to browse the produce and home goods sections,Watch football with my family,0.01,0.05,8.8,1.0
+22,Redecorate my room with my favorite music playing,Play soccer,0.02,0.05,4.4,1.0
+23,Play video games,Go on a weekend target run to browse the produce and home goods sections,0.03,0.05,1.1,0.0
+24,Going skating on a sunny day.,Go to the bar with my classmates after a good sunday evening study session,0.04,0.05,4.4,1.0
+25,Watch football with my family,Play fifa on my gaming console,0.05,0.05,3.3,0.0
+26,Redecorate my room with my favorite music playing,Go to the bar with my classmates after a good sunday evening study session,0.01,0.01,4.4,1.0
+27,Play paul simon songs on the ukulele,Go on mini road trips with my cousins,0.02,0.01,3.3,1.0
+28,Watch football with my family,Practice piano in my living room,0.03,0.01,3.3,0.0
+29,Get starbucks and going thrift shopping with my best friend on saturday afternoons,Play paul simon songs on the ukulele,0.04,0.01,4.4,0.0
+30,Go to the movie theatres,Go out and trying new foods,0.05,0.01,8.8,0.0
+31,Go to the gym to work on strength training,Play video games,0.01,0.02,8.8,1.0
+32,Play video games,Swim at the beach,0.02,0.02,1.1,0.0
+33,Going skating on a sunny day.,Swimming at the beach.,0.03,0.02,4.4,1.0
+34,Skate with friends,Redecorate my room with my favorite music playing,0.04,0.02,3.3,0.0
+35,Go to the gym to work on strength training,Play soccer,0.05,0.02,1.1,1.0
+36,Play soccer,Go out and trying new foods,0.01,0.03,3.3,0.0
+37,Go on a weekend target run to browse the produce and home goods sections,Go on mini road trips with my cousins,0.02,0.03,1.1,1.0
+38,Swimming at the beach.,Go out and trying new foods,0.03,0.03,1.1,0.0
+39,Swimming at the beach.,Redecorate my room with my favorite music playing,0.04,0.03,3.3,0.0
+40,Learn and research online about infrastructure,Go on mini road trips with my cousins,0.05,0.03,4.4,1.0
+41,Go to the city on friday nights with my partner to try out a new restaurant,Go on a weekend target run to browse the produce and home goods sections,0.01,0.04,1.1,0.0
+42,Redecorate my room with my favorite music playing,Go to the movie theatres,0.02,0.04,3.3,1.0
+43,Swim at the beach,Play soccer,0.03,0.04,1.1,1.0
+44,Go to the movie theatres,Learn and research online about infrastructure,0.04,0.04,1.1,0.0
+45,Practice piano in my living room,Play soccer,0.05,0.04,4.4,1.0
+46,Swimming at the beach.,Practice piano in my living room,0.01,0.05,8.8,0.0
+47,Swim at the beach,Get starbucks and going thrift shopping with my best friend on saturday afternoons,0.02,0.05,1.1,1.0
+48,Watch football with my family,Swim at the beach,0.03,0.05,4.4,0.0
+49,Go on mini road trips with my cousins,Practice piano in my living room,0.04,0.05,3.3,0.0
+50,Watch football with my family,Play paul simon songs on the ukulele,0.05,0.05,1.1,0.0
+51,Learn and research online about infrastructure,Get starbucks and going thrift shopping with my best friend on saturday afternoons,0.01,0.01,1.1,1.0
+52,Swim at the beach,Go to the movie theatres,0.02,0.01,3.3,1.0
+53,Play fifa on my gaming console,Get starbucks and going thrift shopping with my best friend on saturday afternoons,0.03,0.01,1.1,1.0
+54,Swim at the beach,Go on mini road trips with my cousins,0.04,0.01,4.4,1.0
+55,Skate with friends,Learn and research online about infrastructure,0.05,0.01,1.1,0.0
+56,Skate with friends,Go on a weekend target run to browse the produce and home goods sections,0.01,0.02,8.8,0.0
+57,Play paul simon songs on the ukulele,Go to the bar with my classmates after a good sunday evening study session,0.02,0.02,4.4,1.0
+58,Go to the movie theatres,Practice piano in my living room,0.03,0.02,4.4,0.0
+59,Play paul simon songs on the ukulele,Go to the city on friday nights with my partner to try out a new restaurant,0.04,0.02,4.4,1.0
+60,Redecorate my room with my favorite music playing,Play video games,0.05,0.02,1.1,1.0
+61,Go to the city on friday nights with my partner to try out a new restaurant,Go out and trying new foods,0.01,0.03,3.3,0.0
+62,Go out and trying new foods,Go on mini road trips with my cousins,0.02,0.03,3.3,1.0
+63,Play fifa on my gaming console,Go to the movie theatres,0.03,0.03,3.3,1.0
+64,Going skating on a sunny day.,Go to the movie theatres,0.04,0.03,1.1,1.0
+65,Go to the gym to work on strength training,Swimming at the beach.,0.05,0.03,1.1,1.0
+66,Practice piano in my living room,Play video games,0.01,0.04,1.1,1.0
+67,Go out and trying new foods,Get starbucks and going thrift shopping with my best friend on saturday afternoons,0.02,0.04,8.8,1.0
+68,Go to the movie theatres,Go on a weekend target run to browse the produce and home goods sections,0.03,0.04,4.4,0.0
+69,Swim at the beach,Swimming at the beach.,0.04,0.04,1.1,1.0
+70,Play fifa on my gaming console,Play soccer,0.05,0.04,1.1,1.0
+71,Go on a weekend target run to browse the produce and home goods sections,Go to the bar with my classmates after a good sunday evening study session,0.01,0.05,3.3,1.0
+72,Go to the bar with my classmates after a good sunday evening study session,Go out and trying new foods,0.02,0.05,8.8,0.0
+73,Swimming at the beach.,Play fifa on my gaming console,0.03,0.05,3.3,0.0
+74,Go to the city on friday nights with my partner to try out a new restaurant,Redecorate my room with my favorite music playing,0.04,0.05,4.4,0.0
+75,Learn and research online about infrastructure,Go to the bar with my classmates after a good sunday evening study session,0.05,0.05,3.3,1.0
+76,Get starbucks and going thrift shopping with my best friend on saturday afternoons,Go on a weekend target run to browse the produce and home goods sections,0.01,0.01,1.1,0.0
+77,Going skating on a sunny day.,Watch football with my family,0.02,0.01,8.8,1.0
+78,Play soccer,Learn and research online about infrastructure,0.03,0.01,1.1,0.0
+79,Go to the bar with my classmates after a good sunday evening study session,Play fifa on my gaming console,0.04,0.01,1.1,0.0
+80,Play soccer,Going skating on a sunny day.,0.05,0.01,4.4,0.0
+81,Play paul simon songs on the ukulele,Play soccer,0.01,0.02,3.3,1.0
+82,Skate with friends,Going skating on a sunny day.,0.02,0.02,4.4,0.0
+83,Go to the bar with my classmates after a good sunday evening study session,Go to the gym to work on strength training,0.03,0.02,1.1,0.0
+84,Go to the gym to work on strength training,Get starbucks and going thrift shopping with my best friend on saturday afternoons,0.04,0.02,3.3,1.0
+85,Swim at the beach,Go to the city on friday nights with my partner to try out a new restaurant,0.05,0.02,3.3,1.0
+86,Go on mini road trips with my cousins,Going skating on a sunny day.,0.01,0.03,1.1,0.0
+87,Go to the gym to work on strength training,Go to the movie theatres,0.02,0.03,4.4,1.0
+88,Swim at the beach,Go to the bar with my classmates after a good sunday evening study session,0.03,0.03,1.1,1.0
+89,Going skating on a sunny day.,Go to the city on friday nights with my partner to try out a new restaurant,0.04,0.03,3.3,1.0
+90,Go to the city on friday nights with my partner to try out a new restaurant,Learn and research online about infrastructure,0.05,0.03,8.8,0.0
+91,Play fifa on my gaming console,Go to the city on friday nights with my partner to try out a new restaurant,0.01,0.04,3.3,1.0
+92,Go to the gym to work on strength training,Go to the city on friday nights with my partner to try out a new restaurant,0.02,0.04,8.8,1.0
+93,Play paul simon songs on the ukulele,Swimming at the beach.,0.03,0.04,1.1,1.0
+94,Skate with friends,Play fifa on my gaming console,0.04,0.04,4.4,0.0
+95,Swimming at the beach.,Learn and research online about infrastructure,0.05,0.04,4.4,0.0
+96,Go on mini road trips with my cousins,Go to the gym to work on strength training,0.01,0.05,3.3,0.0
+97,Get starbucks and going thrift shopping with my best friend on saturday afternoons,Redecorate my room with my favorite music playing,0.02,0.05,1.1,0.0
+98,Watch football with my family,Learn and research online about infrastructure,0.03,0.05,1.1,0.0
+99,Watch football with my family,Redecorate my room with my favorite music playing,0.04,0.05,3.3,0.0
+100,Watch football with my family,Go to the gym to work on strength training,0.05,0.05,4.4,0.0
