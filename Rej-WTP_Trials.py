@@ -40,7 +40,7 @@ for sub in completedparticipantlist['PROLIFIC_ID']:
             sub_path= sub_folders + sub
             #get nonsocial activities
             nonsocial = sub_exp.filter(regex='Nonsocial_A')
-            nonsocial=nonsocial.T.reset_index()
+            nonsocial=nonsocial.T.reset_index(0)
             nonsocial= nonsocial.drop(['index'], axis=1)
             nonsocial.columns.values[0] = "nonsocial"
     
@@ -63,7 +63,7 @@ for sub in completedparticipantlist['PROLIFIC_ID']:
             # social= social.rename(columns={5: "social"}) #change column number
             social.columns.values[0] = "social"
             social['type'] =1
-            
+        
             all_exp['social'] = social['social']
     
             #dataframe to split up the experiences on different sides
