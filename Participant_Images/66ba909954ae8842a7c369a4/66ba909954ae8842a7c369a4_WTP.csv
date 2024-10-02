@@ -1,101 +1,101 @@
 TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
-1,Host a bbq with my family in the backyard on a warm evening,Read a novel in bed on a chilly day under a cozy blanket,0.01,0.01,4.4,0.0
-2,Play video games in my room with the window open for fresh air,Get bubble tea and walking around the mall with my best friend on a sunday,0.02,0.01,8.8,1.0
-3,Sketch random doodles in my notebook at a quiet caf,Playing basketball with my cousins at the park on a sunny afternoon,0.03,0.01,3.3,1.0
-4,Listen to music while journaling in my room with dim lighting,Attend a live concert with my friends in the city,0.04,0.01,1.1,1.0
-5,Read a novel in bed on a chilly day under a cozy blanket,Go to the movies with my siblings on a rainy weekend,0.05,0.01,1.1,1.0
-6,Read a novel in bed on a chilly day under a cozy blanket,Get bubble tea and walking around the mall with my best friend on a sunday,0.01,0.02,3.3,1.0
-7,Go to the beach with my family on a hot summer day,Take a long walk in the park with my headphones on,0.02,0.02,1.1,0.0
-8,Organize my closet while playing a chill playlist,Host a bbq with my family in the backyard on a warm evening,0.03,0.02,1.1,1.0
-9,Attend a live concert with my friends in the city,Sketch random doodles in my notebook at a quiet caf,0.04,0.02,4.4,0.0
-10,Rearrange my room furniture after getting new decor,Have a game night with my close friends at someones house on a saturday,0.05,0.02,1.1,1.0
-11,Rearrange my room furniture after getting new decor,Go to the movies with my siblings on a rainy weekend,0.01,0.03,3.3,1.0
-12,Go for a hike with my best friend in the mountains during fall,Play video games in my room with the window open for fresh air,0.02,0.03,4.4,0.0
-13,Daydream while watching clouds from my balcony on a breezy evening,Host a bbq with my family in the backyard on a warm evening,0.03,0.03,1.1,1.0
-14,Go to the beach with my family on a hot summer day,Listen to music while journaling in my room with dim lighting,0.04,0.03,3.3,0.0
-15,Sketch random doodles in my notebook at a quiet caf,Host a bbq with my family in the backyard on a warm evening,0.05,0.03,4.4,1.0
-16,Have a game night with my close friends at someones house on a saturday,Play video games in my room with the window open for fresh air,0.01,0.04,1.1,0.0
-17,Go for a hike with my best friend in the mountains during fall,Watch random youtube documentaries late at night in bed,0.02,0.04,8.8,0.0
-18,Listen to music while journaling in my room with dim lighting,Grab pizza with my friends on a friday night after school,0.03,0.04,3.3,1.0
-19,Take a long walk in the park with my headphones on,Host a bbq with my family in the backyard on a warm evening,0.04,0.04,3.3,1.0
-20,Go to the movies with my siblings on a rainy weekend,Sketch random doodles in my notebook at a quiet caf,0.05,0.04,1.1,0.0
-21,Take a long walk in the park with my headphones on,Attend a live concert with my friends in the city,0.01,0.05,8.8,1.0
-22,Bake cookies in the kitchen on a sunday afternoon,Grab pizza with my friends on a friday night after school,0.02,0.05,4.4,1.0
-23,Play video games in my room with the window open for fresh air,Playing basketball with my cousins at the park on a sunny afternoon,0.03,0.05,1.1,1.0
-24,Have a game night with my close friends at someones house on a saturday,Watch random youtube documentaries late at night in bed,0.04,0.05,4.4,0.0
-25,Study for finals with my classmates at the library late at night,Daydream while watching clouds from my balcony on a breezy evening,0.05,0.05,3.3,0.0
-26,Go to the beach with my family on a hot summer day,Watch random youtube documentaries late at night in bed,0.01,0.01,4.4,0.0
-27,Attend a live concert with my friends in the city,Play video games in my room with the window open for fresh air,0.02,0.01,3.3,0.0
-28,Watch random youtube documentaries late at night in bed,Go to the movies with my siblings on a rainy weekend,0.03,0.01,3.3,1.0
-29,Get bubble tea and walking around the mall with my best friend on a sunday,Daydream while watching clouds from my balcony on a breezy evening,0.04,0.01,4.4,0.0
-30,Go to the beach with my family on a hot summer day,Daydream while watching clouds from my balcony on a breezy evening,0.05,0.01,8.8,0.0
-31,Get bubble tea and walking around the mall with my best friend on a sunday,Sketch random doodles in my notebook at a quiet caf,0.01,0.02,8.8,0.0
-32,Go to the movies with my siblings on a rainy weekend,Bake cookies in the kitchen on a sunday afternoon,0.02,0.02,1.1,0.0
-33,Have a game night with my close friends at someones house on a saturday,Daydream while watching clouds from my balcony on a breezy evening,0.03,0.02,4.4,0.0
-34,Organize my closet while playing a chill playlist,Go to the movies with my siblings on a rainy weekend,0.04,0.02,3.3,1.0
-35,Grab pizza with my friends on a friday night after school,Daydream while watching clouds from my balcony on a breezy evening,0.05,0.02,1.1,0.0
-36,Watch random youtube documentaries late at night in bed,Get bubble tea and walking around the mall with my best friend on a sunday,0.01,0.03,3.3,1.0
-37,Bake cookies in the kitchen on a sunday afternoon,Go to the beach with my family on a hot summer day,0.02,0.03,1.1,1.0
-38,Rearrange my room furniture after getting new decor,Playing basketball with my cousins at the park on a sunny afternoon,0.03,0.03,1.1,1.0
-39,Read a novel in bed on a chilly day under a cozy blanket,Study for finals with my classmates at the library late at night,0.04,0.03,3.3,1.0
-40,Have a game night with my close friends at someones house on a saturday,Sketch random doodles in my notebook at a quiet caf,0.05,0.03,4.4,0.0
-41,Have a game night with my close friends at someones house on a saturday,Organize my closet while playing a chill playlist,0.01,0.04,1.1,0.0
-42,Study for finals with my classmates at the library late at night,Take a long walk in the park with my headphones on,0.02,0.04,3.3,0.0
-43,Get bubble tea and walking around the mall with my best friend on a sunday,Rearrange my room furniture after getting new decor,0.03,0.04,1.1,0.0
-44,Grab pizza with my friends on a friday night after school,Play video games in my room with the window open for fresh air,0.04,0.04,1.1,0.0
-45,Rearrange my room furniture after getting new decor,Go to the beach with my family on a hot summer day,0.05,0.04,4.4,1.0
-46,Playing basketball with my cousins at the park on a sunny afternoon,Bake cookies in the kitchen on a sunday afternoon,0.01,0.05,8.8,0.0
-47,Organize my closet while playing a chill playlist,Attend a live concert with my friends in the city,0.02,0.05,1.1,1.0
-48,Study for finals with my classmates at the library late at night,Sketch random doodles in my notebook at a quiet caf,0.03,0.05,4.4,0.0
-49,Playing basketball with my cousins at the park on a sunny afternoon,Listen to music while journaling in my room with dim lighting,0.04,0.05,3.3,0.0
-50,Bake cookies in the kitchen on a sunday afternoon,Go for a hike with my best friend in the mountains during fall,0.05,0.05,1.1,1.0
-51,Listen to music while journaling in my room with dim lighting,Host a bbq with my family in the backyard on a warm evening,0.01,0.01,1.1,1.0
-52,Watch random youtube documentaries late at night in bed,Grab pizza with my friends on a friday night after school,0.02,0.01,3.3,1.0
-53,Rearrange my room furniture after getting new decor,Go for a hike with my best friend in the mountains during fall,0.03,0.01,1.1,1.0
-54,Watch random youtube documentaries late at night in bed,Host a bbq with my family in the backyard on a warm evening,0.04,0.01,4.4,1.0
-55,Read a novel in bed on a chilly day under a cozy blanket,Go to the beach with my family on a hot summer day,0.05,0.01,1.1,1.0
-56,Go for a hike with my best friend in the mountains during fall,Organize my closet while playing a chill playlist,0.01,0.02,8.8,0.0
-57,Get bubble tea and walking around the mall with my best friend on a sunday,Listen to music while journaling in my room with dim lighting,0.02,0.02,4.4,0.0
-58,Take a long walk in the park with my headphones on,Have a game night with my close friends at someones house on a saturday,0.03,0.02,4.4,1.0
-59,Get bubble tea and walking around the mall with my best friend on a sunday,Organize my closet while playing a chill playlist,0.04,0.02,4.4,0.0
-60,Bake cookies in the kitchen on a sunday afternoon,Attend a live concert with my friends in the city,0.05,0.02,1.1,1.0
-61,Go to the movies with my siblings on a rainy weekend,Play video games in my room with the window open for fresh air,0.01,0.03,3.3,0.0
-62,Play video games in my room with the window open for fresh air,Host a bbq with my family in the backyard on a warm evening,0.02,0.03,3.3,1.0
-63,Read a novel in bed on a chilly day under a cozy blanket,Grab pizza with my friends on a friday night after school,0.03,0.03,3.3,1.0
-64,Rearrange my room furniture after getting new decor,Study for finals with my classmates at the library late at night,0.04,0.03,1.1,1.0
-65,Attend a live concert with my friends in the city,Watch random youtube documentaries late at night in bed,0.05,0.03,1.1,0.0
-66,Sketch random doodles in my notebook at a quiet caf,Go for a hike with my best friend in the mountains during fall,0.01,0.04,1.1,1.0
-67,Rearrange my room furniture after getting new decor,Host a bbq with my family in the backyard on a warm evening,0.02,0.04,8.8,1.0
-68,Daydream while watching clouds from my balcony on a breezy evening,Playing basketball with my cousins at the park on a sunny afternoon,0.03,0.04,4.4,1.0
-69,Host a bbq with my family in the backyard on a warm evening,Bake cookies in the kitchen on a sunday afternoon,0.04,0.04,1.1,0.0
-70,Rearrange my room furniture after getting new decor,Attend a live concert with my friends in the city,0.05,0.04,1.1,1.0
-71,Listen to music while journaling in my room with dim lighting,Go for a hike with my best friend in the mountains during fall,0.01,0.05,3.3,1.0
-72,Grab pizza with my friends on a friday night after school,Take a long walk in the park with my headphones on,0.02,0.05,8.8,0.0
-73,Grab pizza with my friends on a friday night after school,Rearrange my room furniture after getting new decor,0.03,0.05,3.3,0.0
-74,Bake cookies in the kitchen on a sunday afternoon,Get bubble tea and walking around the mall with my best friend on a sunday,0.04,0.05,4.4,1.0
-75,Attend a live concert with my friends in the city,Daydream while watching clouds from my balcony on a breezy evening,0.05,0.05,3.3,0.0
-76,Playing basketball with my cousins at the park on a sunny afternoon,Read a novel in bed on a chilly day under a cozy blanket,0.01,0.01,1.1,0.0
-77,Organize my closet while playing a chill playlist,Playing basketball with my cousins at the park on a sunny afternoon,0.02,0.01,8.8,1.0
-78,Go for a hike with my best friend in the mountains during fall,Take a long walk in the park with my headphones on,0.03,0.01,1.1,0.0
-79,Go for a hike with my best friend in the mountains during fall,Read a novel in bed on a chilly day under a cozy blanket,0.04,0.01,1.1,0.0
-80,Go to the movies with my siblings on a rainy weekend,Listen to music while journaling in my room with dim lighting,0.05,0.01,4.4,0.0
-81,Grab pizza with my friends on a friday night after school,Organize my closet while playing a chill playlist,0.01,0.02,3.3,0.0
-82,Study for finals with my classmates at the library late at night,Bake cookies in the kitchen on a sunday afternoon,0.02,0.02,4.4,0.0
-83,Have a game night with my close friends at someones house on a saturday,Listen to music while journaling in my room with dim lighting,0.03,0.02,1.1,0.0
-84,Have a game night with my close friends at someones house on a saturday,Read a novel in bed on a chilly day under a cozy blanket,0.04,0.02,3.3,0.0
-85,Study for finals with my classmates at the library late at night,Organize my closet while playing a chill playlist,0.05,0.02,3.3,0.0
-86,Playing basketball with my cousins at the park on a sunny afternoon,Take a long walk in the park with my headphones on,0.01,0.03,1.1,0.0
-87,Sketch random doodles in my notebook at a quiet caf,Grab pizza with my friends on a friday night after school,0.02,0.03,4.4,1.0
-88,Get bubble tea and walking around the mall with my best friend on a sunday,Take a long walk in the park with my headphones on,0.03,0.03,1.1,0.0
-89,Watch random youtube documentaries late at night in bed,Playing basketball with my cousins at the park on a sunny afternoon,0.04,0.03,3.3,1.0
-90,Read a novel in bed on a chilly day under a cozy blanket,Attend a live concert with my friends in the city,0.05,0.03,8.8,1.0
-91,Go to the beach with my family on a hot summer day,Organize my closet while playing a chill playlist,0.01,0.04,3.3,0.0
-92,Bake cookies in the kitchen on a sunday afternoon,Have a game night with my close friends at someones house on a saturday,0.02,0.04,8.8,1.0
-93,Study for finals with my classmates at the library late at night,Listen to music while journaling in my room with dim lighting,0.03,0.04,1.1,0.0
-94,Play video games in my room with the window open for fresh air,Go to the beach with my family on a hot summer day,0.04,0.04,4.4,1.0
-95,Watch random youtube documentaries late at night in bed,Study for finals with my classmates at the library late at night,0.05,0.04,4.4,1.0
-96,Daydream while watching clouds from my balcony on a breezy evening,Go to the movies with my siblings on a rainy weekend,0.01,0.05,3.3,1.0
-97,Daydream while watching clouds from my balcony on a breezy evening,Go for a hike with my best friend in the mountains during fall,0.02,0.05,1.1,1.0
-98,Go to the movies with my siblings on a rainy weekend,Take a long walk in the park with my headphones on,0.03,0.05,1.1,0.0
-99,Sketch random doodles in my notebook at a quiet caf,Go to the beach with my family on a hot summer day,0.04,0.05,3.3,1.0
-100,Study for finals with my classmates at the library late at night,Play video games in my room with the window open for fresh air,0.05,0.05,4.4,0.0
+1,Study for finals with my classmates at the library late at night,Listen to music while journaling in my room with dim lighting,0.01,0.01,4.4,0.0
+2,Go to the beach with my family on a hot summer day,Take a long walk in the park with my headphones on,0.02,0.01,8.8,0.0
+3,Playing basketball with my cousins at the park on a sunny afternoon,Rearrange my room furniture after getting new decor,0.03,0.01,3.3,0.0
+4,Bake cookies in the kitchen on a sunday afternoon,Grab pizza with my friends on a friday night after school,0.04,0.01,1.1,1.0
+5,Listen to music while journaling in my room with dim lighting,Go to the beach with my family on a hot summer day,0.05,0.01,1.1,1.0
+6,Grab pizza with my friends on a friday night after school,Rearrange my room furniture after getting new decor,0.01,0.02,3.3,0.0
+7,Study for finals with my classmates at the library late at night,Sketch random doodles in my notebook at a quiet caf,0.02,0.02,1.1,0.0
+8,Study for finals with my classmates at the library late at night,Daydream while watching clouds from my balcony on a breezy evening,0.03,0.02,1.1,0.0
+9,Read a novel in bed on a chilly day under a cozy blanket,Study for finals with my classmates at the library late at night,0.04,0.02,4.4,1.0
+10,Grab pizza with my friends on a friday night after school,Watch random youtube documentaries late at night in bed,0.05,0.02,1.1,0.0
+11,Watch random youtube documentaries late at night in bed,Have a game night with my close friends at someones house on a saturday,0.01,0.03,3.3,1.0
+12,Daydream while watching clouds from my balcony on a breezy evening,Attend a live concert with my friends in the city,0.02,0.03,4.4,1.0
+13,,Organize my closet while playing a chill playlist,0.03,0.03,1.1,0.0
+14,Attend a live concert with my friends in the city,Listen to music while journaling in my room with dim lighting,0.04,0.03,3.3,0.0
+15,Go to the beach with my family on a hot summer day,Watch random youtube documentaries late at night in bed,0.05,0.03,4.4,0.0
+16,Grab pizza with my friends on a friday night after school,Daydream while watching clouds from my balcony on a breezy evening,0.01,0.04,1.1,0.0
+17,Take a long walk in the park with my headphones on,Host a bbq with my family in the backyard on a warm evening,0.02,0.04,8.8,1.0
+18,Get bubble tea and walking around the mall with my best friend on a sunday,Play video games in my room with the window open for fresh air,0.03,0.04,3.3,0.0
+19,,Watch random youtube documentaries late at night in bed,0.04,0.04,3.3,0.0
+20,Play video games in my room with the window open for fresh air,Attend a live concert with my friends in the city,0.05,0.04,1.1,1.0
+21,Have a game night with my close friends at someones house on a saturday,Sketch random doodles in my notebook at a quiet caf,0.01,0.05,8.8,0.0
+22,Grab pizza with my friends on a friday night after school,Listen to music while journaling in my room with dim lighting,0.02,0.05,4.4,0.0
+23,Play video games in my room with the window open for fresh air,Grab pizza with my friends on a friday night after school,0.03,0.05,1.1,1.0
+24,Go to the beach with my family on a hot summer day,Rearrange my room furniture after getting new decor,0.04,0.05,4.4,0.0
+25,Bake cookies in the kitchen on a sunday afternoon,Playing basketball with my cousins at the park on a sunny afternoon,0.05,0.05,3.3,1.0
+26,Organize my closet while playing a chill playlist,Study for finals with my classmates at the library late at night,0.01,0.01,4.4,1.0
+27,,Rearrange my room furniture after getting new decor,0.02,0.01,3.3,0.0
+28,Take a long walk in the park with my headphones on,Attend a live concert with my friends in the city,0.03,0.01,3.3,1.0
+29,Take a long walk in the park with my headphones on,Study for finals with my classmates at the library late at night,0.04,0.01,4.4,1.0
+30,Listen to music while journaling in my room with dim lighting,,0.05,0.01,8.8,1.0
+31,Organize my closet while playing a chill playlist,Grab pizza with my friends on a friday night after school,0.01,0.02,8.8,1.0
+32,Host a bbq with my family in the backyard on a warm evening,Rearrange my room furniture after getting new decor,0.02,0.02,1.1,0.0
+33,Get bubble tea and walking around the mall with my best friend on a sunday,Organize my closet while playing a chill playlist,0.03,0.02,4.4,0.0
+34,Get bubble tea and walking around the mall with my best friend on a sunday,Take a long walk in the park with my headphones on,0.04,0.02,3.3,0.0
+35,Play video games in my room with the window open for fresh air,Study for finals with my classmates at the library late at night,0.05,0.02,1.1,1.0
+36,Get bubble tea and walking around the mall with my best friend on a sunday,Rearrange my room furniture after getting new decor,0.01,0.03,3.3,0.0
+37,Listen to music while journaling in my room with dim lighting,Go for a hike with my best friend in the mountains during fall,0.02,0.03,1.1,1.0
+38,Grab pizza with my friends on a friday night after school,Take a long walk in the park with my headphones on,0.03,0.03,1.1,0.0
+39,Daydream while watching clouds from my balcony on a breezy evening,Get bubble tea and walking around the mall with my best friend on a sunday,0.04,0.03,3.3,1.0
+40,Watch random youtube documentaries late at night in bed,Go for a hike with my best friend in the mountains during fall,0.05,0.03,4.4,1.0
+41,Rearrange my room furniture after getting new decor,Study for finals with my classmates at the library late at night,0.01,0.04,1.1,1.0
+42,Go for a hike with my best friend in the mountains during fall,Sketch random doodles in my notebook at a quiet caf,0.02,0.04,3.3,0.0
+43,Playing basketball with my cousins at the park on a sunny afternoon,Sketch random doodles in my notebook at a quiet caf,0.03,0.04,1.1,0.0
+44,Sketch random doodles in my notebook at a quiet caf,Go to the beach with my family on a hot summer day,0.04,0.04,1.1,1.0
+45,Sketch random doodles in my notebook at a quiet caf,Attend a live concert with my friends in the city,0.05,0.04,4.4,1.0
+46,Go for a hike with my best friend in the mountains during fall,Play video games in my room with the window open for fresh air,0.01,0.05,8.8,0.0
+47,Host a bbq with my family in the backyard on a warm evening,Bake cookies in the kitchen on a sunday afternoon,0.02,0.05,1.1,0.0
+48,Take a long walk in the park with my headphones on,Playing basketball with my cousins at the park on a sunny afternoon,0.03,0.05,4.4,1.0
+49,Have a game night with my close friends at someones house on a saturday,Organize my closet while playing a chill playlist,0.04,0.05,3.3,0.0
+50,Host a bbq with my family in the backyard on a warm evening,Daydream while watching clouds from my balcony on a breezy evening,0.05,0.05,1.1,0.0
+51,Attend a live concert with my friends in the city,Watch random youtube documentaries late at night in bed,0.01,0.01,1.1,0.0
+52,Playing basketball with my cousins at the park on a sunny afternoon,Read a novel in bed on a chilly day under a cozy blanket,0.02,0.01,3.3,0.0
+53,Rearrange my room furniture after getting new decor,Have a game night with my close friends at someones house on a saturday,0.03,0.01,1.1,1.0
+54,Go for a hike with my best friend in the mountains during fall,Bake cookies in the kitchen on a sunday afternoon,0.04,0.01,4.4,0.0
+55,Play video games in my room with the window open for fresh air,Host a bbq with my family in the backyard on a warm evening,0.05,0.01,1.1,1.0
+56,Study for finals with my classmates at the library late at night,Watch random youtube documentaries late at night in bed,0.01,0.02,8.8,0.0
+57,Playing basketball with my cousins at the park on a sunny afternoon,Play video games in my room with the window open for fresh air,0.02,0.02,4.4,0.0
+58,Play video games in my room with the window open for fresh air,,0.03,0.02,4.4,1.0
+59,Daydream while watching clouds from my balcony on a breezy evening,Go for a hike with my best friend in the mountains during fall,0.04,0.02,4.4,1.0
+60,Read a novel in bed on a chilly day under a cozy blanket,Host a bbq with my family in the backyard on a warm evening,0.05,0.02,1.1,1.0
+61,Daydream while watching clouds from my balcony on a breezy evening,Playing basketball with my cousins at the park on a sunny afternoon,0.01,0.03,3.3,1.0
+62,Playing basketball with my cousins at the park on a sunny afternoon,Organize my closet while playing a chill playlist,0.02,0.03,3.3,0.0
+63,Attend a live concert with my friends in the city,Rearrange my room furniture after getting new decor,0.03,0.03,3.3,0.0
+64,Take a long walk in the park with my headphones on,,0.04,0.03,1.1,1.0
+65,Get bubble tea and walking around the mall with my best friend on a sunday,Listen to music while journaling in my room with dim lighting,0.05,0.03,1.1,0.0
+66,Take a long walk in the park with my headphones on,Have a game night with my close friends at someones house on a saturday,0.01,0.04,1.1,1.0
+67,Organize my closet while playing a chill playlist,Go for a hike with my best friend in the mountains during fall,0.02,0.04,8.8,1.0
+68,Have a game night with my close friends at someones house on a saturday,Read a novel in bed on a chilly day under a cozy blanket,0.03,0.04,4.4,0.0
+69,Read a novel in bed on a chilly day under a cozy blanket,Go for a hike with my best friend in the mountains during fall,0.04,0.04,1.1,1.0
+70,Attend a live concert with my friends in the city,Read a novel in bed on a chilly day under a cozy blanket,0.05,0.04,1.1,0.0
+71,Listen to music while journaling in my room with dim lighting,Have a game night with my close friends at someones house on a saturday,0.01,0.05,3.3,1.0
+72,Playing basketball with my cousins at the park on a sunny afternoon,Listen to music while journaling in my room with dim lighting,0.02,0.05,8.8,0.0
+73,Bake cookies in the kitchen on a sunday afternoon,,0.03,0.05,3.3,1.0
+74,Daydream while watching clouds from my balcony on a breezy evening,,0.04,0.05,4.4,1.0
+75,Go to the beach with my family on a hot summer day,Organize my closet while playing a chill playlist,0.05,0.05,3.3,0.0
+76,Host a bbq with my family in the backyard on a warm evening,Sketch random doodles in my notebook at a quiet caf,0.01,0.01,1.1,0.0
+77,Attend a live concert with my friends in the city,Organize my closet while playing a chill playlist,0.02,0.01,8.8,0.0
+78,Bake cookies in the kitchen on a sunday afternoon,Have a game night with my close friends at someones house on a saturday,0.03,0.01,1.1,1.0
+79,Watch random youtube documentaries late at night in bed,Playing basketball with my cousins at the park on a sunny afternoon,0.04,0.01,1.1,1.0
+80,Daydream while watching clouds from my balcony on a breezy evening,Have a game night with my close friends at someones house on a saturday,0.05,0.01,4.4,1.0
+81,,Sketch random doodles in my notebook at a quiet caf,0.01,0.02,3.3,0.0
+82,Get bubble tea and walking around the mall with my best friend on a sunday,Watch random youtube documentaries late at night in bed,0.02,0.02,4.4,0.0
+83,Go to the beach with my family on a hot summer day,Bake cookies in the kitchen on a sunday afternoon,0.03,0.02,1.1,0.0
+84,Go to the beach with my family on a hot summer day,Play video games in my room with the window open for fresh air,0.04,0.02,3.3,0.0
+85,Sketch random doodles in my notebook at a quiet caf,Get bubble tea and walking around the mall with my best friend on a sunday,0.05,0.02,3.3,1.0
+86,Sketch random doodles in my notebook at a quiet caf,Grab pizza with my friends on a friday night after school,0.01,0.03,1.1,1.0
+87,Go to the beach with my family on a hot summer day,Read a novel in bed on a chilly day under a cozy blanket,0.02,0.03,4.4,0.0
+88,Organize my closet while playing a chill playlist,Host a bbq with my family in the backyard on a warm evening,0.03,0.03,1.1,1.0
+89,Daydream while watching clouds from my balcony on a breezy evening,Go to the beach with my family on a hot summer day,0.04,0.03,3.3,1.0
+90,Take a long walk in the park with my headphones on,Go for a hike with my best friend in the mountains during fall,0.05,0.03,8.8,1.0
+91,Study for finals with my classmates at the library late at night,Bake cookies in the kitchen on a sunday afternoon,0.01,0.04,3.3,0.0
+92,Bake cookies in the kitchen on a sunday afternoon,Attend a live concert with my friends in the city,0.02,0.04,8.8,1.0
+93,Grab pizza with my friends on a friday night after school,Read a novel in bed on a chilly day under a cozy blanket,0.03,0.04,1.1,0.0
+94,Bake cookies in the kitchen on a sunday afternoon,Get bubble tea and walking around the mall with my best friend on a sunday,0.04,0.04,4.4,1.0
+95,Read a novel in bed on a chilly day under a cozy blanket,,0.05,0.04,4.4,1.0
+96,Read a novel in bed on a chilly day under a cozy blanket,Get bubble tea and walking around the mall with my best friend on a sunday,0.01,0.05,3.3,1.0
+97,Rearrange my room furniture after getting new decor,Go for a hike with my best friend in the mountains during fall,0.02,0.05,1.1,1.0
+98,Listen to music while journaling in my room with dim lighting,Host a bbq with my family in the backyard on a warm evening,0.03,0.05,1.1,1.0
+99,Have a game night with my close friends at someones house on a saturday,Play video games in my room with the window open for fresh air,0.04,0.05,3.3,0.0
+100,Watch random youtube documentaries late at night in bed,Host a bbq with my family in the backyard on a warm evening,0.05,0.05,4.4,1.0
