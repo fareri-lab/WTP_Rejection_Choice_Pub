@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Hang out with friends or family at the mall on a rainy day,Read books in my room on a cloudy day,0.01,0.01,4.4,0.0
+2,Watch anime on random days with friends,Make beats on my computer in my room during the sunset,0.02,0.01,8.8,0.0
+3,Play aracde games at the arcade on the weekends with friends,Take walks in the park on a sunny day,0.03,0.01,3.3,0.0
+4,Draw pictures in my room on a sunny day,Travel out of town with friends on the weekends,0.04,0.01,1.1,1.0
+5,Make beats on my computer in my room during the sunset,Go to the book store or the library with friends on cloudy afternoons,0.05,0.01,1.1,1.0
+6,Take walks in the park on a sunny day,Hikewith friends on sunny mornings,0.01,0.02,3.3,1.0
+7,Read books in my room on a cloudy day,Travel out of town with friends on the weekends,0.02,0.02,1.1,1.0
+8,Cook delicious meals in my kitchen on a sunny day,Eat dinner with family on Sunday evenings,0.03,0.02,1.1,1.0
+9,Hikewith friends on sunny mornings,Make beats on my computer in my room during the sunset,0.04,0.02,4.4,0.0
+10,Watch tv in my bed alone,Watch tubi movies on random days with friends,0.05,0.02,1.1,1.0
+11,Watch anime on a rainy day in my room,Make beats or playng instruments with friends,0.01,0.03,3.3,1.0
+12,Watch anime on a rainy day in my room,Watch anime on random days with friends,0.02,0.03,4.4,1.0
+13,Try out new restaurants with friends on the weekends,Make beats on my computer in my room during the sunset,0.03,0.03,1.1,0.0
+14,Draw pictures in my room on a sunny day,Go to the book store or the library with friends on cloudy afternoons,0.04,0.03,3.3,1.0
+15,Play instruments in my room on a sunny day,Hang out with friends or family at the mall on a rainy day,0.05,0.03,4.4,1.0
+16,Watch anime on a rainy day in my room,Play aracde games at the arcade on the weekends with friends,0.01,0.04,1.1,1.0
+17,Go to the book store or the library with friends on cloudy afternoons,Take walks in the park on a sunny day,0.02,0.04,8.8,0.0
+18,Read books in my room on a cloudy day,Watch anime on random days with friends,0.03,0.04,3.3,1.0
+19,Watch anime on a rainy day in my room,Hang out with friends or family at the mall on a rainy day,0.04,0.04,3.3,1.0
+20,Draw pictures in my room on a sunny day,Try out new restaurants with friends on the weekends,0.05,0.04,1.1,1.0
+21,Watch anime on random days with friends,Watch tv in my bed alone,0.01,0.05,8.8,0.0
+22,Watch anime on random days with friends,Take pictures with my camera in the city on a warm sunny day,0.02,0.05,4.4,0.0
+23,Cook delicious meals in my kitchen on a sunny day,Play aracde games at the arcade on the weekends with friends,0.03,0.05,1.1,1.0
+24,Take walks in the park on a sunny day,Watch anime on random days with friends,0.04,0.05,4.4,1.0
+25,Hikewith friends on sunny mornings,Watch anime on a rainy day in my room,0.05,0.05,3.3,0.0
+26,Watch anime on a rainy day in my room,Try out new restaurants with friends on the weekends,0.01,0.01,4.4,1.0
+27,Watch tubi movies on random days with friends,Cook delicious meals in my kitchen on a sunny day,0.02,0.01,3.3,0.0
+28,Hikewith friends on sunny mornings,Draw pictures in my room on a sunny day,0.03,0.01,3.3,0.0
+29,Go to the book store or the library with friends on cloudy afternoons,Watch tv in my bed alone,0.04,0.01,4.4,0.0
+30,Eat dinner with family on Sunday evenings,Watch anime on a rainy day in my room,0.05,0.01,8.8,0.0
+31,Take pictures with my camera in the city on a warm sunny day,Watch tubi movies on random days with friends,0.01,0.02,8.8,1.0
+32,Cuddle with my stuffed animals in the bed at night,Hang out with friends or family at the mall on a rainy day,0.02,0.02,1.1,1.0
+33,Try out new restaurants with friends on the weekends,Take pictures with my camera in the city on a warm sunny day,0.03,0.02,4.4,0.0
+34,Eat dinner with family on Sunday evenings,Read books in my room on a cloudy day,0.04,0.02,3.3,0.0
+35,Watch tubi movies on random days with friends,Take walks in the park on a sunny day,0.05,0.02,1.1,0.0
+36,Play aracde games at the arcade on the weekends with friends,Cuddle with my stuffed animals in the bed at night,0.01,0.03,3.3,0.0
+37,Make beats on my computer in my room during the sunset,Eat dinner with family on Sunday evenings,0.02,0.03,1.1,1.0
+38,Make beats or playng instruments with friends,Read books in my room on a cloudy day,0.03,0.03,1.1,0.0
+39,Play aracde games at the arcade on the weekends with friends,Play instruments in my room on a sunny day,0.04,0.03,3.3,0.0
+40,Go to the book store or the library with friends on cloudy afternoons,Play instruments in my room on a sunny day,0.05,0.03,4.4,0.0
+41,Cuddle with my stuffed animals in the bed at night,Make beats or playng instruments with friends,0.01,0.04,1.1,1.0
+42,Take pictures with my camera in the city on a warm sunny day,Make beats or playng instruments with friends,0.02,0.04,3.3,1.0
+43,Try out new restaurants with friends on the weekends,Cuddle with my stuffed animals in the bed at night,0.03,0.04,1.1,0.0
+44,Make beats or playng instruments with friends,Take walks in the park on a sunny day,0.04,0.04,1.1,0.0
+45,Play instruments in my room on a sunny day,Watch anime on random days with friends,0.05,0.04,4.4,1.0
+46,Eat dinner with family on Sunday evenings,Take walks in the park on a sunny day,0.01,0.05,8.8,0.0
+47,Take pictures with my camera in the city on a warm sunny day,Play aracde games at the arcade on the weekends with friends,0.02,0.05,1.1,1.0
+48,Take pictures with my camera in the city on a warm sunny day,Hikewith friends on sunny mornings,0.03,0.05,4.4,1.0
+49,Eat dinner with family on Sunday evenings,Draw pictures in my room on a sunny day,0.04,0.05,3.3,0.0
+50,Play instruments in my room on a sunny day,Travel out of town with friends on the weekends,0.05,0.05,1.1,1.0
+51,Hikewith friends on sunny mornings,Cook delicious meals in my kitchen on a sunny day,0.01,0.01,1.1,0.0
+52,Draw pictures in my room on a sunny day,Watch anime on random days with friends,0.02,0.01,3.3,1.0
+53,Try out new restaurants with friends on the weekends,Take walks in the park on a sunny day,0.03,0.01,1.1,0.0
+54,Travel out of town with friends on the weekends,Take walks in the park on a sunny day,0.04,0.01,4.4,0.0
+55,Take pictures with my camera in the city on a warm sunny day,Hang out with friends or family at the mall on a rainy day,0.05,0.01,1.1,1.0
+56,Draw pictures in my room on a sunny day,Make beats or playng instruments with friends,0.01,0.02,8.8,1.0
+57,Read books in my room on a cloudy day,Play aracde games at the arcade on the weekends with friends,0.02,0.02,4.4,1.0
+58,Make beats or playng instruments with friends,Make beats on my computer in my room during the sunset,0.03,0.02,4.4,0.0
+59,Play aracde games at the arcade on the weekends with friends,Make beats on my computer in my room during the sunset,0.04,0.02,4.4,0.0
+60,Hang out with friends or family at the mall on a rainy day,Watch tv in my bed alone,0.05,0.02,1.1,0.0
+61,Cuddle with my stuffed animals in the bed at night,Watch anime on random days with friends,0.01,0.03,3.3,1.0
+62,Take pictures with my camera in the city on a warm sunny day,Go to the book store or the library with friends on cloudy afternoons,0.02,0.03,3.3,1.0
+63,Go to the book store or the library with friends on cloudy afternoons,Cook delicious meals in my kitchen on a sunny day,0.03,0.03,3.3,0.0
+64,Hang out with friends or family at the mall on a rainy day,Take walks in the park on a sunny day,0.04,0.03,1.1,0.0
+65,Watch tubi movies on random days with friends,Draw pictures in my room on a sunny day,0.05,0.03,1.1,0.0
+66,Cuddle with my stuffed animals in the bed at night,Hikewith friends on sunny mornings,0.01,0.04,1.1,1.0
+67,Eat dinner with family on Sunday evenings,Play instruments in my room on a sunny day,0.02,0.04,8.8,0.0
+68,Watch tv in my bed alone,Try out new restaurants with friends on the weekends,0.03,0.04,4.4,1.0
+69,Watch tv in my bed alone,Make beats or playng instruments with friends,0.04,0.04,1.1,1.0
+70,Make beats or playng instruments with friends,Cook delicious meals in my kitchen on a sunny day,0.05,0.04,1.1,0.0
+71,Watch tubi movies on random days with friends,Play instruments in my room on a sunny day,0.01,0.05,3.3,0.0
+72,Watch anime on a rainy day in my room,Watch tubi movies on random days with friends,0.02,0.05,8.8,1.0
+73,Cook delicious meals in my kitchen on a sunny day,Hang out with friends or family at the mall on a rainy day,0.03,0.05,3.3,1.0
+74,Cook delicious meals in my kitchen on a sunny day,Travel out of town with friends on the weekends,0.04,0.05,4.4,1.0
+75,Play instruments in my room on a sunny day,Hikewith friends on sunny mornings,0.05,0.05,3.3,1.0
+76,Cuddle with my stuffed animals in the bed at night,Go to the book store or the library with friends on cloudy afternoons,0.01,0.01,1.1,1.0
+77,Take pictures with my camera in the city on a warm sunny day,Travel out of town with friends on the weekends,0.02,0.01,8.8,1.0
+78,Draw pictures in my room on a sunny day,Play aracde games at the arcade on the weekends with friends,0.03,0.01,1.1,1.0
+79,Eat dinner with family on Sunday evenings,Cuddle with my stuffed animals in the bed at night,0.04,0.01,1.1,0.0
+80,Make beats on my computer in my room during the sunset,Travel out of town with friends on the weekends,0.05,0.01,4.4,1.0
+81,Hikewith friends on sunny mornings,Watch tv in my bed alone,0.01,0.02,3.3,0.0
+82,Take pictures with my camera in the city on a warm sunny day,Eat dinner with family on Sunday evenings,0.02,0.02,4.4,1.0
+83,Try out new restaurants with friends on the weekends,Cook delicious meals in my kitchen on a sunny day,0.03,0.02,1.1,0.0
+84,Draw pictures in my room on a sunny day,Hang out with friends or family at the mall on a rainy day,0.04,0.02,3.3,1.0
+85,Watch tubi movies on random days with friends,Cuddle with my stuffed animals in the bed at night,0.05,0.02,3.3,0.0
+86,Travel out of town with friends on the weekends,Watch anime on a rainy day in my room,0.01,0.03,1.1,0.0
+87,Try out new restaurants with friends on the weekends,Read books in my room on a cloudy day,0.02,0.03,4.4,0.0
+88,Play instruments in my room on a sunny day,Make beats or playng instruments with friends,0.03,0.03,1.1,1.0
+89,Play aracde games at the arcade on the weekends with friends,Watch tv in my bed alone,0.04,0.03,3.3,0.0
+90,Go to the book store or the library with friends on cloudy afternoons,Watch anime on a rainy day in my room,0.05,0.03,8.8,0.0
+91,Travel out of town with friends on the weekends,Watch tv in my bed alone,0.01,0.04,3.3,0.0
+92,Watch tv in my bed alone,Eat dinner with family on Sunday evenings,0.02,0.04,8.8,1.0
+93,Hang out with friends or family at the mall on a rainy day,Make beats on my computer in my room during the sunset,0.03,0.04,1.1,0.0
+94,Go to the book store or the library with friends on cloudy afternoons,Read books in my room on a cloudy day,0.04,0.04,4.4,0.0
+95,Read books in my room on a cloudy day,Hikewith friends on sunny mornings,0.05,0.04,4.4,1.0
+96,Cook delicious meals in my kitchen on a sunny day,Watch anime on random days with friends,0.01,0.05,3.3,1.0
+97,Watch tubi movies on random days with friends,Read books in my room on a cloudy day,0.02,0.05,1.1,0.0
+98,Try out new restaurants with friends on the weekends,Play instruments in my room on a sunny day,0.03,0.05,1.1,0.0
+99,Watch tubi movies on random days with friends,Make beats on my computer in my room during the sunset,0.04,0.05,3.3,0.0
+100,Cuddle with my stuffed animals in the bed at night,Travel out of town with friends on the weekends,0.05,0.05,4.4,1.0
