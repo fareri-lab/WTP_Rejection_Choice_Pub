@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,explore new walking trails with my family,read in a quiet library that smells like old dusty books and has chairs in the aisles,0.01,0.01,4.4,0.0
+2,watch scary movies with my boyfriend,ride my bike to work on a breezy spring day,0.02,0.01,8.8,0.0
+3,listen to music while i ride the train,explore new walking trails with my family,0.03,0.01,3.3,1.0
+4,listen to music while i ride the train,watch scary movies with my boyfriend,0.04,0.01,1.1,1.0
+5,try new unique restaurants with my significant other,listen to music while i ride the train,0.05,0.01,1.1,0.0
+6,talk on the phone for hours with my mom,collect colorful fall leaves in central park ,0.01,0.02,3.3,0.0
+7,go to happy hour after work with coworkers,watch tv in my bedroom with the air conditioning on,0.02,0.02,1.1,0.0
+8,take my dog and little brother to play at the park,take a walk down the walking trails behind my parents house,0.03,0.02,1.1,0.0
+9,ride my bike to work on a breezy spring day,try new unique restaurants with my significant other,0.04,0.02,4.4,1.0
+10,take my dog and little brother to play at the park,sit on soft green grass in a park on a sunny weekend morning,0.05,0.02,1.1,0.0
+11,listen to music while i ride the train,take my dog and little brother to play at the park,0.01,0.03,3.3,1.0
+12,go to happy hour after work with coworkers,listen to music while i ride the train,0.02,0.03,4.4,0.0
+13,stream reality tv shows with my best friends,watch tv in my bedroom with the air conditioning on,0.03,0.03,1.1,0.0
+14,stream reality tv shows with my best friends,collect colorful fall leaves in central park ,0.04,0.03,3.3,0.0
+15,listen to music while i ride the train,help my little siblings with homework,0.05,0.03,4.4,1.0
+16,listen to music while i ride the train,work out at the gym with my boyfriend,0.01,0.04,1.1,1.0
+17,work out at the gym with my boyfriend,watch tv in my bedroom with the air conditioning on,0.02,0.04,8.8,0.0
+18,ride my bike to work on a breezy spring day,help my little siblings with homework,0.03,0.04,3.3,1.0
+19,watch tv in my bedroom with the air conditioning on,talk on the phone for hours with my mom,0.04,0.04,3.3,1.0
+20,watch tv in my bedroom with the air conditioning on,take my dog and little brother to play at the park,0.05,0.04,1.1,1.0
+21,talk on the phone for hours with my mom,take a walk down the walking trails behind my parents house,0.01,0.05,8.8,0.0
+22,watch tv in my bedroom with the air conditioning on,eat appetizers and gossiping with my best friend,0.02,0.05,4.4,1.0
+23,do laundry right before the laundromat closes when its super quiet and empty,eat appetizers and gossiping with my best friend,0.03,0.05,1.1,1.0
+24,talk on the phone for hours with my mom,drive on the highway and cranking my music as loud as i want it,0.04,0.05,4.4,0.0
+25,work out at the gym with my boyfriend,do laundry right before the laundromat closes when its super quiet and empty,0.05,0.05,3.3,0.0
+26,do laundry right before the laundromat closes when its super quiet and empty,stream reality tv shows with my best friends,0.01,0.01,4.4,1.0
+27,explore new walking trails with my family,ride my bike to work on a breezy spring day,0.02,0.01,3.3,0.0
+28,explore new walking trails with my family,do laundry right before the laundromat closes when its super quiet and empty,0.03,0.01,3.3,0.0
+29,work out at the gym with my boyfriend,drive on the highway and cranking my music as loud as i want it,0.04,0.01,4.4,0.0
+30,read in a quiet library that smells like old dusty books and has chairs in the aisles,help my little siblings with homework,0.05,0.01,8.8,1.0
+31,work out at the gym with my boyfriend,take a walk down the walking trails behind my parents house,0.01,0.02,8.8,0.0
+32,eat lunch on my office buildings rooftop balcony when its 75 degrees out,explore new walking trails with my family,0.02,0.02,1.1,1.0
+33,work out at the gym with my boyfriend,read in a quiet library that smells like old dusty books and has chairs in the aisles,0.03,0.02,4.4,0.0
+34,take my dog and little brother to play at the park,read in a quiet library that smells like old dusty books and has chairs in the aisles,0.04,0.02,3.3,0.0
+35,watch scary movies with my boyfriend,take a walk down the walking trails behind my parents house,0.05,0.02,1.1,0.0
+36,help my little siblings with homework,eat lunch on my office buildings rooftop balcony when its 75 degrees out,0.01,0.03,3.3,0.0
+37,try new unique restaurants with my significant other,do laundry right before the laundromat closes when its super quiet and empty,0.02,0.03,1.1,0.0
+38,do laundry right before the laundromat closes when its super quiet and empty,watch scary movies with my boyfriend,0.03,0.03,1.1,1.0
+39,eat appetizers and gossiping with my best friend,ride my bike to work on a breezy spring day,0.04,0.03,3.3,0.0
+40,drive on the highway and cranking my music as loud as i want it,take my dog and little brother to play at the park,0.05,0.03,4.4,1.0
+41,eat appetizers and gossiping with my best friend,collect colorful fall leaves in central park ,0.01,0.04,1.1,0.0
+42,take my dog and little brother to play at the park,do laundry right before the laundromat closes when its super quiet and empty,0.02,0.04,3.3,0.0
+43,help my little siblings with homework,sit on soft green grass in a park on a sunny weekend morning,0.03,0.04,1.1,0.0
+44,take a walk down the walking trails behind my parents house,eat appetizers and gossiping with my best friend,0.04,0.04,1.1,1.0
+45,work out at the gym with my boyfriend,sit on soft green grass in a park on a sunny weekend morning,0.05,0.04,4.4,0.0
+46,help my little siblings with homework,watch tv in my bedroom with the air conditioning on,0.01,0.05,8.8,0.0
+47,sit on soft green grass in a park on a sunny weekend morning,explore new walking trails with my family,0.02,0.05,1.1,1.0
+48,go to happy hour after work with coworkers,ride my bike to work on a breezy spring day,0.03,0.05,4.4,0.0
+49,take a walk down the walking trails behind my parents house,stream reality tv shows with my best friends,0.04,0.05,3.3,1.0
+50,eat lunch on my office buildings rooftop balcony when its 75 degrees out,go to happy hour after work with coworkers,0.05,0.05,1.1,1.0
+51,drive on the highway and cranking my music as loud as i want it,stream reality tv shows with my best friends,0.01,0.01,1.1,1.0
+52,listen to music while i ride the train,eat appetizers and gossiping with my best friend,0.02,0.01,3.3,1.0
+53,drive on the highway and cranking my music as loud as i want it,try new unique restaurants with my significant other,0.03,0.01,1.1,1.0
+54,take a walk down the walking trails behind my parents house,go to happy hour after work with coworkers,0.04,0.01,4.4,1.0
+55,try new unique restaurants with my significant other,watch tv in my bedroom with the air conditioning on,0.05,0.01,1.1,0.0
+56,collect colorful fall leaves in central park ,take my dog and little brother to play at the park,0.01,0.02,8.8,1.0
+57,watch scary movies with my boyfriend,read in a quiet library that smells like old dusty books and has chairs in the aisles,0.02,0.02,4.4,0.0
+58,stream reality tv shows with my best friends,sit on soft green grass in a park on a sunny weekend morning,0.03,0.02,4.4,0.0
+59,eat lunch on my office buildings rooftop balcony when its 75 degrees out,stream reality tv shows with my best friends,0.04,0.02,4.4,1.0
+60,take a walk down the walking trails behind my parents house,try new unique restaurants with my significant other,0.05,0.02,1.1,1.0
+61,collect colorful fall leaves in central park ,work out at the gym with my boyfriend,0.01,0.03,3.3,1.0
+62,talk on the phone for hours with my mom,eat lunch on my office buildings rooftop balcony when its 75 degrees out,0.02,0.03,3.3,0.0
+63,collect colorful fall leaves in central park ,watch scary movies with my boyfriend,0.03,0.03,3.3,1.0
+64,sit on soft green grass in a park on a sunny weekend morning,watch scary movies with my boyfriend,0.04,0.03,1.1,1.0
+65,talk on the phone for hours with my mom,listen to music while i ride the train,0.05,0.03,1.1,0.0
+66,talk on the phone for hours with my mom,sit on soft green grass in a park on a sunny weekend morning,0.01,0.04,1.1,0.0
+67,drive on the highway and cranking my music as loud as i want it,go to happy hour after work with coworkers,0.02,0.04,8.8,1.0
+68,explore new walking trails with my family,collect colorful fall leaves in central park ,0.03,0.04,4.4,0.0
+69,watch tv in my bedroom with the air conditioning on,explore new walking trails with my family,0.04,0.04,1.1,1.0
+70,listen to music while i ride the train,stream reality tv shows with my best friends,0.05,0.04,1.1,1.0
+71,take a walk down the walking trails behind my parents house,explore new walking trails with my family,0.01,0.05,3.3,1.0
+72,ride my bike to work on a breezy spring day,work out at the gym with my boyfriend,0.02,0.05,8.8,1.0
+73,sit on soft green grass in a park on a sunny weekend morning,eat appetizers and gossiping with my best friend,0.03,0.05,3.3,1.0
+74,watch scary movies with my boyfriend,eat lunch on my office buildings rooftop balcony when its 75 degrees out,0.04,0.05,4.4,0.0
+75,sit on soft green grass in a park on a sunny weekend morning,go to happy hour after work with coworkers,0.05,0.05,3.3,1.0
+76,drive on the highway and cranking my music as loud as i want it,eat appetizers and gossiping with my best friend,0.01,0.01,1.1,1.0
+77,go to happy hour after work with coworkers,collect colorful fall leaves in central park ,0.02,0.01,8.8,0.0
+78,work out at the gym with my boyfriend,eat lunch on my office buildings rooftop balcony when its 75 degrees out,0.03,0.01,1.1,0.0
+79,talk on the phone for hours with my mom,ride my bike to work on a breezy spring day,0.04,0.01,1.1,0.0
+80,do laundry right before the laundromat closes when its super quiet and empty,help my little siblings with homework,0.05,0.01,4.4,1.0
+81,talk on the phone for hours with my mom,do laundry right before the laundromat closes when its super quiet and empty,0.01,0.02,3.3,0.0
+82,do laundry right before the laundromat closes when its super quiet and empty,go to happy hour after work with coworkers,0.02,0.02,4.4,1.0
+83,eat lunch on my office buildings rooftop balcony when its 75 degrees out,take my dog and little brother to play at the park,0.03,0.02,1.1,1.0
+84,watch scary movies with my boyfriend,drive on the highway and cranking my music as loud as i want it,0.04,0.02,3.3,0.0
+85,read in a quiet library that smells like old dusty books and has chairs in the aisles,try new unique restaurants with my significant other,0.05,0.02,3.3,1.0
+86,help my little siblings with homework,collect colorful fall leaves in central park ,0.01,0.03,1.1,0.0
+87,watch scary movies with my boyfriend,watch tv in my bedroom with the air conditioning on,0.02,0.03,4.4,0.0
+88,help my little siblings with homework,drive on the highway and cranking my music as loud as i want it,0.03,0.03,1.1,0.0
+89,collect colorful fall leaves in central park ,try new unique restaurants with my significant other,0.04,0.03,3.3,1.0
+90,try new unique restaurants with my significant other,sit on soft green grass in a park on a sunny weekend morning,0.05,0.03,8.8,0.0
+91,try new unique restaurants with my significant other,eat lunch on my office buildings rooftop balcony when its 75 degrees out,0.01,0.04,3.3,0.0
+92,read in a quiet library that smells like old dusty books and has chairs in the aisles,eat appetizers and gossiping with my best friend,0.02,0.04,8.8,1.0
+93,read in a quiet library that smells like old dusty books and has chairs in the aisles,talk on the phone for hours with my mom,0.03,0.04,1.1,1.0
+94,take a walk down the walking trails behind my parents house,help my little siblings with homework,0.04,0.04,4.4,1.0
+95,go to happy hour after work with coworkers,read in a quiet library that smells like old dusty books and has chairs in the aisles,0.05,0.04,4.4,0.0
+96,stream reality tv shows with my best friends,read in a quiet library that smells like old dusty books and has chairs in the aisles,0.01,0.05,3.3,0.0
+97,eat lunch on my office buildings rooftop balcony when its 75 degrees out,eat appetizers and gossiping with my best friend,0.02,0.05,1.1,1.0
+98,ride my bike to work on a breezy spring day,take my dog and little brother to play at the park,0.03,0.05,1.1,1.0
+99,ride my bike to work on a breezy spring day,stream reality tv shows with my best friends,0.04,0.05,3.3,1.0
+100,drive on the highway and cranking my music as loud as i want it,explore new walking trails with my family,0.05,0.05,4.4,1.0

@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Play vinyl on my record player,Go for a walk,0.01,0.01,4.4,1.0
+2,go in the hot tub,Do yoga in my room,0.02,0.01,8.8,0.0
+3,Shop online for clothes,Go for a walk,0.03,0.01,3.3,1.0
+4,Play vinyl on my record player,Go out to dinner,0.04,0.01,1.1,1.0
+5,Read a book first thing in the morning,Go out to dinner,0.05,0.01,1.1,1.0
+6,Go in the hot tub at night,Go for a walk,0.01,0.02,3.3,1.0
+7,go in the hot tub,Make a big breakfast,0.02,0.02,1.1,0.0
+8,Watch a movie at home,Go to the gym,0.03,0.02,1.1,0.0
+9,go in the hot tub,Make a fresh bowl of pasta,0.04,0.02,4.4,0.0
+10,Go for a hike,Do yoga in my room,0.05,0.02,1.1,0.0
+11,Paint my own nails,Go to the gym,0.01,0.03,3.3,1.0
+12,Listen to a podcast,cook a big dinner,0.02,0.03,4.4,1.0
+13,Go out to dinner,Make a fresh bowl of pasta,0.03,0.03,1.1,0.0
+14,Go to the theatre,Shop online for clothes,0.04,0.03,3.3,0.0
+15,have a bbq,Go in the hot tub at night,0.05,0.03,4.4,0.0
+16,have a fire outside,Read a book first thing in the morning,0.01,0.04,1.1,0.0
+17,have a bbq,Read a book first thing in the morning,0.02,0.04,8.8,0.0
+18,Go to the gym,go in the hot tub,0.03,0.04,3.3,1.0
+19,Go in the hot tub at night,Watch a movie at home,0.04,0.04,3.3,1.0
+20,Go in the hot tub at night,Go to the theatre,0.05,0.04,1.1,1.0
+21,Do yoga in my room,Go to the gym,0.01,0.05,8.8,1.0
+22,cook a big dinner,Play vinyl on my record player,0.02,0.05,4.4,0.0
+23,Make a fresh bowl of pasta,Go to the theatre,0.03,0.05,1.1,1.0
+24,Do yoga in my room,Go for a walk,0.04,0.05,4.4,1.0
+25,Play vinyl on my record player,go in the hot tub,0.05,0.05,3.3,1.0
+26,Watch a movie at home,Shop online for clothes,0.01,0.01,4.4,0.0
+27,Listen to a podcast,Go to the theatre,0.02,0.01,3.3,1.0
+28,Go to the gym,Shop online for clothes,0.03,0.01,3.3,0.0
+29,have a bbq,Play vinyl on my record player,0.04,0.01,4.4,0.0
+30,Go for a hike,Make a big breakfast,0.05,0.01,8.8,0.0
+31,Watch a movie at home,Play vinyl on my record player,0.01,0.02,8.8,0.0
+32,Go to the gym,Go to the gym,0.02,0.02,1.1,0.0
+33,Go in the hot tub at night,Go for a hike,0.03,0.02,4.4,1.0
+34,Shop online for clothes,Go out to dinner,0.04,0.02,3.3,1.0
+35,Go for a hike,Shop online for clothes,0.05,0.02,1.1,0.0
+36,Make a big breakfast,Go to the gym,0.01,0.03,3.3,1.0
+37,Go out to dinner,Do yoga in my room,0.02,0.03,1.1,0.0
+38,Watch a movie at home,Read a book first thing in the morning,0.03,0.03,1.1,0.0
+39,Go to the theatre,Do yoga in my room,0.04,0.03,3.3,0.0
+40,Listen to a podcast,Go for a hike,0.05,0.03,4.4,1.0
+41,Go to the theatre,Paint my own nails,0.01,0.04,1.1,0.0
+42,have a fire outside,Go in the hot tub at night,0.02,0.04,3.3,0.0
+43,Do yoga in my room,have a bbq,0.03,0.04,1.1,1.0
+44,Go to the gym,Listen to a podcast,0.04,0.04,1.1,0.0
+45,Go to the gym,Go in the hot tub at night,0.05,0.04,4.4,0.0
+46,have a fire outside,Do yoga in my room,0.01,0.05,8.8,0.0
+47,Paint my own nails,have a bbq,0.02,0.05,1.1,1.0
+48,Go to the gym,Go for a hike,0.03,0.05,4.4,1.0
+49,Listen to a podcast,Go out to dinner,0.04,0.05,3.3,1.0
+50,have a bbq,Listen to a podcast,0.05,0.05,1.1,0.0
+51,Paint my own nails,cook a big dinner,0.01,0.01,1.1,1.0
+52,Listen to a podcast,Go for a walk,0.02,0.01,3.3,1.0
+53,Play vinyl on my record player,Go to the gym,0.03,0.01,1.1,1.0
+54,go in the hot tub,Paint my own nails,0.04,0.01,4.4,0.0
+55,Make a big breakfast,Go for a walk,0.05,0.01,1.1,1.0
+56,cook a big dinner,Do yoga in my room,0.01,0.02,8.8,0.0
+57,Go for a walk,Go to the gym,0.02,0.02,4.4,0.0
+58,cook a big dinner,Make a fresh bowl of pasta,0.03,0.02,4.4,0.0
+59,Go out to dinner,Go in the hot tub at night,0.04,0.02,4.4,0.0
+60,Play vinyl on my record player,have a fire outside,0.05,0.02,1.1,1.0
+61,have a bbq,Make a fresh bowl of pasta,0.01,0.03,3.3,0.0
+62,Read a book first thing in the morning,cook a big dinner,0.02,0.03,3.3,1.0
+63,Go out to dinner,Go to the gym,0.03,0.03,3.3,0.0
+64,Play vinyl on my record player,Go to the theatre,0.04,0.03,1.1,1.0
+65,Make a fresh bowl of pasta,Go to the gym,0.05,0.03,1.1,1.0
+66,Make a big breakfast,Go out to dinner,0.01,0.04,1.1,1.0
+67,go in the hot tub,Read a book first thing in the morning,0.02,0.04,8.8,0.0
+68,cook a big dinner,Make a big breakfast,0.03,0.04,4.4,0.0
+69,Shop online for clothes,have a bbq,0.04,0.04,1.1,1.0
+70,Paint my own nails,Go for a walk,0.05,0.04,1.1,1.0
+71,Go to the theatre,Go to the gym,0.01,0.05,3.3,0.0
+72,Go for a walk,Read a book first thing in the morning,0.02,0.05,8.8,0.0
+73,Read a book first thing in the morning,Go for a hike,0.03,0.05,3.3,1.0
+74,Make a big breakfast,have a bbq,0.04,0.05,4.4,1.0
+75,Paint my own nails,Watch a movie at home,0.05,0.05,3.3,1.0
+76,have a fire outside,Shop online for clothes,0.01,0.01,1.1,0.0
+77,Go in the hot tub at night,cook a big dinner,0.02,0.01,8.8,1.0
+78,Make a fresh bowl of pasta,Go for a hike,0.03,0.01,1.1,1.0
+79,Make a fresh bowl of pasta,Watch a movie at home,0.04,0.01,1.1,1.0
+80,Go to the gym,have a fire outside,0.05,0.01,4.4,1.0
+81,Read a book first thing in the morning,Go to the theatre,0.01,0.02,3.3,1.0
+82,Go out to dinner,Paint my own nails,0.02,0.02,4.4,0.0
+83,go in the hot tub,Shop online for clothes,0.03,0.02,1.1,0.0
+84,Play vinyl on my record player,Go for a hike,0.04,0.02,3.3,1.0
+85,Go for a walk,Make a fresh bowl of pasta,0.05,0.02,3.3,0.0
+86,Watch a movie at home,Make a big breakfast,0.01,0.03,1.1,0.0
+87,Make a big breakfast,have a fire outside,0.02,0.03,4.4,1.0
+88,Watch a movie at home,Listen to a podcast,0.03,0.03,1.1,0.0
+89,go in the hot tub,Listen to a podcast,0.04,0.03,3.3,0.0
+90,Do yoga in my room,Watch a movie at home,0.05,0.03,8.8,1.0
+91,Shop online for clothes,cook a big dinner,0.01,0.04,3.3,1.0
+92,Go to the gym,cook a big dinner,0.02,0.04,8.8,1.0
+93,have a fire outside,Make a fresh bowl of pasta,0.03,0.04,1.1,0.0
+94,Paint my own nails,Go for a hike,0.04,0.04,4.4,1.0
+95,Go to the theatre,Make a big breakfast,0.05,0.04,4.4,0.0
+96,Go in the hot tub at night,go in the hot tub,0.01,0.05,3.3,1.0
+97,have a fire outside,Paint my own nails,0.02,0.05,1.1,0.0
+98,have a fire outside,Listen to a podcast,0.03,0.05,1.1,0.0
+99,have a bbq,Go to the gym,0.04,0.05,3.3,0.0
+100,Read a book first thing in the morning,Go to the gym,0.05,0.05,4.4,1.0

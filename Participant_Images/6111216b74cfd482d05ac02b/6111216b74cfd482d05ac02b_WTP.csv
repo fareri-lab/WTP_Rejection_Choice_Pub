@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Eat candy on a lazy day,Watch a movie with my fiance,0.01,0.01,4.4,1.0
+2,make pancakes on tuesday morning,Watch a movie with my fiance,0.02,0.01,8.8,1.0
+3,Go for a walk with my fiance,go for a walk on a sunny day,0.03,0.01,3.3,0.0
+4,Go to the waterpark with my family,Make popcorn on a friday night,0.04,0.01,1.1,0.0
+5,Play board games with my family,Eat candy on a lazy day,0.05,0.01,1.1,0.0
+6,Go to target to browse on a lazy day,Go to the waterpark with my family,0.01,0.02,3.3,1.0
+7,Go shopping with my mom and sister,Go to target to browse on a lazy day,0.02,0.02,1.1,0.0
+8,read a book when it is rainy,Go for a walk with my fiance,0.03,0.02,1.1,1.0
+9,Watch a movie with my fiance,listen to music alone in my bedroom ,0.04,0.02,4.4,0.0
+10,read a book when it is rainy,Go to the movies with my family,0.05,0.02,1.1,1.0
+11,go for a walk on a sunny day,Go shopping with my mom and sister,0.01,0.03,3.3,1.0
+12,Play wii sports with my fiance,Make popcorn on a friday night,0.02,0.03,4.4,0.0
+13,bake on a sunny day,Go to the movies with my family,0.03,0.03,1.1,1.0
+14,Eat candy on a lazy day,Go for a walk with my fiance,0.04,0.03,3.3,1.0
+15,Watch a youtube video with a good snack,Watch a movie with my fiance,0.05,0.03,4.4,1.0
+16,make pancakes on tuesday morning,Bake cookies with my mom ,0.01,0.04,1.1,1.0
+17,Go to the waterpark with my family,Watch a youtube video with a good snack,0.02,0.04,8.8,0.0
+18,Go to the waterpark with my family,bake on a sunny day,0.03,0.04,3.3,0.0
+19,Play video games with my brothers,make pancakes on tuesday morning,0.04,0.04,3.3,0.0
+20,Go to the waterpark with my family,Eat candy on a lazy day,0.05,0.04,1.1,0.0
+21,Watch a movie with my fiance,Make popcorn on a friday night,0.01,0.05,8.8,0.0
+22,Go for a walk with my fiance,Go to target to browse on a lazy day,0.02,0.05,4.4,0.0
+23,Go to the waterpark with my family,go to five below in a new city,0.03,0.05,1.1,0.0
+24,Play video games with my brothers,listen to music alone in my bedroom ,0.04,0.05,4.4,0.0
+25,Bake cookies with my mom ,Go to target to browse on a lazy day,0.05,0.05,3.3,0.0
+26,go to five below in a new city,Play wii sports with my fiance,0.01,0.01,4.4,1.0
+27,Go for a walk with my fiance,Watch a youtube video with a good snack,0.02,0.01,3.3,0.0
+28,make pancakes on tuesday morning,Go to the movies with my family,0.03,0.01,3.3,1.0
+29,Go to target to browse on a lazy day,Watch a movie with my fiance,0.04,0.01,4.4,1.0
+30,Play wii sports with my fiance,Watch a youtube video with a good snack,0.05,0.01,8.8,0.0
+31,listen to music alone in my bedroom ,Play wii sports with my fiance,0.01,0.02,8.8,1.0
+32,go to five below in a new city,Play video games with my brothers,0.02,0.02,1.1,1.0
+33,Watch a youtube video with a good snack,Play board games with my family,0.03,0.02,4.4,1.0
+34,Go shopping with my mom and sister,read a book when it is rainy,0.04,0.02,3.3,0.0
+35,Watch a youtube video with a good snack,Go to the store with my fiance ,0.05,0.02,1.1,1.0
+36,Go to the movies with my family,Make popcorn on a friday night,0.01,0.03,3.3,0.0
+37,go for a walk on a sunny day,Go to the waterpark with my family,0.02,0.03,1.1,1.0
+38,Go for a walk with my fiance,go to five below in a new city,0.03,0.03,1.1,0.0
+39,Go to target to browse on a lazy day,Play video games with my brothers,0.04,0.03,3.3,1.0
+40,Play board games with my family,bake on a sunny day,0.05,0.03,4.4,0.0
+41,Go to the movies with my family,go to five below in a new city,0.01,0.04,1.1,0.0
+42,Go to the store with my fiance ,go for a walk on a sunny day,0.02,0.04,3.3,0.0
+43,read a book when it is rainy,Go to the store with my fiance ,0.03,0.04,1.1,1.0
+44,Go shopping with my mom and sister,listen to music alone in my bedroom ,0.04,0.04,1.1,0.0
+45,read a book when it is rainy,Play board games with my family,0.05,0.04,4.4,1.0
+46,Bake cookies with my mom ,Eat candy on a lazy day,0.01,0.05,8.8,0.0
+47,bake on a sunny day,Play wii sports with my fiance,0.02,0.05,1.1,1.0
+48,Watch a youtube video with a good snack,Play video games with my brothers,0.03,0.05,4.4,1.0
+49,go to five below in a new city,Watch a movie with my fiance,0.04,0.05,3.3,1.0
+50,Eat candy on a lazy day,Go to the store with my fiance ,0.05,0.05,1.1,1.0
+51,go for a walk on a sunny day,Play wii sports with my fiance,0.01,0.01,1.1,1.0
+52,make pancakes on tuesday morning,Go to the waterpark with my family,0.02,0.01,3.3,1.0
+53,Go to the movies with my family,listen to music alone in my bedroom ,0.03,0.01,1.1,0.0
+54,read a book when it is rainy,Play video games with my brothers,0.04,0.01,4.4,1.0
+55,Make popcorn on a friday night,Play board games with my family,0.05,0.01,1.1,1.0
+56,Play wii sports with my fiance,read a book when it is rainy,0.01,0.02,8.8,0.0
+57,Go to the movies with my family,Go to target to browse on a lazy day,0.02,0.02,4.4,0.0
+58,Bake cookies with my mom ,Make popcorn on a friday night,0.03,0.02,4.4,0.0
+59,Go shopping with my mom and sister,make pancakes on tuesday morning,0.04,0.02,4.4,0.0
+60,Play wii sports with my fiance,Go to target to browse on a lazy day,0.05,0.02,1.1,0.0
+61,bake on a sunny day,Go shopping with my mom and sister,0.01,0.03,3.3,1.0
+62,Bake cookies with my mom ,bake on a sunny day,0.02,0.03,3.3,0.0
+63,Play board games with my family,Go to target to browse on a lazy day,0.03,0.03,3.3,0.0
+64,Watch a youtube video with a good snack,Bake cookies with my mom ,0.04,0.03,1.1,1.0
+65,Go for a walk with my fiance,bake on a sunny day,0.05,0.03,1.1,0.0
+66,Make popcorn on a friday night,Play video games with my brothers,0.01,0.04,1.1,1.0
+67,go to five below in a new city,Go to the store with my fiance ,0.02,0.04,8.8,1.0
+68,Go for a walk with my fiance,listen to music alone in my bedroom ,0.03,0.04,4.4,0.0
+69,Play board games with my family,go to five below in a new city,0.04,0.04,1.1,0.0
+70,Play wii sports with my fiance,make pancakes on tuesday morning,0.05,0.04,1.1,0.0
+71,Go to the waterpark with my family,listen to music alone in my bedroom ,0.01,0.05,3.3,0.0
+72,go to five below in a new city,Go shopping with my mom and sister,0.02,0.05,8.8,1.0
+73,go to five below in a new city,Bake cookies with my mom ,0.03,0.05,3.3,1.0
+74,bake on a sunny day,Watch a movie with my fiance,0.04,0.05,4.4,1.0
+75,Watch a youtube video with a good snack,Go to the movies with my family,0.05,0.05,3.3,1.0
+76,Go to the store with my fiance ,make pancakes on tuesday morning,0.01,0.01,1.1,0.0
+77,Play board games with my family,listen to music alone in my bedroom ,0.02,0.01,8.8,0.0
+78,listen to music alone in my bedroom ,Bake cookies with my mom ,0.03,0.01,1.1,1.0
+79,Make popcorn on a friday night,Go shopping with my mom and sister,0.04,0.01,1.1,1.0
+80,Make popcorn on a friday night,Go to the store with my fiance ,0.05,0.01,4.4,1.0
+81,Play board games with my family,make pancakes on tuesday morning,0.01,0.02,3.3,0.0
+82,go for a walk on a sunny day,Play board games with my family,0.02,0.02,4.4,1.0
+83,Watch a movie with my fiance,go for a walk on a sunny day,0.03,0.02,1.1,0.0
+84,Eat candy on a lazy day,Play wii sports with my fiance,0.04,0.02,3.3,1.0
+85,Bake cookies with my mom ,go for a walk on a sunny day,0.05,0.02,3.3,0.0
+86,Watch a movie with my fiance,read a book when it is rainy,0.01,0.03,1.1,0.0
+87,go for a walk on a sunny day,Play video games with my brothers,0.02,0.03,4.4,1.0
+88,read a book when it is rainy,Bake cookies with my mom ,0.03,0.03,1.1,1.0
+89,bake on a sunny day,Go to the store with my fiance ,0.04,0.03,3.3,1.0
+90,read a book when it is rainy,Go to the waterpark with my family,0.05,0.03,8.8,1.0
+91,Go to the movies with my family,go for a walk on a sunny day,0.01,0.04,3.3,0.0
+92,Watch a youtube video with a good snack,Go shopping with my mom and sister,0.02,0.04,8.8,1.0
+93,Go for a walk with my fiance,make pancakes on tuesday morning,0.03,0.04,1.1,0.0
+94,Eat candy on a lazy day,Play video games with my brothers,0.04,0.04,4.4,1.0
+95,bake on a sunny day,Play video games with my brothers,0.05,0.04,4.4,1.0
+96,Go to the store with my fiance ,listen to music alone in my bedroom ,0.01,0.05,3.3,0.0
+97,Go for a walk with my fiance,Make popcorn on a friday night,0.02,0.05,1.1,0.0
+98,Go to target to browse on a lazy day,Go to the store with my fiance ,0.03,0.05,1.1,1.0
+99,Go to the movies with my family,Eat candy on a lazy day,0.04,0.05,3.3,0.0
+100,Go shopping with my mom and sister,Eat candy on a lazy day,0.05,0.05,4.4,0.0

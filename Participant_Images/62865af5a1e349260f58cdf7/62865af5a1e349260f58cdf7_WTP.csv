@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Go to a new coffee shop and chitchatting about everything,Peruse google maps and exploring random places via street view,0.01,0.01,4.4,0.0
+2,Take spontaneous trips with my brother,Read a book on my couch on a rainy day,0.02,0.01,8.8,0.0
+3,Go to a new coffee shop and chitchatting about everything,Go to a new coffee shop and reading a book,0.03,0.01,3.3,0.0
+4,Go out and trying a new vegetarian restaurant with friends,Teach myself graphic design and learning new techniques in my free time,0.04,0.01,1.1,0.0
+5,Study at the library,Go to the gym and exercising for a bit,0.05,0.01,1.1,0.0
+6,Scroll through tik tok when I'm supposed to be asleep,Go on road trips with friends,0.01,0.02,3.3,1.0
+7,Watch sports with my family,Take long showers when I need a mental pick me up,0.02,0.02,1.1,0.0
+8,Go out and trying a new vegetarian restaurant with friends,Watch sports and learning old sports lore,0.03,0.02,1.1,0.0
+9,Peruse google maps and exploring random places via street view,Take spontaneous trips with my brother,0.04,0.02,4.4,1.0
+10,Read a book on my couch on a rainy day,Go on road trips with friends,0.05,0.02,1.1,1.0
+11,Read a book on my couch on a rainy day,Talk to my grandmother,0.01,0.03,3.3,1.0
+12,Talk to my grandmother,Teach myself graphic design and learning new techniques in my free time,0.02,0.03,4.4,0.0
+13,Go to the gym and exercising for a bit,Go to my temple every week,0.03,0.03,1.1,1.0
+14,Go to the gym and exercising for a bit,Talk to my grandmother,0.04,0.03,3.3,1.0
+15,Read a book on my couch on a rainy day,Go out and trying a new vegetarian restaurant with friends,0.05,0.03,4.4,1.0
+16,Watch sports with my family,Go to a new coffee shop and reading a book,0.01,0.04,1.1,0.0
+17,Watch old episodes of law and order at night,Go to a new coffee shop and chitchatting about everything,0.02,0.04,8.8,1.0
+18,Go to my temple every week,Read a book on my couch on a rainy day,0.03,0.04,3.3,0.0
+19,Go out and trying a new vegetarian restaurant with friends,Watch old episodes of law and order at night,0.04,0.04,3.3,0.0
+20,Talk to my grandmother,Peruse google maps and exploring random places via street view,0.05,0.04,1.1,0.0
+21,Facetime calls with my best friend late at night,Watch sports and learning old sports lore,0.01,0.05,8.8,0.0
+22,Facetime calls with my best friend late at night,Go to the gym and exercising for a bit,0.02,0.05,4.4,0.0
+23,Facetime calls with my best friend late at night,Cook a nice meal and eating on the patio on a sunny day,0.03,0.05,1.1,0.0
+24,Go on road trips with friends,Watch sports and learning old sports lore,0.04,0.05,4.4,0.0
+25,Scroll through tik tok when I'm supposed to be asleep,Go out and trying a new vegetarian restaurant with friends,0.05,0.05,3.3,1.0
+26,Take spontaneous trips with my brother,Cook a nice meal and eating on the patio on a sunny day,0.01,0.01,4.4,0.0
+27,Facetime calls with my best friend late at night,Scroll through tik tok when I'm supposed to be asleep,0.02,0.01,3.3,0.0
+28,Go to a new coffee shop and reading a book,Go out and trying a new vegetarian restaurant with friends,0.03,0.01,3.3,1.0
+29,Study at the library,Take long showers when I need a mental pick me up,0.04,0.01,4.4,0.0
+30,Teach myself graphic design and learning new techniques in my free time,Take spontaneous trips with my brother,0.05,0.01,8.8,1.0
+31,Watch sports with my family,Scroll through tik tok when I'm supposed to be asleep,0.01,0.02,8.8,0.0
+32,Study at the library,Scroll through tik tok when I'm supposed to be asleep,0.02,0.02,1.1,0.0
+33,Watch old episodes of law and order at night,Sing with my family,0.03,0.02,4.4,1.0
+34,Teach myself graphic design and learning new techniques in my free time,Sing with my family,0.04,0.02,3.3,1.0
+35,Talk to my grandmother,Scroll through tik tok when I'm supposed to be asleep,0.05,0.02,1.1,0.0
+36,Read a book on my couch on a rainy day,Facetime calls with my best friend late at night,0.01,0.03,3.3,1.0
+37,Watch sports and learning old sports lore,Go to a new coffee shop and chitchatting about everything,0.02,0.03,1.1,1.0
+38,Cook a nice meal and eating on the patio on a sunny day,Go to my temple every week,0.03,0.03,1.1,1.0
+39,Go to a new coffee shop and reading a book,Facetime calls with my best friend late at night,0.04,0.03,3.3,1.0
+40,Go on road trips with friends,Take long showers when I need a mental pick me up,0.05,0.03,4.4,0.0
+41,Cook a nice meal and eating on the patio on a sunny day,Study at the library,0.01,0.04,1.1,1.0
+42,Read a book on my couch on a rainy day,Watch sports with my family,0.02,0.04,3.3,1.0
+43,Go on road trips with friends,Cook a nice meal and eating on the patio on a sunny day,0.03,0.04,1.1,0.0
+44,Go to the gym and exercising for a bit,Go to a new coffee shop and chitchatting about everything,0.04,0.04,1.1,1.0
+45,Peruse google maps and exploring random places via street view,Study at the library,0.05,0.04,4.4,1.0
+46,Study at the library,Watch sports and learning old sports lore,0.01,0.05,8.8,0.0
+47,Go to my temple every week,Watch old episodes of law and order at night,0.02,0.05,1.1,0.0
+48,Watch sports with my family,Cook a nice meal and eating on the patio on a sunny day,0.03,0.05,4.4,0.0
+49,Sing with my family,Scroll through tik tok when I'm supposed to be asleep,0.04,0.05,3.3,0.0
+50,Sing with my family,Peruse google maps and exploring random places via street view,0.05,0.05,1.1,0.0
+51,Take spontaneous trips with my brother,Go to the gym and exercising for a bit,0.01,0.01,1.1,0.0
+52,Take spontaneous trips with my brother,Take long showers when I need a mental pick me up,0.02,0.01,3.3,0.0
+53,Peruse google maps and exploring random places via street view,Go to my temple every week,0.03,0.01,1.1,1.0
+54,Go out and trying a new vegetarian restaurant with friends,Go to the gym and exercising for a bit,0.04,0.01,4.4,0.0
+55,Facetime calls with my best friend late at night,Teach myself graphic design and learning new techniques in my free time,0.05,0.01,1.1,0.0
+56,Go to a new coffee shop and reading a book,Sing with my family,0.01,0.02,8.8,1.0
+57,Go to a new coffee shop and chitchatting about everything,Take long showers when I need a mental pick me up,0.02,0.02,4.4,0.0
+58,Sing with my family,Take long showers when I need a mental pick me up,0.03,0.02,4.4,0.0
+59,Peruse google maps and exploring random places via street view,Go on road trips with friends,0.04,0.02,4.4,1.0
+60,Facetime calls with my best friend late at night,Watch old episodes of law and order at night,0.05,0.02,1.1,0.0
+61,Read a book on my couch on a rainy day,Study at the library,0.01,0.03,3.3,1.0
+62,Peruse google maps and exploring random places via street view,Watch sports with my family,0.02,0.03,3.3,1.0
+63,Go to the gym and exercising for a bit,Go on road trips with friends,0.03,0.03,3.3,1.0
+64,Go to my temple every week,Scroll through tik tok when I'm supposed to be asleep,0.04,0.03,1.1,0.0
+65,Study at the library,Teach myself graphic design and learning new techniques in my free time,0.05,0.03,1.1,0.0
+66,Watch sports with my family,Watch old episodes of law and order at night,0.01,0.04,1.1,0.0
+67,Watch sports and learning old sports lore,Sing with my family,0.02,0.04,8.8,1.0
+68,Talk to my grandmother,Go to a new coffee shop and reading a book,0.03,0.04,4.4,0.0
+69,Go to my temple every week,Take long showers when I need a mental pick me up,0.04,0.04,1.1,0.0
+70,Peruse google maps and exploring random places via street view,Go out and trying a new vegetarian restaurant with friends,0.05,0.04,1.1,1.0
+71,Teach myself graphic design and learning new techniques in my free time,Watch sports with my family,0.01,0.05,3.3,1.0
+72,Take long showers when I need a mental pick me up,Go out and trying a new vegetarian restaurant with friends,0.02,0.05,8.8,1.0
+73,Take spontaneous trips with my brother,Watch sports and learning old sports lore,0.03,0.05,3.3,0.0
+74,Talk to my grandmother,Watch old episodes of law and order at night,0.04,0.05,4.4,0.0
+75,Watch sports and learning old sports lore,Watch sports with my family,0.05,0.05,3.3,1.0
+76,Cook a nice meal and eating on the patio on a sunny day,Go out and trying a new vegetarian restaurant with friends,0.01,0.01,1.1,1.0
+77,Read a book on my couch on a rainy day,Go to a new coffee shop and chitchatting about everything,0.02,0.01,8.8,1.0
+78,Watch old episodes of law and order at night,Study at the library,0.03,0.01,1.1,1.0
+79,Go to my temple every week,Watch sports and learning old sports lore,0.04,0.01,1.1,0.0
+80,Go to the gym and exercising for a bit,Sing with my family,0.05,0.01,4.4,1.0
+81,Peruse google maps and exploring random places via street view,Facetime calls with my best friend late at night,0.01,0.02,3.3,1.0
+82,Talk to my grandmother,Take long showers when I need a mental pick me up,0.02,0.02,4.4,0.0
+83,Take spontaneous trips with my brother,Go to a new coffee shop and reading a book,0.03,0.02,1.1,0.0
+84,Watch sports and learning old sports lore,Talk to my grandmother,0.04,0.02,3.3,1.0
+85,Go to a new coffee shop and reading a book,Go to my temple every week,0.05,0.02,3.3,1.0
+86,Read a book on my couch on a rainy day,Sing with my family,0.01,0.03,1.1,1.0
+87,Watch old episodes of law and order at night,Take spontaneous trips with my brother,0.02,0.03,4.4,1.0
+88,Go on road trips with friends,Go to a new coffee shop and reading a book,0.03,0.03,1.1,0.0
+89,Take long showers when I need a mental pick me up,Facetime calls with my best friend late at night,0.04,0.03,3.3,1.0
+90,Go on road trips with friends,Teach myself graphic design and learning new techniques in my free time,0.05,0.03,8.8,0.0
+91,Watch sports with my family,Go to the gym and exercising for a bit,0.01,0.04,3.3,0.0
+92,Go to a new coffee shop and reading a book,Study at the library,0.02,0.04,8.8,1.0
+93,Teach myself graphic design and learning new techniques in my free time,Go to my temple every week,0.03,0.04,1.1,1.0
+94,Cook a nice meal and eating on the patio on a sunny day,Go to a new coffee shop and chitchatting about everything,0.04,0.04,4.4,1.0
+95,Watch old episodes of law and order at night,Go on road trips with friends,0.05,0.04,4.4,1.0
+96,Scroll through tik tok when I'm supposed to be asleep,Go to a new coffee shop and chitchatting about everything,0.01,0.05,3.3,1.0
+97,Sing with my family,Cook a nice meal and eating on the patio on a sunny day,0.02,0.05,1.1,0.0
+98,Scroll through tik tok when I'm supposed to be asleep,Take spontaneous trips with my brother,0.03,0.05,1.1,1.0
+99,Teach myself graphic design and learning new techniques in my free time,Go to a new coffee shop and chitchatting about everything,0.04,0.05,3.3,1.0
+100,Cook a nice meal and eating on the patio on a sunny day,Talk to my grandmother,0.05,0.05,4.4,1.0

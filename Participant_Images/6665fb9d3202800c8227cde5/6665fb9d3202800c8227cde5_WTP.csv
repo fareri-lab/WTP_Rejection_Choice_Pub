@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Go to the park with my kids,Listen to music in earbuds,0.01,0.01,4.4,0.0
+2,Ride our bikes around the block,Do homework for class,0.02,0.01,8.8,0.0
+3,Bake sweet desserts together as family,Do homework for class,0.03,0.01,3.3,0.0
+4,Watch a disney movie with kids,Do homework for class,0.04,0.01,1.1,0.0
+5,Retwist my dreads to make them less frizzy,Watch a disney movie with kids,0.05,0.01,1.1,1.0
+6,Take a shower with disco lights,Play kickball in the field,0.01,0.02,3.3,1.0
+7,Clean the house on weekends,Retwist my dreads to make them less frizzy,0.02,0.02,1.1,0.0
+8,Race rc cars on the sidewalk,Play the game in my room,0.03,0.02,1.1,0.0
+9,Ride our bikes around the block,Take a shower with disco lights,0.04,0.02,4.4,0.0
+10,Read new article with a cup of coffee in the morning,Clean the house on weekends,0.05,0.02,1.1,1.0
+11,Read new article with a cup of coffee in the morning,Race rc cars on the sidewalk,0.01,0.03,3.3,1.0
+12,Clean the house on weekends,Play the game in my room,0.02,0.03,4.4,0.0
+13,Play the game in my room,Draw with chalk on sidewalk,0.03,0.03,1.1,1.0
+14,Drive on the country side,Play kickball in the field,0.04,0.03,3.3,1.0
+15,Go to the park with my kids,Drive on the country side,0.05,0.03,4.4,0.0
+16,Drink beer while watching sports,Bake sweet desserts together as family,0.01,0.04,1.1,1.0
+17,Read new article with a cup of coffee in the morning,Play kickball in the field,0.02,0.04,8.8,1.0
+18,Go to the park with my kids,Write lyrics for a song I'm making,0.03,0.04,3.3,0.0
+19,Draw with chalk on sidewalk,Do homework for class,0.04,0.04,3.3,0.0
+20,Race rc cars on the sidewalk,Drink beer while watching sports,0.05,0.04,1.1,0.0
+21,Bake sweet desserts together as family,Retwist my dreads to make them less frizzy,0.01,0.05,8.8,0.0
+22,Listen to music in earbuds,Bbq in the back yard,0.02,0.05,4.4,1.0
+23,Go to the park with my kids,Color in a coloring book to complete the whole thing,0.03,0.05,1.1,0.0
+24,Drink beer while watching sports,Throw the football with the kids,0.04,0.05,4.4,1.0
+25,Bake sweet desserts together as family,Read new article with a cup of coffee in the morning,0.05,0.05,3.3,0.0
+26,Play kickball in the field,Retwist my dreads to make them less frizzy,0.01,0.01,4.4,0.0
+27,Race rc cars on the sidewalk,Color in a coloring book to complete the whole thing,0.02,0.01,3.3,0.0
+28,Race rc cars on the sidewalk,Listen to music in earbuds,0.03,0.01,3.3,0.0
+29,Retwist my dreads to make them less frizzy,Go to the park with my kids,0.04,0.01,4.4,1.0
+30,Take a shower with disco lights,Bake sweet desserts together as family,0.05,0.01,8.8,1.0
+31,Take a shower with disco lights,Throw the football with the kids,0.01,0.02,8.8,1.0
+32,Do homework for class,Bbq in the back yard,0.02,0.02,1.1,1.0
+33,Throw the football with the kids,Play the game in my room,0.03,0.02,4.4,0.0
+34,Draw with chalk on sidewalk,Read new article with a cup of coffee in the morning,0.04,0.02,3.3,0.0
+35,Color in a coloring book to complete the whole thing,Bake sweet desserts together as family,0.05,0.02,1.1,1.0
+36,Go to the park with my kids,Take a shower with disco lights,0.01,0.03,3.3,0.0
+37,Retwist my dreads to make them less frizzy,Bbq in the back yard,0.02,0.03,1.1,1.0
+38,Play kickball in the field,Do homework for class,0.03,0.03,1.1,0.0
+39,Go to the park with my kids,Drink beer while watching sports,0.04,0.03,3.3,0.0
+40,Take a shower with disco lights,Clean the house on weekends,0.05,0.03,4.4,1.0
+41,Go to the park with my kids,Play the game in my room,0.01,0.04,1.1,0.0
+42,Listen to music in earbuds,Watch a disney movie with kids,0.02,0.04,3.3,1.0
+43,Write lyrics for a song I'm making,Bake sweet desserts together as family,0.03,0.04,1.1,1.0
+44,Take a shower with disco lights,Draw with chalk on sidewalk,0.04,0.04,1.1,1.0
+45,Drive on the country side,Bbq in the back yard,0.05,0.04,4.4,1.0
+46,Throw the football with the kids,Retwist my dreads to make them less frizzy,0.01,0.05,8.8,0.0
+47,Watch a disney movie with kids,Write lyrics for a song I'm making,0.02,0.05,1.1,0.0
+48,Write lyrics for a song I'm making,Clean the house on weekends,0.03,0.05,4.4,1.0
+49,Write lyrics for a song I'm making,Bbq in the back yard,0.04,0.05,3.3,1.0
+50,Race rc cars on the sidewalk,Write lyrics for a song I'm making,0.05,0.05,1.1,0.0
+51,Retwist my dreads to make them less frizzy,Draw with chalk on sidewalk,0.01,0.01,1.1,1.0
+52,Do homework for class,Clean the house on weekends,0.02,0.01,3.3,1.0
+53,Listen to music in earbuds,Draw with chalk on sidewalk,0.03,0.01,1.1,1.0
+54,Retwist my dreads to make them less frizzy,Race rc cars on the sidewalk,0.04,0.01,4.4,1.0
+55,Drink beer while watching sports,Bbq in the back yard,0.05,0.01,1.1,1.0
+56,Play the game in my room,Ride our bikes around the block,0.01,0.02,8.8,1.0
+57,Bbq in the back yard,Read new article with a cup of coffee in the morning,0.02,0.02,4.4,0.0
+58,Listen to music in earbuds,Throw the football with the kids,0.03,0.02,4.4,1.0
+59,Color in a coloring book to complete the whole thing,Throw the football with the kids,0.04,0.02,4.4,1.0
+60,Do homework for class,Throw the football with the kids,0.05,0.02,1.1,1.0
+61,Drive on the country side,Bake sweet desserts together as family,0.01,0.03,3.3,1.0
+62,Listen to music in earbuds,Ride our bikes around the block,0.02,0.03,3.3,1.0
+63,Color in a coloring book to complete the whole thing,Clean the house on weekends,0.03,0.03,3.3,1.0
+64,Race rc cars on the sidewalk,Drive on the country side,0.04,0.03,1.1,0.0
+65,Take a shower with disco lights,Watch a disney movie with kids,0.05,0.03,1.1,1.0
+66,Ride our bikes around the block,Retwist my dreads to make them less frizzy,0.01,0.04,1.1,0.0
+67,Draw with chalk on sidewalk,Drink beer while watching sports,0.02,0.04,8.8,0.0
+68,Draw with chalk on sidewalk,Color in a coloring book to complete the whole thing,0.03,0.04,4.4,0.0
+69,Take a shower with disco lights,Race rc cars on the sidewalk,0.04,0.04,1.1,1.0
+70,Draw with chalk on sidewalk,Drive on the country side,0.05,0.04,1.1,0.0
+71,Clean the house on weekends,Drive on the country side,0.01,0.05,3.3,0.0
+72,Bbq in the back yard,Take a shower with disco lights,0.02,0.05,8.8,0.0
+73,Drink beer while watching sports,Watch a disney movie with kids,0.03,0.05,3.3,1.0
+74,Ride our bikes around the block,Read new article with a cup of coffee in the morning,0.04,0.05,4.4,0.0
+75,Play kickball in the field,Listen to music in earbuds,0.05,0.05,3.3,0.0
+76,Watch a disney movie with kids,Read new article with a cup of coffee in the morning,0.01,0.01,1.1,0.0
+77,Listen to music in earbuds,Clean the house on weekends,0.02,0.01,8.8,1.0
+78,Ride our bikes around the block,Drive on the country side,0.03,0.01,1.1,0.0
+79,Play kickball in the field,Write lyrics for a song I'm making,0.04,0.01,1.1,0.0
+80,Bbq in the back yard,Play the game in my room,0.05,0.01,4.4,0.0
+81,Play the game in my room,Bake sweet desserts together as family,0.01,0.02,3.3,1.0
+82,Color in a coloring book to complete the whole thing,Ride our bikes around the block,0.02,0.02,4.4,1.0
+83,Do homework for class,Race rc cars on the sidewalk,0.03,0.02,1.1,1.0
+84,Drink beer while watching sports,Ride our bikes around the block,0.04,0.02,3.3,1.0
+85,Watch a disney movie with kids,Drive on the country side,0.05,0.02,3.3,0.0
+86,Play kickball in the field,Drink beer while watching sports,0.01,0.03,1.1,0.0
+87,Go to the park with my kids,Do homework for class,0.02,0.03,4.4,0.0
+88,Read new article with a cup of coffee in the morning,Go to the park with my kids,0.03,0.03,1.1,1.0
+89,Throw the football with the kids,Drive on the country side,0.04,0.03,3.3,0.0
+90,Color in a coloring book to complete the whole thing,Watch a disney movie with kids,0.05,0.03,8.8,1.0
+91,Write lyrics for a song I'm making,Ride our bikes around the block,0.01,0.04,3.3,1.0
+92,Write lyrics for a song I'm making,Throw the football with the kids,0.02,0.04,8.8,1.0
+93,Watch a disney movie with kids,Play the game in my room,0.03,0.04,1.1,0.0
+94,Play the game in my room,Play kickball in the field,0.04,0.04,4.4,1.0
+95,Throw the football with the kids,Read new article with a cup of coffee in the morning,0.05,0.04,4.4,0.0
+96,Clean the house on weekends,Drink beer while watching sports,0.01,0.05,3.3,0.0
+97,Listen to music in earbuds,Bake sweet desserts together as family,0.02,0.05,1.1,1.0
+98,Bbq in the back yard,Color in a coloring book to complete the whole thing,0.03,0.05,1.1,0.0
+99,Play kickball in the field,Color in a coloring book to complete the whole thing,0.04,0.05,3.3,0.0
+100,Write lyrics for a song I'm making,Draw with chalk on sidewalk,0.05,0.05,4.4,1.0

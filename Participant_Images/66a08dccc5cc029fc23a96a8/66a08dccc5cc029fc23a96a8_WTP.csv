@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Solve logic puzzles on my couch with a cup of tea in hand,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,0.01,0.01,4.4,1.0
+2,Attend live concerts with my partner on warm summer nights,Listen to classical music while walking through a quiet park in the early morning,0.02,0.01,8.8,0.0
+3,Go for a hike with my best friend on a cool autumn morning,Stargaze from a rooftop on a cool clear night,0.03,0.01,3.3,0.0
+4,Go for a hike with my best friend on a cool autumn morning,Journal about my day in a small candlelit room before bed,0.04,0.01,1.1,0.0
+5,Write poetry while sitting by a window during a thunderstorm,Host a game night with friends at my place on a chilly winter evening,0.05,0.01,1.1,1.0
+6,Solve logic puzzles on my couch with a cup of tea in hand,Go for a hike with my best friend on a cool autumn morning,0.01,0.02,3.3,1.0
+7,Play board games with my coworkers at the office after work on friday evenings,Organize my digital files and folders while sitting at my desk with calming music playing,0.02,0.02,1.1,0.0
+8,Go on weekend road trips to nearby towns with a close group of friends,Watch historical documentaries late at night with dim lighting,0.03,0.02,1.1,0.0
+9,Sketch abstract designs in a cozy cafe with a cup of coffee,Attend live concerts with my partner on warm summer nights,0.04,0.02,4.4,1.0
+10,Go for a hike with my best friend on a cool autumn morning,Organize my digital files and folders while sitting at my desk with calming music playing,0.05,0.02,1.1,0.0
+11,Journal about my day in a small candlelit room before bed,Watch scifi movies with friends during a movie marathon on a rainy saturday,0.01,0.03,3.3,1.0
+12,Host a game night with friends at my place on a chilly winter evening,Sketch abstract designs in a cozy cafe with a cup of coffee,0.02,0.03,4.4,0.0
+13,Go on weekend road trips to nearby towns with a close group of friends,Meditate at sunrise on a beach with the sound of waves in the background,0.03,0.03,1.1,0.0
+14,Discuss current events with classmates over lunch between classes,Write poetry while sitting by a window during a thunderstorm,0.04,0.03,3.3,0.0
+15,Solve logic puzzles on my couch with a cup of tea in hand,Watch scifi movies with friends during a movie marathon on a rainy saturday,0.05,0.03,4.4,1.0
+16,Journal about my day in a small candlelit room before bed,Host a game night with friends at my place on a chilly winter evening,0.01,0.04,1.1,1.0
+17,Write poetry while sitting by a window during a thunderstorm,Bake holiday cookies with my cousins in the kitchen during the winter holidays,0.02,0.04,8.8,1.0
+18,Bake holiday cookies with my cousins in the kitchen during the winter holidays,Watch historical documentaries late at night with dim lighting,0.03,0.04,3.3,0.0
+19,Go on weekend road trips to nearby towns with a close group of friends,Sketch abstract designs in a cozy cafe with a cup of coffee,0.04,0.04,3.3,0.0
+20,Listen to classical music while walking through a quiet park in the early morning,Go for a hike with my best friend on a cool autumn morning,0.05,0.04,1.1,1.0
+21,Listen to classical music while walking through a quiet park in the early morning,Host a game night with friends at my place on a chilly winter evening,0.01,0.05,8.8,1.0
+22,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,Listen to classical music while walking through a quiet park in the early morning,0.02,0.05,4.4,0.0
+23,Share a homemade dinner with my family on a cozy sunday evening,Sketch abstract designs in a cozy cafe with a cup of coffee,0.03,0.05,1.1,0.0
+24,Sketch abstract designs in a cozy cafe with a cup of coffee,Play board games with my coworkers at the office after work on friday evenings,0.04,0.05,4.4,1.0
+25,Journal about my day in a small candlelit room before bed,Play board games with my coworkers at the office after work on friday evenings,0.05,0.05,3.3,1.0
+26,Sketch abstract designs in a cozy cafe with a cup of coffee,Attend live concerts with my partner on warm summer nights,0.01,0.01,4.4,1.0
+27,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,Meditate at sunrise on a beach with the sound of waves in the background,0.02,0.01,3.3,0.0
+28,Go for a hike with my best friend on a cool autumn morning,Write poetry while sitting by a window during a thunderstorm,0.03,0.01,3.3,0.0
+29,Attend live concerts with my partner on warm summer nights,Organize my digital files and folders while sitting at my desk with calming music playing,0.04,0.01,4.4,0.0
+30,Watch historical documentaries late at night with dim lighting,Go for a hike with my best friend on a cool autumn morning,0.05,0.01,8.8,1.0
+31,Share a homemade dinner with my family on a cozy sunday evening,Journal about my day in a small candlelit room before bed,0.01,0.02,8.8,0.0
+32,Stargaze from a rooftop on a cool clear night,Host a game night with friends at my place on a chilly winter evening,0.02,0.02,1.1,1.0
+33,Attend live concerts with my partner on warm summer nights,Journal about my day in a small candlelit room before bed,0.03,0.02,4.4,0.0
+34,Bake holiday cookies with my cousins in the kitchen during the winter holidays,Organize my digital files and folders while sitting at my desk with calming music playing,0.04,0.02,3.3,0.0
+35,Watch scifi movies with friends during a movie marathon on a rainy saturday,Meditate at sunrise on a beach with the sound of waves in the background,0.05,0.02,1.1,0.0
+36,Sketch abstract designs in a cozy cafe with a cup of coffee,Watch scifi movies with friends during a movie marathon on a rainy saturday,0.01,0.03,3.3,1.0
+37,Share a homemade dinner with my family on a cozy sunday evening,Solve logic puzzles on my couch with a cup of tea in hand,0.02,0.03,1.1,0.0
+38,Stargaze from a rooftop on a cool clear night,Bake holiday cookies with my cousins in the kitchen during the winter holidays,0.03,0.03,1.1,1.0
+39,Stargaze from a rooftop on a cool clear night,Watch scifi movies with friends during a movie marathon on a rainy saturday,0.04,0.03,3.3,1.0
+40,Bake holiday cookies with my cousins in the kitchen during the winter holidays,Journal about my day in a small candlelit room before bed,0.05,0.03,4.4,0.0
+41,Play board games with my coworkers at the office after work on friday evenings,Sketch abstract designs in a cozy cafe with a cup of coffee,0.01,0.04,1.1,0.0
+42,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,Journal about my day in a small candlelit room before bed,0.02,0.04,3.3,0.0
+43,Bake holiday cookies with my cousins in the kitchen during the winter holidays,Sketch abstract designs in a cozy cafe with a cup of coffee,0.03,0.04,1.1,0.0
+44,Sketch abstract designs in a cozy cafe with a cup of coffee,Discuss current events with classmates over lunch between classes,0.04,0.04,1.1,1.0
+45,Listen to classical music while walking through a quiet park in the early morning,Go on weekend road trips to nearby towns with a close group of friends,0.05,0.04,4.4,1.0
+46,Attend live concerts with my partner on warm summer nights,Meditate at sunrise on a beach with the sound of waves in the background,0.01,0.05,8.8,0.0
+47,Watch historical documentaries late at night with dim lighting,Share a homemade dinner with my family on a cozy sunday evening,0.02,0.05,1.1,1.0
+48,Sketch abstract designs in a cozy cafe with a cup of coffee,Share a homemade dinner with my family on a cozy sunday evening,0.03,0.05,4.4,1.0
+49,Stargaze from a rooftop on a cool clear night,Go on weekend road trips to nearby towns with a close group of friends,0.04,0.05,3.3,1.0
+50,Sketch abstract designs in a cozy cafe with a cup of coffee,Bake holiday cookies with my cousins in the kitchen during the winter holidays,0.05,0.05,1.1,1.0
+51,Solve logic puzzles on my couch with a cup of tea in hand,Discuss current events with classmates over lunch between classes,0.01,0.01,1.1,1.0
+52,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,Write poetry while sitting by a window during a thunderstorm,0.02,0.01,3.3,0.0
+53,Organize my digital files and folders while sitting at my desk with calming music playing,Watch scifi movies with friends during a movie marathon on a rainy saturday,0.03,0.01,1.1,1.0
+54,Watch scifi movies with friends during a movie marathon on a rainy saturday,Write poetry while sitting by a window during a thunderstorm,0.04,0.01,4.4,0.0
+55,Stargaze from a rooftop on a cool clear night,Attend live concerts with my partner on warm summer nights,0.05,0.01,1.1,1.0
+56,Sketch abstract designs in a cozy cafe with a cup of coffee,Go for a hike with my best friend on a cool autumn morning,0.01,0.02,8.8,1.0
+57,Organize my digital files and folders while sitting at my desk with calming music playing,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,0.02,0.02,4.4,1.0
+58,Watch scifi movies with friends during a movie marathon on a rainy saturday,Watch historical documentaries late at night with dim lighting,0.03,0.02,4.4,0.0
+59,Watch scifi movies with friends during a movie marathon on a rainy saturday,Sketch abstract designs in a cozy cafe with a cup of coffee,0.04,0.02,4.4,0.0
+60,Journal about my day in a small candlelit room before bed,Discuss current events with classmates over lunch between classes,0.05,0.02,1.1,1.0
+61,Host a game night with friends at my place on a chilly winter evening,Sketch abstract designs in a cozy cafe with a cup of coffee,0.01,0.03,3.3,0.0
+62,Organize my digital files and folders while sitting at my desk with calming music playing,Host a game night with friends at my place on a chilly winter evening,0.02,0.03,3.3,1.0
+63,Stargaze from a rooftop on a cool clear night,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,0.03,0.03,3.3,1.0
+64,Organize my digital files and folders while sitting at my desk with calming music playing,Go on weekend road trips to nearby towns with a close group of friends,0.04,0.03,1.1,1.0
+65,Go for a hike with my best friend on a cool autumn morning,Meditate at sunrise on a beach with the sound of waves in the background,0.05,0.03,1.1,0.0
+66,Host a game night with friends at my place on a chilly winter evening,Watch historical documentaries late at night with dim lighting,0.01,0.04,1.1,0.0
+67,Sketch abstract designs in a cozy cafe with a cup of coffee,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,0.02,0.04,8.8,1.0
+68,Listen to classical music while walking through a quiet park in the early morning,Share a homemade dinner with my family on a cozy sunday evening,0.03,0.04,4.4,1.0
+69,Share a homemade dinner with my family on a cozy sunday evening,Meditate at sunrise on a beach with the sound of waves in the background,0.04,0.04,1.1,0.0
+70,Host a game night with friends at my place on a chilly winter evening,Meditate at sunrise on a beach with the sound of waves in the background,0.05,0.04,1.1,0.0
+71,Sketch abstract designs in a cozy cafe with a cup of coffee,Discuss current events with classmates over lunch between classes,0.01,0.05,3.3,1.0
+72,Host a game night with friends at my place on a chilly winter evening,Solve logic puzzles on my couch with a cup of tea in hand,0.02,0.05,8.8,0.0
+73,Play board games with my coworkers at the office after work on friday evenings,Meditate at sunrise on a beach with the sound of waves in the background,0.03,0.05,3.3,0.0
+74,Share a homemade dinner with my family on a cozy sunday evening,Write poetry while sitting by a window during a thunderstorm,0.04,0.05,4.4,0.0
+75,Solve logic puzzles on my couch with a cup of tea in hand,Go on weekend road trips to nearby towns with a close group of friends,0.05,0.05,3.3,1.0
+76,Listen to classical music while walking through a quiet park in the early morning,Play board games with my coworkers at the office after work on friday evenings,0.01,0.01,1.1,1.0
+77,Bake holiday cookies with my cousins in the kitchen during the winter holidays,Listen to classical music while walking through a quiet park in the early morning,0.02,0.01,8.8,0.0
+78,Attend live concerts with my partner on warm summer nights,Solve logic puzzles on my couch with a cup of tea in hand,0.03,0.01,1.1,0.0
+79,Sketch abstract designs in a cozy cafe with a cup of coffee,Go on weekend road trips to nearby towns with a close group of friends,0.04,0.01,1.1,1.0
+80,Discuss current events with classmates over lunch between classes,Meditate at sunrise on a beach with the sound of waves in the background,0.05,0.01,4.4,0.0
+81,Discuss current events with classmates over lunch between classes,Organize my digital files and folders while sitting at my desk with calming music playing,0.01,0.02,3.3,0.0
+82,Go on weekend road trips to nearby towns with a close group of friends,Journal about my day in a small candlelit room before bed,0.02,0.02,4.4,0.0
+83,Go for a hike with my best friend on a cool autumn morning,Sketch abstract designs in a cozy cafe with a cup of coffee,0.03,0.02,1.1,0.0
+84,Play board games with my coworkers at the office after work on friday evenings,Stargaze from a rooftop on a cool clear night,0.04,0.02,3.3,0.0
+85,Write poetry while sitting by a window during a thunderstorm,Play board games with my coworkers at the office after work on friday evenings,0.05,0.02,3.3,1.0
+86,Watch historical documentaries late at night with dim lighting,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,0.01,0.03,1.1,1.0
+87,Share a homemade dinner with my family on a cozy sunday evening,Stargaze from a rooftop on a cool clear night,0.02,0.03,4.4,0.0
+88,Solve logic puzzles on my couch with a cup of tea in hand,Play board games with my coworkers at the office after work on friday evenings,0.03,0.03,1.1,1.0
+89,Watch historical documentaries late at night with dim lighting,Attend live concerts with my partner on warm summer nights,0.04,0.03,3.3,1.0
+90,Write poetry while sitting by a window during a thunderstorm,Attend live concerts with my partner on warm summer nights,0.05,0.03,8.8,1.0
+91,Solve logic puzzles on my couch with a cup of tea in hand,Bake holiday cookies with my cousins in the kitchen during the winter holidays,0.01,0.04,3.3,1.0
+92,Watch scifi movies with friends during a movie marathon on a rainy saturday,Listen to classical music while walking through a quiet park in the early morning,0.02,0.04,8.8,0.0
+93,Write poetry while sitting by a window during a thunderstorm,Go on weekend road trips to nearby towns with a close group of friends,0.03,0.04,1.1,1.0
+94,Share a homemade dinner with my family on a cozy sunday evening,Organize my digital files and folders while sitting at my desk with calming music playing,0.04,0.04,4.4,0.0
+95,Play board games with my coworkers at the office after work on friday evenings,Watch historical documentaries late at night with dim lighting,0.05,0.04,4.4,0.0
+96,Sketch abstract designs in a cozy cafe with a cup of coffee,Have coffee and catching up with an old college friend at a quiet cafe in the afternoon,0.01,0.05,3.3,1.0
+97,Watch historical documentaries late at night with dim lighting,Discuss current events with classmates over lunch between classes,0.02,0.05,1.1,1.0
+98,Discuss current events with classmates over lunch between classes,Listen to classical music while walking through a quiet park in the early morning,0.03,0.05,1.1,0.0
+99,Stargaze from a rooftop on a cool clear night,Discuss current events with classmates over lunch between classes,0.04,0.05,3.3,1.0
+100,Meditate at sunrise on a beach with the sound of waves in the background,Bake holiday cookies with my cousins in the kitchen during the winter holidays,0.05,0.05,4.4,1.0

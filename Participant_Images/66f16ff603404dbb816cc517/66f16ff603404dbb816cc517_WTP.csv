@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Walk along the beach on a fall day,Joke around with sisters on weekend mornings,0.01,0.01,4.4,1.0
+2,Drive in my car with loud music on,Swim in the backyard pool with the kids on hot summer days,0.02,0.01,8.8,1.0
+3,Read a book on my bed in dimly lit bedroom,Take the kids to a park on cool weekend afternoons,0.03,0.01,3.3,1.0
+4,Watch a thunderstorm from the warm of the house,Walk on the beach with friends late at night,0.04,0.01,1.1,1.0
+5,Watch thunderstorms with the kids late in the evenings,Lounge outside on a windy day,0.05,0.01,1.1,0.0
+6,Enjoy a movie late on saturday nights with boyfriend,Walk along the beach on a fall day,0.01,0.02,3.3,0.0
+7,Lounge outside on a windy day,Enjoy a movie late on saturday nights with boyfriend,0.02,0.02,1.1,1.0
+8,Walk along the beach on a fall day,Make breakfast on sunday mornings with the kids,0.03,0.02,1.1,1.0
+9,Go to walmart and browsing the clearance aisle,Walk on the beach with friends late at night,0.04,0.02,4.4,1.0
+10,Watch tv on a rainy day in my living room,Joke around with sisters on weekend mornings,0.05,0.02,1.1,1.0
+11,Dance while cleaning the kitchen,Make dinner in the early evenings on weekdays with boyfriend,0.01,0.03,3.3,1.0
+12,Make dinner in the early evenings on weekdays with boyfriend,Watch a thunderstorm from the warm of the house,0.02,0.03,4.4,0.0
+13,Playing soccer outside with kids on school days,Dress up in my bedroom,0.03,0.03,1.1,0.0
+14,Dress up in my bedroom,Joke around with sisters on weekend mornings,0.04,0.03,3.3,1.0
+15,Walk on the beach with friends late at night,Lounge outside on a windy day,0.05,0.03,4.4,0.0
+16,Have dinner with family on weekday evenings,Dress up in my bedroom,0.01,0.04,1.1,0.0
+17,Watch tv on a rainy day in my living room,Playing soccer outside with kids on school days,0.02,0.04,8.8,1.0
+18,Make dinner in the early evenings on weekdays with boyfriend,Take pictures in my backyard,0.03,0.04,3.3,0.0
+19,Joke around with sisters on weekend mornings,Lounge outside on a windy day,0.04,0.04,3.3,0.0
+20,Read a book on my bed in dimly lit bedroom,Watch thunderstorms with the kids late in the evenings,0.05,0.04,1.1,1.0
+21,Walk on the beach with friends late at night,Watch tv on a rainy day in my living room,0.01,0.05,8.8,0.0
+22,Enjoy a movie late on saturday nights with boyfriend,Watch a thunderstorm from the warm of the house,0.02,0.05,4.4,0.0
+23,Watch a thunderstorm from the warm of the house,Watch thunderstorms with the kids late in the evenings,0.03,0.05,1.1,1.0
+24,Watch a thunderstorm from the warm of the house,Swim in the backyard pool with the kids on hot summer days,0.04,0.05,4.4,1.0
+25,Make breakfast on sunday mornings with the kids,Lounge outside on a windy day,0.05,0.05,3.3,0.0
+26,Dance while cleaning the kitchen,Have dinner with family on weekday evenings,0.01,0.01,4.4,1.0
+27,Walk along the beach on a fall day,Swim in the backyard pool with the kids on hot summer days,0.02,0.01,3.3,1.0
+28,Take the kids to a park on cool weekend afternoons,Walk along the beach on a fall day,0.03,0.01,3.3,0.0
+29,Dress up in my bedroom,Enjoy a movie late on saturday nights with boyfriend,0.04,0.01,4.4,1.0
+30,Go to walmart and browsing the clearance aisle,Enjoy a movie late on saturday nights with boyfriend,0.05,0.01,8.8,1.0
+31,Enjoy a movie late on saturday nights with boyfriend,Watch tv on a rainy day in my living room,0.01,0.02,8.8,0.0
+32,Lounge outside on a windy day,Have dinner with family on weekday evenings,0.02,0.02,1.1,1.0
+33,Enjoy a movie late on saturday nights with boyfriend,Read a book on my bed in dimly lit bedroom,0.03,0.02,4.4,0.0
+34,Watch thunderstorms with the kids late in the evenings,Take pictures in my backyard,0.04,0.02,3.3,0.0
+35,Take pictures in my backyard,Make breakfast on sunday mornings with the kids,0.05,0.02,1.1,1.0
+36,Take the kids to a park on cool weekend afternoons,Watch a thunderstorm from the warm of the house,0.01,0.03,3.3,0.0
+37,Swim in the backyard pool with the kids on hot summer days,Dance while cleaning the kitchen,0.02,0.03,1.1,0.0
+38,Drive in my car with loud music on,Watch thunderstorms with the kids late in the evenings,0.03,0.03,1.1,1.0
+39,Joke around with sisters on weekend mornings,Read a book on my bed in dimly lit bedroom,0.04,0.03,3.3,0.0
+40,Take the kids to a park on cool weekend afternoons,Lounge outside on a windy day,0.05,0.03,4.4,0.0
+41,Make dinner in the early evenings on weekdays with boyfriend,Lounge outside on a windy day,0.01,0.04,1.1,0.0
+42,Enjoy a movie late on saturday nights with boyfriend,Take pictures in my backyard,0.02,0.04,3.3,0.0
+43,Watch thunderstorms with the kids late in the evenings,Dress up in my bedroom,0.03,0.04,1.1,0.0
+44,Watch a thunderstorm from the warm of the house,Make breakfast on sunday mornings with the kids,0.04,0.04,1.1,1.0
+45,Swim in the backyard pool with the kids on hot summer days,Read a book on my bed in dimly lit bedroom,0.05,0.04,4.4,0.0
+46,Go to walmart and browsing the clearance aisle,Make breakfast on sunday mornings with the kids,0.01,0.05,8.8,1.0
+47,Drive in my car with loud music on,Make breakfast on sunday mornings with the kids,0.02,0.05,1.1,1.0
+48,Watch a thunderstorm from the warm of the house,Joke around with sisters on weekend mornings,0.03,0.05,4.4,1.0
+49,Walk on the beach with friends late at night,Dance while cleaning the kitchen,0.04,0.05,3.3,0.0
+50,Go to walmart and browsing the clearance aisle,Playing soccer outside with kids on school days,0.05,0.05,1.1,1.0
+51,Walk along the beach on a fall day,Watch thunderstorms with the kids late in the evenings,0.01,0.01,1.1,1.0
+52,Playing soccer outside with kids on school days,Drive in my car with loud music on,0.02,0.01,3.3,0.0
+53,Take the kids to a park on cool weekend afternoons,Dress up in my bedroom,0.03,0.01,1.1,0.0
+54,Make breakfast on sunday mornings with the kids,Read a book on my bed in dimly lit bedroom,0.04,0.01,4.4,0.0
+55,Go to walmart and browsing the clearance aisle,Have dinner with family on weekday evenings,0.05,0.01,1.1,1.0
+56,Watch a thunderstorm from the warm of the house,Playing soccer outside with kids on school days,0.01,0.02,8.8,1.0
+57,Make dinner in the early evenings on weekdays with boyfriend,Drive in my car with loud music on,0.02,0.02,4.4,0.0
+58,Have dinner with family on weekday evenings,Walk along the beach on a fall day,0.03,0.02,4.4,0.0
+59,Dance while cleaning the kitchen,Joke around with sisters on weekend mornings,0.04,0.02,4.4,1.0
+60,Have dinner with family on weekday evenings,Read a book on my bed in dimly lit bedroom,0.05,0.02,1.1,0.0
+61,Lounge outside on a windy day,Swim in the backyard pool with the kids on hot summer days,0.01,0.03,3.3,1.0
+62,Dance while cleaning the kitchen,Take the kids to a park on cool weekend afternoons,0.02,0.03,3.3,1.0
+63,Dance while cleaning the kitchen,Playing soccer outside with kids on school days,0.03,0.03,3.3,1.0
+64,Drive in my car with loud music on,Take the kids to a park on cool weekend afternoons,0.04,0.03,1.1,1.0
+65,Make dinner in the early evenings on weekdays with boyfriend,Go to walmart and browsing the clearance aisle,0.05,0.03,1.1,0.0
+66,Joke around with sisters on weekend mornings,Drive in my car with loud music on,0.01,0.04,1.1,0.0
+67,Walk on the beach with friends late at night,Walk along the beach on a fall day,0.02,0.04,8.8,0.0
+68,Make dinner in the early evenings on weekdays with boyfriend,Dress up in my bedroom,0.03,0.04,4.4,0.0
+69,Swim in the backyard pool with the kids on hot summer days,Go to walmart and browsing the clearance aisle,0.04,0.04,1.1,0.0
+70,Have dinner with family on weekday evenings,Watch tv on a rainy day in my living room,0.05,0.04,1.1,0.0
+71,Joke around with sisters on weekend mornings,Go to walmart and browsing the clearance aisle,0.01,0.05,3.3,0.0
+72,Dress up in my bedroom,Walk on the beach with friends late at night,0.02,0.05,8.8,1.0
+73,Take pictures in my backyard,Joke around with sisters on weekend mornings,0.03,0.05,3.3,1.0
+74,Take pictures in my backyard,Take the kids to a park on cool weekend afternoons,0.04,0.05,4.4,1.0
+75,Have dinner with family on weekday evenings,Take pictures in my backyard,0.05,0.05,3.3,0.0
+76,Dress up in my bedroom,Make breakfast on sunday mornings with the kids,0.01,0.01,1.1,1.0
+77,Playing soccer outside with kids on school days,Read a book on my bed in dimly lit bedroom,0.02,0.01,8.8,0.0
+78,Dance while cleaning the kitchen,Watch thunderstorms with the kids late in the evenings,0.03,0.01,1.1,1.0
+79,Playing soccer outside with kids on school days,Take pictures in my backyard,0.04,0.01,1.1,0.0
+80,Take pictures in my backyard,Swim in the backyard pool with the kids on hot summer days,0.05,0.01,4.4,1.0
+81,Walk on the beach with friends late at night,Drive in my car with loud music on,0.01,0.02,3.3,0.0
+82,Make dinner in the early evenings on weekdays with boyfriend,Read a book on my bed in dimly lit bedroom,0.02,0.02,4.4,0.0
+83,Read a book on my bed in dimly lit bedroom,Walk on the beach with friends late at night,0.03,0.02,1.1,1.0
+84,Enjoy a movie late on saturday nights with boyfriend,Dance while cleaning the kitchen,0.04,0.02,3.3,0.0
+85,Go to walmart and browsing the clearance aisle,Take the kids to a park on cool weekend afternoons,0.05,0.02,3.3,1.0
+86,Dance while cleaning the kitchen,Make breakfast on sunday mornings with the kids,0.01,0.03,1.1,1.0
+87,Drive in my car with loud music on,Have dinner with family on weekday evenings,0.02,0.03,4.4,1.0
+88,Make breakfast on sunday mornings with the kids,Watch tv on a rainy day in my living room,0.03,0.03,1.1,0.0
+89,Watch tv on a rainy day in my living room,Make dinner in the early evenings on weekdays with boyfriend,0.04,0.03,3.3,1.0
+90,Watch tv on a rainy day in my living room,Take the kids to a park on cool weekend afternoons,0.05,0.03,8.8,1.0
+91,Make dinner in the early evenings on weekdays with boyfriend,Walk along the beach on a fall day,0.01,0.04,3.3,0.0
+92,Swim in the backyard pool with the kids on hot summer days,Dress up in my bedroom,0.02,0.04,8.8,0.0
+93,Watch a thunderstorm from the warm of the house,Have dinner with family on weekday evenings,0.03,0.04,1.1,1.0
+94,Walk on the beach with friends late at night,Take pictures in my backyard,0.04,0.04,4.4,0.0
+95,Swim in the backyard pool with the kids on hot summer days,Watch tv on a rainy day in my living room,0.05,0.04,4.4,0.0
+96,Watch thunderstorms with the kids late in the evenings,Watch tv on a rainy day in my living room,0.01,0.05,3.3,0.0
+97,Go to walmart and browsing the clearance aisle,Watch thunderstorms with the kids late in the evenings,0.02,0.05,1.1,1.0
+98,Enjoy a movie late on saturday nights with boyfriend,Drive in my car with loud music on,0.03,0.05,1.1,0.0
+99,Walk along the beach on a fall day,Playing soccer outside with kids on school days,0.04,0.05,3.3,1.0
+100,Lounge outside on a windy day,Playing soccer outside with kids on school days,0.05,0.05,4.4,1.0

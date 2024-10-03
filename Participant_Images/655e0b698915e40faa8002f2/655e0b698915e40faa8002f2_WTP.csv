@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Cook a big meal together with my significant other in the kitchen on a weekend evening,listening to jackie hill  and preston perrys podcasts,0.01,0.01,4.4,0.0
+2,Play board games with friends in a cozy living room on a rainy saturday afternoon,watch netflix on the couch,0.02,0.01,8.8,0.0
+3,Attend a study session with classmates at a coffee shop on a wednesday evening,eat snacks in the bed ,0.03,0.01,3.3,0.0
+4,sit on my patio in the hot afternoon,Explore a local farmers market with my family on a sunny weekend morning,0.04,0.01,1.1,1.0
+5,eat snacks in the bed ,Explore a local farmers market with my family on a sunny weekend morning,0.05,0.01,1.1,1.0
+6,watch netflix on the couch,Attend a study session with classmates at a coffee shop on a wednesday evening,0.01,0.02,3.3,1.0
+7,laugh at my favorite comedy specials on netflix,Have deep conversations with close friends around a campfire on a chilly night,0.02,0.02,1.1,1.0
+8,Attend live music concerts with friends on a summer evening,listening to jackie hill  and preston perrys podcasts,0.03,0.02,1.1,0.0
+9,listen to music in my kids room,Watch a movie with my kids on a summer night in our backyard,0.04,0.02,4.4,1.0
+10,Walk along the beach with my significant other during sunset,watch netflix on the couch,0.05,0.02,1.1,0.0
+11,Have deep conversations with close friends around a campfire on a chilly night,run errands on a sunny day,0.01,0.03,3.3,0.0
+12,Watch a movie with my kids on a summer night in our backyard,redecorate my bedroom in the spring time,0.02,0.03,4.4,0.0
+13,run errands on a sunny day,Walk along the beach with my significant other during sunset,0.03,0.03,1.1,1.0
+14,Watch a movie with my kids on a summer night in our backyard,eat snacks in the bed ,0.04,0.03,3.3,0.0
+15,Play board games with friends in a cozy living room on a rainy saturday afternoon,eat snacks in the bed ,0.05,0.03,4.4,0.0
+16,eat snacks in the bed ,Attend live music concerts with friends on a summer evening,0.01,0.04,1.1,1.0
+17,listen to music in my kids room,Play board games with friends in a cozy living room on a rainy saturday afternoon,0.02,0.04,8.8,1.0
+18,sit on my patio in the hot afternoon,Attend live music concerts with friends on a summer evening,0.03,0.04,3.3,1.0
+19,Volunteer at a community event with coworkers on a saturday afternoon,eat snacks in the bed ,0.04,0.04,3.3,0.0
+20,run errands on a sunny day,Play board games with friends in a cozy living room on a rainy saturday afternoon,0.05,0.04,1.1,1.0
+21,listen to music in my kids room,Hike through wooded trails with my family on a cool autumn morning,0.01,0.05,8.8,1.0
+22,work out in my living room,Play board games with friends in a cozy living room on a rainy saturday afternoon,0.02,0.05,4.4,1.0
+23,run errands on a sunny day,Explore a local farmers market with my family on a sunny weekend morning,0.03,0.05,1.1,1.0
+24,redecorate my bedroom in the spring time,Explore a local farmers market with my family on a sunny weekend morning,0.04,0.05,4.4,1.0
+25,watch netflix on the couch,Volunteer at a community event with coworkers on a saturday afternoon,0.05,0.05,3.3,1.0
+26,listening to jackie hill  and preston perrys podcasts,Volunteer at a community event with coworkers on a saturday afternoon,0.01,0.01,4.4,1.0
+27,eat snacks in the bed ,Hike through wooded trails with my family on a cool autumn morning,0.02,0.01,3.3,1.0
+28,Attend a study session with classmates at a coffee shop on a wednesday evening,sit on my patio in the hot afternoon,0.03,0.01,3.3,0.0
+29,Have deep conversations with close friends around a campfire on a chilly night,listening to jackie hill  and preston perrys podcasts,0.04,0.01,4.4,0.0
+30,Have deep conversations with close friends around a campfire on a chilly night,eat snacks in the bed ,0.05,0.01,8.8,0.0
+31,shop at my favorite department store,Volunteer at a community event with coworkers on a saturday afternoon,0.01,0.02,8.8,1.0
+32,Have deep conversations with close friends around a campfire on a chilly night,redecorate my bedroom in the spring time,0.02,0.02,1.1,0.0
+33,Watch a movie with my kids on a summer night in our backyard,watch netflix on the couch,0.03,0.02,4.4,0.0
+34,Play board games with friends in a cozy living room on a rainy saturday afternoon,listening to jackie hill  and preston perrys podcasts,0.04,0.02,3.3,0.0
+35,Play board games with friends in a cozy living room on a rainy saturday afternoon,shop at my favorite department store,0.05,0.02,1.1,0.0
+36,Cook a big meal together with my significant other in the kitchen on a weekend evening,work out in my living room,0.01,0.03,3.3,0.0
+37,listen to music in my kids room,Have deep conversations with close friends around a campfire on a chilly night,0.02,0.03,1.1,1.0
+38,Have deep conversations with close friends around a campfire on a chilly night,sit on my patio in the hot afternoon,0.03,0.03,1.1,0.0
+39,redecorate my bedroom in the spring time,Volunteer at a community event with coworkers on a saturday afternoon,0.04,0.03,3.3,1.0
+40,Hike through wooded trails with my family on a cool autumn morning,listening to jackie hill  and preston perrys podcasts,0.05,0.03,4.4,0.0
+41,sit on my patio in the hot afternoon,Play board games with friends in a cozy living room on a rainy saturday afternoon,0.01,0.04,1.1,1.0
+42,work out in my living room,Explore a local farmers market with my family on a sunny weekend morning,0.02,0.04,3.3,1.0
+43,work out in my living room,Hike through wooded trails with my family on a cool autumn morning,0.03,0.04,1.1,1.0
+44,Watch a movie with my kids on a summer night in our backyard,sit on my patio in the hot afternoon,0.04,0.04,1.1,0.0
+45,run errands on a sunny day,Cook a big meal together with my significant other in the kitchen on a weekend evening,0.05,0.04,4.4,1.0
+46,eat snacks in the bed ,Cook a big meal together with my significant other in the kitchen on a weekend evening,0.01,0.05,8.8,1.0
+47,work out in my living room,Watch a movie with my kids on a summer night in our backyard,0.02,0.05,1.1,1.0
+48,redecorate my bedroom in the spring time,Walk along the beach with my significant other during sunset,0.03,0.05,4.4,1.0
+49,Volunteer at a community event with coworkers on a saturday afternoon,listen to music in my kids room,0.04,0.05,3.3,0.0
+50,Cook a big meal together with my significant other in the kitchen on a weekend evening,watch netflix on the couch,0.05,0.05,1.1,0.0
+51,watch netflix on the couch,Have deep conversations with close friends around a campfire on a chilly night,0.01,0.01,1.1,1.0
+52,work out in my living room,Have deep conversations with close friends around a campfire on a chilly night,0.02,0.01,3.3,1.0
+53,work out in my living room,Volunteer at a community event with coworkers on a saturday afternoon,0.03,0.01,1.1,1.0
+54,Walk along the beach with my significant other during sunset,eat snacks in the bed ,0.04,0.01,4.4,0.0
+55,laugh at my favorite comedy specials on netflix,Walk along the beach with my significant other during sunset,0.05,0.01,1.1,1.0
+56,Walk along the beach with my significant other during sunset,listen to music in my kids room,0.01,0.02,8.8,0.0
+57,Cook a big meal together with my significant other in the kitchen on a weekend evening,listen to music in my kids room,0.02,0.02,4.4,0.0
+58,Attend a study session with classmates at a coffee shop on a wednesday evening,listening to jackie hill  and preston perrys podcasts,0.03,0.02,4.4,0.0
+59,laugh at my favorite comedy specials on netflix,Attend live music concerts with friends on a summer evening,0.04,0.02,4.4,1.0
+60,run errands on a sunny day,Volunteer at a community event with coworkers on a saturday afternoon,0.05,0.02,1.1,1.0
+61,Play board games with friends in a cozy living room on a rainy saturday afternoon,laugh at my favorite comedy specials on netflix,0.01,0.03,3.3,0.0
+62,redecorate my bedroom in the spring time,Hike through wooded trails with my family on a cool autumn morning,0.02,0.03,3.3,1.0
+63,work out in my living room,Attend a study session with classmates at a coffee shop on a wednesday evening,0.03,0.03,3.3,1.0
+64,listening to jackie hill  and preston perrys podcasts,Watch a movie with my kids on a summer night in our backyard,0.04,0.03,1.1,1.0
+65,run errands on a sunny day,Watch a movie with my kids on a summer night in our backyard,0.05,0.03,1.1,1.0
+66,listen to music in my kids room,Explore a local farmers market with my family on a sunny weekend morning,0.01,0.04,1.1,1.0
+67,Cook a big meal together with my significant other in the kitchen on a weekend evening,shop at my favorite department store,0.02,0.04,8.8,0.0
+68,laugh at my favorite comedy specials on netflix,Attend a study session with classmates at a coffee shop on a wednesday evening,0.03,0.04,4.4,1.0
+69,Hike through wooded trails with my family on a cool autumn morning,sit on my patio in the hot afternoon,0.04,0.04,1.1,0.0
+70,Attend live music concerts with friends on a summer evening,shop at my favorite department store,0.05,0.04,1.1,0.0
+71,Attend a study session with classmates at a coffee shop on a wednesday evening,run errands on a sunny day,0.01,0.05,3.3,0.0
+72,watch netflix on the couch,Attend live music concerts with friends on a summer evening,0.02,0.05,8.8,1.0
+73,Walk along the beach with my significant other during sunset,shop at my favorite department store,0.03,0.05,3.3,0.0
+74,Attend a study session with classmates at a coffee shop on a wednesday evening,listen to music in my kids room,0.04,0.05,4.4,0.0
+75,Explore a local farmers market with my family on a sunny weekend morning,listening to jackie hill  and preston perrys podcasts,0.05,0.05,3.3,0.0
+76,Watch a movie with my kids on a summer night in our backyard,shop at my favorite department store,0.01,0.01,1.1,0.0
+77,Attend live music concerts with friends on a summer evening,work out in my living room,0.02,0.01,8.8,0.0
+78,laugh at my favorite comedy specials on netflix,Explore a local farmers market with my family on a sunny weekend morning,0.03,0.01,1.1,1.0
+79,Cook a big meal together with my significant other in the kitchen on a weekend evening,sit on my patio in the hot afternoon,0.04,0.01,1.1,0.0
+80,redecorate my bedroom in the spring time,Attend a study session with classmates at a coffee shop on a wednesday evening,0.05,0.01,4.4,1.0
+81,Hike through wooded trails with my family on a cool autumn morning,laugh at my favorite comedy specials on netflix,0.01,0.02,3.3,0.0
+82,Play board games with friends in a cozy living room on a rainy saturday afternoon,redecorate my bedroom in the spring time,0.02,0.02,4.4,0.0
+83,Volunteer at a community event with coworkers on a saturday afternoon,sit on my patio in the hot afternoon,0.03,0.02,1.1,0.0
+84,Cook a big meal together with my significant other in the kitchen on a weekend evening,laugh at my favorite comedy specials on netflix,0.04,0.02,3.3,0.0
+85,listening to jackie hill  and preston perrys podcasts,Walk along the beach with my significant other during sunset,0.05,0.02,3.3,1.0
+86,watch netflix on the couch,Explore a local farmers market with my family on a sunny weekend morning,0.01,0.03,1.1,1.0
+87,Hike through wooded trails with my family on a cool autumn morning,shop at my favorite department store,0.02,0.03,4.4,0.0
+88,run errands on a sunny day,Attend live music concerts with friends on a summer evening,0.03,0.03,1.1,1.0
+89,sit on my patio in the hot afternoon,Walk along the beach with my significant other during sunset,0.04,0.03,3.3,1.0
+90,Attend a study session with classmates at a coffee shop on a wednesday evening,shop at my favorite department store,0.05,0.03,8.8,0.0
+91,Volunteer at a community event with coworkers on a saturday afternoon,laugh at my favorite comedy specials on netflix,0.01,0.04,3.3,0.0
+92,shop at my favorite department store,Have deep conversations with close friends around a campfire on a chilly night,0.02,0.04,8.8,1.0
+93,laugh at my favorite comedy specials on netflix,Watch a movie with my kids on a summer night in our backyard,0.03,0.04,1.1,1.0
+94,Walk along the beach with my significant other during sunset,work out in my living room,0.04,0.04,4.4,0.0
+95,Attend live music concerts with friends on a summer evening,redecorate my bedroom in the spring time,0.05,0.04,4.4,0.0
+96,Cook a big meal together with my significant other in the kitchen on a weekend evening,redecorate my bedroom in the spring time,0.01,0.05,3.3,0.0
+97,watch netflix on the couch,Hike through wooded trails with my family on a cool autumn morning,0.02,0.05,1.1,1.0
+98,Hike through wooded trails with my family on a cool autumn morning,run errands on a sunny day,0.03,0.05,1.1,0.0
+99,listen to music in my kids room,Attend live music concerts with friends on a summer evening,0.04,0.05,3.3,1.0
+100,Explore a local farmers market with my family on a sunny weekend morning,shop at my favorite department store,0.05,0.05,4.4,0.0

@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Watch documentaries in my living room with dimmed lights and snacks,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,0.01,0.01,4.4,1.0
+2,Stargaze from my backyard on a clear summer night with soft music playing,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,0.02,0.01,8.8,1.0
+3,Attend concerts in the park with my best friend enjoying live music and picnicking,Explore local thrift stores on a saturday afternoon searching for unique finds,0.03,0.01,3.3,0.0
+4,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,Attend pottery classes with my partner on thursday evenings creating unique pieces together,0.04,0.01,1.1,1.0
+5,Attend pottery classes with my partner on thursday evenings creating unique pieces together,Explore local thrift stores on a saturday afternoon searching for unique finds,0.05,0.01,1.1,0.0
+6,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,Practice yoga in my bedroom with calming candles and essential oils,0.01,0.02,3.3,0.0
+7,Go hiking on weekends with my family exploring new trails and taking in the views,Explore local thrift stores on a saturday afternoon searching for unique finds,0.02,0.02,1.1,0.0
+8,Practice yoga in my bedroom with calming candles and essential oils,Host game nights with my friends in my living room while enjoying snacks and laughter,0.03,0.02,1.1,1.0
+9,Explore local thrift stores on a saturday afternoon searching for unique finds,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,0.04,0.02,4.4,1.0
+10,Go hiking on weekends with my family exploring new trails and taking in the views,Practice yoga in my bedroom with calming candles and essential oils,0.05,0.02,1.1,0.0
+11,Practice yoga in my bedroom with calming candles and essential oils,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,0.01,0.03,3.3,1.0
+12,Organize my bookshelf in my home office while sipping on iced coffee,Volunteer at the local animal shelter with my coworkers on saturday afternoons,0.02,0.03,4.4,1.0
+13,Organize my bookshelf in my home office while sipping on iced coffee,Go hiking on weekends with my family exploring new trails and taking in the views,0.03,0.03,1.1,1.0
+14,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,0.04,0.03,3.3,0.0
+15,Journal my thoughts in a cozy cafe with a warm cup of tea,Volunteer at the local animal shelter with my coworkers on saturday afternoons,0.05,0.03,4.4,1.0
+16,Cook new recipes in my kitchen while listening to my favorite podcast,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,0.01,0.04,1.1,1.0
+17,Stargaze from my backyard on a clear summer night with soft music playing,Go for bike rides along the beach with my partner during warm summer afternoons,0.02,0.04,8.8,1.0
+18,Attend concerts in the park with my best friend enjoying live music and picnicking,Cook new recipes in my kitchen while listening to my favorite podcast,0.03,0.04,3.3,0.0
+19,Go for bike rides along the beach with my partner during warm summer afternoons,Practice yoga in my bedroom with calming candles and essential oils,0.04,0.04,3.3,0.0
+20,Watch movies at the drivein theater with my siblings during summer nights,Explore local thrift stores on a saturday afternoon searching for unique finds,0.05,0.04,1.1,0.0
+21,Watch documentaries in my living room with dimmed lights and snacks,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,0.01,0.05,8.8,1.0
+22,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,Bike along a scenic trail during early morning hours with the sun rising,0.02,0.05,4.4,0.0
+23,Go for bike rides along the beach with my partner during warm summer afternoons,Explore local thrift stores on a saturday afternoon searching for unique finds,0.03,0.05,1.1,0.0
+24,Volunteer at the local animal shelter with my coworkers on saturday afternoons,Stargaze from my backyard on a clear summer night with soft music playing,0.04,0.05,4.4,0.0
+25,Bike along a scenic trail during early morning hours with the sun rising,Go hiking on weekends with my family exploring new trails and taking in the views,0.05,0.05,3.3,1.0
+26,Watch documentaries in my living room with dimmed lights and snacks,Attend pottery classes with my partner on thursday evenings creating unique pieces together,0.01,0.01,4.4,1.0
+27,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,Cook new recipes in my kitchen while listening to my favorite podcast,0.02,0.01,3.3,0.0
+28,Organize my bookshelf in my home office while sipping on iced coffee,Watch movies at the drivein theater with my siblings during summer nights,0.03,0.01,3.3,1.0
+29,Host game nights with my friends in my living room while enjoying snacks and laughter,Journal my thoughts in a cozy cafe with a warm cup of tea,0.04,0.01,4.4,0.0
+30,Volunteer at the local animal shelter with my coworkers on saturday afternoons,Explore local thrift stores on a saturday afternoon searching for unique finds,0.05,0.01,8.8,0.0
+31,Go for bike rides along the beach with my partner during warm summer afternoons,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,0.01,0.02,8.8,0.0
+32,Volunteer at the local animal shelter with my coworkers on saturday afternoons,Cook new recipes in my kitchen while listening to my favorite podcast,0.02,0.02,1.1,0.0
+33,Organize my bookshelf in my home office while sipping on iced coffee,Attend pottery classes with my partner on thursday evenings creating unique pieces together,0.03,0.02,4.4,1.0
+34,Cook new recipes in my kitchen while listening to my favorite podcast,Attend pottery classes with my partner on thursday evenings creating unique pieces together,0.04,0.02,3.3,1.0
+35,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,Bike along a scenic trail during early morning hours with the sun rising,0.05,0.02,1.1,0.0
+36,Go hiking on weekends with my family exploring new trails and taking in the views,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,0.01,0.03,3.3,0.0
+37,Cook new recipes in my kitchen while listening to my favorite podcast,Watch movies at the drivein theater with my siblings during summer nights,0.02,0.03,1.1,1.0
+38,Journal my thoughts in a cozy cafe with a warm cup of tea,Watch movies at the drivein theater with my siblings during summer nights,0.03,0.03,1.1,1.0
+39,Host game nights with my friends in my living room while enjoying snacks and laughter,Cook new recipes in my kitchen while listening to my favorite podcast,0.04,0.03,3.3,0.0
+40,Watch documentaries in my living room with dimmed lights and snacks,Volunteer at the local animal shelter with my coworkers on saturday afternoons,0.05,0.03,4.4,1.0
+41,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,0.01,0.04,1.1,0.0
+42,Go for bike rides along the beach with my partner during warm summer afternoons,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,0.02,0.04,3.3,0.0
+43,Stargaze from my backyard on a clear summer night with soft music playing,Go hiking on weekends with my family exploring new trails and taking in the views,0.03,0.04,1.1,1.0
+44,Attend concerts in the park with my best friend enjoying live music and picnicking,Stargaze from my backyard on a clear summer night with soft music playing,0.04,0.04,1.1,0.0
+45,Journal my thoughts in a cozy cafe with a warm cup of tea,Attend pottery classes with my partner on thursday evenings creating unique pieces together,0.05,0.04,4.4,1.0
+46,Host game nights with my friends in my living room while enjoying snacks and laughter,Watch documentaries in my living room with dimmed lights and snacks,0.01,0.05,8.8,0.0
+47,Go hiking on weekends with my family exploring new trails and taking in the views,Journal my thoughts in a cozy cafe with a warm cup of tea,0.02,0.05,1.1,0.0
+48,Host game nights with my friends in my living room while enjoying snacks and laughter,Bike along a scenic trail during early morning hours with the sun rising,0.03,0.05,4.4,0.0
+49,Organize my bookshelf in my home office while sipping on iced coffee,Host game nights with my friends in my living room while enjoying snacks and laughter,0.04,0.05,3.3,1.0
+50,Journal my thoughts in a cozy cafe with a warm cup of tea,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,0.05,0.05,1.1,1.0
+51,Go for bike rides along the beach with my partner during warm summer afternoons,Bike along a scenic trail during early morning hours with the sun rising,0.01,0.01,1.1,0.0
+52,Explore local thrift stores on a saturday afternoon searching for unique finds,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,0.02,0.01,3.3,1.0
+53,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,Organize my bookshelf in my home office while sipping on iced coffee,0.03,0.01,1.1,0.0
+54,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,Bike along a scenic trail during early morning hours with the sun rising,0.04,0.01,4.4,0.0
+55,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,Host game nights with my friends in my living room while enjoying snacks and laughter,0.05,0.01,1.1,1.0
+56,Attend concerts in the park with my best friend enjoying live music and picnicking,Journal my thoughts in a cozy cafe with a warm cup of tea,0.01,0.02,8.8,0.0
+57,Bike along a scenic trail during early morning hours with the sun rising,Watch movies at the drivein theater with my siblings during summer nights,0.02,0.02,4.4,1.0
+58,Attend concerts in the park with my best friend enjoying live music and picnicking,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,0.03,0.02,4.4,0.0
+59,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,Organize my bookshelf in my home office while sipping on iced coffee,0.04,0.02,4.4,0.0
+60,Go hiking on weekends with my family exploring new trails and taking in the views,Cook new recipes in my kitchen while listening to my favorite podcast,0.05,0.02,1.1,0.0
+61,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,Attend pottery classes with my partner on thursday evenings creating unique pieces together,0.01,0.03,3.3,1.0
+62,Host game nights with my friends in my living room while enjoying snacks and laughter,Stargaze from my backyard on a clear summer night with soft music playing,0.02,0.03,3.3,0.0
+63,Journal my thoughts in a cozy cafe with a warm cup of tea,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,0.03,0.03,3.3,1.0
+64,Watch movies at the drivein theater with my siblings during summer nights,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,0.04,0.03,1.1,0.0
+65,Watch documentaries in my living room with dimmed lights and snacks,Go hiking on weekends with my family exploring new trails and taking in the views,0.05,0.03,1.1,1.0
+66,Go for bike rides along the beach with my partner during warm summer afternoons,Cook new recipes in my kitchen while listening to my favorite podcast,0.01,0.04,1.1,0.0
+67,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,Stargaze from my backyard on a clear summer night with soft music playing,0.02,0.04,8.8,0.0
+68,Stargaze from my backyard on a clear summer night with soft music playing,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,0.03,0.04,4.4,1.0
+69,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,0.04,0.04,1.1,1.0
+70,Practice yoga in my bedroom with calming candles and essential oils,Watch movies at the drivein theater with my siblings during summer nights,0.05,0.04,1.1,1.0
+71,Bike along a scenic trail during early morning hours with the sun rising,Attend concerts in the park with my best friend enjoying live music and picnicking,0.01,0.05,3.3,1.0
+72,Watch movies at the drivein theater with my siblings during summer nights,Watch documentaries in my living room with dimmed lights and snacks,0.02,0.05,8.8,0.0
+73,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,Watch movies at the drivein theater with my siblings during summer nights,0.03,0.05,3.3,1.0
+74,Bike along a scenic trail during early morning hours with the sun rising,Attend pottery classes with my partner on thursday evenings creating unique pieces together,0.04,0.05,4.4,1.0
+75,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,Organize my bookshelf in my home office while sipping on iced coffee,0.05,0.05,3.3,0.0
+76,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,Attend concerts in the park with my best friend enjoying live music and picnicking,0.01,0.01,1.1,1.0
+77,Attend concerts in the park with my best friend enjoying live music and picnicking,Practice yoga in my bedroom with calming candles and essential oils,0.02,0.01,8.8,0.0
+78,Attend pottery classes with my partner on thursday evenings creating unique pieces together,Practice yoga in my bedroom with calming candles and essential oils,0.03,0.01,1.1,0.0
+79,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,Explore local thrift stores on a saturday afternoon searching for unique finds,0.04,0.01,1.1,0.0
+80,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,Volunteer at the local animal shelter with my coworkers on saturday afternoons,0.05,0.01,4.4,1.0
+81,Watch movies at the drivein theater with my siblings during summer nights,Stargaze from my backyard on a clear summer night with soft music playing,0.01,0.02,3.3,0.0
+82,Host game nights with my friends in my living room while enjoying snacks and laughter,Explore local thrift stores on a saturday afternoon searching for unique finds,0.02,0.02,4.4,0.0
+83,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,Go hiking on weekends with my family exploring new trails and taking in the views,0.03,0.02,1.1,1.0
+84,Stargaze from my backyard on a clear summer night with soft music playing,Attend pottery classes with my partner on thursday evenings creating unique pieces together,0.04,0.02,3.3,1.0
+85,Organize my bookshelf in my home office while sipping on iced coffee,Attend concerts in the park with my best friend enjoying live music and picnicking,0.05,0.02,3.3,1.0
+86,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,0.01,0.03,1.1,1.0
+87,Attend concerts in the park with my best friend enjoying live music and picnicking,Watch documentaries in my living room with dimmed lights and snacks,0.02,0.03,4.4,0.0
+88,Go for bike rides along the beach with my partner during warm summer afternoons,Journal my thoughts in a cozy cafe with a warm cup of tea,0.03,0.03,1.1,0.0
+89,Go for bike rides along the beach with my partner during warm summer afternoons,Watch documentaries in my living room with dimmed lights and snacks,0.04,0.03,3.3,0.0
+90,Organize my bookshelf in my home office while sipping on iced coffee,Go for bike rides along the beach with my partner during warm summer afternoons,0.05,0.03,8.8,1.0
+91,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,0.01,0.04,3.3,0.0
+92,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,Volunteer at the local animal shelter with my coworkers on saturday afternoons,0.02,0.04,8.8,1.0
+93,Bike along a scenic trail during early morning hours with the sun rising,Volunteer at the local animal shelter with my coworkers on saturday afternoons,0.03,0.04,1.1,1.0
+94,Sketch nature scenes at a quiet park bench surrounded by autumn leaves,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,0.04,0.04,4.4,1.0
+95,Practice yoga in my bedroom with calming candles and essential oils,Play trivia at a pub with my friends on friday evenings competing for prizes and bragging,0.05,0.04,4.4,1.0
+96,Meditate on my balcony during sunrise surrounded by plants and gentle breezes,Host game nights with my friends in my living room while enjoying snacks and laughter,0.01,0.05,3.3,1.0
+97,Volunteer at the local animal shelter with my coworkers on saturday afternoons,Practice yoga in my bedroom with calming candles and essential oils,0.02,0.05,1.1,0.0
+98,Watch documentaries in my living room with dimmed lights and snacks,Join book club meetings with classmates on wednesday nights discussing our latest reads over wine,0.03,0.05,1.1,1.0
+99,Cook new recipes in my kitchen while listening to my favorite podcast,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,0.04,0.05,3.3,1.0
+100,Organize brunch outings with my close friends at our favorite cafe on sunday mornings,Journal my thoughts in a cozy cafe with a warm cup of tea,0.05,0.05,4.4,0.0
