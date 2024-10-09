@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Eat outside at a Chickfila with my mom and brother as the sun sets,Go out to Target to go get snacks pet snacks and personal care products ,0.01,0.01,4.4,0.0
+2,Watch Studio Ghibli on a rainy cloudy day,Buy things with my family,0.02,0.01,8.8,1.0
+3,Go to local coffee shops with my friends,Go out to Target to go get snacks pet snacks and personal care products ,0.03,0.01,3.3,0.0
+4,Have my cat on my lap as she purs,Watch Steelers games with my family,0.04,0.01,1.1,1.0
+5,Exercise,Bond with my big brother and making up time we could not hang out,0.05,0.01,1.1,1.0
+6,Have my cat on my lap as she purs,Go to local coffee shops with my friends,0.01,0.02,3.3,1.0
+7,Play video games on my PC,Go to local coffee shops with my friends,0.02,0.02,1.1,1.0
+8,Watch Steelers games with my family,Sing along to Magic Dance when I feel very happy,0.03,0.02,1.1,0.0
+9,Have my cat on my lap as she purs,Cook with my family,0.04,0.02,4.4,1.0
+10,Go to exercise with my little brother,Clean up the house ,0.05,0.02,1.1,0.0
+11,Eat outside at a Chickfila with my mom and brother as the sun sets,Sing along to Magic Dance when I feel very happy,0.01,0.03,3.3,0.0
+12,Play video games on my PC,Have my little brother hang out in my room as we watch CaseOh,0.02,0.03,4.4,1.0
+13,Eat wings from my favorite wings restaurant,Buy things with my family,0.03,0.03,1.1,1.0
+14,Cook with my family,Play video games on my PC,0.04,0.03,3.3,0.0
+15,Have my cat on my lap as she purs,Go to exercise with my little brother,0.05,0.03,4.4,1.0
+16,Watch Steelers games with my family,Watch Studio Ghibli on a rainy cloudy day,0.01,0.04,1.1,0.0
+17,Buy things with my family,Clean up the house ,0.02,0.04,8.8,0.0
+18,Watch Studio Ghibli on a rainy cloudy day,Hang out with my best friends and getting brew,0.03,0.04,3.3,1.0
+19,Buy things with my family,Go out to Target to go get snacks pet snacks and personal care products ,0.04,0.04,3.3,0.0
+20,Go out to Target to go get snacks pet snacks and personal care products ,Go to exercise with my little brother,0.05,0.04,1.1,1.0
+21,Have my cat on my lap as she purs,Bond with my big brother and making up time we could not hang out,0.01,0.05,8.8,1.0
+22,Exercise,Eat outside at a Chickfila with my mom and brother as the sun sets,0.02,0.05,4.4,1.0
+23,Exercise,Have my little brother hang out in my room as we watch CaseOh,0.03,0.05,1.1,1.0
+24,Watch Steelers games with my family,Play video games on my PC,0.04,0.05,4.4,0.0
+25,Have my cat on my lap as she purs,Hang out with my best friends and getting brew,0.05,0.05,3.3,1.0
+26,Spend time in the backyard cleaning with my dogs and family,HomeGoods spree and buy whatever I want without worrying about the amount,0.01,0.01,4.4,0.0
+27,Have my little brother hang out in my room as we watch CaseOh,Have my cat on my lap as she purs,0.02,0.01,3.3,0.0
+28,Go to exercise with my little brother,Eat wings from my favorite wings restaurant,0.03,0.01,3.3,0.0
+29,Watch Studio Ghibli on a rainy cloudy day,Spend time in the backyard cleaning with my dogs and family,0.04,0.01,4.4,1.0
+30,HomeGoods spree and buy whatever I want without worrying about the amount,Watch Steelers games with my family,0.05,0.01,8.8,1.0
+31,Sing along to Magic Dance when I feel very happy,Have my little brother hang out in my room as we watch CaseOh,0.01,0.02,8.8,1.0
+32,Bond with my big brother and making up time we could not hang out,Lay around in bed listening to music,0.02,0.02,1.1,0.0
+33,Go to local coffee shops with my friends,Lay around in bed listening to music,0.03,0.02,4.4,0.0
+34,Sing along to Magic Dance when I feel very happy,Buy things with my family,0.04,0.02,3.3,1.0
+35,Watch Steelers games with my family,Eat wings from my favorite wings restaurant,0.05,0.02,1.1,0.0
+36,Hang out with my best friends and getting brew,Eat wings from my favorite wings restaurant,0.01,0.03,3.3,0.0
+37,Hang out with my best friends and getting brew,Clean up the house ,0.02,0.03,1.1,0.0
+38,Have my cat on my lap as she purs,Eat outside at a Chickfila with my mom and brother as the sun sets,0.03,0.03,1.1,1.0
+39,Sing along to Magic Dance when I feel very happy,Cook with my family,0.04,0.03,3.3,1.0
+40,Sing along to Magic Dance when I feel very happy,Go to exercise with my little brother,0.05,0.03,4.4,1.0
+41,Lay around in bed listening to music,Cook with my family,0.01,0.04,1.1,1.0
+42,Have my cat on my lap as she purs,Buy things with my family,0.02,0.04,3.3,1.0
+43,Go to local coffee shops with my friends,Watch Studio Ghibli on a rainy cloudy day,0.03,0.04,1.1,0.0
+44,Exercise,Cook with my family,0.04,0.04,1.1,1.0
+45,Eat wings from my favorite wings restaurant,Eat outside at a Chickfila with my mom and brother as the sun sets,0.05,0.04,4.4,1.0
+46,Spend time in the backyard cleaning with my dogs and family,Exercise,0.01,0.05,8.8,0.0
+47,Go out to Target to go get snacks pet snacks and personal care products ,Spend time in the backyard cleaning with my dogs and family,0.02,0.05,1.1,1.0
+48,HomeGoods spree and buy whatever I want without worrying about the amount,Eat outside at a Chickfila with my mom and brother as the sun sets,0.03,0.05,4.4,1.0
+49,Go out to Target to go get snacks pet snacks and personal care products ,Hang out with my best friends and getting brew,0.04,0.05,3.3,1.0
+50,Go to exercise with my little brother,Play video games on my PC,0.05,0.05,1.1,0.0
+51,Exercise,Hang out with my best friends and getting brew,0.01,0.01,1.1,1.0
+52,Bond with my big brother and making up time we could not hang out,Play video games on my PC,0.02,0.01,3.3,0.0
+53,Hang out with my best friends and getting brew,Lay around in bed listening to music,0.03,0.01,1.1,0.0
+54,Lay around in bed listening to music,Eat outside at a Chickfila with my mom and brother as the sun sets,0.04,0.01,4.4,1.0
+55,Clean up the house ,Have my little brother hang out in my room as we watch CaseOh,0.05,0.01,1.1,1.0
+56,Buy things with my family,HomeGoods spree and buy whatever I want without worrying about the amount,0.01,0.02,8.8,0.0
+57,Bond with my big brother and making up time we could not hang out,Eat wings from my favorite wings restaurant,0.02,0.02,4.4,0.0
+58,Buy things with my family,Play video games on my PC,0.03,0.02,4.4,0.0
+59,Watch Steelers games with my family,Lay around in bed listening to music,0.04,0.02,4.4,0.0
+60,Go to exercise with my little brother,Watch Studio Ghibli on a rainy cloudy day,0.05,0.02,1.1,0.0
+61,Bond with my big brother and making up time we could not hang out,Clean up the house ,0.01,0.03,3.3,0.0
+62,Eat wings from my favorite wings restaurant,Cook with my family,0.02,0.03,3.3,1.0
+63,Watch Steelers games with my family,Go out to Target to go get snacks pet snacks and personal care products ,0.03,0.03,3.3,0.0
+64,HomeGoods spree and buy whatever I want without worrying about the amount,Go to local coffee shops with my friends,0.04,0.03,1.1,1.0
+65,HomeGoods spree and buy whatever I want without worrying about the amount,Go to exercise with my little brother,0.05,0.03,1.1,1.0
+66,Eat outside at a Chickfila with my mom and brother as the sun sets,Watch Studio Ghibli on a rainy cloudy day,0.01,0.04,1.1,0.0
+67,Go out to Target to go get snacks pet snacks and personal care products ,Have my little brother hang out in my room as we watch CaseOh,0.02,0.04,8.8,1.0
+68,Hang out with my best friends and getting brew,HomeGoods spree and buy whatever I want without worrying about the amount,0.03,0.04,4.4,0.0
+69,HomeGoods spree and buy whatever I want without worrying about the amount,Cook with my family,0.04,0.04,1.1,1.0
+70,Have my little brother hang out in my room as we watch CaseOh,HomeGoods spree and buy whatever I want without worrying about the amount,0.05,0.04,1.1,0.0
+71,Lay around in bed listening to music,Spend time in the backyard cleaning with my dogs and family,0.01,0.05,3.3,1.0
+72,Have my little brother hang out in my room as we watch CaseOh,Watch Studio Ghibli on a rainy cloudy day,0.02,0.05,8.8,0.0
+73,Have my little brother hang out in my room as we watch CaseOh,Eat wings from my favorite wings restaurant,0.03,0.05,3.3,0.0
+74,Clean up the house ,Go to local coffee shops with my friends,0.04,0.05,4.4,1.0
+75,Spend time in the backyard cleaning with my dogs and family,Sing along to Magic Dance when I feel very happy,0.05,0.05,3.3,0.0
+76,Spend time in the backyard cleaning with my dogs and family,Clean up the house ,0.01,0.01,1.1,0.0
+77,Buy things with my family,Lay around in bed listening to music,0.02,0.01,8.8,0.0
+78,Exercise,Go to exercise with my little brother,0.03,0.01,1.1,1.0
+79,Clean up the house ,Cook with my family,0.04,0.01,1.1,1.0
+80,Cook with my family,Go out to Target to go get snacks pet snacks and personal care products ,0.05,0.01,4.4,0.0
+81,Watch Steelers games with my family,Clean up the house ,0.01,0.02,3.3,0.0
+82,Lay around in bed listening to music,Go to exercise with my little brother,0.02,0.02,4.4,1.0
+83,Watch Steelers games with my family,Exercise,0.03,0.02,1.1,0.0
+84,Watch Studio Ghibli on a rainy cloudy day,Bond with my big brother and making up time we could not hang out,0.04,0.02,3.3,1.0
+85,Bond with my big brother and making up time we could not hang out,Go out to Target to go get snacks pet snacks and personal care products ,0.05,0.02,3.3,0.0
+86,Exercise,Buy things with my family,0.01,0.03,1.1,1.0
+87,Cook with my family,Watch Studio Ghibli on a rainy cloudy day,0.02,0.03,4.4,0.0
+88,Go to local coffee shops with my friends,Eat wings from my favorite wings restaurant,0.03,0.03,1.1,0.0
+89,Hang out with my best friends and getting brew,Sing along to Magic Dance when I feel very happy,0.04,0.03,3.3,0.0
+90,Bond with my big brother and making up time we could not hang out,HomeGoods spree and buy whatever I want without worrying about the amount,0.05,0.03,8.8,0.0
+91,Spend time in the backyard cleaning with my dogs and family,Play video games on my PC,0.01,0.04,3.3,0.0
+92,Clean up the house ,Eat outside at a Chickfila with my mom and brother as the sun sets,0.02,0.04,8.8,1.0
+93,Go to local coffee shops with my friends,Exercise,0.03,0.04,1.1,0.0
+94,Play video games on my PC,Hang out with my best friends and getting brew,0.04,0.04,4.4,1.0
+95,Eat wings from my favorite wings restaurant,Spend time in the backyard cleaning with my dogs and family,0.05,0.04,4.4,1.0
+96,Lay around in bed listening to music,Have my little brother hang out in my room as we watch CaseOh,0.01,0.05,3.3,1.0
+97,Spend time in the backyard cleaning with my dogs and family,Have my cat on my lap as she purs,0.02,0.05,1.1,0.0
+98,Play video games on my PC,Eat outside at a Chickfila with my mom and brother as the sun sets,0.03,0.05,1.1,1.0
+99,Sing along to Magic Dance when I feel very happy,Bond with my big brother and making up time we could not hang out,0.04,0.05,3.3,1.0
+100,Go to local coffee shops with my friends,Sing along to Magic Dance when I feel very happy,0.05,0.05,4.4,0.0

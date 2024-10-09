@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Run a race with my dad,Sleep in late on a sunday,0.01,0.01,4.4,0.0
+2,Hang out with my dogs in the summer,Go on a hike with my girlfriend,0.02,0.01,8.8,1.0
+3,Fence with my sparing partner,Tan at the beach in miami,0.03,0.01,3.3,0.0
+4,play scrabble with my girlfriend,Play piano on a rainy day at my home,0.04,0.01,1.1,0.0
+5,Play piano on a rainy day at my home,Hang out at the park wiht my best friend,0.05,0.01,1.1,1.0
+6,Play video games with my younger brother,Hang out with my dogs in the summer,0.01,0.02,3.3,0.0
+7,Work out a the gym early in the morning,play scrabble with my girlfriend,0.02,0.02,1.1,1.0
+8,Cook a nice meal for myself,Fence with my sparing partner,0.03,0.02,1.1,1.0
+9,Read a book at the park,Run a race with my dad,0.04,0.02,4.4,1.0
+10,Hang out at the park wiht my best friend,Work out a the gym early in the morning,0.05,0.02,1.1,0.0
+11,Tan at the beach in miami,Attend a rave with my second best friend ,0.01,0.03,3.3,1.0
+12,Hang out at the park wiht my best friend,Cook a nice meal for myself,0.02,0.03,4.4,0.0
+13,Fence with my sparing partner,Swim in the ocean on a hot day,0.03,0.03,1.1,0.0
+14,Attend a yoga class with my mom,Study a new philosphy topic when it rains,0.04,0.03,3.3,0.0
+15,Read a book at the park,Fence with my sparing partner,0.05,0.03,4.4,1.0
+16,Work out a the gym early in the morning,Run a race with my dad,0.01,0.04,1.1,1.0
+17,Attend a rave with my second best friend ,Cook a nice meal for myself,0.02,0.04,8.8,0.0
+18,Read a book at the park,Attend a yoga class with my mom,0.03,0.04,3.3,1.0
+19,Attend a rave with my second best friend ,Run at the track at the local community center,0.04,0.04,3.3,0.0
+20,Tan at the beach in miami,Go on a hike with my girlfriend,0.05,0.04,1.1,1.0
+21,Run a race with my dad,Swim in the ocean on a hot day,0.01,0.05,8.8,0.0
+22,Run at the track at the local community center,Attend a yoga class with my mom,0.02,0.05,4.4,1.0
+23,Sleep in late on a sunday,Go on a hike with my girlfriend,0.03,0.05,1.1,1.0
+24,Study a new philosphy topic when it rains,Go on a hike with my girlfriend,0.04,0.05,4.4,1.0
+25,Attend a yoga class with my mom,Cook a nice meal for myself,0.05,0.05,3.3,0.0
+26,Swim in the ocean on a hot day,Cook a meal for my friends,0.01,0.01,4.4,1.0
+27,Study a new philosphy topic when it rains,play scrabble with my girlfriend,0.02,0.01,3.3,1.0
+28,Attend a yoga class with my mom,Tan at the beach in miami,0.03,0.01,3.3,0.0
+29,Cook a meal for my friends,Play piano on a rainy day at my home,0.04,0.01,4.4,0.0
+30,Hang out at the park wiht my best friend,Hang out with my dogs in the summer,0.05,0.01,8.8,0.0
+31,Work out a the gym early in the morning,Go on a hike with my girlfriend,0.01,0.02,8.8,1.0
+32,Study a new philosphy topic when it rains,Run a race with my dad,0.02,0.02,1.1,1.0
+33,Run at the track at the local community center,Go on a hike with my girlfriend,0.03,0.02,4.4,1.0
+34,Go on a hike with my girlfriend,Read a book at the park,0.04,0.02,3.3,0.0
+35,Meet new people at a party,Work out a the gym early in the morning,0.05,0.02,1.1,0.0
+36,play scrabble with my girlfriend,Run at the track at the local community center,0.01,0.03,3.3,0.0
+37,Attend a rave with my second best friend ,Play piano on a rainy day at my home,0.02,0.03,1.1,0.0
+38,Work out a the gym early in the morning,Attend a yoga class with my mom,0.03,0.03,1.1,1.0
+39,Run a race with my dad,Hang out with my dogs in the summer,0.04,0.03,3.3,0.0
+40,Play piano on a rainy day at my home,Play video games with my younger brother,0.05,0.03,4.4,1.0
+41,Hang out with my dogs in the summer,Attend a rave with my second best friend ,0.01,0.04,1.1,1.0
+42,Study a new philosphy topic when it rains,Play video games with my younger brother,0.02,0.04,3.3,1.0
+43,Play video games with my younger brother,Run at the track at the local community center,0.03,0.04,1.1,0.0
+44,Run a race with my dad,Play piano on a rainy day at my home,0.04,0.04,1.1,0.0
+45,Swim in the ocean on a hot day,Play video games with my younger brother,0.05,0.04,4.4,1.0
+46,Meet new people at a party,Play piano on a rainy day at my home,0.01,0.05,8.8,0.0
+47,Run at the track at the local community center,Cook a meal for my friends,0.02,0.05,1.1,1.0
+48,Swim in the ocean on a hot day,Meet new people at a party,0.03,0.05,4.4,1.0
+49,Attend a yoga class with my mom,Sleep in late on a sunday,0.04,0.05,3.3,0.0
+50,Run at the track at the local community center,Hang out at the park wiht my best friend,0.05,0.05,1.1,1.0
+51,Swim in the ocean on a hot day,Hang out at the park wiht my best friend,0.01,0.01,1.1,1.0
+52,Hang out at the park wiht my best friend,Read a book at the park,0.02,0.01,3.3,0.0
+53,Tan at the beach in miami,Meet new people at a party,0.03,0.01,1.1,1.0
+54,Attend a rave with my second best friend ,Read a book at the park,0.04,0.01,4.4,0.0
+55,Hang out with my dogs in the summer,Cook a meal for my friends,0.05,0.01,1.1,1.0
+56,Cook a nice meal for myself,Meet new people at a party,0.01,0.02,8.8,1.0
+57,Attend a yoga class with my mom,Hang out with my dogs in the summer,0.02,0.02,4.4,0.0
+58,Attend a rave with my second best friend ,Sleep in late on a sunday,0.03,0.02,4.4,0.0
+59,Sleep in late on a sunday,Play video games with my younger brother,0.04,0.02,4.4,1.0
+60,Cook a nice meal for myself,Go on a hike with my girlfriend,0.05,0.02,1.1,1.0
+61,play scrabble with my girlfriend,Tan at the beach in miami,0.01,0.03,3.3,0.0
+62,Sleep in late on a sunday,Cook a meal for my friends,0.02,0.03,3.3,1.0
+63,Fence with my sparing partner,Play piano on a rainy day at my home,0.03,0.03,3.3,0.0
+64,Hang out at the park wiht my best friend,Tan at the beach in miami,0.04,0.03,1.1,0.0
+65,Cook a meal for my friends,Study a new philosphy topic when it rains,0.05,0.03,1.1,0.0
+66,Meet new people at a party,Sleep in late on a sunday,0.01,0.04,1.1,0.0
+67,Cook a meal for my friends,Read a book at the park,0.02,0.04,8.8,0.0
+68,Go on a hike with my girlfriend,Swim in the ocean on a hot day,0.03,0.04,4.4,0.0
+69,Hang out with my dogs in the summer,play scrabble with my girlfriend,0.04,0.04,1.1,1.0
+70,Play video games with my younger brother,Read a book at the park,0.05,0.04,1.1,0.0
+71,Hang out at the park wiht my best friend,Study a new philosphy topic when it rains,0.01,0.05,3.3,0.0
+72,Play piano on a rainy day at my home,Attend a yoga class with my mom,0.02,0.05,8.8,1.0
+73,Play video games with my younger brother,Tan at the beach in miami,0.03,0.05,3.3,0.0
+74,Hang out with my dogs in the summer,Meet new people at a party,0.04,0.05,4.4,1.0
+75,Fence with my sparing partner,Sleep in late on a sunday,0.05,0.05,3.3,0.0
+76,Meet new people at a party,Run at the track at the local community center,0.01,0.01,1.1,0.0
+77,Study a new philosphy topic when it rains,Meet new people at a party,0.02,0.01,8.8,1.0
+78,Attend a rave with my second best friend ,Swim in the ocean on a hot day,0.03,0.01,1.1,0.0
+79,Work out a the gym early in the morning,Cook a meal for my friends,0.04,0.01,1.1,1.0
+80,Work out a the gym early in the morning,Fence with my sparing partner,0.05,0.01,4.4,1.0
+81,play scrabble with my girlfriend,Sleep in late on a sunday,0.01,0.02,3.3,0.0
+82,Study a new philosphy topic when it rains,Fence with my sparing partner,0.02,0.02,4.4,1.0
+83,Run a race with my dad,Cook a nice meal for myself,0.03,0.02,1.1,0.0
+84,Work out a the gym early in the morning,Attend a rave with my second best friend ,0.04,0.02,3.3,1.0
+85,Hang out with my dogs in the summer,Fence with my sparing partner,0.05,0.02,3.3,1.0
+86,Work out a the gym early in the morning,Play video games with my younger brother,0.01,0.03,1.1,1.0
+87,Run at the track at the local community center,Fence with my sparing partner,0.02,0.03,4.4,1.0
+88,Attend a yoga class with my mom,Swim in the ocean on a hot day,0.03,0.03,1.1,0.0
+89,Run a race with my dad,Run at the track at the local community center,0.04,0.03,3.3,0.0
+90,Go on a hike with my girlfriend,Play piano on a rainy day at my home,0.05,0.03,8.8,0.0
+91,Attend a rave with my second best friend ,Study a new philosphy topic when it rains,0.01,0.04,3.3,0.0
+92,Cook a nice meal for myself,play scrabble with my girlfriend,0.02,0.04,8.8,1.0
+93,Cook a nice meal for myself,Play video games with my younger brother,0.03,0.04,1.1,1.0
+94,Swim in the ocean on a hot day,play scrabble with my girlfriend,0.04,0.04,4.4,1.0
+95,play scrabble with my girlfriend,Read a book at the park,0.05,0.04,4.4,0.0
+96,Tan at the beach in miami,Run a race with my dad,0.01,0.05,3.3,1.0
+97,Hang out at the park wiht my best friend,Sleep in late on a sunday,0.02,0.05,1.1,0.0
+98,Tan at the beach in miami,Cook a meal for my friends,0.03,0.05,1.1,1.0
+99,Cook a meal for my friends,Cook a nice meal for myself,0.04,0.05,3.3,0.0
+100,Read a book at the park,Meet new people at a party,0.05,0.05,4.4,1.0

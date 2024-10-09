@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Get my nails done at the salon with my sister,Read a book in bed before falling asleep,0.01,0.01,4.4,0.0
+2,Watch and listen to the rain with a candle lit,Watch scary movies at night with friends,0.02,0.01,8.8,1.0
+3,Get Chinese takeout with my best friend on a Wednesday night,Listen to my favorite music while I shower,0.03,0.01,3.3,0.0
+4,Read a book in bed before falling asleep,Get Chinese takeout with my best friend on a Wednesday night,0.04,0.01,1.1,1.0
+5,Listen to my favorite music while I shower,Go to the springs on the hottest day of the year with my friends,0.05,0.01,1.1,1.0
+6,Watch and listen to the rain with a candle lit,Go to the springs on the hottest day of the year with my friends,0.01,0.02,3.3,1.0
+7,Pet my cat in my room with no other distractions,Watch scary movies at night with friends,0.02,0.02,1.1,1.0
+8,Put outfits together with the clothing that I have,Watch scary movies at night with friends,0.03,0.02,1.1,1.0
+9,Shop online for the best deals on things I need,Get my nails done at the salon with my sister,0.04,0.02,4.4,1.0
+10,Discover new restaurants to eat at with my family,Read a book in bed before falling asleep,0.05,0.02,1.1,0.0
+11,Discover new restaurants to eat at with my family,Watch my favorite shows on my computer at home,0.01,0.03,3.3,0.0
+12,Get my nails done at the salon with my sister,Watch my favorite shows on my computer at home,0.02,0.03,4.4,0.0
+13,Walk my dog at the park with my best friend,Read a book in bed before falling asleep,0.03,0.03,1.1,0.0
+14,Go to the springs on the hottest day of the year with my friends,Put outfits together with the clothing that I have,0.04,0.03,3.3,0.0
+15,Go downtown to walk around and shop with my friends,Read a book in bed before falling asleep,0.05,0.03,4.4,0.0
+16,Paint beautiful scenes of the local beaches,Discover new restaurants to eat at with my family,0.01,0.04,1.1,1.0
+17,Watch my favorite shows on my computer at home,Get Chinese takeout with my best friend on a Wednesday night,0.02,0.04,8.8,1.0
+18,Read a book in bed before falling asleep,Watch scary movies at night with friends,0.03,0.04,3.3,1.0
+19,Drive around the town on a quite weekend day,Walk my dog at the park with my best friend,0.04,0.04,3.3,1.0
+20,Swim at the beach during the summer with my friends,Read a book in bed before falling asleep,0.05,0.04,1.1,0.0
+21,Work out using dumbells in my bedroom,Watch scary movies at night with friends,0.01,0.05,8.8,1.0
+22,Discover new restaurants to eat at with my family,Drive around the town on a quite weekend day,0.02,0.05,4.4,0.0
+23,Run errands on a boring day with my sister to spend time,Listen to my favorite music while I shower,0.03,0.05,1.1,0.0
+24,Walk my dog at the park with my best friend,Watch and listen to the rain with a candle lit,0.04,0.05,4.4,0.0
+25,Drive around the town on a quite weekend day,Get my nails done at the salon with my sister,0.05,0.05,3.3,1.0
+26,Go out to theme parks on the weekend with my family,Shop online for the best deals on things I need,0.01,0.01,4.4,0.0
+27,Go downtown to walk around and shop with my friends,Shop online for the best deals on things I need,0.02,0.01,3.3,0.0
+28,Watch my favorite shows on my computer at home,Swim at the beach during the summer with my friends,0.03,0.01,3.3,1.0
+29,Watch scary movies at night with friends,Listen to my favorite music while I shower,0.04,0.01,4.4,0.0
+30,Walk my dog at the park with my best friend,Watch my favorite shows on my computer at home,0.05,0.01,8.8,0.0
+31,Watch scary movies at night with friends,Drive around the town on a quite weekend day,0.01,0.02,8.8,0.0
+32,Watch and listen to the rain with a candle lit,Run errands on a boring day with my sister to spend time,0.02,0.02,1.1,1.0
+33,Go downtown to walk around and shop with my friends,Pet my cat in my room with no other distractions,0.03,0.02,4.4,0.0
+34,Pet my cat in my room with no other distractions,Walk my dog at the park with my best friend,0.04,0.02,3.3,1.0
+35,Listen to my favorite music while I shower,Swim at the beach during the summer with my friends,0.05,0.02,1.1,1.0
+36,Run errands on a boring day with my sister to spend time,Pet my cat in my room with no other distractions,0.01,0.03,3.3,0.0
+37,Drive around the town on a quite weekend day,Go downtown to walk around and shop with my friends,0.02,0.03,1.1,1.0
+38,Swim at the beach during the summer with my friends,Drive around the town on a quite weekend day,0.03,0.03,1.1,0.0
+39,Discover new restaurants to eat at with my family,Listen to my favorite music while I shower,0.04,0.03,3.3,0.0
+40,Go out to theme parks on the weekend with my family,Pet my cat in my room with no other distractions,0.05,0.03,4.4,0.0
+41,Drive around the town on a quite weekend day,Go to the springs on the hottest day of the year with my friends,0.01,0.04,1.1,1.0
+42,Go to the springs on the hottest day of the year with my friends,Work out using dumbells in my bedroom,0.02,0.04,3.3,0.0
+43,Go out to theme parks on the weekend with my family,Drive around the town on a quite weekend day,0.03,0.04,1.1,0.0
+44,Watch scary movies at night with friends,Shop online for the best deals on things I need,0.04,0.04,1.1,0.0
+45,Watch my favorite shows on my computer at home,Go out to theme parks on the weekend with my family,0.05,0.04,4.4,1.0
+46,Go downtown to walk around and shop with my friends,Listen to my favorite music while I shower,0.01,0.05,8.8,0.0
+47,Work out using dumbells in my bedroom,Run errands on a boring day with my sister to spend time,0.02,0.05,1.1,1.0
+48,Go to the springs on the hottest day of the year with my friends,Read a book in bed before falling asleep,0.03,0.05,4.4,0.0
+49,Shop online for the best deals on things I need,Run errands on a boring day with my sister to spend time,0.04,0.05,3.3,1.0
+50,Watch and listen to the rain with a candle lit,Go downtown to walk around and shop with my friends,0.05,0.05,1.1,1.0
+51,Put outfits together with the clothing that I have,Go downtown to walk around and shop with my friends,0.01,0.01,1.1,1.0
+52,Watch and listen to the rain with a candle lit,Discover new restaurants to eat at with my family,0.02,0.01,3.3,1.0
+53,Discover new restaurants to eat at with my family,Shop online for the best deals on things I need,0.03,0.01,1.1,0.0
+54,Drive around the town on a quite weekend day,Get Chinese takeout with my best friend on a Wednesday night,0.04,0.01,4.4,1.0
+55,Walk my dog at the park with my best friend,Put outfits together with the clothing that I have,0.05,0.01,1.1,0.0
+56,Watch and listen to the rain with a candle lit,Go out to theme parks on the weekend with my family,0.01,0.02,8.8,1.0
+57,Drive around the town on a quite weekend day,Run errands on a boring day with my sister to spend time,0.02,0.02,4.4,1.0
+58,Pet my cat in my room with no other distractions,Discover new restaurants to eat at with my family,0.03,0.02,4.4,1.0
+59,Run errands on a boring day with my sister to spend time,Watch my favorite shows on my computer at home,0.04,0.02,4.4,0.0
+60,Go out to theme parks on the weekend with my family,Paint beautiful scenes of the local beaches,0.05,0.02,1.1,0.0
+61,Paint beautiful scenes of the local beaches,Go downtown to walk around and shop with my friends,0.01,0.03,3.3,1.0
+62,Get Chinese takeout with my best friend on a Wednesday night,Work out using dumbells in my bedroom,0.02,0.03,3.3,0.0
+63,Work out using dumbells in my bedroom,Swim at the beach during the summer with my friends,0.03,0.03,3.3,1.0
+64,Get Chinese takeout with my best friend on a Wednesday night,Pet my cat in my room with no other distractions,0.04,0.03,1.1,0.0
+65,Put outfits together with the clothing that I have,Get Chinese takeout with my best friend on a Wednesday night,0.05,0.03,1.1,1.0
+66,Run errands on a boring day with my sister to spend time,Read a book in bed before falling asleep,0.01,0.04,1.1,0.0
+67,Paint beautiful scenes of the local beaches,Get Chinese takeout with my best friend on a Wednesday night,0.02,0.04,8.8,1.0
+68,Pet my cat in my room with no other distractions,Go to the springs on the hottest day of the year with my friends,0.03,0.04,4.4,1.0
+69,Watch scary movies at night with friends,Watch my favorite shows on my computer at home,0.04,0.04,1.1,0.0
+70,Shop online for the best deals on things I need,Get Chinese takeout with my best friend on a Wednesday night,0.05,0.04,1.1,1.0
+71,Get my nails done at the salon with my sister,Work out using dumbells in my bedroom,0.01,0.05,3.3,0.0
+72,Paint beautiful scenes of the local beaches,Swim at the beach during the summer with my friends,0.02,0.05,8.8,1.0
+73,Get Chinese takeout with my best friend on a Wednesday night,Watch and listen to the rain with a candle lit,0.03,0.05,3.3,0.0
+74,Shop online for the best deals on things I need,Walk my dog at the park with my best friend,0.04,0.05,4.4,1.0
+75,Run errands on a boring day with my sister to spend time,Paint beautiful scenes of the local beaches,0.05,0.05,3.3,0.0
+76,Get my nails done at the salon with my sister,Watch and listen to the rain with a candle lit,0.01,0.01,1.1,0.0
+77,Put outfits together with the clothing that I have,Get my nails done at the salon with my sister,0.02,0.01,8.8,1.0
+78,Paint beautiful scenes of the local beaches,Get my nails done at the salon with my sister,0.03,0.01,1.1,1.0
+79,Go out to theme parks on the weekend with my family,Read a book in bed before falling asleep,0.04,0.01,1.1,0.0
+80,Get my nails done at the salon with my sister,Listen to my favorite music while I shower,0.05,0.01,4.4,0.0
+81,Put outfits together with the clothing that I have,Swim at the beach during the summer with my friends,0.01,0.02,3.3,1.0
+82,Swim at the beach during the summer with my friends,Pet my cat in my room with no other distractions,0.02,0.02,4.4,0.0
+83,Discover new restaurants to eat at with my family,Put outfits together with the clothing that I have,0.03,0.02,1.1,0.0
+84,Go to the springs on the hottest day of the year with my friends,Paint beautiful scenes of the local beaches,0.04,0.02,3.3,0.0
+85,Shop online for the best deals on things I need,Go to the springs on the hottest day of the year with my friends,0.05,0.02,3.3,1.0
+86,Work out using dumbells in my bedroom,Discover new restaurants to eat at with my family,0.01,0.03,1.1,1.0
+87,Get my nails done at the salon with my sister,Pet my cat in my room with no other distractions,0.02,0.03,4.4,0.0
+88,Go to the springs on the hottest day of the year with my friends,Watch my favorite shows on my computer at home,0.03,0.03,1.1,0.0
+89,Watch scary movies at night with friends,Paint beautiful scenes of the local beaches,0.04,0.03,3.3,0.0
+90,Listen to my favorite music while I shower,Walk my dog at the park with my best friend,0.05,0.03,8.8,1.0
+91,Swim at the beach during the summer with my friends,Shop online for the best deals on things I need,0.01,0.04,3.3,0.0
+92,Work out using dumbells in my bedroom,Walk my dog at the park with my best friend,0.02,0.04,8.8,1.0
+93,Watch and listen to the rain with a candle lit,Swim at the beach during the summer with my friends,0.03,0.04,1.1,1.0
+94,Go out to theme parks on the weekend with my family,Listen to my favorite music while I shower,0.04,0.04,4.4,0.0
+95,Work out using dumbells in my bedroom,Go downtown to walk around and shop with my friends,0.05,0.04,4.4,1.0
+96,Paint beautiful scenes of the local beaches,Walk my dog at the park with my best friend,0.01,0.05,3.3,1.0
+97,Watch my favorite shows on my computer at home,Go downtown to walk around and shop with my friends,0.02,0.05,1.1,1.0
+98,Work out using dumbells in my bedroom,Go out to theme parks on the weekend with my family,0.03,0.05,1.1,1.0
+99,Put outfits together with the clothing that I have,Go out to theme parks on the weekend with my family,0.04,0.05,3.3,1.0
+100,Run errands on a boring day with my sister to spend time,Put outfits together with the clothing that I have,0.05,0.05,4.4,0.0
