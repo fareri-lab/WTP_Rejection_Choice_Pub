@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Lay in bed with my partner in silence,Think of new outfit ideas and experimenting with new fashion trends,0.01,0.01,4.4,0.0
+2,Thrift shop in the city,Lay in bed with my partner in silence,0.02,0.01,8.8,1.0
+3,Thrift shop in the city,Color with my sister,0.03,0.01,3.3,1.0
+4,Cook with my baby sister,Crochet with meditation music playing,0.04,0.01,1.1,0.0
+5,Crochet with meditation music playing,Go to Target with my mom,0.05,0.01,1.1,1.0
+6,Watch old school movies with my partner,Think of new outfit ideas and experimenting with new fashion trends,0.01,0.02,3.3,0.0
+7,Visit h mart to find new snacks,Get Starbucks with my mom,0.02,0.02,1.1,1.0
+8,Get Starbucks with my mom,Watch the simpsons all day,0.03,0.02,1.1,0.0
+9,Color with my sister,Think of new outfit ideas and experimenting with new fashion trends,0.04,0.02,4.4,0.0
+10,Dance in my room with the windows open,Call my friends to gossip,0.05,0.02,1.1,1.0
+11,Lay in bed with my partner in silence,Making french toast with an accompanying sauce,0.01,0.03,3.3,0.0
+12,Try new classes with friends like pottery or painting,Watch the simpsons all day,0.02,0.03,4.4,0.0
+13,Visit h mart to find new snacks,Try new restaurants with my friends,0.03,0.03,1.1,1.0
+14,Try new restaurants with my friends,Garden all day ,0.04,0.03,3.3,0.0
+15,Have a drink with friends ,Dance in my room with the windows open,0.05,0.03,4.4,0.0
+16,Thrift shop in the city,Try new classes with friends like pottery or painting,0.01,0.04,1.1,1.0
+17,Crochet with meditation music playing,Watch old school movies with my partner,0.02,0.04,8.8,1.0
+18,Learn a new language using duolingo,Watch old school movies with my partner,0.03,0.04,3.3,1.0
+19,Garden all day ,Watch old school movies with my partner,0.04,0.04,3.3,1.0
+20,Making french toast with an accompanying sauce,Get Starbucks with my mom,0.05,0.04,1.1,1.0
+21,Cook with my baby sister,Making french toast with an accompanying sauce,0.01,0.05,8.8,0.0
+22,Visit h mart to find new snacks,Try new classes with friends like pottery or painting,0.02,0.05,4.4,1.0
+23,Dance in my room with the windows open,Try new classes with friends like pottery or painting,0.03,0.05,1.1,1.0
+24,Think of new outfit ideas and experimenting with new fashion trends,Try new restaurants with my friends,0.04,0.05,4.4,1.0
+25,Have a drink with friends ,Thrift shop in the city,0.05,0.05,3.3,0.0
+26,Making french toast with an accompanying sauce,Try new restaurants with my friends,0.01,0.01,4.4,1.0
+27,Garden all day ,Color with my sister,0.02,0.01,3.3,1.0
+28,Learn a new language using duolingo,Lay in bed with my partner in silence,0.03,0.01,3.3,1.0
+29,Color with my sister,Visit h mart to find new snacks,0.04,0.01,4.4,0.0
+30,Making french toast with an accompanying sauce,Try new classes with friends like pottery or painting,0.05,0.01,8.8,1.0
+31,Cook with my baby sister,Walk outside for fresh air,0.01,0.02,8.8,0.0
+32,Watch old school movies with my partner,Visit h mart to find new snacks,0.02,0.02,1.1,0.0
+33,Call my friends to gossip,Learn a new language using duolingo,0.03,0.02,4.4,0.0
+34,Thrift shop in the city,Try new restaurants with my friends,0.04,0.02,3.3,1.0
+35,Get Starbucks with my mom,Learn a new language using duolingo,0.05,0.02,1.1,0.0
+36,Crochet with meditation music playing,Color with my sister,0.01,0.03,3.3,1.0
+37,Lay in bed with my partner in silence,Visit h mart to find new snacks,0.02,0.03,1.1,0.0
+38,Call my friends to gossip,Watch the simpsons all day,0.03,0.03,1.1,0.0
+39,Watch the simpsons all day,Watch old school movies with my partner,0.04,0.03,3.3,1.0
+40,Crochet with meditation music playing,Call my friends to gossip,0.05,0.03,4.4,1.0
+41,Get Starbucks with my mom,Think of new outfit ideas and experimenting with new fashion trends,0.01,0.04,1.1,0.0
+42,Go to Target with my mom,Making french toast with an accompanying sauce,0.02,0.04,3.3,0.0
+43,Try new restaurants with my friends,Watch the simpsons all day,0.03,0.04,1.1,0.0
+44,Lay in bed with my partner in silence,Walk outside for fresh air,0.04,0.04,1.1,0.0
+45,Dance in my room with the windows open,Try new restaurants with my friends,0.05,0.04,4.4,1.0
+46,Crochet with meditation music playing,Lay in bed with my partner in silence,0.01,0.05,8.8,1.0
+47,Watch the simpsons all day,Go to Target with my mom,0.02,0.05,1.1,1.0
+48,Try new classes with friends like pottery or painting,Garden all day ,0.03,0.05,4.4,0.0
+49,Try new restaurants with my friends,Learn a new language using duolingo,0.04,0.05,3.3,0.0
+50,Crochet with meditation music playing,Try new classes with friends like pottery or painting,0.05,0.05,1.1,1.0
+51,Call my friends to gossip,Think of new outfit ideas and experimenting with new fashion trends,0.01,0.01,1.1,0.0
+52,Thrift shop in the city,Go to Target with my mom,0.02,0.01,3.3,1.0
+53,Color with my sister,Walk outside for fresh air,0.03,0.01,1.1,0.0
+54,Visit h mart to find new snacks,Call my friends to gossip,0.04,0.01,4.4,1.0
+55,Dance in my room with the windows open,Color with my sister,0.05,0.01,1.1,1.0
+56,Visit h mart to find new snacks,Cook with my baby sister,0.01,0.02,8.8,1.0
+57,Have a drink with friends ,Visit h mart to find new snacks,0.02,0.02,4.4,0.0
+58,Thrift shop in the city,Get Starbucks with my mom,0.03,0.02,4.4,1.0
+59,Call my friends to gossip,Making french toast with an accompanying sauce,0.04,0.02,4.4,0.0
+60,Get Starbucks with my mom,Garden all day ,0.05,0.02,1.1,0.0
+61,Watch the simpsons all day,Have a drink with friends ,0.01,0.03,3.3,1.0
+62,Garden all day ,Have a drink with friends ,0.02,0.03,3.3,1.0
+63,Lay in bed with my partner in silence,Garden all day ,0.03,0.03,3.3,0.0
+64,Have a drink with friends ,Crochet with meditation music playing,0.04,0.03,1.1,0.0
+65,Try new restaurants with my friends,Crochet with meditation music playing,0.05,0.03,1.1,0.0
+66,Color with my sister,Making french toast with an accompanying sauce,0.01,0.04,1.1,0.0
+67,Get Starbucks with my mom,Walk outside for fresh air,0.02,0.04,8.8,0.0
+68,Go to Target with my mom,Think of new outfit ideas and experimenting with new fashion trends,0.03,0.04,4.4,0.0
+69,Making french toast with an accompanying sauce,Watch old school movies with my partner,0.04,0.04,1.1,1.0
+70,Making french toast with an accompanying sauce,Have a drink with friends ,0.05,0.04,1.1,1.0
+71,Watch old school movies with my partner,Walk outside for fresh air,0.01,0.05,3.3,0.0
+72,Garden all day ,Call my friends to gossip,0.02,0.05,8.8,1.0
+73,Watch the simpsons all day,Color with my sister,0.03,0.05,3.3,1.0
+74,Visit h mart to find new snacks,Go to Target with my mom,0.04,0.05,4.4,1.0
+75,Walk outside for fresh air,Try new classes with friends like pottery or painting,0.05,0.05,3.3,1.0
+76,Learn a new language using duolingo,Cook with my baby sister,0.01,0.01,1.1,1.0
+77,Call my friends to gossip,Thrift shop in the city,0.02,0.01,8.8,0.0
+78,Thrift shop in the city,Cook with my baby sister,0.03,0.01,1.1,1.0
+79,Dance in my room with the windows open,Lay in bed with my partner in silence,0.04,0.01,1.1,1.0
+80,Think of new outfit ideas and experimenting with new fashion trends,Try new classes with friends like pottery or painting,0.05,0.01,4.4,1.0
+81,Learn a new language using duolingo,Go to Target with my mom,0.01,0.02,3.3,1.0
+82,Walk outside for fresh air,Call my friends to gossip,0.02,0.02,4.4,1.0
+83,Cook with my baby sister,Garden all day ,0.03,0.02,1.1,0.0
+84,Watch old school movies with my partner,Dance in my room with the windows open,0.04,0.02,3.3,0.0
+85,Try new classes with friends like pottery or painting,Learn a new language using duolingo,0.05,0.02,3.3,0.0
+86,Get Starbucks with my mom,Dance in my room with the windows open,0.01,0.03,1.1,0.0
+87,Go to Target with my mom,Garden all day ,0.02,0.03,4.4,0.0
+88,Try new restaurants with my friends,Walk outside for fresh air,0.03,0.03,1.1,0.0
+89,Crochet with meditation music playing,Get Starbucks with my mom,0.04,0.03,3.3,1.0
+90,Go to Target with my mom,Dance in my room with the windows open,0.05,0.03,8.8,0.0
+91,Dance in my room with the windows open,Cook with my baby sister,0.01,0.04,3.3,1.0
+92,Go to Target with my mom,Walk outside for fresh air,0.02,0.04,8.8,0.0
+93,Cook with my baby sister,Watch the simpsons all day,0.03,0.04,1.1,0.0
+94,Watch old school movies with my partner,Thrift shop in the city,0.04,0.04,4.4,0.0
+95,Think of new outfit ideas and experimenting with new fashion trends,Have a drink with friends ,0.05,0.04,4.4,1.0
+96,Think of new outfit ideas and experimenting with new fashion trends,Cook with my baby sister,0.01,0.05,3.3,1.0
+97,Have a drink with friends ,Walk outside for fresh air,0.02,0.05,1.1,0.0
+98,Color with my sister,Learn a new language using duolingo,0.03,0.05,1.1,0.0
+99,Watch the simpsons all day,Lay in bed with my partner in silence,0.04,0.05,3.3,1.0
+100,Have a drink with friends ,Learn a new language using duolingo,0.05,0.05,4.4,0.0
