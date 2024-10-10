@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Playing music with friends,Watch tv,0.01,0.01,4.4,0.0
+2,Watch movies,Camp with friends,0.02,0.01,8.8,1.0
+3,Go to the park with friends,Watch tv,0.03,0.01,3.3,0.0
+4,Watch tv,Play basektball with friends,0.04,0.01,1.1,1.0
+5,Playing Cards with friends,Play guitar,0.05,0.01,1.1,0.0
+6,Go to the park with friends,Swim,0.01,0.02,3.3,0.0
+7,Camp,Swim with friends,0.02,0.02,1.1,1.0
+8,Watch movies,Swim with friends,0.03,0.02,1.1,1.0
+9,Playing music with friends,Camp,0.04,0.02,4.4,0.0
+10,Watch tv,Run with friends,0.05,0.02,1.1,1.0
+11,Run with friends,Run,0.01,0.03,3.3,0.0
+12,Listen to music,Playing music with friends,0.02,0.03,4.4,1.0
+13,Play video games with friends,Play basketball,0.03,0.03,1.1,0.0
+14,Playing Cards with friends,Video games,0.04,0.03,3.3,0.0
+15,Watch movies with friends,Watch tv,0.05,0.03,4.4,0.0
+16,Play basketball,Camp with friends,0.01,0.04,1.1,1.0
+17,Play guitar,Play video games with friends,0.02,0.04,8.8,1.0
+18,Eat good food,Playing music with friends,0.03,0.04,3.3,1.0
+19,Watch movies,Play video games with friends,0.04,0.04,3.3,1.0
+20,Run,eat food with friends,0.05,0.04,1.1,1.0
+21,eat food with friends,Watch movies,0.01,0.05,8.8,0.0
+22,Playing Cards with friends,Listen to music,0.02,0.05,4.4,0.0
+23,Eat good food,Camp with friends,0.03,0.05,1.1,1.0
+24,Swim with friends,Video games,0.04,0.05,4.4,0.0
+25,Playing Cards with friends,Watch tv,0.05,0.05,3.3,0.0
+26,eat food with friends,Video games,0.01,0.01,4.4,0.0
+27,Playing Cards with friends,Play basketball,0.02,0.01,3.3,0.0
+28,Run with friends,Eat good food,0.03,0.01,3.3,0.0
+29,Watch movies with friends,Swim,0.04,0.01,4.4,0.0
+30,Listen to music,Swim with friends,0.05,0.01,8.8,1.0
+31,Play basketball,Play basektball with friends,0.01,0.02,8.8,1.0
+32,Eat good food,Swim with friends,0.02,0.02,1.1,1.0
+33,Watch movies,Run with friends,0.03,0.02,4.4,1.0
+34,Listen to music,Camp with friends,0.04,0.02,3.3,1.0
+35,Play guitar,eat food with friends,0.05,0.02,1.1,1.0
+36,Watch movies,Playing Cards with friends,0.01,0.03,3.3,1.0
+37,Video games,Run with friends,0.02,0.03,1.1,1.0
+38,Listen to music,Play video games with friends,0.03,0.03,1.1,1.0
+39,Watch movies with friends,Run,0.04,0.03,3.3,0.0
+40,Go to the park with friends,Run,0.05,0.03,4.4,0.0
+41,Listen to music,Watch movies with friends,0.01,0.04,1.1,1.0
+42,Play video games with friends,Watch tv,0.02,0.04,3.3,0.0
+43,Playing music with friends,Watch movies,0.03,0.04,1.1,0.0
+44,Play video games with friends,Eat good food,0.04,0.04,1.1,0.0
+45,Listen to music,Run with friends,0.05,0.04,4.4,1.0
+46,Play video games with friends,Camp,0.01,0.05,8.8,0.0
+47,Watch movies,Watch movies with friends,0.02,0.05,1.1,1.0
+48,Camp,Play basektball with friends,0.03,0.05,4.4,1.0
+49,Play basketball,Watch movies with friends,0.04,0.05,3.3,1.0
+50,Swim,Run with friends,0.05,0.05,1.1,1.0
+51,Play guitar,Run with friends,0.01,0.01,1.1,1.0
+52,eat food with friends,Camp,0.02,0.01,3.3,0.0
+53,Listen to music,Play basektball with friends,0.03,0.01,1.1,1.0
+54,Play basektball with friends,Swim,0.04,0.01,4.4,0.0
+55,Playing music with friends,Swim,0.05,0.01,1.1,0.0
+56,Swim with friends,Play basketball,0.01,0.02,8.8,0.0
+57,Playing music with friends,Play guitar,0.02,0.02,4.4,0.0
+58,Watch tv,eat food with friends,0.03,0.02,4.4,1.0
+59,Play guitar,Swim with friends,0.04,0.02,4.4,1.0
+60,Eat good food,Watch movies with friends,0.05,0.02,1.1,1.0
+61,Play guitar,Go to the park with friends,0.01,0.03,3.3,1.0
+62,Run with friends,Camp,0.02,0.03,3.3,0.0
+63,Go to the park with friends,Watch movies,0.03,0.03,3.3,0.0
+64,Swim with friends,Watch tv,0.04,0.03,1.1,0.0
+65,Play basektball with friends,Video games,0.05,0.03,1.1,0.0
+66,Go to the park with friends,Play basketball,0.01,0.04,1.1,0.0
+67,Video games,Playing music with friends,0.02,0.04,8.8,1.0
+68,Watch movies with friends,Play guitar,0.03,0.04,4.4,0.0
+69,Go to the park with friends,Eat good food,0.04,0.04,1.1,0.0
+70,Play guitar,Play basektball with friends,0.05,0.04,1.1,1.0
+71,Run,Camp with friends,0.01,0.05,3.3,1.0
+72,eat food with friends,Play basketball,0.02,0.05,8.8,0.0
+73,Video games,Play video games with friends,0.03,0.05,3.3,1.0
+74,Watch movies with friends,Camp,0.04,0.05,4.4,0.0
+75,Video games,Camp with friends,0.05,0.05,3.3,1.0
+76,Watch tv,Camp with friends,0.01,0.01,1.1,1.0
+77,eat food with friends,Listen to music,0.02,0.01,8.8,0.0
+78,Camp,Playing Cards with friends,0.03,0.01,1.1,1.0
+79,Eat good food,eat food with friends,0.04,0.01,1.1,1.0
+80,Swim,Camp with friends,0.05,0.01,4.4,1.0
+81,Run,Playing music with friends,0.01,0.02,3.3,1.0
+82,Play video games with friends,Run,0.02,0.02,4.4,0.0
+83,Play basketball,Playing music with friends,0.03,0.02,1.1,1.0
+84,Go to the park with friends,Listen to music,0.04,0.02,3.3,0.0
+85,Run,Playing Cards with friends,0.05,0.02,3.3,1.0
+86,Playing Cards with friends,Swim,0.01,0.03,1.1,0.0
+87,Play basektball with friends,Run,0.02,0.03,4.4,0.0
+88,Camp with friends,Play guitar,0.03,0.03,1.1,0.0
+89,Eat good food,Play basektball with friends,0.04,0.03,3.3,1.0
+90,Swim with friends,Swim,0.05,0.03,8.8,0.0
+91,eat food with friends,Swim,0.01,0.04,3.3,0.0
+92,Go to the park with friends,Camp,0.02,0.04,8.8,0.0
+93,Swim with friends,Run,0.03,0.04,1.1,0.0
+94,Eat good food,Playing Cards with friends,0.04,0.04,4.4,1.0
+95,Go to the park with friends,Video games,0.05,0.04,4.4,0.0
+96,Camp,Camp with friends,0.01,0.05,3.3,1.0
+97,Watch movies,Play basektball with friends,0.02,0.05,1.1,1.0
+98,Swim,Play video games with friends,0.03,0.05,1.1,1.0
+99,Run with friends,Play basketball,0.04,0.05,3.3,0.0
+100,Watch movies with friends,Video games,0.05,0.05,4.4,0.0
