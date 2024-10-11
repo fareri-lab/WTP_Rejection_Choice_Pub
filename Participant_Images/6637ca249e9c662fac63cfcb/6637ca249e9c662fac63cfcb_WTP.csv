@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,have time when i get home to do whatever i want without being bothered,talk with wife,0.01,0.01,4.4,1.0
+2,going bowling with friends,Go on a walk,0.02,0.01,8.8,0.0
+3,going bowling with friends,watch movies,0.03,0.01,3.3,0.0
+4,going on long roadtrips with my wife,make a pretty big dinner ,0.04,0.01,1.1,0.0
+5,playing some sport with my friend group,Go on a walk,0.05,0.01,1.1,0.0
+6,going bowling with friends,fix things around the house,0.01,0.02,3.3,0.0
+7,lay down doing nothing,gathering around with friends and complaining about work,0.02,0.02,1.1,1.0
+8,sleep,playing some sport with my friend group,0.03,0.02,1.1,1.0
+9,play with my dog,going to an arcade or bar with close friends,0.04,0.02,4.4,1.0
+10,watch movies,going to an arcade or bar with close friends,0.05,0.02,1.1,1.0
+11,sleep,gathering around with friends and complaining about work,0.01,0.03,3.3,1.0
+12,fix things around the house,watching moves together with my partner,0.02,0.03,4.4,1.0
+13,have time when i get home to do whatever i want without being bothered,going bowling with friends,0.03,0.03,1.1,1.0
+14,going to an arcade or bar with close friends,Go on a walk,0.04,0.03,3.3,0.0
+15,watching moves together with my partner,Go on a walk,0.05,0.03,4.4,0.0
+16,playing cards with friends,have time when i get home to do whatever i want without being bothered,0.01,0.04,1.1,0.0
+17,fix things around the house,gathering around with friends and complaining about work,0.02,0.04,8.8,1.0
+18,gathering around with friends and complaining about work,read my books,0.03,0.04,3.3,0.0
+19,going to an arcade or bar with close friends,lay down doing nothing,0.04,0.04,3.3,0.0
+20,playing cards with friends,Go on a walk,0.05,0.04,1.1,0.0
+21,sleep,going on long roadtrips with my wife,0.01,0.05,8.8,1.0
+22,gathering around with friends and complaining about work,Go on a walk,0.02,0.05,4.4,0.0
+23,Not talk to anyone at work,making fun of a tv show together with my wife,0.03,0.05,1.1,1.0
+24,lay down doing nothing,going bowling with friends,0.04,0.05,4.4,1.0
+25,make a pretty big dinner ,gathering around with friends and complaining about work,0.05,0.05,3.3,1.0
+26,read my books,play games online with college friends,0.01,0.01,4.4,1.0
+27,fix things around the house,talk with wife,0.02,0.01,3.3,1.0
+28,fix things around the house,playing some sport with my friend group,0.03,0.01,3.3,1.0
+29,lay down doing nothing,going on long roadtrips with my wife,0.04,0.01,4.4,1.0
+30,have time when i get home to do whatever i want without being bothered,play games online with college friends,0.05,0.01,8.8,1.0
+31,going to an arcade or bar with close friends,sleep,0.01,0.02,8.8,0.0
+32,talk with wife,sleep,0.02,0.02,1.1,0.0
+33,watch movies,gathering around with friends and complaining about work,0.03,0.02,4.4,1.0
+34,making fun of a tv show together with my wife,watch movies,0.04,0.02,3.3,0.0
+35,playing cards with friends,make a pretty big dinner ,0.05,0.02,1.1,0.0
+36,play with my dog,gathering around with friends and complaining about work,0.01,0.03,3.3,1.0
+37,Not talk to anyone at work,going on long roadtrips with my wife,0.02,0.03,1.1,1.0
+38,lay down doing nothing,watching moves together with my partner,0.03,0.03,1.1,1.0
+39,Not talk to anyone at work,playing some sport with my friend group,0.04,0.03,3.3,1.0
+40,gathering around with friends and complaining about work,have time when i get home to do whatever i want without being bothered,0.05,0.03,4.4,0.0
+41,talk with wife,Go on a walk,0.01,0.04,1.1,0.0
+42,playing some sport with my friend group,read my books,0.02,0.04,3.3,0.0
+43,play with my dog,making fun of a tv show together with my wife,0.03,0.04,1.1,1.0
+44,going on long roadtrips with my wife,watch movies,0.04,0.04,1.1,0.0
+45,have time when i get home to do whatever i want without being bothered,going to an arcade or bar with close friends,0.05,0.04,4.4,1.0
+46,make a pretty big dinner ,going to an arcade or bar with close friends,0.01,0.05,8.8,1.0
+47,going on long roadtrips with my wife,read my books,0.02,0.05,1.1,0.0
+48,Not talk to anyone at work,talk with wife,0.03,0.05,4.4,1.0
+49,playing some sport with my friend group,play with my dog,0.04,0.05,3.3,0.0
+50,lay down doing nothing,making fun of a tv show together with my wife,0.05,0.05,1.1,1.0
+51,going bowling with friends,sleep,0.01,0.01,1.1,0.0
+52,read my books,making fun of a tv show together with my wife,0.02,0.01,3.3,1.0
+53,playing cards with friends,sleep,0.03,0.01,1.1,0.0
+54,making fun of a tv show together with my wife,fix things around the house,0.04,0.01,4.4,0.0
+55,Not talk to anyone at work,going bowling with friends,0.05,0.01,1.1,1.0
+56,play with my dog,playing cards with friends,0.01,0.02,8.8,1.0
+57,fix things around the house,playing cards with friends,0.02,0.02,4.4,1.0
+58,sleep,watching moves together with my partner,0.03,0.02,4.4,1.0
+59,Not talk to anyone at work,watching moves together with my partner,0.04,0.02,4.4,1.0
+60,playing cards with friends,Not talk to anyone at work,0.05,0.02,1.1,0.0
+61,watch movies,playing some sport with my friend group,0.01,0.03,3.3,1.0
+62,lay down doing nothing,playing some sport with my friend group,0.02,0.03,3.3,1.0
+63,play with my dog,going bowling with friends,0.03,0.03,3.3,1.0
+64,watching moves together with my partner,read my books,0.04,0.03,1.1,0.0
+65,play games online with college friends,make a pretty big dinner ,0.05,0.03,1.1,0.0
+66,playing cards with friends,lay down doing nothing,0.01,0.04,1.1,0.0
+67,talk with wife,play with my dog,0.02,0.04,8.8,0.0
+68,watching moves together with my partner,have time when i get home to do whatever i want without being bothered,0.03,0.04,4.4,0.0
+69,making fun of a tv show together with my wife,make a pretty big dinner ,0.04,0.04,1.1,0.0
+70,going bowling with friends,make a pretty big dinner ,0.05,0.04,1.1,0.0
+71,play games online with college friends,sleep,0.01,0.05,3.3,0.0
+72,play games online with college friends,Go on a walk,0.02,0.05,8.8,0.0
+73,talk with wife,lay down doing nothing,0.03,0.05,3.3,0.0
+74,playing some sport with my friend group,have time when i get home to do whatever i want without being bothered,0.04,0.05,4.4,0.0
+75,make a pretty big dinner ,watching moves together with my partner,0.05,0.05,3.3,1.0
+76,going to an arcade or bar with close friends,fix things around the house,0.01,0.01,1.1,0.0
+77,read my books,going to an arcade or bar with close friends,0.02,0.01,8.8,1.0
+78,Go on a walk,going on long roadtrips with my wife,0.03,0.01,1.1,1.0
+79,lay down doing nothing,play games online with college friends,0.04,0.01,1.1,1.0
+80,making fun of a tv show together with my wife,Go on a walk,0.05,0.01,4.4,0.0
+81,play with my dog,play games online with college friends,0.01,0.02,3.3,1.0
+82,have time when i get home to do whatever i want without being bothered,going on long roadtrips with my wife,0.02,0.02,4.4,1.0
+83,sleep,making fun of a tv show together with my wife,0.03,0.02,1.1,1.0
+84,going bowling with friends,read my books,0.04,0.02,3.3,0.0
+85,read my books,talk with wife,0.05,0.02,3.3,1.0
+86,talk with wife,watch movies,0.01,0.03,1.1,0.0
+87,make a pretty big dinner ,playing some sport with my friend group,0.02,0.03,4.4,1.0
+88,playing cards with friends,read my books,0.03,0.03,1.1,0.0
+89,going on long roadtrips with my wife,fix things around the house,0.04,0.03,3.3,0.0
+90,play games online with college friends,Not talk to anyone at work,0.05,0.03,8.8,0.0
+91,playing cards with friends,watch movies,0.01,0.04,3.3,0.0
+92,making fun of a tv show together with my wife,have time when i get home to do whatever i want without being bothered,0.02,0.04,8.8,0.0
+93,make a pretty big dinner ,talk with wife,0.03,0.04,1.1,1.0
+94,gathering around with friends and complaining about work,Not talk to anyone at work,0.04,0.04,4.4,0.0
+95,going to an arcade or bar with close friends,Not talk to anyone at work,0.05,0.04,4.4,0.0
+96,play games online with college friends,fix things around the house,0.01,0.05,3.3,0.0
+97,watch movies,play games online with college friends,0.02,0.05,1.1,1.0
+98,play with my dog,going on long roadtrips with my wife,0.03,0.05,1.1,1.0
+99,watching moves together with my partner,watch movies,0.04,0.05,3.3,0.0
+100,play with my dog,watching moves together with my partner,0.05,0.05,4.4,1.0
