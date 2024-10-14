@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,travel to new places,swimming in lake michigan with tim,0.01,0.01,4.4,1.0
+2,learn new languages,text with tim,0.02,0.01,8.8,1.0
+3,text with tim,watch movies with friends,0.03,0.01,3.3,0.0
+4,watch documentaries,smoking with tim,0.04,0.01,1.1,1.0
+5,text with tim,walk long distances,0.05,0.01,1.1,0.0
+6,watch movies with friends,traveling to a new place with tim,0.01,0.02,3.3,1.0
+7,play bass guitar,going on a road trip with tim,0.02,0.02,1.1,1.0
+8,smoking with tim,skate on the lakefront,0.03,0.02,1.1,0.0
+9,watch documentaries,going to bars with tim,0.04,0.02,4.4,1.0
+10,text with tim,skate on the lakefront,0.05,0.02,1.1,0.0
+11,learn new languages,going to bars with tim,0.01,0.03,3.3,1.0
+12,listen to music,traveling to a new place with tim,0.02,0.03,4.4,1.0
+13,hanging out on my couch with tim,watch movies with friends,0.03,0.03,1.1,0.0
+14,playing music together with tim,travel to new places,0.04,0.03,3.3,0.0
+15,play bass guitar,going to the movies with tim,0.05,0.03,4.4,1.0
+16,swim in lake michigan,going to the movies with tim,0.01,0.04,1.1,1.0
+17,playing music together with tim,listen to music,0.02,0.04,8.8,0.0
+18,going to bars with tim,listen to music,0.03,0.04,3.3,0.0
+19,skate on the lakefront,swimming in lake michigan with tim,0.04,0.04,3.3,1.0
+20,playing music together with tim,play bass guitar,0.05,0.04,1.1,0.0
+21,travel to new places,hanging out on my couch with tim,0.01,0.05,8.8,1.0
+22,text with tim,swim in lake michigan,0.02,0.05,4.4,0.0
+23,going to the movies with tim,skate on the lakefront,0.03,0.05,1.1,0.0
+24,going to bars with tim,travel to new places,0.04,0.05,4.4,0.0
+25,playing music together with tim,watch documentaries,0.05,0.05,3.3,0.0
+26,going on a road trip with tim,watch documentaries,0.01,0.01,4.4,0.0
+27,read fiction novels,going to the movies with tim,0.02,0.01,3.3,1.0
+28,watching horror movies with tim,watch documentaries,0.03,0.01,3.3,0.0
+29,going on a road trip with tim,learn new languages,0.04,0.01,4.4,0.0
+30,listen to music,hanging out on my couch with tim,0.05,0.01,8.8,1.0
+31,skate on the lakefront,going to bars with tim,0.01,0.02,8.8,1.0
+32,hanging out on my couch with tim,learn new languages,0.02,0.02,1.1,0.0
+33,read fiction novels,watching horror movies with tim,0.03,0.02,4.4,1.0
+34,watch movies with friends,going to bars with tim,0.04,0.02,3.3,1.0
+35,travel to new places,text with tim,0.05,0.02,1.1,1.0
+36,smoking with tim,swim in lake michigan,0.01,0.03,3.3,0.0
+37,swimming in lake michigan with tim,play bass guitar,0.02,0.03,1.1,0.0
+38,going to bars with tim,walk long distances,0.03,0.03,1.1,0.0
+39,swimming in lake michigan with tim,listen to music,0.04,0.03,3.3,0.0
+40,watching horror movies with tim,watch movies with friends,0.05,0.03,4.4,0.0
+41,skate on the lakefront,traveling to a new place with tim,0.01,0.04,1.1,1.0
+42,swim in lake michigan,going to bars with tim,0.02,0.04,3.3,1.0
+43,play bass guitar,traveling to a new place with tim,0.03,0.04,1.1,1.0
+44,read fiction novels,smoking with tim,0.04,0.04,1.1,1.0
+45,watch documentaries,hanging out on my couch with tim,0.05,0.04,4.4,1.0
+46,watch movies with friends,going on a road trip with tim,0.01,0.05,8.8,1.0
+47,play bass guitar,text with tim,0.02,0.05,1.1,1.0
+48,swim in lake michigan,hanging out on my couch with tim,0.03,0.05,4.4,1.0
+49,watch movies with friends,swimming in lake michigan with tim,0.04,0.05,3.3,1.0
+50,play bass guitar,smoking with tim,0.05,0.05,1.1,1.0
+51,going on a road trip with tim,travel to new places,0.01,0.01,1.1,0.0
+52,smoking with tim,watch movies with friends,0.02,0.01,3.3,0.0
+53,playing music together with tim,read fiction novels,0.03,0.01,1.1,0.0
+54,going on a road trip with tim,swim in lake michigan,0.04,0.01,4.4,0.0
+55,watch documentaries,text with tim,0.05,0.01,1.1,1.0
+56,going to the movies with tim,watch movies with friends,0.01,0.02,8.8,0.0
+57,going to the movies with tim,travel to new places,0.02,0.02,4.4,0.0
+58,hanging out on my couch with tim,walk long distances,0.03,0.02,4.4,0.0
+59,skate on the lakefront,going on a road trip with tim,0.04,0.02,4.4,1.0
+60,traveling to a new place with tim,walk long distances,0.05,0.02,1.1,0.0
+61,read fiction novels,traveling to a new place with tim,0.01,0.03,3.3,1.0
+62,read fiction novels,text with tim,0.02,0.03,3.3,1.0
+63,playing music together with tim,watch movies with friends,0.03,0.03,3.3,0.0
+64,watching horror movies with tim,walk long distances,0.04,0.03,1.1,0.0
+65,watch documentaries,going to the movies with tim,0.05,0.03,1.1,1.0
+66,playing music together with tim,walk long distances,0.01,0.04,1.1,0.0
+67,traveling to a new place with tim,travel to new places,0.02,0.04,8.8,0.0
+68,learn new languages,traveling to a new place with tim,0.03,0.04,4.4,1.0
+69,skate on the lakefront,hanging out on my couch with tim,0.04,0.04,1.1,1.0
+70,playing music together with tim,learn new languages,0.05,0.04,1.1,0.0
+71,listen to music,going to the movies with tim,0.01,0.05,3.3,1.0
+72,travel to new places,watching horror movies with tim,0.02,0.05,8.8,1.0
+73,watch documentaries,traveling to a new place with tim,0.03,0.05,3.3,1.0
+74,hanging out on my couch with tim,play bass guitar,0.04,0.05,4.4,0.0
+75,swim in lake michigan,swimming in lake michigan with tim,0.05,0.05,3.3,1.0
+76,learn new languages,smoking with tim,0.01,0.01,1.1,1.0
+77,going on a road trip with tim,walk long distances,0.02,0.01,8.8,0.0
+78,swim in lake michigan,watching horror movies with tim,0.03,0.01,1.1,1.0
+79,watch documentaries,swimming in lake michigan with tim,0.04,0.01,1.1,1.0
+80,watching horror movies with tim,learn new languages,0.05,0.01,4.4,0.0
+81,read fiction novels,hanging out on my couch with tim,0.01,0.02,3.3,1.0
+82,playing music together with tim,skate on the lakefront,0.02,0.02,4.4,0.0
+83,listen to music,watching horror movies with tim,0.03,0.02,1.1,1.0
+84,swimming in lake michigan with tim,read fiction novels,0.04,0.02,3.3,0.0
+85,listen to music,going on a road trip with tim,0.05,0.02,3.3,1.0
+86,learn new languages,swimming in lake michigan with tim,0.01,0.03,1.1,1.0
+87,learn new languages,going to the movies with tim,0.02,0.03,4.4,1.0
+88,smoking with tim,walk long distances,0.03,0.03,1.1,0.0
+89,going on a road trip with tim,read fiction novels,0.04,0.03,3.3,0.0
+90,swim in lake michigan,traveling to a new place with tim,0.05,0.03,8.8,1.0
+91,watching horror movies with tim,skate on the lakefront,0.01,0.04,3.3,0.0
+92,playing music together with tim,swim in lake michigan,0.02,0.04,8.8,0.0
+93,going to bars with tim,read fiction novels,0.03,0.04,1.1,0.0
+94,swimming in lake michigan with tim,walk long distances,0.04,0.04,4.4,0.0
+95,text with tim,listen to music,0.05,0.04,4.4,0.0
+96,going to bars with tim,play bass guitar,0.01,0.05,3.3,0.0
+97,listen to music,smoking with tim,0.02,0.05,1.1,1.0
+98,smoking with tim,travel to new places,0.03,0.05,1.1,0.0
+99,play bass guitar,watching horror movies with tim,0.04,0.05,3.3,1.0
+100,going to the movies with tim,walk long distances,0.05,0.05,4.4,0.0
