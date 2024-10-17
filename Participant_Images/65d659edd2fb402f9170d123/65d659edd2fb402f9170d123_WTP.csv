@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Watch new movies and shows on television,go out to eat with my spouse,0.01,0.01,4.4,1.0
+2,Shop online,Go on dates with my spouse,0.02,0.01,8.8,1.0
+3,go fishing with friends,Shop online,0.03,0.01,3.3,0.0
+4,have family movie nights,Watch music videos,0.04,0.01,1.1,0.0
+5,Go on dates with my spouse,Watch new movies and shows on television,0.05,0.01,1.1,0.0
+6,Watch movies with my significant other,Sit outside for fresh air,0.01,0.02,3.3,0.0
+7,Paint in my room,go out to eat with my spouse,0.02,0.02,1.1,1.0
+8,Paint in my room,go fishing with friends,0.03,0.02,1.1,1.0
+9,Go to bars with my spouse,Learn about information technology,0.04,0.02,4.4,0.0
+10,Sketch art in my sketchbook,go on trips with friends,0.05,0.02,1.1,1.0
+11,Sit outside for fresh air,Go to bars with my spouse,0.01,0.03,3.3,1.0
+12,Sit outside for fresh air,have family movie nights,0.02,0.03,4.4,1.0
+13,Watch new movies and shows on television,Watch reality tv shows with friends,0.03,0.03,1.1,1.0
+14,Watch new movies and shows on television,Watch movies with my significant other,0.04,0.03,3.3,1.0
+15,Go to the bar with friends,Sit outside for fresh air,0.05,0.03,4.4,0.0
+16,Watch new movies and shows on television,Go to bars with my spouse,0.01,0.04,1.1,1.0
+17,Sketch art in my sketchbook,cook together with my family,0.02,0.04,8.8,1.0
+18,Go on dates with my spouse,Read Magazines and Articles,0.03,0.04,3.3,0.0
+19,Go on dates with my spouse,Paint in my room,0.04,0.04,3.3,0.0
+20,Learn about information technology,Watch reality tv shows with friends,0.05,0.04,1.1,1.0
+21,Watch reality tv shows with friends,Sketch art in my sketchbook,0.01,0.05,8.8,0.0
+22,Cook different kinds of foods,have family movie nights,0.02,0.05,4.4,1.0
+23,go fishing with friends,Sit outside for fresh air,0.03,0.05,1.1,0.0
+24,Go to bars with my spouse,Cook different kinds of foods,0.04,0.05,4.4,0.0
+25,Listen to music,go out to eat with my spouse,0.05,0.05,3.3,1.0
+26,Read Magazines and Articles,cook together with my family,0.01,0.01,4.4,1.0
+27,Learn about information technology,go fishing with friends,0.02,0.01,3.3,1.0
+28,go on trips with friends,Watch new movies and shows on television,0.03,0.01,3.3,0.0
+29,Shop online,Watch movies with my significant other,0.04,0.01,4.4,1.0
+30,cook together with my family,Watch music videos,0.05,0.01,8.8,0.0
+31,Go to the bar with friends,Paint in my room,0.01,0.02,8.8,0.0
+32,go out to eat with my spouse,Sit outside for fresh air,0.02,0.02,1.1,0.0
+33,cook together with my family,Sit outside for fresh air,0.03,0.02,4.4,0.0
+34,Paint in my room,have family movie nights,0.04,0.02,3.3,1.0
+35,cook together with my family,Learn about information technology,0.05,0.02,1.1,0.0
+36,go on trips with friends,Learn about information technology,0.01,0.03,3.3,0.0
+37,go on trips with friends,Sit outside for fresh air,0.02,0.03,1.1,0.0
+38,go out to eat with my spouse,Sketch art in my sketchbook,0.03,0.03,1.1,0.0
+39,Watch music videos,Watch movies with my significant other,0.04,0.03,3.3,1.0
+40,Go on dates with my spouse,Sketch art in my sketchbook,0.05,0.03,4.4,0.0
+41,Watch movies with my significant other,Paint in my room,0.01,0.04,1.1,0.0
+42,Watch music videos,Watch reality tv shows with friends,0.02,0.04,3.3,1.0
+43,Sketch art in my sketchbook,Go to the bar with friends,0.03,0.04,1.1,1.0
+44,Go to the bar with friends,Watch music videos,0.04,0.04,1.1,0.0
+45,Sit outside for fresh air,Go on dates with my spouse,0.05,0.04,4.4,1.0
+46,go out to eat with my spouse,Learn about information technology,0.01,0.05,8.8,0.0
+47,Read Magazines and Articles,Go to the bar with friends,0.02,0.05,1.1,1.0
+48,Go to the bar with friends,Learn about information technology,0.03,0.05,4.4,0.0
+49,Learn about information technology,Watch movies with my significant other,0.04,0.05,3.3,1.0
+50,Sketch art in my sketchbook,Go to bars with my spouse,0.05,0.05,1.1,1.0
+51,cook together with my family,Paint in my room,0.01,0.01,1.1,0.0
+52,Watch music videos,go out to eat with my spouse,0.02,0.01,3.3,1.0
+53,Watch reality tv shows with friends,Cook different kinds of foods,0.03,0.01,1.1,0.0
+54,Cook different kinds of foods,Go on dates with my spouse,0.04,0.01,4.4,1.0
+55,Read Magazines and Articles,go on trips with friends,0.05,0.01,1.1,1.0
+56,Watch music videos,go fishing with friends,0.01,0.02,8.8,1.0
+57,Shop online,Watch reality tv shows with friends,0.02,0.02,4.4,1.0
+58,Shop online,Go to the bar with friends,0.03,0.02,4.4,1.0
+59,Cook different kinds of foods,Go to the bar with friends,0.04,0.02,4.4,1.0
+60,Read Magazines and Articles,have family movie nights,0.05,0.02,1.1,1.0
+61,Watch music videos,go on trips with friends,0.01,0.03,3.3,1.0
+62,Watch new movies and shows on television,cook together with my family,0.02,0.03,3.3,1.0
+63,Watch reality tv shows with friends,Sit outside for fresh air,0.03,0.03,3.3,0.0
+64,go fishing with friends,Watch new movies and shows on television,0.04,0.03,1.1,0.0
+65,Go on dates with my spouse,Watch music videos,0.05,0.03,1.1,0.0
+66,Go to bars with my spouse,Watch music videos,0.01,0.04,1.1,0.0
+67,go on trips with friends,Paint in my room,0.02,0.04,8.8,0.0
+68,Watch reality tv shows with friends,Read Magazines and Articles,0.03,0.04,4.4,0.0
+69,cook together with my family,Cook different kinds of foods,0.04,0.04,1.1,0.0
+70,Sketch art in my sketchbook,have family movie nights,0.05,0.04,1.1,1.0
+71,have family movie nights,Listen to music,0.01,0.05,3.3,0.0
+72,Watch movies with my significant other,Listen to music,0.02,0.05,8.8,0.0
+73,Go to bars with my spouse,Shop online,0.03,0.05,3.3,0.0
+74,Listen to music,cook together with my family,0.04,0.05,4.4,1.0
+75,have family movie nights,Learn about information technology,0.05,0.05,3.3,0.0
+76,go fishing with friends,Sketch art in my sketchbook,0.01,0.01,1.1,0.0
+77,Read Magazines and Articles,Watch movies with my significant other,0.02,0.01,8.8,1.0
+78,Listen to music,Go to the bar with friends,0.03,0.01,1.1,1.0
+79,Shop online,have family movie nights,0.04,0.01,1.1,1.0
+80,Listen to music,go fishing with friends,0.05,0.01,4.4,1.0
+81,Go to the bar with friends,Watch new movies and shows on television,0.01,0.02,3.3,0.0
+82,Sketch art in my sketchbook,Watch movies with my significant other,0.02,0.02,4.4,1.0
+83,Listen to music,Watch reality tv shows with friends,0.03,0.02,1.1,1.0
+84,Go on dates with my spouse,Learn about information technology,0.04,0.02,3.3,0.0
+85,Listen to music,Go to bars with my spouse,0.05,0.02,3.3,1.0
+86,Watch reality tv shows with friends,Paint in my room,0.01,0.03,1.1,0.0
+87,Go to bars with my spouse,Paint in my room,0.02,0.03,4.4,0.0
+88,go fishing with friends,Cook different kinds of foods,0.03,0.03,1.1,0.0
+89,Listen to music,go on trips with friends,0.04,0.03,3.3,1.0
+90,go out to eat with my spouse,Read Magazines and Articles,0.05,0.03,8.8,0.0
+91,Cook different kinds of foods,Watch movies with my significant other,0.01,0.04,3.3,1.0
+92,cook together with my family,Shop online,0.02,0.04,8.8,0.0
+93,go on trips with friends,Shop online,0.03,0.04,1.1,0.0
+94,go on trips with friends,Cook different kinds of foods,0.04,0.04,4.4,0.0
+95,go out to eat with my spouse,Shop online,0.05,0.04,4.4,0.0
+96,go fishing with friends,Read Magazines and Articles,0.01,0.05,3.3,0.0
+97,Read Magazines and Articles,Go to bars with my spouse,0.02,0.05,1.1,1.0
+98,Listen to music,Go on dates with my spouse,0.03,0.05,1.1,1.0
+99,Cook different kinds of foods,go out to eat with my spouse,0.04,0.05,3.3,1.0
+100,Watch new movies and shows on television,have family movie nights,0.05,0.05,4.4,1.0

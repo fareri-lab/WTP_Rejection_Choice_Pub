@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Listen to ironmouse songs and covers,Go hiking with family,0.01,0.01,4.4,1.0
+2,Watch anime,Go hiking with family,0.02,0.01,8.8,1.0
+3,celebrate occasions with family,Make coffee,0.03,0.01,3.3,0.0
+4,Watch YouTube videos,Go to the library with my sister,0.04,0.01,1.1,1.0
+5,Watch Football with family,Relax in a hammock,0.05,0.01,1.1,0.0
+6,Watch YouTube videos,Play video games with friends and family,0.01,0.02,3.3,1.0
+7,Bake something,Go to the library with my sister,0.02,0.02,1.1,1.0
+8,Go to the library with my sister,Read a book on the beach,0.03,0.02,1.1,0.0
+9,Make coffee,Go on a walk with my family,0.04,0.02,4.4,1.0
+10,Relax in a hammock,Play video games with friends and family,0.05,0.02,1.1,1.0
+11,Watch league of legends esports,See a movie with friends,0.01,0.03,3.3,1.0
+12,Watch YouTube videos,Try a new restaurant with family,0.02,0.03,4.4,1.0
+13,Go on a walk with my family,Bake something,0.03,0.03,1.1,0.0
+14,See a movie with friends,Watch YouTube videos,0.04,0.03,3.3,0.0
+15,Watch league of legends esports,Watch awards shows with family,0.05,0.03,4.4,1.0
+16,Watch anime,See a movie with friends,0.01,0.04,1.1,1.0
+17,Watch awards shows with family,Watch YouTube videos,0.02,0.04,8.8,0.0
+18,Take a bubble bath,See a movie with friends,0.03,0.04,3.3,1.0
+19,Relax in a hammock,Go hiking with family,0.04,0.04,3.3,1.0
+20,celebrate occasions with family,Play video games,0.05,0.04,1.1,0.0
+21,Make coffee,Play video games with friends and family,0.01,0.05,8.8,1.0
+22,Bake something,celebrate occasions with family,0.02,0.05,4.4,1.0
+23,Watch anime,Try a new restaurant with family,0.03,0.05,1.1,1.0
+24,Watch anime,Play video games with friends and family,0.04,0.05,4.4,1.0
+25,Go hiking with family,Watch YouTube videos,0.05,0.05,3.3,0.0
+26,Go to afternoon tea with family,Watch anime,0.01,0.01,4.4,0.0
+27,Take a bubble bath,Go to the library with my sister,0.02,0.01,3.3,1.0
+28,See a movie with friends,Relax in a hammock,0.03,0.01,3.3,0.0
+29,Read a book on the beach,Go to afternoon tea with family,0.04,0.01,4.4,1.0
+30,Watch awards shows with family,Play video games,0.05,0.01,8.8,0.0
+31,Take a bubble bath,Go hiking with family,0.01,0.02,8.8,1.0
+32,Watch league of legends esports,Go hiking with family,0.02,0.02,1.1,1.0
+33,Bake something,Go hiking with family,0.03,0.02,4.4,1.0
+34,Relax in a hammock,celebrate occasions with family,0.04,0.02,3.3,1.0
+35,Listen to ironmouse songs and covers,Go to afternoon tea with family,0.05,0.02,1.1,1.0
+36,celebrate occasions with family,Watch anime,0.01,0.03,3.3,0.0
+37,Try a new restaurant with family,Read a book on the beach,0.02,0.03,1.1,0.0
+38,Watch Football with family,Listen to ironmouse songs and covers,0.03,0.03,1.1,0.0
+39,See a movie with friends,Make coffee,0.04,0.03,3.3,0.0
+40,Go hiking with family,Make coffee,0.05,0.03,4.4,0.0
+41,Play video games with friends and family,Listen to ironmouse songs and covers,0.01,0.04,1.1,0.0
+42,celebrate occasions with family,Listen to ironmouse songs and covers,0.02,0.04,3.3,0.0
+43,Read a book on the beach,Watch Football with family,0.03,0.04,1.1,1.0
+44,Bake something,Go to afternoon tea with family,0.04,0.04,1.1,1.0
+45,Play video games with friends and family,Watch league of legends esports,0.05,0.04,4.4,0.0
+46,Try a new restaurant with family,Relax in a hammock,0.01,0.05,8.8,0.0
+47,Take a bubble bath,Watch awards shows with family,0.02,0.05,1.1,1.0
+48,Go to afternoon tea with family,Watch YouTube videos,0.03,0.05,4.4,0.0
+49,Play video games,Try a new restaurant with family,0.04,0.05,3.3,1.0
+50,Watch YouTube videos,Go on a walk with my family,0.05,0.05,1.1,1.0
+51,Play video games,Play video games with friends and family,0.01,0.01,1.1,1.0
+52,Go to afternoon tea with family,Take a bubble bath,0.02,0.01,3.3,0.0
+53,Play video games with friends and family,Read a book on the beach,0.03,0.01,1.1,0.0
+54,Go to afternoon tea with family,Make coffee,0.04,0.01,4.4,0.0
+55,Go on a walk with my family,Read a book on the beach,0.05,0.01,1.1,0.0
+56,Watch Football with family,Play video games,0.01,0.02,8.8,0.0
+57,Play video games with friends and family,Take a bubble bath,0.02,0.02,4.4,0.0
+58,Go to the library with my sister,Play video games,0.03,0.02,4.4,0.0
+59,Relax in a hammock,Watch awards shows with family,0.04,0.02,4.4,1.0
+60,Bake something,See a movie with friends,0.05,0.02,1.1,1.0
+61,Go on a walk with my family,Play video games,0.01,0.03,3.3,0.0
+62,celebrate occasions with family,Watch YouTube videos,0.02,0.03,3.3,0.0
+63,Try a new restaurant with family,Make coffee,0.03,0.03,3.3,0.0
+64,Take a bubble bath,celebrate occasions with family,0.04,0.03,1.1,1.0
+65,Play video games with friends and family,Bake something,0.05,0.03,1.1,0.0
+66,Watch awards shows with family,Read a book on the beach,0.01,0.04,1.1,0.0
+67,Take a bubble bath,Try a new restaurant with family,0.02,0.04,8.8,1.0
+68,Listen to ironmouse songs and covers,Go on a walk with my family,0.03,0.04,4.4,1.0
+69,Bake something,Try a new restaurant with family,0.04,0.04,1.1,1.0
+70,Go to the library with my sister,Relax in a hammock,0.05,0.04,1.1,0.0
+71,Watch league of legends esports,celebrate occasions with family,0.01,0.05,3.3,1.0
+72,Bake something,Watch Football with family,0.02,0.05,8.8,1.0
+73,Watch Football with family,Watch anime,0.03,0.05,3.3,0.0
+74,Play video games,See a movie with friends,0.04,0.05,4.4,1.0
+75,Go on a walk with my family,Relax in a hammock,0.05,0.05,3.3,0.0
+76,Relax in a hammock,Go to afternoon tea with family,0.01,0.01,1.1,1.0
+77,Bake something,Watch awards shows with family,0.02,0.01,8.8,1.0
+78,Watch awards shows with family,Watch anime,0.03,0.01,1.1,0.0
+79,Watch Football with family,Make coffee,0.04,0.01,1.1,0.0
+80,See a movie with friends,Read a book on the beach,0.05,0.01,4.4,0.0
+81,Go hiking with family,Read a book on the beach,0.01,0.02,3.3,0.0
+82,Listen to ironmouse songs and covers,Watch awards shows with family,0.02,0.02,4.4,1.0
+83,Try a new restaurant with family,Listen to ironmouse songs and covers,0.03,0.02,1.1,0.0
+84,Go to the library with my sister,Listen to ironmouse songs and covers,0.04,0.02,3.3,0.0
+85,Watch league of legends esports,Go on a walk with my family,0.05,0.02,3.3,1.0
+86,Watch YouTube videos,Watch Football with family,0.01,0.03,1.1,1.0
+87,Play video games,Go hiking with family,0.02,0.03,4.4,1.0
+88,Watch Football with family,Watch league of legends esports,0.03,0.03,1.1,0.0
+89,Watch anime,Go to the library with my sister,0.04,0.03,3.3,1.0
+90,Watch league of legends esports,Go to afternoon tea with family,0.05,0.03,8.8,1.0
+91,Go on a walk with my family,Watch anime,0.01,0.04,3.3,0.0
+92,Watch Football with family,Take a bubble bath,0.02,0.04,8.8,0.0
+93,Read a book on the beach,celebrate occasions with family,0.03,0.04,1.1,1.0
+94,Watch awards shows with family,Make coffee,0.04,0.04,4.4,0.0
+95,See a movie with friends,Listen to ironmouse songs and covers,0.05,0.04,4.4,0.0
+96,Make coffee,Go to the library with my sister,0.01,0.05,3.3,1.0
+97,Play video games,Go to afternoon tea with family,0.02,0.05,1.1,1.0
+98,Go to the library with my sister,Watch league of legends esports,0.03,0.05,1.1,0.0
+99,Try a new restaurant with family,Watch league of legends esports,0.04,0.05,3.3,0.0
+100,Go on a walk with my family,Take a bubble bath,0.05,0.05,4.4,0.0
