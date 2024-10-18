@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Listen to music on the bed,Travel with my family to a new city,0.01,0.01,4.4,1.0
+2,Sit in the sofa,Play with my kids,0.02,0.01,8.8,1.0
+3,Listen to music on the bed,Go on a date with my partner,0.03,0.01,3.3,1.0
+4,have a drink at the bar with friends,Clean the living room,0.04,0.01,1.1,0.0
+5,Listen to music on the bed,Go for a picnic with my family,0.05,0.01,1.1,1.0
+6,have a drink at the bar with friends,Watch a cooking show on social media,0.01,0.02,3.3,0.0
+7,Browse apparel shops online,Go sight seeing with my friends,0.02,0.02,1.1,1.0
+8,Laugh with my partner,Sleep on the couch,0.03,0.02,1.1,0.0
+9,Sit in the sofa,Go to see a movie with friends,0.04,0.02,4.4,1.0
+10,Lay bed in my bedroom deep in my thoughts,Watch movies with my partner,0.05,0.02,1.1,1.0
+11,Go for a picnic with my family,Clean the living room,0.01,0.03,3.3,0.0
+12,Travel with my family to a new city,Watch a cooking show on social media,0.02,0.03,4.4,0.0
+13,Read a novel on my bed,Go to see a movie with friends,0.03,0.03,1.1,1.0
+14,have a drink at the bar with friends,Sniffing my partners outfits because I miss him,0.04,0.03,3.3,0.0
+15,Laugh with my partner,Browse apparel shops online,0.05,0.03,4.4,0.0
+16,Sniffing my partners outfits because I miss him,Travel with my family to a new city,0.01,0.04,1.1,1.0
+17,Go to see a movie with friends,Watch a cooking show on social media,0.02,0.04,8.8,0.0
+18,Go on a date with my partner,Browse apparel shops online,0.03,0.04,3.3,0.0
+19,Clean the living room,Travel with my family to a new city,0.04,0.04,3.3,1.0
+20,Go on a date with my partner,Read Tony Robins book on sales and marketing,0.05,0.04,1.1,0.0
+21,Watch movies with my partner,Sniffing my partners outfits because I miss him,0.01,0.05,8.8,0.0
+22,Talk to my mother on video call,Sleep on the couch,0.02,0.05,4.4,0.0
+23,Laugh with my partner,Listen to music on the bed,0.03,0.05,1.1,0.0
+24,Talk to my mother on video call,Read Tony Robins book on sales and marketing,0.04,0.05,4.4,0.0
+25,Watch a cooking show on social media,Laugh with my partner,0.05,0.05,3.3,1.0
+26,Play with my kids,Browse apparel shops online,0.01,0.01,4.4,0.0
+27,Sleep on the couch,Go to see a movie with friends,0.02,0.01,3.3,1.0
+28,Read Tony Robins book on sales and marketing,Go to see a movie with friends,0.03,0.01,3.3,1.0
+29,have a drink at the bar with friends,Read Tony Robins book on sales and marketing,0.04,0.01,4.4,0.0
+30,Clean the living room,Go on a date with my partner,0.05,0.01,8.8,1.0
+31,Talk to my mother on video call,Lay bed in my bedroom deep in my thoughts,0.01,0.02,8.8,0.0
+32,Go for a picnic with my family,Sniffing my partners outfits because I miss him,0.02,0.02,1.1,0.0
+33,Lay bed in my bedroom deep in my thoughts,Go sight seeing with my friends,0.03,0.02,4.4,1.0
+34,Watch movies with my partner,Sit in the sofa,0.04,0.02,3.3,0.0
+35,Sniffing my partners outfits because I miss him,Go to see a movie with friends,0.05,0.02,1.1,1.0
+36,Lay bed in my bedroom deep in my thoughts,Travel with my family to a new city,0.01,0.03,3.3,1.0
+37,Go for a picnic with my family,Lay bed in my bedroom deep in my thoughts,0.02,0.03,1.1,0.0
+38,Go on a date with my partner,Sit in the sofa,0.03,0.03,1.1,0.0
+39,Sleep on the couch,Play with my kids,0.04,0.03,3.3,1.0
+40,Laugh with my partner,Clean the living room,0.05,0.03,4.4,0.0
+41,Go on a date with my partner,Watch a cooking show on social media,0.01,0.04,1.1,0.0
+42,Play with my kids,Watch a cooking show on social media,0.02,0.04,3.3,0.0
+43,Read a novel on my bed,Go sight seeing with my friends,0.03,0.04,1.1,1.0
+44,Sleep on the couch,Go on a date with my partner,0.04,0.04,1.1,1.0
+45,Go sight seeing with my friends,Read Tony Robins book on sales and marketing,0.05,0.04,4.4,0.0
+46,Watch movies with my partner,Listen to music on the bed,0.01,0.05,8.8,0.0
+47,Watch movies with my partner,Read a novel on my bed,0.02,0.05,1.1,0.0
+48,Sniffing my partners outfits because I miss him,Play with my kids,0.03,0.05,4.4,1.0
+49,Sit in the sofa,Travel with my family to a new city,0.04,0.05,3.3,1.0
+50,Watch movies with my partner,Browse apparel shops online,0.05,0.05,1.1,0.0
+51,have a drink at the bar with friends,Sleep on the couch,0.01,0.01,1.1,0.0
+52,Sit in the sofa,have a drink at the bar with friends,0.02,0.01,3.3,1.0
+53,Browse apparel shops online,Go for a picnic with my family,0.03,0.01,1.1,1.0
+54,Browse apparel shops online,have a drink at the bar with friends,0.04,0.01,4.4,1.0
+55,Watch movies with my partner,Sleep on the couch,0.05,0.01,1.1,0.0
+56,Travel with my family to a new city,Browse apparel shops online,0.01,0.02,8.8,0.0
+57,Talk to my mother on video call,Clean the living room,0.02,0.02,4.4,0.0
+58,Lay bed in my bedroom deep in my thoughts,Go to see a movie with friends,0.03,0.02,4.4,1.0
+59,Read Tony Robins book on sales and marketing,Play with my kids,0.04,0.02,4.4,1.0
+60,have a drink at the bar with friends,Lay bed in my bedroom deep in my thoughts,0.05,0.02,1.1,0.0
+61,Go sight seeing with my friends,Watch a cooking show on social media,0.01,0.03,3.3,0.0
+62,Lay bed in my bedroom deep in my thoughts,Go on a date with my partner,0.02,0.03,3.3,1.0
+63,Play with my kids,Clean the living room,0.03,0.03,3.3,0.0
+64,Lay bed in my bedroom deep in my thoughts,Play with my kids,0.04,0.03,1.1,1.0
+65,Travel with my family to a new city,Read Tony Robins book on sales and marketing,0.05,0.03,1.1,0.0
+66,Go for a picnic with my family,Sit in the sofa,0.01,0.04,1.1,0.0
+67,Watch a cooking show on social media,Watch movies with my partner,0.02,0.04,8.8,1.0
+68,Sniffing my partners outfits because I miss him,Laugh with my partner,0.03,0.04,4.4,1.0
+69,Talk to my mother on video call,Listen to music on the bed,0.04,0.04,1.1,0.0
+70,Go for a picnic with my family,Read a novel on my bed,0.05,0.04,1.1,0.0
+71,Sit in the sofa,Talk to my mother on video call,0.01,0.05,3.3,1.0
+72,Read Tony Robins book on sales and marketing,Go for a picnic with my family,0.02,0.05,8.8,1.0
+73,Sniffing my partners outfits because I miss him,Go on a date with my partner,0.03,0.05,3.3,1.0
+74,Talk to my mother on video call,Browse apparel shops online,0.04,0.05,4.4,0.0
+75,Read a novel on my bed,Talk to my mother on video call,0.05,0.05,3.3,1.0
+76,Watch a cooking show on social media,Go for a picnic with my family,0.01,0.01,1.1,1.0
+77,Clean the living room,Go sight seeing with my friends,0.02,0.01,8.8,1.0
+78,Laugh with my partner,Read Tony Robins book on sales and marketing,0.03,0.01,1.1,0.0
+79,Browse apparel shops online,Go to see a movie with friends,0.04,0.01,1.1,1.0
+80,Read Tony Robins book on sales and marketing,Watch movies with my partner,0.05,0.01,4.4,1.0
+81,have a drink at the bar with friends,Listen to music on the bed,0.01,0.02,3.3,0.0
+82,Read a novel on my bed,Laugh with my partner,0.02,0.02,4.4,1.0
+83,have a drink at the bar with friends,Read a novel on my bed,0.03,0.02,1.1,0.0
+84,Play with my kids,Read a novel on my bed,0.04,0.02,3.3,0.0
+85,Go to see a movie with friends,Listen to music on the bed,0.05,0.02,3.3,0.0
+86,Clean the living room,Watch movies with my partner,0.01,0.03,1.1,1.0
+87,Sleep on the couch,Travel with my family to a new city,0.02,0.03,4.4,1.0
+88,Sit in the sofa,Laugh with my partner,0.03,0.03,1.1,1.0
+89,Go for a picnic with my family,Sleep on the couch,0.04,0.03,3.3,0.0
+90,Listen to music on the bed,Play with my kids,0.05,0.03,8.8,1.0
+91,Go sight seeing with my friends,Sit in the sofa,0.01,0.04,3.3,0.0
+92,Clean the living room,Go to see a movie with friends,0.02,0.04,8.8,1.0
+93,Go sight seeing with my friends,Sniffing my partners outfits because I miss him,0.03,0.04,1.1,0.0
+94,Watch a cooking show on social media,Talk to my mother on video call,0.04,0.04,4.4,1.0
+95,Lay bed in my bedroom deep in my thoughts,Laugh with my partner,0.05,0.04,4.4,1.0
+96,Sniffing my partners outfits because I miss him,Talk to my mother on video call,0.01,0.05,3.3,1.0
+97,Go sight seeing with my friends,Sleep on the couch,0.02,0.05,1.1,0.0
+98,Go sight seeing with my friends,Listen to music on the bed,0.03,0.05,1.1,0.0
+99,Read a novel on my bed,Travel with my family to a new city,0.04,0.05,3.3,1.0
+100,Read a novel on my bed,Go on a date with my partner,0.05,0.05,4.4,1.0

@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,walk around the park with friends,walk in the park ,0.01,0.01,4.4,0.0
+2,sit out & see the stars with my best friend,enjoy sewing,0.02,0.01,8.8,0.0
+3,make food with my family,enjoy sewing,0.03,0.01,3.3,0.0
+4,workout at the gym with my best friend,long baths to relax myself ,0.04,0.01,1.1,0.0
+5,go to the spa with my cousins,watch history documentaries ,0.05,0.01,1.1,0.0
+6,make videos  ,make food with my family,0.01,0.02,3.3,1.0
+7,walk in the park ,go to the spa with my cousins,0.02,0.02,1.1,1.0
+8,sit out & see the stars with my best friend,window watch sometimes,0.03,0.02,1.1,0.0
+9,listen to music,go shopping at the mall with my mom,0.04,0.02,4.4,1.0
+10,read books,hang out at home with friends ,0.05,0.02,1.1,1.0
+11,hang out at home with friends ,enjoy sewing,0.01,0.03,3.3,0.0
+12,enjoy sewing,go to the spa with my cousins,0.02,0.03,4.4,1.0
+13,hang out at home with friends ,make videos  ,0.03,0.03,1.1,0.0
+14,play sims 4 on my laptop ,sit out & see the stars with my best friend,0.04,0.03,3.3,1.0
+15,read books,go to the beach with my partner,0.05,0.03,4.4,1.0
+16,walk in the park ,go to the beach with my partner,0.01,0.04,1.1,1.0
+17,window watch sometimes,go shopping at the mall with my mom,0.02,0.04,8.8,1.0
+18,hang out at home with friends ,watch history documentaries ,0.03,0.04,3.3,0.0
+19,play sims 4 on my laptop ,walk around the park with friends,0.04,0.04,3.3,1.0
+20,hang out at home with friends ,play sims 4 on my laptop ,0.05,0.04,1.1,0.0
+21,sit out & see the stars with my best friend,long baths to relax myself ,0.01,0.05,8.8,0.0
+22,enjoy sewing,workout at the gym with my best friend,0.02,0.05,4.4,1.0
+23,listen to music,make food with my family,0.03,0.05,1.1,1.0
+24,go to the movies with my mom,enjoy sewing,0.04,0.05,4.4,0.0
+25,hang out at home with friends ,window watch sometimes,0.05,0.05,3.3,0.0
+26,play sims 4 on my laptop ,make food with my family,0.01,0.01,4.4,1.0
+27,make food with my family,window watch sometimes,0.02,0.01,3.3,0.0
+28,go shopping at the mall with my mom,walk in the park ,0.03,0.01,3.3,0.0
+29,make food with my family,read books,0.04,0.01,4.4,0.0
+30,go to the beach with my partner,enjoy sewing,0.05,0.01,8.8,0.0
+31,go to the spa with my cousins,listen to music,0.01,0.02,8.8,0.0
+32,go to the beach with my partner,watch history documentaries ,0.02,0.02,1.1,0.0
+33,read books,go out to eat with my family ,0.03,0.02,4.4,1.0
+34,enjoy sewing,walk around the park with friends,0.04,0.02,3.3,1.0
+35,listen to music,go to the movies with my mom,0.05,0.02,1.1,1.0
+36,watch history documentaries ,make food with my family,0.01,0.03,3.3,1.0
+37,workout at the gym with my best friend,watch history documentaries ,0.02,0.03,1.1,0.0
+38,make pastries,go to the spa with my cousins,0.03,0.03,1.1,1.0
+39,sit out & see the stars with my best friend,watch history documentaries ,0.04,0.03,3.3,0.0
+40,watch history documentaries ,go to the movies with my mom,0.05,0.03,4.4,1.0
+41,go out to eat with my family ,walk in the park ,0.01,0.04,1.1,0.0
+42,go shopping at the mall with my mom,read books,0.02,0.04,3.3,0.0
+43,window watch sometimes,workout at the gym with my best friend,0.03,0.04,1.1,1.0
+44,make videos  ,sit out & see the stars with my best friend,0.04,0.04,1.1,1.0
+45,walk in the park ,hang out at home with friends ,0.05,0.04,4.4,1.0
+46,window watch sometimes,walk around the park with friends,0.01,0.05,8.8,1.0
+47,long baths to relax myself ,go to the spa with my cousins,0.02,0.05,1.1,1.0
+48,walk around the park with friends,listen to music,0.03,0.05,4.4,0.0
+49,workout at the gym with my best friend,walk in the park ,0.04,0.05,3.3,0.0
+50,go to the movies with my mom,read books,0.05,0.05,1.1,0.0
+51,make videos  ,go to the movies with my mom,0.01,0.01,1.1,1.0
+52,go shopping at the mall with my mom,watch history documentaries ,0.02,0.01,3.3,0.0
+53,go shopping at the mall with my mom,make pastries,0.03,0.01,1.1,0.0
+54,make food with my family,walk in the park ,0.04,0.01,4.4,0.0
+55,make pastries,workout at the gym with my best friend,0.05,0.01,1.1,1.0
+56,long baths to relax myself ,make food with my family,0.01,0.02,8.8,1.0
+57,window watch sometimes,go to the beach with my partner,0.02,0.02,4.4,1.0
+58,listen to music,go to the beach with my partner,0.03,0.02,4.4,1.0
+59,workout at the gym with my best friend,play sims 4 on my laptop ,0.04,0.02,4.4,0.0
+60,watch history documentaries ,go out to eat with my family ,0.05,0.02,1.1,1.0
+61,walk in the park ,sit out & see the stars with my best friend,0.01,0.03,3.3,1.0
+62,go to the beach with my partner,play sims 4 on my laptop ,0.02,0.03,3.3,0.0
+63,go out to eat with my family ,make pastries,0.03,0.03,3.3,0.0
+64,long baths to relax myself ,go out to eat with my family ,0.04,0.03,1.1,1.0
+65,workout at the gym with my best friend,listen to music,0.05,0.03,1.1,0.0
+66,go shopping at the mall with my mom,enjoy sewing,0.01,0.04,1.1,0.0
+67,long baths to relax myself ,go shopping at the mall with my mom,0.02,0.04,8.8,1.0
+68,go out to eat with my family ,enjoy sewing,0.03,0.04,4.4,0.0
+69,long baths to relax myself ,hang out at home with friends ,0.04,0.04,1.1,1.0
+70,window watch sometimes,go to the spa with my cousins,0.05,0.04,1.1,1.0
+71,make videos  ,workout at the gym with my best friend,0.01,0.05,3.3,1.0
+72,make pastries,walk around the park with friends,0.02,0.05,8.8,1.0
+73,read books,workout at the gym with my best friend,0.03,0.05,3.3,1.0
+74,hang out at home with friends ,listen to music,0.04,0.05,4.4,0.0
+75,read books,go to the spa with my cousins,0.05,0.05,3.3,1.0
+76,long baths to relax myself ,go to the beach with my partner,0.01,0.01,1.1,1.0
+77,play sims 4 on my laptop ,go shopping at the mall with my mom,0.02,0.01,8.8,1.0
+78,sit out & see the stars with my best friend,make pastries,0.03,0.01,1.1,0.0
+79,go shopping at the mall with my mom,make videos  ,0.04,0.01,1.1,0.0
+80,read books,sit out & see the stars with my best friend,0.05,0.01,4.4,1.0
+81,listen to music,go out to eat with my family ,0.01,0.02,3.3,1.0
+82,go out to eat with my family ,play sims 4 on my laptop ,0.02,0.02,4.4,0.0
+83,go to the beach with my partner,make pastries,0.03,0.02,1.1,0.0
+84,watch history documentaries ,walk around the park with friends,0.04,0.02,3.3,1.0
+85,make videos  ,go out to eat with my family ,0.05,0.02,3.3,1.0
+86,walk around the park with friends,make videos  ,0.01,0.03,1.1,0.0
+87,make food with my family,make pastries,0.02,0.03,4.4,0.0
+88,go to the movies with my mom,play sims 4 on my laptop ,0.03,0.03,1.1,0.0
+89,make videos  ,go to the beach with my partner,0.04,0.03,3.3,1.0
+90,play sims 4 on my laptop ,go to the spa with my cousins,0.05,0.03,8.8,1.0
+91,long baths to relax myself ,go to the movies with my mom,0.01,0.04,3.3,1.0
+92,go to the spa with my cousins,make videos  ,0.02,0.04,8.8,0.0
+93,hang out at home with friends ,make pastries,0.03,0.04,1.1,0.0
+94,sit out & see the stars with my best friend,listen to music,0.04,0.04,4.4,0.0
+95,read books,walk around the park with friends,0.05,0.04,4.4,1.0
+96,go to the movies with my mom,window watch sometimes,0.01,0.05,3.3,0.0
+97,go to the movies with my mom,walk in the park ,0.02,0.05,1.1,0.0
+98,long baths to relax myself ,walk around the park with friends,0.03,0.05,1.1,1.0
+99,go to the movies with my mom,make pastries,0.04,0.05,3.3,0.0
+100,go out to eat with my family ,window watch sometimes,0.05,0.05,4.4,0.0
