@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Attending a concert with my partner,run,0.01,0.01,4.4,0.0
+2,Have a picnic with my family,Hike to my favorite spots,0.02,0.01,8.8,0.0
+3,Seeing a movie with my partner,Cook a new recipe,0.03,0.01,3.3,0.0
+4,Listen to my favorite playlist,Go to the bar to have some drinks with friends,0.04,0.01,1.1,1.0
+5,Play fetch with my dogs and teaching them tricks,Seeing a movie with my partner,0.05,0.01,1.1,1.0
+6,Read on my bed,Take a camping trip with my partner,0.01,0.02,3.3,1.0
+7,Go sight seeing with my partner,Read on my bed,0.02,0.02,1.1,0.0
+8,Go skiing or ice skating with my partner,run,0.03,0.02,1.1,0.0
+9,Go to the bar to have some drinks with friends,Cook a new recipe,0.04,0.02,4.4,0.0
+10,Have a picnic with my family,Play fetch with my dogs and teaching them tricks,0.05,0.02,1.1,0.0
+11,Read on my bed,Go skiing or ice skating with my partner,0.01,0.03,3.3,1.0
+12,run,Have a picnic with my family,0.02,0.03,4.4,1.0
+13,Play fetch with my dogs and teaching them tricks,Go to the bar to have some drinks with friends,0.03,0.03,1.1,1.0
+14,Read on my bed,Have a picnic with my family,0.04,0.03,3.3,1.0
+15,Take a drive ,Attending a concert with my partner,0.05,0.03,4.4,1.0
+16,Take a camping trip with my partner,Go to the beach,0.01,0.04,1.1,0.0
+17,Take a camping trip with my partner,Play fetch with my dogs and teaching them tricks,0.02,0.04,8.8,0.0
+18,Play fetch with my dogs and teaching them tricks,Try out a new restaurant with my partner,0.03,0.04,3.3,1.0
+19,Cook a new recipe,Take a camping trip with my partner,0.04,0.04,3.3,1.0
+20,Watch a game at the stadium,Seeing a movie with my partner,0.05,0.04,1.1,1.0
+21,Go to the beach,Go skiing or ice skating with my partner,0.01,0.05,8.8,1.0
+22,Watch a game at the stadium,Going for a swim with my friends,0.02,0.05,4.4,1.0
+23,Listen to my favorite playlist,Going for a swim with my friends,0.03,0.05,1.1,1.0
+24,Go to the beach,Go to the bar to have some drinks with friends,0.04,0.05,4.4,1.0
+25,Listen to my favorite playlist,Have a picnic with my family,0.05,0.05,3.3,1.0
+26,Hike to my favorite spots,Go sight seeing with my partner,0.01,0.01,4.4,1.0
+27,run,Try out a new restaurant with my partner,0.02,0.01,3.3,1.0
+28,Going for a swim with my friends,Take a swim,0.03,0.01,3.3,0.0
+29,Take a camping trip with my partner,Watch a game at the stadium,0.04,0.01,4.4,0.0
+30,Try out a new restaurant with my partner,Take a swim,0.05,0.01,8.8,0.0
+31,Go sight seeing with my partner,Cook a new recipe,0.01,0.02,8.8,0.0
+32,Go to the beach,Go hiking with my partner,0.02,0.02,1.1,1.0
+33,Go sight seeing with my partner,Watch a game at the stadium,0.03,0.02,4.4,0.0
+34,Hike to my favorite spots,Going for a swim with my friends,0.04,0.02,3.3,1.0
+35,Go to the bar to have some drinks with friends,Take a swim,0.05,0.02,1.1,0.0
+36,Seeing a movie with my partner,Listen to my favorite playlist,0.01,0.03,3.3,0.0
+37,Go to the bar to have some drinks with friends,Watch a game at the stadium,0.02,0.03,1.1,0.0
+38,Watch a game at the stadium,Have a picnic with my family,0.03,0.03,1.1,1.0
+39,Listen to my favorite playlist,Attending a concert with my partner,0.04,0.03,3.3,1.0
+40,Hike to my favorite spots,Attending a concert with my partner,0.05,0.03,4.4,1.0
+41,Try out a new restaurant with my partner,Hike to my favorite spots,0.01,0.04,1.1,0.0
+42,Go skiing or ice skating with my partner,Cook a new recipe,0.02,0.04,3.3,0.0
+43,Take a drive ,Going for a swim with my friends,0.03,0.04,1.1,1.0
+44,Hike to my favorite spots,Seeing a movie with my partner,0.04,0.04,1.1,1.0
+45,Go hiking with my partner,Take a drive ,0.05,0.04,4.4,0.0
+46,Play fetch with my dogs and teaching them tricks,Go hiking with my partner,0.01,0.05,8.8,1.0
+47,Hike to my favorite spots,Go to the bar to have some drinks with friends,0.02,0.05,1.1,1.0
+48,Seeing a movie with my partner,run,0.03,0.05,4.4,0.0
+49,run,Go hiking with my partner,0.04,0.05,3.3,1.0
+50,Go hiking with my partner,Read on my bed,0.05,0.05,1.1,0.0
+51,Go to the beach,Have a picnic with my family,0.01,0.01,1.1,1.0
+52,Attending a concert with my partner,Go to the beach,0.02,0.01,3.3,0.0
+53,Cook a new recipe,Going for a swim with my friends,0.03,0.01,1.1,1.0
+54,Watch a game at the stadium,Attending a concert with my partner,0.04,0.01,4.4,1.0
+55,Take a camping trip with my partner,run,0.05,0.01,1.1,0.0
+56,Go sight seeing with my partner,Play fetch with my dogs and teaching them tricks,0.01,0.02,8.8,0.0
+57,Go sight seeing with my partner,Go to the beach,0.02,0.02,4.4,0.0
+58,Go sight seeing with my partner,run,0.03,0.02,4.4,0.0
+59,Seeing a movie with my partner,Take a drive ,0.04,0.02,4.4,0.0
+60,Try out a new restaurant with my partner,Cook a new recipe,0.05,0.02,1.1,0.0
+61,Take a camping trip with my partner,Hike to my favorite spots,0.01,0.03,3.3,0.0
+62,Watch a game at the stadium,Go skiing or ice skating with my partner,0.02,0.03,3.3,1.0
+63,Attending a concert with my partner,Cook a new recipe,0.03,0.03,3.3,0.0
+64,Seeing a movie with my partner,Read on my bed,0.04,0.03,1.1,0.0
+65,Go to the bar to have some drinks with friends,Read on my bed,0.05,0.03,1.1,0.0
+66,Take a drive ,Try out a new restaurant with my partner,0.01,0.04,1.1,1.0
+67,run,Going for a swim with my friends,0.02,0.04,8.8,1.0
+68,Cook a new recipe,Go hiking with my partner,0.03,0.04,4.4,1.0
+69,Watch a game at the stadium,Go hiking with my partner,0.04,0.04,1.1,1.0
+70,Try out a new restaurant with my partner,Listen to my favorite playlist,0.05,0.04,1.1,0.0
+71,Play fetch with my dogs and teaching them tricks,Going for a swim with my friends,0.01,0.05,3.3,1.0
+72,Go sight seeing with my partner,Take a drive ,0.02,0.05,8.8,0.0
+73,Go to the beach,Seeing a movie with my partner,0.03,0.05,3.3,1.0
+74,Watch a game at the stadium,Try out a new restaurant with my partner,0.04,0.05,4.4,1.0
+75,Take a swim,Have a picnic with my family,0.05,0.05,3.3,1.0
+76,Hike to my favorite spots,Go hiking with my partner,0.01,0.01,1.1,1.0
+77,Go skiing or ice skating with my partner,Take a drive ,0.02,0.01,8.8,0.0
+78,Go to the beach,Going for a swim with my friends,0.03,0.01,1.1,1.0
+79,Attending a concert with my partner,Read on my bed,0.04,0.01,1.1,0.0
+80,Listen to my favorite playlist,Take a camping trip with my partner,0.05,0.01,4.4,1.0
+81,Cook a new recipe,Have a picnic with my family,0.01,0.02,3.3,1.0
+82,Go skiing or ice skating with my partner,Play fetch with my dogs and teaching them tricks,0.02,0.02,4.4,0.0
+83,Attending a concert with my partner,Play fetch with my dogs and teaching them tricks,0.03,0.02,1.1,0.0
+84,Go sight seeing with my partner,Listen to my favorite playlist,0.04,0.02,3.3,0.0
+85,Going for a swim with my friends,Read on my bed,0.05,0.02,3.3,0.0
+86,Go sight seeing with my partner,Take a swim,0.01,0.03,1.1,0.0
+87,Go to the bar to have some drinks with friends,Take a drive ,0.02,0.03,4.4,0.0
+88,Take a swim,Go hiking with my partner,0.03,0.03,1.1,1.0
+89,Take a drive ,Have a picnic with my family,0.04,0.03,3.3,1.0
+90,Take a swim,Take a camping trip with my partner,0.05,0.03,8.8,1.0
+91,Go skiing or ice skating with my partner,Take a swim,0.01,0.04,3.3,0.0
+92,Go to the bar to have some drinks with friends,run,0.02,0.04,8.8,0.0
+93,Take a drive ,Take a camping trip with my partner,0.03,0.04,1.1,1.0
+94,Try out a new restaurant with my partner,Read on my bed,0.04,0.04,4.4,0.0
+95,Go hiking with my partner,Listen to my favorite playlist,0.05,0.04,4.4,0.0
+96,Attending a concert with my partner,Take a swim,0.01,0.05,3.3,0.0
+97,Try out a new restaurant with my partner,Go to the beach,0.02,0.05,1.1,0.0
+98,Go skiing or ice skating with my partner,Listen to my favorite playlist,0.03,0.05,1.1,0.0
+99,Hike to my favorite spots,Go skiing or ice skating with my partner,0.04,0.05,3.3,1.0
+100,Take a swim,Seeing a movie with my partner,0.05,0.05,4.4,1.0
