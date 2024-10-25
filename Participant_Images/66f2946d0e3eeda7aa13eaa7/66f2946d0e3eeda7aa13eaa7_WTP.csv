@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Eat out with my friends,Go out to parties downtown,0.01,0.01,4.4,0.0
+2,Work out with my friends,Eat at amazing restaurants with friends,0.02,0.01,8.8,0.0
+3,Eat out with my friends,Go on vacations with my family,0.03,0.01,3.3,0.0
+4,Drink and party with high school friends,Watch rain fall by myself,0.04,0.01,1.1,0.0
+5,Eat at amazing restaurants with friends,Help my brothers with questions and stuff,0.05,0.01,1.1,1.0
+6,Go on vacations with my family,Help my brothers with questions and stuff,0.01,0.02,3.3,1.0
+7,Help my brothers with questions and stuff,Go to the gym in the mornings,0.02,0.02,1.1,0.0
+8,Do club activities with my clubmates,Go on vacations with my family,0.03,0.02,1.1,0.0
+9,Go out to parties downtown,Do club activities with my clubmates,0.04,0.02,4.4,1.0
+10,Talk to my mom and grandparents over the phone,Go on vacations with my family,0.05,0.02,1.1,0.0
+11,Help my brothers with questions and stuff,Read in my comfy bed,0.01,0.03,3.3,0.0
+12,Go to work on cold days,Help my brothers with questions and stuff,0.02,0.03,4.4,1.0
+13,Game with friends in my room,Game with my boys,0.03,0.03,1.1,1.0
+14,Eat at amazing restaurants with friends,Drink and party with high school friends,0.04,0.03,3.3,1.0
+15,Go out to parties downtown,Work out with my friends,0.05,0.03,4.4,1.0
+16,Go on mini road trips with high school friends,Read in my comfy bed,0.01,0.04,1.1,0.0
+17,Play sports with my boys,Relax and watch a show or movie,0.02,0.04,8.8,0.0
+18,Go on mini road trips with high school friends,Go out to parties downtown,0.03,0.04,3.3,0.0
+19,Spend time with my girlfriend,Watch rain fall by myself,0.04,0.04,3.3,0.0
+20,Drink and party with high school friends,Relax and watch a show or movie,0.05,0.04,1.1,0.0
+21,Eat at amazing restaurants with friends,Spend time with my girlfriend,0.01,0.05,8.8,1.0
+22,Game with friends in my room,Spend time with my girlfriend,0.02,0.05,4.4,1.0
+23,Drink and party with high school friends,Go to work on cold days,0.03,0.05,1.1,0.0
+24,Go to the gym in the mornings,Go on mini road trips with high school friends,0.04,0.05,4.4,1.0
+25,Game with my boys,Go on vacations with my family,0.05,0.05,3.3,0.0
+26,Spend time with my girlfriend,Read in my comfy bed,0.01,0.01,4.4,0.0
+27,Eat at amazing restaurants with friends,Eat out with my friends,0.02,0.01,3.3,1.0
+28,Talk to my mom and grandparents over the phone,Go to work on cold days,0.03,0.01,3.3,0.0
+29,Read in my comfy bed,Eat out with my friends,0.04,0.01,4.4,1.0
+30,Spend time with my girlfriend,Go to the gym in the mornings,0.05,0.01,8.8,0.0
+31,Drink and party with high school friends,Read in my comfy bed,0.01,0.02,8.8,0.0
+32,Relax and watch a show or movie,Do club activities with my clubmates,0.02,0.02,1.1,1.0
+33,Spend time with my girlfriend,Relax and watch a show or movie,0.03,0.02,4.4,0.0
+34,Help my brothers with questions and stuff,Go out to parties downtown,0.04,0.02,3.3,0.0
+35,Work out with my friends,Go to work on cold days,0.05,0.02,1.1,0.0
+36,Drink and party with high school friends,Go to the gym in the mornings,0.01,0.03,3.3,0.0
+37,Eat out with my friends,Go to the gym in the mornings,0.02,0.03,1.1,0.0
+38,Take pictures of amazing views or moments,Drink and party with high school friends,0.03,0.03,1.1,1.0
+39,Read in my comfy bed,Play sports with my boys,0.04,0.03,3.3,1.0
+40,Do club activities with my clubmates,Go to the gym in the mornings,0.05,0.03,4.4,0.0
+41,Talk to my mom and grandparents over the phone,Take pictures of amazing views or moments,0.01,0.04,1.1,0.0
+42,Drink and party with high school friends,Game with friends in my room,0.02,0.04,3.3,0.0
+43,Drink and party with high school friends,Go out to parties downtown,0.03,0.04,1.1,0.0
+44,Talk to my mom and grandparents over the phone,Relax and watch a show or movie,0.04,0.04,1.1,0.0
+45,Eat out with my friends,Go to work on cold days,0.05,0.04,4.4,0.0
+46,Drink and party with high school friends,Go on vacations with my family,0.01,0.05,8.8,0.0
+47,Watch rain fall by myself,Eat out with my friends,0.02,0.05,1.1,1.0
+48,Take pictures of amazing views or moments,Help my brothers with questions and stuff,0.03,0.05,4.4,1.0
+49,Game with friends in my room,Talk to my mom and grandparents over the phone,0.04,0.05,3.3,1.0
+50,Go to work on cold days,Play sports with my boys,0.05,0.05,1.1,1.0
+51,Go to the gym in the mornings,Talk to my mom and grandparents over the phone,0.01,0.01,1.1,1.0
+52,Game with friends in my room,Go on mini road trips with high school friends,0.02,0.01,3.3,1.0
+53,Eat at amazing restaurants with friends,Go on mini road trips with high school friends,0.03,0.01,1.1,1.0
+54,Eat out with my friends,Relax and watch a show or movie,0.04,0.01,4.4,0.0
+55,Go on mini road trips with high school friends,Watch rain fall by myself,0.05,0.01,1.1,0.0
+56,Game with my boys,Go out to parties downtown,0.01,0.02,8.8,0.0
+57,Do club activities with my clubmates,Watch rain fall by myself,0.02,0.02,4.4,0.0
+58,Relax and watch a show or movie,Help my brothers with questions and stuff,0.03,0.02,4.4,1.0
+59,Go on vacations with my family,Spend time with my girlfriend,0.04,0.02,4.4,1.0
+60,Take pictures of amazing views or moments,Go on mini road trips with high school friends,0.05,0.02,1.1,1.0
+61,Go on vacations with my family,Play sports with my boys,0.01,0.03,3.3,1.0
+62,Go on vacations with my family,Work out with my friends,0.02,0.03,3.3,1.0
+63,Work out with my friends,Take pictures of amazing views or moments,0.03,0.03,3.3,0.0
+64,Talk to my mom and grandparents over the phone,Watch rain fall by myself,0.04,0.03,1.1,0.0
+65,Relax and watch a show or movie,Go on mini road trips with high school friends,0.05,0.03,1.1,1.0
+66,Go out to parties downtown,Talk to my mom and grandparents over the phone,0.01,0.04,1.1,1.0
+67,Watch rain fall by myself,Game with my boys,0.02,0.04,8.8,1.0
+68,Spend time with my girlfriend,Take pictures of amazing views or moments,0.03,0.04,4.4,0.0
+69,Read in my comfy bed,Game with my boys,0.04,0.04,1.1,1.0
+70,Go to work on cold days,Game with my boys,0.05,0.04,1.1,1.0
+71,Go on vacations with my family,Go on mini road trips with high school friends,0.01,0.05,3.3,1.0
+72,Read in my comfy bed,Do club activities with my clubmates,0.02,0.05,8.8,1.0
+73,Watch rain fall by myself,Help my brothers with questions and stuff,0.03,0.05,3.3,1.0
+74,Go to work on cold days,Do club activities with my clubmates,0.04,0.05,4.4,1.0
+75,Game with friends in my room,Do club activities with my clubmates,0.05,0.05,3.3,1.0
+76,Eat out with my friends,Game with friends in my room,0.01,0.01,1.1,0.0
+77,Eat at amazing restaurants with friends,Game with my boys,0.02,0.01,8.8,1.0
+78,Game with friends in my room,Play sports with my boys,0.03,0.01,1.1,1.0
+79,Go out to parties downtown,Spend time with my girlfriend,0.04,0.01,1.1,1.0
+80,Eat out with my friends,Take pictures of amazing views or moments,0.05,0.01,4.4,0.0
+81,Go to work on cold days,Go on mini road trips with high school friends,0.01,0.02,3.3,1.0
+82,Take pictures of amazing views or moments,Play sports with my boys,0.02,0.02,4.4,1.0
+83,Talk to my mom and grandparents over the phone,Eat at amazing restaurants with friends,0.03,0.02,1.1,0.0
+84,Work out with my friends,Relax and watch a show or movie,0.04,0.02,3.3,0.0
+85,Work out with my friends,Game with friends in my room,0.05,0.02,3.3,0.0
+86,Play sports with my boys,Watch rain fall by myself,0.01,0.03,1.1,0.0
+87,Go out to parties downtown,Play sports with my boys,0.02,0.03,4.4,1.0
+88,Read in my comfy bed,Talk to my mom and grandparents over the phone,0.03,0.03,1.1,1.0
+89,Game with my boys,Relax and watch a show or movie,0.04,0.03,3.3,0.0
+90,Eat at amazing restaurants with friends,Do club activities with my clubmates,0.05,0.03,8.8,1.0
+91,Go to the gym in the mornings,Play sports with my boys,0.01,0.04,3.3,1.0
+92,Go to the gym in the mornings,Work out with my friends,0.02,0.04,8.8,1.0
+93,Go to the gym in the mornings,Game with my boys,0.03,0.04,1.1,1.0
+94,Eat at amazing restaurants with friends,Play sports with my boys,0.04,0.04,4.4,1.0
+95,Do club activities with my clubmates,Take pictures of amazing views or moments,0.05,0.04,4.4,0.0
+96,Work out with my friends,Read in my comfy bed,0.01,0.05,3.3,0.0
+97,Work out with my friends,Watch rain fall by myself,0.02,0.05,1.1,0.0
+98,Help my brothers with questions and stuff,Game with friends in my room,0.03,0.05,1.1,0.0
+99,Go to work on cold days,Spend time with my girlfriend,0.04,0.05,3.3,1.0
+100,Game with my boys,Take pictures of amazing views or moments,0.05,0.05,4.4,0.0
