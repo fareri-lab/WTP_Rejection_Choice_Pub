@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,color in adult coloring books,do paint activities with my children,0.01,0.01,4.4,1.0
+2,edit pictures on my computer,yard sell with my best friend,0.02,0.01,8.8,1.0
+3,thrift in the big city with my husband,read my kindle on my porch,0.03,0.01,3.3,0.0
+4,go on hikes in the badlands,yard sell with my best friend,0.04,0.01,1.1,1.0
+5,go on hikes in the badlands,talk to other moms and dads while watch my kids play sports,0.05,0.01,1.1,1.0
+6,go on hikes in the badlands,have photoshoots with different families,0.01,0.02,3.3,1.0
+7,draw cartoon figures with colored pencils,go to indoor museums with my children,0.02,0.02,1.1,1.0
+8,read my kindle on my porch,hik in the national parks with my husband and children,0.03,0.02,1.1,1.0
+9,thrift in the big city with my husband,bake baked goods,0.04,0.02,4.4,0.0
+10,spend the day shopping with my best friend ,stargaze late at night with binoculars ,0.05,0.02,1.1,0.0
+11,bake baked goods,talk to other moms and dads while watch my kids play sports,0.01,0.03,3.3,1.0
+12,spend the day shopping with my best friend ,edit pictures on my computer,0.02,0.03,4.4,0.0
+13,stargaze late at night with binoculars ,do paint activities with my children,0.03,0.03,1.1,1.0
+14,have dinner parties with my family best friend and her family,draw cartoon figures with colored pencils,0.04,0.03,3.3,0.0
+15,have photoshoots with different families,take photos of nature and animals,0.05,0.03,4.4,0.0
+16,go on hikes in the badlands,hik in the national parks with my husband and children,0.01,0.04,1.1,1.0
+17,thrift in the big city with my husband,listen to music while i crochet,0.02,0.04,8.8,0.0
+18,yard sell with my best friend,draw cartoon figures with colored pencils,0.03,0.04,3.3,0.0
+19,edit pictures on my computer,hik in the national parks with my husband and children,0.04,0.04,3.3,1.0
+20,take photos of nature and animals,do paint activities with my children,0.05,0.04,1.1,1.0
+21,go bird hunt with my husband,draw cartoon figures with colored pencils,0.01,0.05,8.8,0.0
+22,take photos of nature and animals,go to indoor museums with my children,0.02,0.05,4.4,1.0
+23,pheasant hunt on the prairies,do paint activities with my children,0.03,0.05,1.1,1.0
+24,talk to other moms and dads while watch my kids play sports,color in adult coloring books,0.04,0.05,4.4,0.0
+25,spend the day shopping with my best friend ,read my kindle on my porch,0.05,0.05,3.3,0.0
+26,listen to music while i crochet,have dinner parties with my family best friend and her family,0.01,0.01,4.4,1.0
+27,pheasant hunt on the prairies,talk to other moms and dads while watch my kids play sports,0.02,0.01,3.3,1.0
+28,take photos of nature and animals,yard sell with my best friend,0.03,0.01,3.3,1.0
+29,yard sell with my best friend,stargaze late at night with binoculars ,0.04,0.01,4.4,0.0
+30,have photoshoots with different families,edit pictures on my computer,0.05,0.01,8.8,0.0
+31,do paint activities with my children,go on hikes in the badlands,0.01,0.02,8.8,0.0
+32,hik in the national parks with my husband and children,listen to music while i crochet,0.02,0.02,1.1,0.0
+33,have dinner parties with my family best friend and her family,go on hikes in the badlands,0.03,0.02,4.4,0.0
+34,pheasant hunt on the prairies,go bird hunt with my husband,0.04,0.02,3.3,1.0
+35,stargaze late at night with binoculars ,have dinner parties with my family best friend and her family,0.05,0.02,1.1,1.0
+36,thrift in the big city with my husband,edit pictures on my computer,0.01,0.03,3.3,0.0
+37,have photoshoots with different families,color in adult coloring books,0.02,0.03,1.1,0.0
+38,go on hikes in the badlands,spend the day shopping with my best friend ,0.03,0.03,1.1,1.0
+39,edit pictures on my computer,do paint activities with my children,0.04,0.03,3.3,1.0
+40,draw cartoon figures with colored pencils,thrift in the big city with my husband,0.05,0.03,4.4,1.0
+41,have photoshoots with different families,listen to music while i crochet,0.01,0.04,1.1,0.0
+42,go bird hunt with my husband,take photos of nature and animals,0.02,0.04,3.3,0.0
+43,bake baked goods,go bird hunt with my husband,0.03,0.04,1.1,1.0
+44,spend the day shopping with my best friend ,draw cartoon figures with colored pencils,0.04,0.04,1.1,0.0
+45,listen to music while i crochet,go to indoor museums with my children,0.05,0.04,4.4,1.0
+46,stargaze late at night with binoculars ,thrift in the big city with my husband,0.01,0.05,8.8,1.0
+47,do paint activities with my children,bake baked goods,0.02,0.05,1.1,0.0
+48,go on hikes in the badlands,go bird hunt with my husband,0.03,0.05,4.4,1.0
+49,go to indoor museums with my children,stargaze late at night with binoculars ,0.04,0.05,3.3,0.0
+50,go bird hunt with my husband,listen to music while i crochet,0.05,0.05,1.1,0.0
+51,read my kindle on my porch,yard sell with my best friend,0.01,0.01,1.1,1.0
+52,have dinner parties with my family best friend and her family,color in adult coloring books,0.02,0.01,3.3,0.0
+53,draw cartoon figures with colored pencils,talk to other moms and dads while watch my kids play sports,0.03,0.01,1.1,1.0
+54,stargaze late at night with binoculars ,have photoshoots with different families,0.04,0.01,4.4,1.0
+55,bake baked goods,have dinner parties with my family best friend and her family,0.05,0.01,1.1,1.0
+56,go bird hunt with my husband,color in adult coloring books,0.01,0.02,8.8,0.0
+57,pheasant hunt on the prairies,spend the day shopping with my best friend ,0.02,0.02,4.4,1.0
+58,read my kindle on my porch,do paint activities with my children,0.03,0.02,4.4,1.0
+59,go bird hunt with my husband,stargaze late at night with binoculars ,0.04,0.02,4.4,0.0
+60,have dinner parties with my family best friend and her family,pheasant hunt on the prairies,0.05,0.02,1.1,0.0
+61,talk to other moms and dads while watch my kids play sports,edit pictures on my computer,0.01,0.03,3.3,0.0
+62,stargaze late at night with binoculars ,hik in the national parks with my husband and children,0.02,0.03,3.3,1.0
+63,pheasant hunt on the prairies,go to indoor museums with my children,0.03,0.03,3.3,1.0
+64,spend the day shopping with my best friend ,bake baked goods,0.04,0.03,1.1,0.0
+65,hik in the national parks with my husband and children,bake baked goods,0.05,0.03,1.1,0.0
+66,spend the day shopping with my best friend ,listen to music while i crochet,0.01,0.04,1.1,0.0
+67,stargaze late at night with binoculars ,talk to other moms and dads while watch my kids play sports,0.02,0.04,8.8,1.0
+68,thrift in the big city with my husband,color in adult coloring books,0.03,0.04,4.4,0.0
+69,edit pictures on my computer,go to indoor museums with my children,0.04,0.04,1.1,1.0
+70,read my kindle on my porch,talk to other moms and dads while watch my kids play sports,0.05,0.04,1.1,1.0
+71,pheasant hunt on the prairies,hik in the national parks with my husband and children,0.01,0.05,3.3,1.0
+72,have photoshoots with different families,read my kindle on my porch,0.02,0.05,8.8,0.0
+73,listen to music while i crochet,do paint activities with my children,0.03,0.05,3.3,1.0
+74,color in adult coloring books,hik in the national parks with my husband and children,0.04,0.05,4.4,1.0
+75,go on hikes in the badlands,thrift in the big city with my husband,0.05,0.05,3.3,1.0
+76,edit pictures on my computer,have dinner parties with my family best friend and her family,0.01,0.01,1.1,1.0
+77,hik in the national parks with my husband and children,draw cartoon figures with colored pencils,0.02,0.01,8.8,0.0
+78,thrift in the big city with my husband,pheasant hunt on the prairies,0.03,0.01,1.1,0.0
+79,take photos of nature and animals,talk to other moms and dads while watch my kids play sports,0.04,0.01,1.1,1.0
+80,yard sell with my best friend,pheasant hunt on the prairies,0.05,0.01,4.4,0.0
+81,have photoshoots with different families,pheasant hunt on the prairies,0.01,0.02,3.3,0.0
+82,listen to music while i crochet,talk to other moms and dads while watch my kids play sports,0.02,0.02,4.4,1.0
+83,do paint activities with my children,draw cartoon figures with colored pencils,0.03,0.02,1.1,0.0
+84,yard sell with my best friend,bake baked goods,0.04,0.02,3.3,0.0
+85,go to indoor museums with my children,go on hikes in the badlands,0.05,0.02,3.3,0.0
+86,color in adult coloring books,yard sell with my best friend,0.01,0.03,1.1,1.0
+87,go to indoor museums with my children,bake baked goods,0.02,0.03,4.4,0.0
+88,have dinner parties with my family best friend and her family,read my kindle on my porch,0.03,0.03,1.1,0.0
+89,go to indoor museums with my children,color in adult coloring books,0.04,0.03,3.3,0.0
+90,take photos of nature and animals,thrift in the big city with my husband,0.05,0.03,8.8,1.0
+91,go bird hunt with my husband,edit pictures on my computer,0.01,0.04,3.3,0.0
+92,have dinner parties with my family best friend and her family,take photos of nature and animals,0.02,0.04,8.8,0.0
+93,yard sell with my best friend,listen to music while i crochet,0.03,0.04,1.1,0.0
+94,take photos of nature and animals,spend the day shopping with my best friend ,0.04,0.04,4.4,1.0
+95,have photoshoots with different families,draw cartoon figures with colored pencils,0.05,0.04,4.4,0.0
+96,read my kindle on my porch,go bird hunt with my husband,0.01,0.05,3.3,1.0
+97,read my kindle on my porch,go to indoor museums with my children,0.02,0.05,1.1,1.0
+98,spend the day shopping with my best friend ,color in adult coloring books,0.03,0.05,1.1,0.0
+99,have photoshoots with different families,bake baked goods,0.04,0.05,3.3,0.0
+100,take photos of nature and animals,hik in the national parks with my husband and children,0.05,0.05,4.4,1.0

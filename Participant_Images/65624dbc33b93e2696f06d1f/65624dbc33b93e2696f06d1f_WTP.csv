@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Watch youtube videos in my bedroom,sing songs with my cousin,0.01,0.01,4.4,1.0
+2,play instruments with the band from high school,Listen to music in my bedroom,0.02,0.01,8.8,0.0
+3,Listen to music in my bedroom,make dance routines with my cousin,0.03,0.01,3.3,1.0
+4,play uno with my cousin,Watch youtube videos in my bedroom,0.04,0.01,1.1,0.0
+5,Read tarot cards in my bedroom,volunteer with a volunteer group,0.05,0.01,1.1,1.0
+6,walk the dog with my neighbor,Watch youtube videos in my bedroom,0.01,0.02,3.3,0.0
+7,Draw and paint in my bedroom,play online co op video games with people i meet online,0.02,0.02,1.1,1.0
+8,Walk to the store,play uno with my cousin,0.03,0.02,1.1,1.0
+9,play instruments with the band from high school,Sleep in my cold bedroom,0.04,0.02,4.4,0.0
+10,Read in my bedroom,gossip about boys with my cousin,0.05,0.02,1.1,1.0
+11,Read in my bedroom,sing songs with my cousin,0.01,0.03,3.3,1.0
+12,Walk to the store,walk the dog with my neighbor,0.02,0.03,4.4,1.0
+13,Listen to music in my bedroom,play uno with my cousin,0.03,0.03,1.1,1.0
+14,Eat chicken in my bedroom,perform in theatre with my friends from high school,0.04,0.03,3.3,1.0
+15,Write in my journal in my bedroom,do chores with my cousin,0.05,0.03,4.4,1.0
+16,gossip about boys with my cousin,Listen to music in my bedroom,0.01,0.04,1.1,0.0
+17,play uno with my cousin,Sing along to music in my bedroom,0.02,0.04,8.8,0.0
+18,Watch youtube videos in my bedroom,perform in theatre with my friends from high school,0.03,0.04,3.3,1.0
+19,Draw and paint in my bedroom,play uno with my cousin,0.04,0.04,3.3,1.0
+20,play instruments with the band from high school,Read in my bedroom,0.05,0.04,1.1,0.0
+21,play online co op video games with people i meet online,Walk to the store,0.01,0.05,8.8,0.0
+22,gossip about boys with my cousin,Walk to the store,0.02,0.05,4.4,0.0
+23,Read in my bedroom,play online co op video games with people i meet online,0.03,0.05,1.1,1.0
+24,Sleep in my cold bedroom,play online co op video games with people i meet online,0.04,0.05,4.4,1.0
+25,volunteer with a volunteer group,Sleep in my cold bedroom,0.05,0.05,3.3,0.0
+26,play instruments with the band from high school,Walk to the store,0.01,0.01,4.4,0.0
+27,do chores with my cousin,Listen to music in my bedroom,0.02,0.01,3.3,0.0
+28,Sing along to music in my bedroom,do chores with my cousin,0.03,0.01,3.3,1.0
+29,perform in theatre with my friends from high school,Sleep in my cold bedroom,0.04,0.01,4.4,0.0
+30,play online co op video games with people i meet online,Sing along to music in my bedroom,0.05,0.01,8.8,0.0
+31,make dance routines with my cousin,Watch youtube videos in my bedroom,0.01,0.02,8.8,0.0
+32,Draw and paint in my bedroom,gossip about boys with my cousin,0.02,0.02,1.1,1.0
+33,Sleep in my cold bedroom,sing songs with my cousin,0.03,0.02,4.4,1.0
+34,walk the dog with my neighbor,Read in my bedroom,0.04,0.02,3.3,0.0
+35,Watch youtube videos in my bedroom,do chores with my cousin,0.05,0.02,1.1,1.0
+36,Write in my journal in my bedroom,play online co op video games with people i meet online,0.01,0.03,3.3,1.0
+37,Read in my bedroom,do chores with my cousin,0.02,0.03,1.1,1.0
+38,Watch youtube videos in my bedroom,gossip about boys with my cousin,0.03,0.03,1.1,1.0
+39,sing songs with my cousin,Eat chicken in my bedroom,0.04,0.03,3.3,0.0
+40,sing songs with my cousin,Walk to the store,0.05,0.03,4.4,0.0
+41,perform in theatre with my friends from high school,Sing along to music in my bedroom,0.01,0.04,1.1,0.0
+42,volunteer with a volunteer group,Sing along to music in my bedroom,0.02,0.04,3.3,0.0
+43,walk the dog with my neighbor,Eat chicken in my bedroom,0.03,0.04,1.1,0.0
+44,gossip about boys with my cousin,Sing along to music in my bedroom,0.04,0.04,1.1,0.0
+45,Sing along to music in my bedroom,sing songs with my cousin,0.05,0.04,4.4,1.0
+46,Write in my journal in my bedroom,gossip about boys with my cousin,0.01,0.05,8.8,1.0
+47,Draw and paint in my bedroom,volunteer with a volunteer group,0.02,0.05,1.1,1.0
+48,make dance routines with my cousin,Eat chicken in my bedroom,0.03,0.05,4.4,0.0
+49,Sleep in my cold bedroom,make dance routines with my cousin,0.04,0.05,3.3,1.0
+50,Listen to music in my bedroom,play online co op video games with people i meet online,0.05,0.05,1.1,1.0
+51,gossip about boys with my cousin,Sleep in my cold bedroom,0.01,0.01,1.1,0.0
+52,make dance routines with my cousin,Draw and paint in my bedroom,0.02,0.01,3.3,0.0
+53,Eat chicken in my bedroom,gossip about boys with my cousin,0.03,0.01,1.1,1.0
+54,volunteer with a volunteer group,Read in my bedroom,0.04,0.01,4.4,0.0
+55,perform in theatre with my friends from high school,Read in my bedroom,0.05,0.01,1.1,0.0
+56,Read in my bedroom,make dance routines with my cousin,0.01,0.02,8.8,1.0
+57,make dance routines with my cousin,Sing along to music in my bedroom,0.02,0.02,4.4,0.0
+58,play instruments with the band from high school,Sing along to music in my bedroom,0.03,0.02,4.4,0.0
+59,Eat chicken in my bedroom,play uno with my cousin,0.04,0.02,4.4,1.0
+60,walk the dog with my neighbor,Sing along to music in my bedroom,0.05,0.02,1.1,0.0
+61,Walk to the store,do chores with my cousin,0.01,0.03,3.3,1.0
+62,Listen to music in my bedroom,perform in theatre with my friends from high school,0.02,0.03,3.3,1.0
+63,Read tarot cards in my bedroom,play online co op video games with people i meet online,0.03,0.03,3.3,1.0
+64,walk the dog with my neighbor,Listen to music in my bedroom,0.04,0.03,1.1,0.0
+65,Listen to music in my bedroom,sing songs with my cousin,0.05,0.03,1.1,1.0
+66,Sleep in my cold bedroom,play uno with my cousin,0.01,0.04,1.1,1.0
+67,volunteer with a volunteer group,Eat chicken in my bedroom,0.02,0.04,8.8,0.0
+68,Write in my journal in my bedroom,sing songs with my cousin,0.03,0.04,4.4,1.0
+69,Read tarot cards in my bedroom,play instruments with the band from high school,0.04,0.04,1.1,1.0
+70,Draw and paint in my bedroom,do chores with my cousin,0.05,0.04,1.1,1.0
+71,play online co op video games with people i meet online,Eat chicken in my bedroom,0.01,0.05,3.3,0.0
+72,Write in my journal in my bedroom,make dance routines with my cousin,0.02,0.05,8.8,1.0
+73,volunteer with a volunteer group,Write in my journal in my bedroom,0.03,0.05,3.3,0.0
+74,do chores with my cousin,Read tarot cards in my bedroom,0.04,0.05,4.4,0.0
+75,Sleep in my cold bedroom,walk the dog with my neighbor,0.05,0.05,3.3,1.0
+76,play online co op video games with people i meet online,Watch youtube videos in my bedroom,0.01,0.01,1.1,0.0
+77,make dance routines with my cousin,Walk to the store,0.02,0.01,8.8,0.0
+78,Read tarot cards in my bedroom,perform in theatre with my friends from high school,0.03,0.01,1.1,1.0
+79,Draw and paint in my bedroom,play instruments with the band from high school,0.04,0.01,1.1,1.0
+80,Read tarot cards in my bedroom,play uno with my cousin,0.05,0.01,4.4,1.0
+81,walk the dog with my neighbor,Write in my journal in my bedroom,0.01,0.02,3.3,0.0
+82,play instruments with the band from high school,Watch youtube videos in my bedroom,0.02,0.02,4.4,0.0
+83,perform in theatre with my friends from high school,Draw and paint in my bedroom,0.03,0.02,1.1,0.0
+84,Draw and paint in my bedroom,sing songs with my cousin,0.04,0.02,3.3,1.0
+85,play instruments with the band from high school,Eat chicken in my bedroom,0.05,0.02,3.3,0.0
+86,gossip about boys with my cousin,Read tarot cards in my bedroom,0.01,0.03,1.1,0.0
+87,Read tarot cards in my bedroom,make dance routines with my cousin,0.02,0.03,4.4,1.0
+88,volunteer with a volunteer group,Watch youtube videos in my bedroom,0.03,0.03,1.1,0.0
+89,perform in theatre with my friends from high school,Write in my journal in my bedroom,0.04,0.03,3.3,0.0
+90,Walk to the store,volunteer with a volunteer group,0.05,0.03,8.8,1.0
+91,Write in my journal in my bedroom,play instruments with the band from high school,0.01,0.04,3.3,1.0
+92,Walk to the store,perform in theatre with my friends from high school,0.02,0.04,8.8,1.0
+93,volunteer with a volunteer group,Listen to music in my bedroom,0.03,0.04,1.1,0.0
+94,play uno with my cousin,Write in my journal in my bedroom,0.04,0.04,4.4,0.0
+95,sing songs with my cousin,Read tarot cards in my bedroom,0.05,0.04,4.4,0.0
+96,walk the dog with my neighbor,Read tarot cards in my bedroom,0.01,0.05,3.3,0.0
+97,walk the dog with my neighbor,Draw and paint in my bedroom,0.02,0.05,1.1,0.0
+98,Read in my bedroom,play uno with my cousin,0.03,0.05,1.1,1.0
+99,do chores with my cousin,Eat chicken in my bedroom,0.04,0.05,3.3,0.0
+100,Sleep in my cold bedroom,do chores with my cousin,0.05,0.05,4.4,1.0

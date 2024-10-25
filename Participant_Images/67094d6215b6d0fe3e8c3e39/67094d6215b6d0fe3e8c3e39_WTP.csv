@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,eat cookies and milk,watch movies with family on movie night,0.01,0.01,4.4,1.0
+2,read the news before bed,go out with my friends to meet and greet car meets,0.02,0.01,8.8,1.0
+3,watch soccer with my dads side of family,drive around late at night,0.03,0.01,3.3,0.0
+4,eat and watch a show,go out with my friends to the movies,0.04,0.01,1.1,1.0
+5,get together with family to celebrate someone's birthday,play video games while its raining,0.05,0.01,1.1,0.0
+6,go out with siblings to do fun activities etc,read the news before bed,0.01,0.02,3.3,0.0
+7,go for a late night swim,go out with siblings to do fun activities etc,0.02,0.02,1.1,1.0
+8,watch football with the boys on sunday,go for a late night swim,0.03,0.02,1.1,0.0
+9,read the news before bed,go out with friends to a chinese buffet as we do every month,0.04,0.02,4.4,1.0
+10,play video games while its raining,go out to the gym with my friends,0.05,0.02,1.1,1.0
+11,watch movies with family on movie night,study with the fan on for background noise,0.01,0.03,3.3,0.0
+12,go out with my friends to the movies,play clash of clans before bed,0.02,0.03,4.4,0.0
+13,go out with friends to a chinese buffet as we do every month,eat cookies and milk,0.03,0.03,1.1,0.0
+14,watch movies with family on movie night,eat and watch a show,0.04,0.03,3.3,0.0
+15,watch movies with family on movie night,go for a late night swim,0.05,0.03,4.4,0.0
+16,go out with siblings to do fun activities etc,eat cookies and milk,0.01,0.04,1.1,0.0
+17,watch soccer with my dads side of family,study with the fan on for background noise,0.02,0.04,8.8,0.0
+18,get together with family to celebrate someone's birthday,go for a late night swim,0.03,0.04,3.3,0.0
+19,eat cookies and milk,go out with my friends to meet and greet car meets,0.04,0.04,3.3,1.0
+20,go for a late night swim,have family get together and barbecue,0.05,0.04,1.1,1.0
+21,eat and watch a show,go out with siblings to do fun activities etc,0.01,0.05,8.8,1.0
+22,take long hot showers after a solo workout,watch football with the boys on sunday,0.02,0.05,4.4,1.0
+23,play video games while its raining,watch soccer with my dads side of family,0.03,0.05,1.1,1.0
+24,play video games while its raining,watch movies with family on movie night,0.04,0.05,4.4,1.0
+25,drive around late at night,watch football with the boys on sunday,0.05,0.05,3.3,1.0
+26,have family get together and barbecue,drive around late at night,0.01,0.01,4.4,0.0
+27,get together with family to celebrate someone's birthday,drive around late at night,0.02,0.01,3.3,0.0
+28,go out to the gym with my friends,study with the fan on for background noise,0.03,0.01,3.3,0.0
+29,have family get together and barbecue,read the news before bed,0.04,0.01,4.4,0.0
+30,watch soccer with my dads side of family,eat cookies and milk,0.05,0.01,8.8,0.0
+31,play video games while its raining,go out with siblings to do fun activities etc,0.01,0.02,8.8,1.0
+32,eat and watch a show,go out with friends to a chinese buffet as we do every month,0.02,0.02,1.1,1.0
+33,take long hot showers after a solo workout,watch movies with family on movie night,0.03,0.02,4.4,1.0
+34,go out with friends to a chinese buffet as we do every month,play clash of clans before bed,0.04,0.02,3.3,0.0
+35,get together with family to celebrate someone's birthday,study with the fan on for background noise,0.05,0.02,1.1,0.0
+36,study with the fan on for background noise,go out with my friends to meet and greet car meets,0.01,0.03,3.3,1.0
+37,have family get together and barbecue,study with the fan on for background noise,0.02,0.03,1.1,0.0
+38,clean my room in peace,watch football with the boys on sunday,0.03,0.03,1.1,1.0
+39,watch movies with family on movie night,clean my room in peace,0.04,0.03,3.3,0.0
+40,eat cookies and milk,watch football with the boys on sunday,0.05,0.03,4.4,1.0
+41,watch football with the boys on sunday,play clash of clans before bed,0.01,0.04,1.1,0.0
+42,drive around late at night,watch movies with family on movie night,0.02,0.04,3.3,1.0
+43,go out to the gym with my friends,eat and watch a show,0.03,0.04,1.1,0.0
+44,drive around late at night,go out to the gym with my friends,0.04,0.04,1.1,1.0
+45,clean my room in peace,go out with my friends to meet and greet car meets,0.05,0.04,4.4,1.0
+46,go out with my friends to meet and greet car meets,take long hot showers after a solo workout,0.01,0.05,8.8,0.0
+47,go out with siblings to do fun activities etc,study with the fan on for background noise,0.02,0.05,1.1,0.0
+48,watch movies with family on movie night,play clash of clans before bed,0.03,0.05,4.4,0.0
+49,go out with friends to a chinese buffet as we do every month,take long hot showers after a solo workout,0.04,0.05,3.3,0.0
+50,eat and watch a show,get together with family to celebrate someone's birthday,0.05,0.05,1.1,1.0
+51,have family get together and barbecue,eat cookies and milk,0.01,0.01,1.1,0.0
+52,watch football with the boys on sunday,eat and watch a show,0.02,0.01,3.3,0.0
+53,play video games while its raining,watch football with the boys on sunday,0.03,0.01,1.1,1.0
+54,clean my room in peace,get together with family to celebrate someone's birthday,0.04,0.01,4.4,1.0
+55,clean my room in peace,go out with friends to a chinese buffet as we do every month,0.05,0.01,1.1,1.0
+56,go out with my friends to the movies,clean my room in peace,0.01,0.02,8.8,0.0
+57,play clash of clans before bed,get together with family to celebrate someone's birthday,0.02,0.02,4.4,1.0
+58,get together with family to celebrate someone's birthday,eat cookies and milk,0.03,0.02,4.4,0.0
+59,clean my room in peace,go out with siblings to do fun activities etc,0.04,0.02,4.4,1.0
+60,read the news before bed,watch movies with family on movie night,0.05,0.02,1.1,1.0
+61,go for a late night swim,watch soccer with my dads side of family,0.01,0.03,3.3,1.0
+62,have family get together and barbecue,play video games while its raining,0.02,0.03,3.3,0.0
+63,go out with friends to a chinese buffet as we do every month,study with the fan on for background noise,0.03,0.03,3.3,0.0
+64,study with the fan on for background noise,go out with my friends to the movies,0.04,0.03,1.1,1.0
+65,eat and watch a show,watch soccer with my dads side of family,0.05,0.03,1.1,1.0
+66,go out with my friends to meet and greet car meets,drive around late at night,0.01,0.04,1.1,0.0
+67,have family get together and barbecue,eat and watch a show,0.02,0.04,8.8,0.0
+68,play clash of clans before bed,watch soccer with my dads side of family,0.03,0.04,4.4,1.0
+69,go out with friends to a chinese buffet as we do every month,drive around late at night,0.04,0.04,1.1,0.0
+70,take long hot showers after a solo workout,go out with siblings to do fun activities etc,0.05,0.04,1.1,1.0
+71,go for a late night swim,go out with my friends to meet and greet car meets,0.01,0.05,3.3,1.0
+72,read the news before bed,go out to the gym with my friends,0.02,0.05,8.8,1.0
+73,take long hot showers after a solo workout,go out with my friends to the movies,0.03,0.05,3.3,1.0
+74,go out to the gym with my friends,play clash of clans before bed,0.04,0.05,4.4,0.0
+75,watch soccer with my dads side of family,take long hot showers after a solo workout,0.05,0.05,3.3,0.0
+76,clean my room in peace,watch soccer with my dads side of family,0.01,0.01,1.1,1.0
+77,read the news before bed,watch football with the boys on sunday,0.02,0.01,8.8,1.0
+78,watch soccer with my dads side of family,read the news before bed,0.03,0.01,1.1,0.0
+79,go out to the gym with my friends,take long hot showers after a solo workout,0.04,0.01,1.1,0.0
+80,drive around late at night,go out with siblings to do fun activities etc,0.05,0.01,4.4,1.0
+81,go out with my friends to meet and greet car meets,eat and watch a show,0.01,0.02,3.3,0.0
+82,go out with my friends to meet and greet car meets,play clash of clans before bed,0.02,0.02,4.4,0.0
+83,read the news before bed,get together with family to celebrate someone's birthday,0.03,0.02,1.1,1.0
+84,go out with my friends to meet and greet car meets,play video games while its raining,0.04,0.02,3.3,0.0
+85,go for a late night swim,go out with my friends to the movies,0.05,0.02,3.3,1.0
+86,go out to the gym with my friends,go for a late night swim,0.01,0.03,1.1,0.0
+87,go out with my friends to the movies,drive around late at night,0.02,0.03,4.4,0.0
+88,eat cookies and milk,go out to the gym with my friends,0.03,0.03,1.1,1.0
+89,take long hot showers after a solo workout,have family get together and barbecue,0.04,0.03,3.3,1.0
+90,clean my room in peace,go out to the gym with my friends,0.05,0.03,8.8,1.0
+91,play clash of clans before bed,go out with siblings to do fun activities etc,0.01,0.04,3.3,1.0
+92,go out with friends to a chinese buffet as we do every month,play video games while its raining,0.02,0.04,8.8,0.0
+93,watch football with the boys on sunday,study with the fan on for background noise,0.03,0.04,1.1,0.0
+94,play video games while its raining,go out with my friends to the movies,0.04,0.04,4.4,1.0
+95,take long hot showers after a solo workout,get together with family to celebrate someone's birthday,0.05,0.04,4.4,1.0
+96,go for a late night swim,go out with friends to a chinese buffet as we do every month,0.01,0.05,3.3,1.0
+97,go out with my friends to the movies,eat cookies and milk,0.02,0.05,1.1,0.0
+98,read the news before bed,go out with my friends to the movies,0.03,0.05,1.1,1.0
+99,have family get together and barbecue,play clash of clans before bed,0.04,0.05,3.3,0.0
+100,have family get together and barbecue,clean my room in peace,0.05,0.05,4.4,0.0

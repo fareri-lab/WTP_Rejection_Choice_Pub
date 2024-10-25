@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Go on vacation with friends family or spouse,Practice sight reading piano and drum sheet music,0.01,0.01,4.4,0.0
+2,Go out to the bar with friends or spouse,Light candles during a storm when the power goes out and enjoy the storm,0.02,0.01,8.8,0.0
+3,Cuddle with my spouse,Spend my day doing studies on prolific,0.03,0.01,3.3,0.0
+4,Spend my day doing studies on prolific,Play music together with my fellow bandmates,0.04,0.01,1.1,1.0
+5,Play music together with my fellow bandmates,Play my drumset alone with headphones on to my favorite songs,0.05,0.01,1.1,0.0
+6,Cuddle with my spouse,Practice sight reading piano and drum sheet music,0.01,0.02,3.3,0.0
+7,Enjoy a lazy day with the lights off TV on never leave the bed,Go to the amusement park with friends,0.02,0.02,1.1,1.0
+8,Play sports with my son,Sit in the dark listen to music by myself,0.03,0.02,1.1,0.0
+9,Go to the amusement park with friends,Sit in the dark listen to music by myself,0.04,0.02,4.4,0.0
+10,Go for walks outside in the pouring rain and get soaking wet,Play video games with son spouse friends,0.05,0.02,1.1,1.0
+11,Go on vacation with friends family or spouse,Spend my day doing studies on prolific,0.01,0.03,3.3,0.0
+12,Practice sight reading piano and drum sheet music,Go to concerts with loved ones,0.02,0.03,4.4,1.0
+13,Play video games with son spouse friends,Sit in the dark listen to music by myself,0.03,0.03,1.1,0.0
+14,Cuddle with my spouse,Go for walks outside in the pouring rain and get soaking wet,0.04,0.03,3.3,0.0
+15,Curl up with a half gallon of ice cream and eat it all to myself,Go to the movies with family and friends,0.05,0.03,4.4,1.0
+16,Play my drumset alone with headphones on to my favorite songs,Go to the movies with family and friends,0.01,0.04,1.1,1.0
+17,Go to the fair with family and friends,Curl up with a half gallon of ice cream and eat it all to myself,0.02,0.04,8.8,0.0
+18,Go for walks outside in the pouring rain and get soaking wet,Go to the amusement park with friends,0.03,0.04,3.3,1.0
+19,Curl up with a half gallon of ice cream and eat it all to myself,Play music together with my fellow bandmates,0.04,0.04,3.3,1.0
+20,Curl up with a half gallon of ice cream and eat it all to myself,Play sports with my son,0.05,0.04,1.1,1.0
+21,Cuddle with my spouse,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,0.01,0.05,8.8,0.0
+22,Go to the amusement park with friends,Cuddle with my cat while watch movies,0.02,0.05,4.4,0.0
+23,Cuddle with my spouse,Sit in the dark listen to music by myself,0.03,0.05,1.1,0.0
+24,Go to concerts with loved ones,Cuddle with my cat while watch movies,0.04,0.05,4.4,0.0
+25,Practice sight reading piano and drum sheet music,Play music together with my fellow bandmates,0.05,0.05,3.3,1.0
+26,Curl up with a half gallon of ice cream and eat it all to myself,Go to the amusement park with friends,0.01,0.01,4.4,1.0
+27,Go to the movies with family and friends,Spend my day doing studies on prolific,0.02,0.01,3.3,0.0
+28,Go to the fair with family and friends,Sit in the dark listen to music by myself,0.03,0.01,3.3,0.0
+29,Go out to the bar with friends or spouse,Curl up with a half gallon of ice cream and eat it all to myself,0.04,0.01,4.4,0.0
+30,Enjoy a lazy day with the lights off TV on never leave the bed,Go to the fair with family and friends,0.05,0.01,8.8,1.0
+31,Go to concerts with loved ones,Light candles during a storm when the power goes out and enjoy the storm,0.01,0.02,8.8,0.0
+32,Go to the movies with family and friends,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,0.02,0.02,1.1,0.0
+33,Go out to the bar with friends or spouse,Go for walks outside in the pouring rain and get soaking wet,0.03,0.02,4.4,0.0
+34,Spend my day doing studies on prolific,Play sports with my son,0.04,0.02,3.3,1.0
+35,Go to the fair with family and friends,Cuddle with my cat while watch movies,0.05,0.02,1.1,0.0
+36,Go to the movies with family and friends,Cuddle with my cat while watch movies,0.01,0.03,3.3,0.0
+37,Play video games with son spouse friends,Play my drumset alone with headphones on to my favorite songs,0.02,0.03,1.1,0.0
+38,Go out to the bar with friends or spouse,Spend my day doing studies on prolific,0.03,0.03,1.1,0.0
+39,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,Go to the amusement park with friends,0.04,0.03,3.3,1.0
+40,Cuddle with my cat while watch movies,Cuddle with my spouse,0.05,0.03,4.4,1.0
+41,Play my drumset alone with headphones on to my favorite songs,Play sports with my son,0.01,0.04,1.1,1.0
+42,Cuddle with my cat while watch movies,Go on vacation with friends family or spouse,0.02,0.04,3.3,1.0
+43,Play video games with son spouse friends,Practice sight reading piano and drum sheet music,0.03,0.04,1.1,0.0
+44,Go to the amusement park with friends,Practice sight reading piano and drum sheet music,0.04,0.04,1.1,0.0
+45,Go for walks outside in the pouring rain and get soaking wet,Go to the movies with family and friends,0.05,0.04,4.4,1.0
+46,Light candles during a storm when the power goes out and enjoy the storm,Go on vacation with friends family or spouse,0.01,0.05,8.8,1.0
+47,Curl up with a half gallon of ice cream and eat it all to myself,Play video games with son spouse friends,0.02,0.05,1.1,1.0
+48,Spend my day doing studies on prolific,Go to the amusement park with friends,0.03,0.05,4.4,1.0
+49,Go to concerts with loved ones,Spend my day doing studies on prolific,0.04,0.05,3.3,0.0
+50,Go to the fair with family and friends,Go for walks outside in the pouring rain and get soaking wet,0.05,0.05,1.1,0.0
+51,Play my drumset alone with headphones on to my favorite songs,Go to the amusement park with friends,0.01,0.01,1.1,1.0
+52,Go out to the bar with friends or spouse,Enjoy a lazy day with the lights off TV on never leave the bed,0.02,0.01,3.3,0.0
+53,Enjoy a lazy day with the lights off TV on never leave the bed,Go on vacation with friends family or spouse,0.03,0.01,1.1,1.0
+54,Practice sight reading piano and drum sheet music,Go to the fair with family and friends,0.04,0.01,4.4,1.0
+55,Go to the fair with family and friends,Light candles during a storm when the power goes out and enjoy the storm,0.05,0.01,1.1,0.0
+56,Sit in the dark listen to music by myself,Play music together with my fellow bandmates,0.01,0.02,8.8,1.0
+57,Go to concerts with loved ones,Curl up with a half gallon of ice cream and eat it all to myself,0.02,0.02,4.4,0.0
+58,Play my drumset alone with headphones on to my favorite songs,Go to concerts with loved ones,0.03,0.02,4.4,1.0
+59,Enjoy a lazy day with the lights off TV on never leave the bed,Go to concerts with loved ones,0.04,0.02,4.4,1.0
+60,Spend my day doing studies on prolific,Go to the fair with family and friends,0.05,0.02,1.1,1.0
+61,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,Go on vacation with friends family or spouse,0.01,0.03,3.3,1.0
+62,Play my drumset alone with headphones on to my favorite songs,Go on vacation with friends family or spouse,0.02,0.03,3.3,1.0
+63,Go on vacation with friends family or spouse,Go for walks outside in the pouring rain and get soaking wet,0.03,0.03,3.3,0.0
+64,Go to concerts with loved ones,Go for walks outside in the pouring rain and get soaking wet,0.04,0.03,1.1,0.0
+65,Practice sight reading piano and drum sheet music,Go out to the bar with friends or spouse,0.05,0.03,1.1,1.0
+66,Go on vacation with friends family or spouse,Curl up with a half gallon of ice cream and eat it all to myself,0.01,0.04,1.1,0.0
+67,Play sports with my son,Practice sight reading piano and drum sheet music,0.02,0.04,8.8,0.0
+68,Light candles during a storm when the power goes out and enjoy the storm,Cuddle with my spouse,0.03,0.04,4.4,1.0
+69,Go to the fair with family and friends,Play my drumset alone with headphones on to my favorite songs,0.04,0.04,1.1,0.0
+70,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,Go out to the bar with friends or spouse,0.05,0.04,1.1,1.0
+71,Light candles during a storm when the power goes out and enjoy the storm,Go to the amusement park with friends,0.01,0.05,3.3,1.0
+72,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,Play sports with my son,0.02,0.05,8.8,1.0
+73,Go to the movies with family and friends,Sit in the dark listen to music by myself,0.03,0.05,3.3,0.0
+74,Go to concerts with loved ones,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,0.04,0.05,4.4,0.0
+75,Play video games with son spouse friends,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,0.05,0.05,3.3,0.0
+76,Play music together with my fellow bandmates,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,0.01,0.01,1.1,0.0
+77,Play my drumset alone with headphones on to my favorite songs,Cuddle with my spouse,0.02,0.01,8.8,1.0
+78,Play music together with my fellow bandmates,Cuddle with my cat while watch movies,0.03,0.01,1.1,0.0
+79,Curl up with a half gallon of ice cream and eat it all to myself,Cuddle with my spouse,0.04,0.01,1.1,1.0
+80,Play music together with my fellow bandmates,Light candles during a storm when the power goes out and enjoy the storm,0.05,0.01,4.4,0.0
+81,Cuddle with my cat while watch movies,Play video games with son spouse friends,0.01,0.02,3.3,1.0
+82,Play music together with my fellow bandmates,Enjoy a lazy day with the lights off TV on never leave the bed,0.02,0.02,4.4,0.0
+83,Light candles during a storm when the power goes out and enjoy the storm,Play sports with my son,0.03,0.02,1.1,1.0
+84,Go to concerts with loved ones,Sit in the dark listen to music by myself,0.04,0.02,3.3,0.0
+85,Practice sight reading piano and drum sheet music,Go to the movies with family and friends,0.05,0.02,3.3,1.0
+86,Sit in the dark listen to music by myself,Go on vacation with friends family or spouse,0.01,0.03,1.1,1.0
+87,Play music together with my fellow bandmates,Go for walks outside in the pouring rain and get soaking wet,0.02,0.03,4.4,0.0
+88,Play video games with son spouse friends,Spend my day doing studies on prolific,0.03,0.03,1.1,0.0
+89,Enjoy a lazy day with the lights off TV on never leave the bed,Go to the movies with family and friends,0.04,0.03,3.3,1.0
+90,Play my drumset alone with headphones on to my favorite songs,Go out to the bar with friends or spouse,0.05,0.03,8.8,1.0
+91,Sit on the porch during rain and thunderstorms with candles reading my current favorite book,Go to the fair with family and friends,0.01,0.04,3.3,1.0
+92,Cuddle with my cat while watch movies,Go out to the bar with friends or spouse,0.02,0.04,8.8,1.0
+93,Light candles during a storm when the power goes out and enjoy the storm,Play video games with son spouse friends,0.03,0.04,1.1,1.0
+94,Play video games with son spouse friends,Enjoy a lazy day with the lights off TV on never leave the bed,0.04,0.04,4.4,0.0
+95,Sit in the dark listen to music by myself,Go out to the bar with friends or spouse,0.05,0.04,4.4,1.0
+96,Go to the movies with family and friends,Light candles during a storm when the power goes out and enjoy the storm,0.01,0.05,3.3,0.0
+97,Go for walks outside in the pouring rain and get soaking wet,Play sports with my son,0.02,0.05,1.1,1.0
+98,Enjoy a lazy day with the lights off TV on never leave the bed,Cuddle with my spouse,0.03,0.05,1.1,1.0
+99,Play sports with my son,Cuddle with my cat while watch movies,0.04,0.05,3.3,0.0
+100,Enjoy a lazy day with the lights off TV on never leave the bed,Play sports with my son,0.05,0.05,4.4,1.0
