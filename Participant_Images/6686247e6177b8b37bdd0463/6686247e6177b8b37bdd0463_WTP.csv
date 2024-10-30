@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,learn more about my religion in a group,Start a new project,0.01,0.01,4.4,0.0
+2,Have a study session with my gf,Play video games,0.02,0.01,8.8,0.0
+3,cook outside,Play league soccer on sundays with my team,0.03,0.01,3.3,1.0
+4,Watch the sunset,Drink with friends at a party,0.04,0.01,1.1,1.0
+5,Do exercise,Have a study session with my gf,0.05,0.01,1.1,1.0
+6,Watch tv shows,Drink with friends at a party,0.01,0.02,3.3,1.0
+7,cook outside,Do new activities with people,0.02,0.02,1.1,1.0
+8,Drink with friends at a party,Play soccer,0.03,0.02,1.1,0.0
+9,Do new activities with people,Watch tv shows,0.04,0.02,4.4,0.0
+10,Go on a date with significant other,Watch tv shows,0.05,0.02,1.1,0.0
+11,Watch the sunset,Do new activities with people,0.01,0.03,3.3,1.0
+12,Have a study session with my gf,Watch tv shows,0.02,0.03,4.4,0.0
+13,Play league soccer on sundays with my team,Buy new items,0.03,0.03,1.1,0.0
+14,Do a coding project,Watch a movie with my gf on the weekend,0.04,0.03,3.3,1.0
+15,Watch the sunset,Go to mexico with family in vacations,0.05,0.03,4.4,1.0
+16,Do exercise,Watch a movie with my gf on the weekend,0.01,0.04,1.1,1.0
+17,learn more about my religion in a group,Do a coding project,0.02,0.04,8.8,0.0
+18,Have a study session with my gf,Start a new project,0.03,0.04,3.3,0.0
+19,Watch a movie with my gf on the weekend,Start a new project,0.04,0.04,3.3,0.0
+20,Do a coding project,Go to mexico with family in vacations,0.05,0.04,1.1,1.0
+21,Play league soccer on sundays with my team,Watch the sunset,0.01,0.05,8.8,0.0
+22,Do exercise,learn more about my religion in a group,0.02,0.05,4.4,1.0
+23,Go to mexico with family in vacations,Do exercise,0.03,0.05,1.1,0.0
+24,Learn a new skill,Watch a movie with my gf on the weekend,0.04,0.05,4.4,1.0
+25,Play soccer,learn more about my religion in a group,0.05,0.05,3.3,1.0
+26,Learn a new skill,Have video game night with friends,0.01,0.01,4.4,1.0
+27,Have video game night with friends,Watch the sunset,0.02,0.01,3.3,0.0
+28,Do a coding project,Have dinner on sunday nights with family,0.03,0.01,3.3,1.0
+29,Play league soccer on sundays with my team,Learn a new skill,0.04,0.01,4.4,0.0
+30,Play soccer,Go on a date with significant other,0.05,0.01,8.8,1.0
+31,Have video game night with friends,Watch tv shows,0.01,0.02,8.8,0.0
+32,Have dinner on sunday nights with family,Play video games,0.02,0.02,1.1,0.0
+33,Have video game night with friends,Buy new items,0.03,0.02,4.4,0.0
+34,Watch a movie with my gf on the weekend,cook outside,0.04,0.02,3.3,0.0
+35,Have a study session with my gf,Play soccer,0.05,0.02,1.1,0.0
+36,Have dinner on sunday nights with family,Play soccer,0.01,0.03,3.3,0.0
+37,Do a coding project,Play league soccer on sundays with my team,0.02,0.03,1.1,1.0
+38,Start a new project,Go to mexico with family in vacations,0.03,0.03,1.1,1.0
+39,Play soccer,Play league soccer on sundays with my team,0.04,0.03,3.3,1.0
+40,Buy new items,Go on a date with significant other,0.05,0.03,4.4,1.0
+41,Go to mexico with family in vacations,Learn a new skill,0.01,0.04,1.1,0.0
+42,cook outside,Have a study session with my gf,0.02,0.04,3.3,1.0
+43,Buy new items,Watch a movie with my gf on the weekend,0.03,0.04,1.1,1.0
+44,Play soccer,Have video game night with friends,0.04,0.04,1.1,1.0
+45,Learn a new skill,Have a study session with my gf,0.05,0.04,4.4,1.0
+46,Start a new project,Have video game night with friends,0.01,0.05,8.8,1.0
+47,Learn a new skill,learn more about my religion in a group,0.02,0.05,1.1,1.0
+48,Do a coding project,Have a study session with my gf,0.03,0.05,4.4,1.0
+49,Drink with friends at a party,Start a new project,0.04,0.05,3.3,0.0
+50,Play video games,Play league soccer on sundays with my team,0.05,0.05,1.1,1.0
+51,Go on a date with significant other,Do a coding project,0.01,0.01,1.1,0.0
+52,Do new activities with people,Do a coding project,0.02,0.01,3.3,0.0
+53,Go to mexico with family in vacations,Play soccer,0.03,0.01,1.1,0.0
+54,Have video game night with friends,Do exercise,0.04,0.01,4.4,0.0
+55,Watch the sunset,Have a study session with my gf,0.05,0.01,1.1,1.0
+56,Have dinner on sunday nights with family,Do exercise,0.01,0.02,8.8,0.0
+57,Have dinner on sunday nights with family,Watch the sunset,0.02,0.02,4.4,0.0
+58,Have dinner on sunday nights with family,Start a new project,0.03,0.02,4.4,0.0
+59,Start a new project,Go on a date with significant other,0.04,0.02,4.4,1.0
+60,Have video game night with friends,cook outside,0.05,0.02,1.1,0.0
+61,Have dinner on sunday nights with family,Learn a new skill,0.01,0.03,3.3,0.0
+62,Do exercise,Drink with friends at a party,0.02,0.03,3.3,1.0
+63,Drink with friends at a party,Play video games,0.03,0.03,3.3,0.0
+64,Watch a movie with my gf on the weekend,Play soccer,0.04,0.03,1.1,0.0
+65,Watch tv shows,Go to mexico with family in vacations,0.05,0.03,1.1,1.0
+66,Do exercise,Play league soccer on sundays with my team,0.01,0.04,1.1,1.0
+67,Watch the sunset,learn more about my religion in a group,0.02,0.04,8.8,1.0
+68,Learn a new skill,Do new activities with people,0.03,0.04,4.4,1.0
+69,learn more about my religion in a group,Play video games,0.04,0.04,1.1,0.0
+70,Have video game night with friends,Play video games,0.05,0.04,1.1,0.0
+71,Do exercise,Do new activities with people,0.01,0.05,3.3,1.0
+72,cook outside,Go to mexico with family in vacations,0.02,0.05,8.8,1.0
+73,Learn a new skill,Drink with friends at a party,0.03,0.05,3.3,1.0
+74,Buy new items,Have a study session with my gf,0.04,0.05,4.4,1.0
+75,Do new activities with people,Play video games,0.05,0.05,3.3,0.0
+76,Drink with friends at a party,Do a coding project,0.01,0.01,1.1,0.0
+77,Play video games,Go to mexico with family in vacations,0.02,0.01,8.8,1.0
+78,learn more about my religion in a group,Watch tv shows,0.03,0.01,1.1,0.0
+79,Play league soccer on sundays with my team,Start a new project,0.04,0.01,1.1,0.0
+80,Buy new items,Have dinner on sunday nights with family,0.05,0.01,4.4,1.0
+81,Watch tv shows,Have dinner on sunday nights with family,0.01,0.02,3.3,1.0
+82,Go on a date with significant other,Watch the sunset,0.02,0.02,4.4,0.0
+83,Do new activities with people,Buy new items,0.03,0.02,1.1,0.0
+84,Go to mexico with family in vacations,Buy new items,0.04,0.02,3.3,0.0
+85,Start a new project,Do new activities with people,0.05,0.02,3.3,1.0
+86,Learn a new skill,Go on a date with significant other,0.01,0.03,1.1,1.0
+87,cook outside,Go on a date with significant other,0.02,0.03,4.4,1.0
+88,Watch a movie with my gf on the weekend,Watch the sunset,0.03,0.03,1.1,0.0
+89,Buy new items,learn more about my religion in a group,0.04,0.03,3.3,1.0
+90,Do new activities with people,Play soccer,0.05,0.03,8.8,0.0
+91,Play league soccer on sundays with my team,Watch tv shows,0.01,0.04,3.3,0.0
+92,Drink with friends at a party,cook outside,0.02,0.04,8.8,0.0
+93,Go on a date with significant other,Play video games,0.03,0.04,1.1,0.0
+94,Do a coding project,Have video game night with friends,0.04,0.04,4.4,1.0
+95,Drink with friends at a party,Buy new items,0.05,0.04,4.4,0.0
+96,Play video games,Watch a movie with my gf on the weekend,0.01,0.05,3.3,1.0
+97,cook outside,learn more about my religion in a group,0.02,0.05,1.1,1.0
+98,Have dinner on sunday nights with family,cook outside,0.03,0.05,1.1,0.0
+99,Watch a movie with my gf on the weekend,Watch tv shows,0.04,0.05,3.3,0.0
+100,Do exercise,Go on a date with significant other,0.05,0.05,4.4,1.0

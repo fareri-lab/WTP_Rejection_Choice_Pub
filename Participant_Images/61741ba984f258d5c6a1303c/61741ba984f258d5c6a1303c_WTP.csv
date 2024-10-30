@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,complete yardwork with family members,practice tap dance,0.01,0.01,4.4,0.0
+2,walk around a body of water,play board games with friends,0.02,0.01,8.8,1.0
+3,go out for dinner with coworkers,practice tap dance,0.03,0.01,3.3,0.0
+4,learn languages on duolingo,play board games with friends,0.04,0.01,1.1,1.0
+5,go out for dinner with coworkers,chop up vegetables,0.05,0.01,1.1,0.0
+6,learn languages on duolingo,complete yardwork with family members,0.01,0.02,3.3,1.0
+7,bake bread with friends,cook eggs,0.02,0.02,1.1,0.0
+8,walk around a body of water,go out dancing with my significant other,0.03,0.02,1.1,1.0
+9,walk around downtown with my significant other,juggle with my hands,0.04,0.02,4.4,0.0
+10,walk around downtown with my significant other,play the drums,0.05,0.02,1.1,0.0
+11,juggle with my hands,complete yardwork with family members,0.01,0.03,3.3,1.0
+12,learn languages on duolingo,ice skate with friends,0.02,0.03,4.4,1.0
+13,play board games with friends,play the drums,0.03,0.03,1.1,0.0
+14,watch shows on Netflix with my significant other,practice tap dance,0.04,0.03,3.3,0.0
+15,forage for fruits vegetables and mushrooms,bake bread with friends,0.05,0.03,4.4,1.0
+16,practice other languages with friends,learn languages on duolingo,0.01,0.04,1.1,0.0
+17,go out for dinner with coworkers,journal about the day,0.02,0.04,8.8,0.0
+18,watch shows on Netflix with my significant other,sit on a hammock outside,0.03,0.04,3.3,0.0
+19,sit on a hammock outside,complete yardwork with family members,0.04,0.04,3.3,1.0
+20,play the drums,watch shows on Netflix with my significant other,0.05,0.04,1.1,1.0
+21,journal about the day,play board games with friends,0.01,0.05,8.8,1.0
+22,forage for fruits vegetables and mushrooms,practice other languages with friends,0.02,0.05,4.4,1.0
+23,walk around downtown with my significant other,journal about the day,0.03,0.05,1.1,0.0
+24,forage for fruits vegetables and mushrooms,ice skate with friends,0.04,0.05,4.4,1.0
+25,juggle with my hands,watch shows on Netflix with my significant other,0.05,0.05,3.3,1.0
+26,chop up vegetables,walk around downtown with my significant other,0.01,0.01,4.4,1.0
+27,go out dancing with my significant other,practice tap dance,0.02,0.01,3.3,0.0
+28,go out dancing with my significant other,play the drums,0.03,0.01,3.3,0.0
+29,learn languages on duolingo,go out dancing with my significant other,0.04,0.01,4.4,1.0
+30,watch shows on Netflix with my significant other,walk around a body of water,0.05,0.01,8.8,0.0
+31,ice skate with friends,cook eggs,0.01,0.02,8.8,0.0
+32,practice tap dance,practice other languages with friends,0.02,0.02,1.1,1.0
+33,watch shows on Netflix with my significant other,forage for fruits vegetables and mushrooms,0.03,0.02,4.4,0.0
+34,bake bread with friends,sit on a hammock outside,0.04,0.02,3.3,0.0
+35,walk around downtown with my significant other,cook eggs,0.05,0.02,1.1,0.0
+36,bake bread with friends,play the drums,0.01,0.03,3.3,0.0
+37,practice other languages with friends,sit on a hammock outside,0.02,0.03,1.1,0.0
+38,go out dancing with my significant other,journal about the day,0.03,0.03,1.1,0.0
+39,sit on a hammock outside,walk around downtown with my significant other,0.04,0.03,3.3,1.0
+40,walk around downtown with my significant other,forage for fruits vegetables and mushrooms,0.05,0.03,4.4,0.0
+41,complete yardwork with family members,journal about the day,0.01,0.04,1.1,0.0
+42,practice tap dance,bake bread with friends,0.02,0.04,3.3,1.0
+43,bake bread with friends,learn languages on duolingo,0.03,0.04,1.1,0.0
+44,walk around downtown with my significant other,learn languages on duolingo,0.04,0.04,1.1,0.0
+45,journal about the day,ice skate with friends,0.05,0.04,4.4,1.0
+46,walk around a body of water,walk around downtown with my significant other,0.01,0.05,8.8,1.0
+47,forage for fruits vegetables and mushrooms,complete yardwork with family members,0.02,0.05,1.1,1.0
+48,rock climb with friends,walk around a body of water,0.03,0.05,4.4,0.0
+49,cook eggs,complete yardwork with family members,0.04,0.05,3.3,1.0
+50,ice skate with friends,play the drums,0.05,0.05,1.1,0.0
+51,cook eggs,play board games with friends,0.01,0.01,1.1,1.0
+52,rock climb with friends,cook eggs,0.02,0.01,3.3,0.0
+53,chop up vegetables,bake bread with friends,0.03,0.01,1.1,1.0
+54,journal about the day,watch shows on Netflix with my significant other,0.04,0.01,4.4,1.0
+55,play board games with friends,sit on a hammock outside,0.05,0.01,1.1,0.0
+56,chop up vegetables,ice skate with friends,0.01,0.02,8.8,1.0
+57,practice tap dance,ice skate with friends,0.02,0.02,4.4,1.0
+58,rock climb with friends,practice tap dance,0.03,0.02,4.4,0.0
+59,practice other languages with friends,juggle with my hands,0.04,0.02,4.4,0.0
+60,walk around a body of water,practice other languages with friends,0.05,0.02,1.1,1.0
+61,play board games with friends,forage for fruits vegetables and mushrooms,0.01,0.03,3.3,0.0
+62,chop up vegetables,watch shows on Netflix with my significant other,0.02,0.03,3.3,1.0
+63,practice other languages with friends,chop up vegetables,0.03,0.03,3.3,0.0
+64,go out for dinner with coworkers,cook eggs,0.04,0.03,1.1,0.0
+65,sit on a hammock outside,go out for dinner with coworkers,0.05,0.03,1.1,1.0
+66,chop up vegetables,complete yardwork with family members,0.01,0.04,1.1,1.0
+67,play board games with friends,chop up vegetables,0.02,0.04,8.8,0.0
+68,play the drums,practice other languages with friends,0.03,0.04,4.4,1.0
+69,juggle with my hands,rock climb with friends,0.04,0.04,1.1,1.0
+70,play board games with friends,practice tap dance,0.05,0.04,1.1,0.0
+71,learn languages on duolingo,watch shows on Netflix with my significant other,0.01,0.05,3.3,1.0
+72,bake bread with friends,juggle with my hands,0.02,0.05,8.8,0.0
+73,forage for fruits vegetables and mushrooms,go out for dinner with coworkers,0.03,0.05,3.3,1.0
+74,juggle with my hands,go out for dinner with coworkers,0.04,0.05,4.4,1.0
+75,bake bread with friends,walk around a body of water,0.05,0.05,3.3,0.0
+76,play board games with friends,juggle with my hands,0.01,0.01,1.1,0.0
+77,go out for dinner with coworkers,play the drums,0.02,0.01,8.8,0.0
+78,journal about the day,rock climb with friends,0.03,0.01,1.1,1.0
+79,go out for dinner with coworkers,learn languages on duolingo,0.04,0.01,1.1,0.0
+80,complete yardwork with family members,walk around a body of water,0.05,0.01,4.4,0.0
+81,juggle with my hands,ice skate with friends,0.01,0.02,3.3,1.0
+82,cook eggs,practice other languages with friends,0.02,0.02,4.4,1.0
+83,rock climb with friends,play the drums,0.03,0.02,1.1,0.0
+84,journal about the day,bake bread with friends,0.04,0.02,3.3,1.0
+85,chop up vegetables,rock climb with friends,0.05,0.02,3.3,1.0
+86,cook eggs,go out dancing with my significant other,0.01,0.03,1.1,1.0
+87,walk around a body of water,go out for dinner with coworkers,0.02,0.03,4.4,1.0
+88,cook eggs,watch shows on Netflix with my significant other,0.03,0.03,1.1,1.0
+89,walk around downtown with my significant other,practice tap dance,0.04,0.03,3.3,0.0
+90,rock climb with friends,learn languages on duolingo,0.05,0.03,8.8,0.0
+91,chop up vegetables,go out dancing with my significant other,0.01,0.04,3.3,1.0
+92,go out dancing with my significant other,juggle with my hands,0.02,0.04,8.8,0.0
+93,rock climb with friends,sit on a hammock outside,0.03,0.04,1.1,0.0
+94,journal about the day,practice other languages with friends,0.04,0.04,4.4,1.0
+95,ice skate with friends,walk around a body of water,0.05,0.04,4.4,0.0
+96,forage for fruits vegetables and mushrooms,rock climb with friends,0.01,0.05,3.3,1.0
+97,go out dancing with my significant other,sit on a hammock outside,0.02,0.05,1.1,0.0
+98,sit on a hammock outside,ice skate with friends,0.03,0.05,1.1,1.0
+99,forage for fruits vegetables and mushrooms,go out dancing with my significant other,0.04,0.05,3.3,1.0
+100,play the drums,complete yardwork with family members,0.05,0.05,4.4,1.0

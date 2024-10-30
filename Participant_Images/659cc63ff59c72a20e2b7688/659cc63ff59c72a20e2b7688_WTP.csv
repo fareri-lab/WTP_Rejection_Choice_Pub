@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Bake holiday treats with my mom in her kitchen every december,Watch classic movies in bed on a sunday morning,0.01,0.01,4.4,0.0
+2,Bake holiday treats with my mom in her kitchen every december,Stargaze in a cozy blanket on a chilly night in the backyard,0.02,0.01,8.8,0.0
+3,Write poetry in a quiet coffee shop with a warm latte,Play board games with my siblings on holiday afternoons,0.03,0.01,3.3,1.0
+4,Stargaze in a cozy blanket on a chilly night in the backyard,Take road trips with my family to explore new towns and scenic spots,0.04,0.01,1.1,1.0
+5,Go on weekend brunch dates with friends at our favorite cafe,Explore new hiking trails in a secluded forest,0.05,0.01,1.1,0.0
+6,Write poetry in a quiet coffee shop with a warm latte,Attend live music concerts with friends in the summer,0.01,0.02,3.3,1.0
+7,Practice meditation on the balcony early in the morning,Attend live music concerts with friends in the summer,0.02,0.02,1.1,1.0
+8,Practice yoga in my room with dim lighting and scented candles,Go for long beach walks with my best friend on warm sunny days,0.03,0.02,1.1,1.0
+9,Play board games with my siblings on holiday afternoons,Explore new hiking trails in a secluded forest,0.04,0.02,4.4,0.0
+10,Try out new hiking trails with my outdoorsy group on saturday mornings,Practice yoga in my room with dim lighting and scented candles,0.05,0.02,1.1,0.0
+11,Go on weekend brunch dates with friends at our favorite cafe,Write poetry in a quiet coffee shop with a warm latte,0.01,0.03,3.3,0.0
+12,Read mystery novels by the window on a rainy afternoon,Watch classic movies with my partner on cozy friday nights at home,0.02,0.03,4.4,1.0
+13,Cook new recipes in the kitchen with a favorite playlist on,Bake holiday treats with my mom in her kitchen every december,0.03,0.03,1.1,1.0
+14,Explore new hiking trails in a secluded forest,Take road trips with my family to explore new towns and scenic spots,0.04,0.03,3.3,1.0
+15,Cook new recipes in the kitchen with a favorite playlist on,Study together with my classmates in the library before finals,0.05,0.03,4.4,1.0
+16,Go for long beach walks with my best friend on warm sunny days,Explore new hiking trails in a secluded forest,0.01,0.04,1.1,0.0
+17,Write poetry in a quiet coffee shop with a warm latte,Go for long beach walks with my best friend on warm sunny days,0.02,0.04,8.8,1.0
+18,Read mystery novels by the window on a rainy afternoon,Study together with my classmates in the library before finals,0.03,0.04,3.3,1.0
+19,Go to trivia night at a local bar with coworkers every month,Practice yoga in my room with dim lighting and scented candles,0.04,0.04,3.3,0.0
+20,Watch classic movies in bed on a sunday morning,Play board games with my siblings on holiday afternoons,0.05,0.04,1.1,1.0
+21,Journal my thoughts in bed with soft instrumental music playing,Study together with my classmates in the library before finals,0.01,0.05,8.8,1.0
+22,Write poetry in a quiet coffee shop with a warm latte,Try out new hiking trails with my outdoorsy group on saturday mornings,0.02,0.05,4.4,1.0
+23,Journal my thoughts in bed with soft instrumental music playing,Go for long beach walks with my best friend on warm sunny days,0.03,0.05,1.1,1.0
+24,Cook new recipes in the kitchen with a favorite playlist on,Play board games with my siblings on holiday afternoons,0.04,0.05,4.4,1.0
+25,Study together with my classmates in the library before finals,Sketch landscapes in my backyard during sunset,0.05,0.05,3.3,0.0
+26,Try out new hiking trails with my outdoorsy group on saturday mornings,Sketch landscapes in my backyard during sunset,0.01,0.01,4.4,0.0
+27,Watch classic movies with my partner on cozy friday nights at home,Practice meditation on the balcony early in the morning,0.02,0.01,3.3,0.0
+28,Attend live music concerts with friends in the summer,Practice yoga in my room with dim lighting and scented candles,0.03,0.01,3.3,0.0
+29,Stargaze in a cozy blanket on a chilly night in the backyard,Go for long beach walks with my best friend on warm sunny days,0.04,0.01,4.4,1.0
+30,Journal my thoughts in bed with soft instrumental music playing,Take road trips with my family to explore new towns and scenic spots,0.05,0.01,8.8,1.0
+31,Sketch landscapes in my backyard during sunset,Go to trivia night at a local bar with coworkers every month,0.01,0.02,8.8,1.0
+32,Play board games with my siblings on holiday afternoons,Read mystery novels by the window on a rainy afternoon,0.02,0.02,1.1,0.0
+33,Write poetry in a quiet coffee shop with a warm latte,Go to trivia night at a local bar with coworkers every month,0.03,0.02,4.4,1.0
+34,Write poetry in a quiet coffee shop with a warm latte,Bake holiday treats with my mom in her kitchen every december,0.04,0.02,3.3,1.0
+35,Attend live music concerts with friends in the summer,Read mystery novels by the window on a rainy afternoon,0.05,0.02,1.1,0.0
+36,Stargaze in a cozy blanket on a chilly night in the backyard,Attend live music concerts with friends in the summer,0.01,0.03,3.3,1.0
+37,Play board games with my siblings on holiday afternoons,Stargaze in a cozy blanket on a chilly night in the backyard,0.02,0.03,1.1,0.0
+38,Go to trivia night at a local bar with coworkers every month,Cook new recipes in the kitchen with a favorite playlist on,0.03,0.03,1.1,0.0
+39,Study together with my classmates in the library before finals,Write poetry in a quiet coffee shop with a warm latte,0.04,0.03,3.3,0.0
+40,Try out new hiking trails with my outdoorsy group on saturday mornings,Practice meditation on the balcony early in the morning,0.05,0.03,4.4,0.0
+41,Read mystery novels by the window on a rainy afternoon,Go for long beach walks with my best friend on warm sunny days,0.01,0.04,1.1,1.0
+42,Go for long beach walks with my best friend on warm sunny days,Cook new recipes in the kitchen with a favorite playlist on,0.02,0.04,3.3,0.0
+43,Go on weekend brunch dates with friends at our favorite cafe,Sketch landscapes in my backyard during sunset,0.03,0.04,1.1,0.0
+44,Try out new hiking trails with my outdoorsy group on saturday mornings,Read mystery novels by the window on a rainy afternoon,0.04,0.04,1.1,0.0
+45,Go on weekend brunch dates with friends at our favorite cafe,Watch classic movies in bed on a sunday morning,0.05,0.04,4.4,0.0
+46,Study together with my classmates in the library before finals,Practice yoga in my room with dim lighting and scented candles,0.01,0.05,8.8,0.0
+47,Go on weekend brunch dates with friends at our favorite cafe,Read mystery novels by the window on a rainy afternoon,0.02,0.05,1.1,0.0
+48,Study together with my classmates in the library before finals,Practice meditation on the balcony early in the morning,0.03,0.05,4.4,0.0
+49,Journal my thoughts in bed with soft instrumental music playing,Go on weekend brunch dates with friends at our favorite cafe,0.04,0.05,3.3,1.0
+50,Journal my thoughts in bed with soft instrumental music playing,Play board games with my siblings on holiday afternoons,0.05,0.05,1.1,1.0
+51,Read mystery novels by the window on a rainy afternoon,Take road trips with my family to explore new towns and scenic spots,0.01,0.01,1.1,1.0
+52,Stargaze in a cozy blanket on a chilly night in the backyard,Go to trivia night at a local bar with coworkers every month,0.02,0.01,3.3,1.0
+53,Watch classic movies with my partner on cozy friday nights at home,Sketch landscapes in my backyard during sunset,0.03,0.01,1.1,0.0
+54,Practice yoga in my room with dim lighting and scented candles,Take road trips with my family to explore new towns and scenic spots,0.04,0.01,4.4,1.0
+55,Watch classic movies with my partner on cozy friday nights at home,Stargaze in a cozy blanket on a chilly night in the backyard,0.05,0.01,1.1,0.0
+56,Play board games with my siblings on holiday afternoons,Practice meditation on the balcony early in the morning,0.01,0.02,8.8,0.0
+57,Try out new hiking trails with my outdoorsy group on saturday mornings,Watch classic movies in bed on a sunday morning,0.02,0.02,4.4,0.0
+58,Watch classic movies in bed on a sunday morning,Study together with my classmates in the library before finals,0.03,0.02,4.4,1.0
+59,Practice meditation on the balcony early in the morning,Go on weekend brunch dates with friends at our favorite cafe,0.04,0.02,4.4,1.0
+60,Practice yoga in my room with dim lighting and scented candles,Bake holiday treats with my mom in her kitchen every december,0.05,0.02,1.1,1.0
+61,Watch classic movies with my partner on cozy friday nights at home,Watch classic movies in bed on a sunday morning,0.01,0.03,3.3,0.0
+62,Go for long beach walks with my best friend on warm sunny days,Sketch landscapes in my backyard during sunset,0.02,0.03,3.3,0.0
+63,Cook new recipes in the kitchen with a favorite playlist on,Go on weekend brunch dates with friends at our favorite cafe,0.03,0.03,3.3,1.0
+64,Go to trivia night at a local bar with coworkers every month,Journal my thoughts in bed with soft instrumental music playing,0.04,0.03,1.1,0.0
+65,Cook new recipes in the kitchen with a favorite playlist on,Take road trips with my family to explore new towns and scenic spots,0.05,0.03,1.1,1.0
+66,Practice yoga in my room with dim lighting and scented candles,Go on weekend brunch dates with friends at our favorite cafe,0.01,0.04,1.1,1.0
+67,Take road trips with my family to explore new towns and scenic spots,Practice meditation on the balcony early in the morning,0.02,0.04,8.8,0.0
+68,Watch classic movies with my partner on cozy friday nights at home,Practice yoga in my room with dim lighting and scented candles,0.03,0.04,4.4,0.0
+69,Attend live music concerts with friends in the summer,Cook new recipes in the kitchen with a favorite playlist on,0.04,0.04,1.1,0.0
+70,Read mystery novels by the window on a rainy afternoon,Bake holiday treats with my mom in her kitchen every december,0.05,0.04,1.1,1.0
+71,Try out new hiking trails with my outdoorsy group on saturday mornings,Cook new recipes in the kitchen with a favorite playlist on,0.01,0.05,3.3,0.0
+72,Play board games with my siblings on holiday afternoons,Practice yoga in my room with dim lighting and scented candles,0.02,0.05,8.8,0.0
+73,Explore new hiking trails in a secluded forest,Attend live music concerts with friends in the summer,0.03,0.05,3.3,1.0
+74,Watch classic movies with my partner on cozy friday nights at home,Write poetry in a quiet coffee shop with a warm latte,0.04,0.05,4.4,0.0
+75,Sketch landscapes in my backyard during sunset,Play board games with my siblings on holiday afternoons,0.05,0.05,3.3,1.0
+76,Try out new hiking trails with my outdoorsy group on saturday mornings,Explore new hiking trails in a secluded forest,0.01,0.01,1.1,0.0
+77,Write poetry in a quiet coffee shop with a warm latte,Take road trips with my family to explore new towns and scenic spots,0.02,0.01,8.8,1.0
+78,Go to trivia night at a local bar with coworkers every month,Explore new hiking trails in a secluded forest,0.03,0.01,1.1,0.0
+79,Take road trips with my family to explore new towns and scenic spots,Sketch landscapes in my backyard during sunset,0.04,0.01,1.1,0.0
+80,Try out new hiking trails with my outdoorsy group on saturday mornings,Journal my thoughts in bed with soft instrumental music playing,0.05,0.01,4.4,0.0
+81,Practice meditation on the balcony early in the morning,Go for long beach walks with my best friend on warm sunny days,0.01,0.02,3.3,1.0
+82,Watch classic movies in bed on a sunday morning,Attend live music concerts with friends in the summer,0.02,0.02,4.4,1.0
+83,Study together with my classmates in the library before finals,Stargaze in a cozy blanket on a chilly night in the backyard,0.03,0.02,1.1,0.0
+84,Watch classic movies in bed on a sunday morning,Go to trivia night at a local bar with coworkers every month,0.04,0.02,3.3,1.0
+85,Cook new recipes in the kitchen with a favorite playlist on,Watch classic movies with my partner on cozy friday nights at home,0.05,0.02,3.3,1.0
+86,Try out new hiking trails with my outdoorsy group on saturday mornings,Stargaze in a cozy blanket on a chilly night in the backyard,0.01,0.03,1.1,0.0
+87,Watch classic movies in bed on a sunday morning,Take road trips with my family to explore new towns and scenic spots,0.02,0.03,4.4,1.0
+88,Bake holiday treats with my mom in her kitchen every december,Journal my thoughts in bed with soft instrumental music playing,0.03,0.03,1.1,0.0
+89,Watch classic movies in bed on a sunday morning,Go for long beach walks with my best friend on warm sunny days,0.04,0.03,3.3,1.0
+90,Practice meditation on the balcony early in the morning,Bake holiday treats with my mom in her kitchen every december,0.05,0.03,8.8,1.0
+91,Journal my thoughts in bed with soft instrumental music playing,Watch classic movies with my partner on cozy friday nights at home,0.01,0.04,3.3,1.0
+92,Study together with my classmates in the library before finals,Explore new hiking trails in a secluded forest,0.02,0.04,8.8,0.0
+93,Read mystery novels by the window on a rainy afternoon,Go to trivia night at a local bar with coworkers every month,0.03,0.04,1.1,1.0
+94,Attend live music concerts with friends in the summer,Journal my thoughts in bed with soft instrumental music playing,0.04,0.04,4.4,0.0
+95,Attend live music concerts with friends in the summer,Sketch landscapes in my backyard during sunset,0.05,0.04,4.4,0.0
+96,Explore new hiking trails in a secluded forest,Bake holiday treats with my mom in her kitchen every december,0.01,0.05,3.3,1.0
+97,Sketch landscapes in my backyard during sunset,Bake holiday treats with my mom in her kitchen every december,0.02,0.05,1.1,1.0
+98,Go on weekend brunch dates with friends at our favorite cafe,Stargaze in a cozy blanket on a chilly night in the backyard,0.03,0.05,1.1,0.0
+99,Go to trivia night at a local bar with coworkers every month,Practice meditation on the balcony early in the morning,0.04,0.05,3.3,0.0
+100,Explore new hiking trails in a secluded forest,Watch classic movies with my partner on cozy friday nights at home,0.05,0.05,4.4,1.0

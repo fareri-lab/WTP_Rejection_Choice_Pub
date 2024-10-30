@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Take my dog for a walk on cooler days,Play my favorite games with my close friends,0.01,0.01,4.4,1.0
+2,On drunk nights with my friends going to get food,Research and learn about global issues,0.02,0.01,8.8,0.0
+3,Do the dishes after cooking my favorite meals,Watch funny tiktoks with my friends while we are hanging out,0.03,0.01,3.3,1.0
+4,Play my favorite games with my close friends,Research and learn about global issues,0.04,0.01,1.1,0.0
+5,Go on road trips to new places with my best friend,Walk in the park,0.05,0.01,1.1,0.0
+6,Talk with my co workers about new changes at work,Listen to music and relaxing,0.01,0.02,3.3,0.0
+7,Talk with my co workers about new changes at work,Go to the gym,0.02,0.02,1.1,0.0
+8,On drunk nights with my friends going to get food,Go to the gym,0.03,0.02,1.1,0.0
+9,Brainstorm ideas with my friends to make funny tiktoks,Practice classical songs on my piano,0.04,0.02,4.4,0.0
+10,Cook food and enjoy podcasts,Suggest policy changes at work with my managers,0.05,0.02,1.1,1.0
+11,Wash my car on a sunny day,Play my favorite games with my close friends,0.01,0.03,3.3,1.0
+12,Cook food and enjoy podcasts,Watch funny tiktoks with my friends while we are hanging out,0.02,0.03,4.4,1.0
+13,Practice classical songs on my piano,Talk with my co workers about new changes at work,0.03,0.03,1.1,1.0
+14,Do the dishes after cooking my favorite meals,Play my favorite games with my close friends,0.04,0.03,3.3,1.0
+15,Talk with my co workers about new changes at work,Walk in the park,0.05,0.03,4.4,0.0
+16,Wash my car on a sunny day,Go live on twitch with my friend,0.01,0.04,1.1,1.0
+17,Talk with my co workers about new changes at work,Practice coffee art in the morning,0.02,0.04,8.8,0.0
+18,Listen to music and relaxing,Go on road trips to new places with my best friend,0.03,0.04,3.3,1.0
+19,Listen to music and relaxing,Go live on twitch with my friend,0.04,0.04,3.3,1.0
+20,Play my favorite games with my close friends,Walk in the park,0.05,0.04,1.1,0.0
+21,Walk in the park,Go on a starbucks run on lunch break with my friends,0.01,0.05,8.8,1.0
+22,Suggest policy changes at work with my managers,Walk in the park,0.02,0.05,4.4,0.0
+23,On drunk nights with my friends going to get food,Take my dog for a walk on cooler days,0.03,0.05,1.1,0.0
+24,Brainstorm ideas with my friends to make funny tiktoks,Take my dog for a walk on cooler days,0.04,0.05,4.4,0.0
+25,Do the dishes after cooking my favorite meals,Suggest policy changes at work with my managers,0.05,0.05,3.3,1.0
+26,Practice coffee art in the morning,Go live on twitch with my friend,0.01,0.01,4.4,1.0
+27,Watch funny tiktoks with my friends while we are hanging out,Research and learn about global issues,0.02,0.01,3.3,0.0
+28,Brainstorm ideas with my friends to make funny tiktoks,Walk in the park,0.03,0.01,3.3,0.0
+29,Wash my car on a sunny day,Go on road trips to new places with my best friend,0.04,0.01,4.4,1.0
+30,Walk in the park,On drunk nights with my friends going to get food,0.05,0.01,8.8,1.0
+31,Listen to music and relaxing,Watch new movies I think id enjoy with friends,0.01,0.02,8.8,1.0
+32,Watch new movies I think id enjoy with friends,Wash my car on a sunny day,0.02,0.02,1.1,0.0
+33,Watch funny tiktoks with my friends while we are hanging out,Wash my car on a sunny day,0.03,0.02,4.4,0.0
+34,Cook food and enjoy podcasts,Go on road trips to new places with my best friend,0.04,0.02,3.3,1.0
+35,Watch new movies I think id enjoy with friends,Research and learn about global issues,0.05,0.02,1.1,0.0
+36,Research and learn about global issues,Brainstorm ideas with my friends to make funny tiktoks,0.01,0.03,3.3,1.0
+37,Take my dog for a walk on cooler days,Watch new movies I think id enjoy with friends,0.02,0.03,1.1,1.0
+38,Talk with my co workers about new changes at work,Cook food and enjoy podcasts,0.03,0.03,1.1,0.0
+39,Take my dog for a walk on cooler days,Go on road trips to new places with my best friend,0.04,0.03,3.3,1.0
+40,Research and learn about global issues,Go on road trips to new places with my best friend,0.05,0.03,4.4,1.0
+41,Go on a starbucks run on lunch break with my friends,Go to the gym,0.01,0.04,1.1,0.0
+42,Take my dog for a walk on cooler days,Go on a starbucks run on lunch break with my friends,0.02,0.04,3.3,1.0
+43,Go on road trips to new places with my best friend,Practice coffee art in the morning,0.03,0.04,1.1,0.0
+44,Cook food and enjoy podcasts,Go on a starbucks run on lunch break with my friends,0.04,0.04,1.1,1.0
+45,Go to the gym,Go on road trips to new places with my best friend,0.05,0.04,4.4,1.0
+46,Go live on twitch with my friend,Cook food and enjoy podcasts,0.01,0.05,8.8,0.0
+47,Do the dishes after cooking my favorite meals,On drunk nights with my friends going to get food,0.02,0.05,1.1,1.0
+48,Talk with my co workers about new changes at work,Wash my car on a sunny day,0.03,0.05,4.4,0.0
+49,On drunk nights with my friends going to get food,Practice coffee art in the morning,0.04,0.05,3.3,0.0
+50,On drunk nights with my friends going to get food,Listen to music and relaxing,0.05,0.05,1.1,0.0
+51,Play my favorite games with my close friends,Listen to music and relaxing,0.01,0.01,1.1,0.0
+52,Go on a starbucks run on lunch break with my friends,Practice classical songs on my piano,0.02,0.01,3.3,0.0
+53,Watch new movies I think id enjoy with friends,Practice coffee art in the morning,0.03,0.01,1.1,0.0
+54,Talk with my co workers about new changes at work,Do the dishes after cooking my favorite meals,0.04,0.01,4.4,0.0
+55,Cook food and enjoy podcasts,Play my favorite games with my close friends,0.05,0.01,1.1,1.0
+56,On drunk nights with my friends going to get food,Wash my car on a sunny day,0.01,0.02,8.8,0.0
+57,Research and learn about global issues,Talk with my co workers about new changes at work,0.02,0.02,4.4,1.0
+58,Brainstorm ideas with my friends to make funny tiktoks,Go to the gym,0.03,0.02,4.4,0.0
+59,Talk with my co workers about new changes at work,Take my dog for a walk on cooler days,0.04,0.02,4.4,0.0
+60,Brainstorm ideas with my friends to make funny tiktoks,Practice coffee art in the morning,0.05,0.02,1.1,0.0
+61,Go to the gym,Suggest policy changes at work with my managers,0.01,0.03,3.3,1.0
+62,Do the dishes after cooking my favorite meals,Watch new movies I think id enjoy with friends,0.02,0.03,3.3,1.0
+63,Brainstorm ideas with my friends to make funny tiktoks,Do the dishes after cooking my favorite meals,0.03,0.03,3.3,0.0
+64,Do the dishes after cooking my favorite meals,Go on a starbucks run on lunch break with my friends,0.04,0.03,1.1,1.0
+65,Practice classical songs on my piano,Suggest policy changes at work with my managers,0.05,0.03,1.1,1.0
+66,On drunk nights with my friends going to get food,Practice classical songs on my piano,0.01,0.04,1.1,0.0
+67,Cook food and enjoy podcasts,Brainstorm ideas with my friends to make funny tiktoks,0.02,0.04,8.8,1.0
+68,Watch funny tiktoks with my friends while we are hanging out,Listen to music and relaxing,0.03,0.04,4.4,0.0
+69,Listen to music and relaxing,Brainstorm ideas with my friends to make funny tiktoks,0.04,0.04,1.1,1.0
+70,Brainstorm ideas with my friends to make funny tiktoks,Wash my car on a sunny day,0.05,0.04,1.1,0.0
+71,Cook food and enjoy podcasts,On drunk nights with my friends going to get food,0.01,0.05,3.3,1.0
+72,Play my favorite games with my close friends,Practice classical songs on my piano,0.02,0.05,8.8,0.0
+73,Watch new movies I think id enjoy with friends,Cook food and enjoy podcasts,0.03,0.05,3.3,0.0
+74,Walk in the park,Watch new movies I think id enjoy with friends,0.04,0.05,4.4,1.0
+75,Research and learn about global issues,Go live on twitch with my friend,0.05,0.05,3.3,1.0
+76,Go to the gym,Watch new movies I think id enjoy with friends,0.01,0.01,1.1,1.0
+77,Go live on twitch with my friend,Do the dishes after cooking my favorite meals,0.02,0.01,8.8,0.0
+78,Wash my car on a sunny day,Go on a starbucks run on lunch break with my friends,0.03,0.01,1.1,1.0
+79,Suggest policy changes at work with my managers,Research and learn about global issues,0.04,0.01,1.1,0.0
+80,Watch funny tiktoks with my friends while we are hanging out,Walk in the park,0.05,0.01,4.4,0.0
+81,Go live on twitch with my friend,Take my dog for a walk on cooler days,0.01,0.02,3.3,0.0
+82,Go on a starbucks run on lunch break with my friends,Practice coffee art in the morning,0.02,0.02,4.4,0.0
+83,Practice coffee art in the morning,Watch funny tiktoks with my friends while we are hanging out,0.03,0.02,1.1,1.0
+84,Go to the gym,Watch funny tiktoks with my friends while we are hanging out,0.04,0.02,3.3,1.0
+85,Suggest policy changes at work with my managers,Take my dog for a walk on cooler days,0.05,0.02,3.3,0.0
+86,Play my favorite games with my close friends,Practice coffee art in the morning,0.01,0.03,1.1,0.0
+87,Listen to music and relaxing,Suggest policy changes at work with my managers,0.02,0.03,4.4,1.0
+88,Go to the gym,Play my favorite games with my close friends,0.03,0.03,1.1,1.0
+89,Go live on twitch with my friend,Walk in the park,0.04,0.03,3.3,0.0
+90,Practice coffee art in the morning,Suggest policy changes at work with my managers,0.05,0.03,8.8,1.0
+91,Go on road trips to new places with my best friend,Practice classical songs on my piano,0.01,0.04,3.3,0.0
+92,Suggest policy changes at work with my managers,Wash my car on a sunny day,0.02,0.04,8.8,0.0
+93,Listen to music and relaxing,Go on a starbucks run on lunch break with my friends,0.03,0.04,1.1,1.0
+94,Watch funny tiktoks with my friends while we are hanging out,Practice classical songs on my piano,0.04,0.04,4.4,0.0
+95,Do the dishes after cooking my favorite meals,Go on road trips to new places with my best friend,0.05,0.04,4.4,1.0
+96,Go to the gym,Go live on twitch with my friend,0.01,0.05,3.3,1.0
+97,Research and learn about global issues,Go on a starbucks run on lunch break with my friends,0.02,0.05,1.1,1.0
+98,Take my dog for a walk on cooler days,Watch funny tiktoks with my friends while we are hanging out,0.03,0.05,1.1,1.0
+99,Practice classical songs on my piano,Go live on twitch with my friend,0.04,0.05,3.3,1.0
+100,Practice classical songs on my piano,Watch new movies I think id enjoy with friends,0.05,0.05,4.4,1.0
