@@ -15,7 +15,7 @@ completedparticipantlist = completedparticipantlist.loc[
     completedparticipantlist['PhotosUploaded? (y/n)'] == 'n']
 completedparticipantlist = completedparticipantlist['PROLIFIC_ID'].reset_index()
 completedparticipantlist= completedparticipantlist.drop(['index'], axis=1)
-exp = pd.read_csv('WTP-Rej_Experiences_103024.csv', encoding = 'latin1')
+exp = pd.read_csv('WTP-Rej_Experiences_110624.csv', encoding = 'latin1')
 
 clean = exp.filter(regex='ocial_A')
 clean.insert(0, 'PROLIFIC_PID', exp['PROLIFIC_PID'])

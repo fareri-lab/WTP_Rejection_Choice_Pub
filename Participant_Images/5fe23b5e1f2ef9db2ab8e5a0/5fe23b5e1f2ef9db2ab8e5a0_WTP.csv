@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Cook a nice dinner over wine with my girlfriend,Ride my bicycle around New York on a warm sunny day,0.01,0.01,4.4,0.0
+2,Watch a foreign movie in my living room at night,Get together with old friends to catch up over a meal,0.02,0.01,8.8,1.0
+3,Get together with my book club to discuss a new book,Read a good book in my arm chair at night with warm lighting,0.03,0.01,3.3,0.0
+4,Ride my bicycle around New York on a warm sunny day,Go on roadtrips with my girlfriend and best friends,0.04,0.01,1.1,1.0
+5,Go on roadtrips with my girlfriend and best friends,Go for a run in the park on a sunny day,0.05,0.01,1.1,0.0
+6,Play video games in my living room at night,Get together with my book club to discuss a new book,0.01,0.02,3.3,1.0
+7,Work on my short story on my desk with soft music,Go on roadtrips with my girlfriend and best friends,0.02,0.02,1.1,1.0
+8,Play cooperative video games with my guy friends at night,Play video games in my living room at night,0.03,0.02,1.1,0.0
+9,Get together with old friends to catch up over a meal,Play video games in my living room at night,0.04,0.02,4.4,0.0
+10,Play cooperative video games with my guy friends at night,Play saxophone in my bedroom during the day,0.05,0.02,1.1,0.0
+11,Work on my short story on my desk with soft music,Go on a long bike ride to far away parts of the city with my bike club,0.01,0.03,3.3,1.0
+12,Watch a foreign movie in my living room at night,Go to a concert with my girlfriend,0.02,0.03,4.4,1.0
+13,Make a well crafted coffee and enjoying it on my balcony,Go to a coffeeshop with my friends to work on personal projects or read,0.03,0.03,1.1,1.0
+14,Go to a local bar with my neighborhood friends,Exercise in my bedroom to loud rock music,0.04,0.03,3.3,0.0
+15,Ride my bicycle around New York on a warm sunny day,Get together with old friends to catch up over a meal,0.05,0.03,4.4,1.0
+16,Watch a foreign movie in my living room at night,Go to a coffeeshop with my friends to work on personal projects or read,0.01,0.04,1.1,1.0
+17,Travel to other countries with my girlfriend and roommate,Play video games in my living room at night,0.02,0.04,8.8,0.0
+18,Exercise in my bedroom to loud rock music,Travel to other countries with my girlfriend and roommate,0.03,0.04,3.3,1.0
+19,Exercise in my bedroom to loud rock music,Go on roadtrips with my girlfriend and best friends,0.04,0.04,3.3,1.0
+20,Go on a long bike ride to far away parts of the city with my bike club,Play video games in my living room at night,0.05,0.04,1.1,0.0
+21,Go to a local bar with my neighborhood friends,Play video games in my living room at night,0.01,0.05,8.8,0.0
+22,Watch a foreign movie in my living room at night,Get together with my book club to discuss a new book,0.02,0.05,4.4,1.0
+23,Go on a long bike ride to far away parts of the city with my bike club,Make a well crafted coffee and enjoying it on my balcony,0.03,0.05,1.1,0.0
+24,Exercise in my bedroom to loud rock music,Get together with my book club to discuss a new book,0.04,0.05,4.4,1.0
+25,Go to a concert with my girlfriend,Ride my bicycle around New York on a warm sunny day,0.05,0.05,3.3,0.0
+26,Go for a run in the park on a sunny day,Go to a concert with my girlfriend,0.01,0.01,4.4,1.0
+27,Exercise in my bedroom to loud rock music,Get together with old friends to catch up over a meal,0.02,0.01,3.3,1.0
+28,Play video games in my living room at night,Go to a coffeeshop with my friends to work on personal projects or read,0.03,0.01,3.3,1.0
+29,Play cooperative video games with my guy friends at night,Make a well crafted coffee and enjoying it on my balcony,0.04,0.01,4.4,0.0
+30,Play saxophone in my bedroom during the day,Go to a local bar with my neighborhood friends,0.05,0.01,8.8,1.0
+31,Go on roadtrips with my girlfriend and best friends,Play video games in my living room at night,0.01,0.02,8.8,0.0
+32,Go to a coffeeshop with my friends to work on personal projects or read,Ride my bicycle around New York on a warm sunny day,0.02,0.02,1.1,0.0
+33,Read a good book in my arm chair at night with warm lighting,Go to a coffeeshop with my friends to work on personal projects or read,0.03,0.02,4.4,1.0
+34,Work on my short story on my desk with soft music,Go to a local bar with my neighborhood friends,0.04,0.02,3.3,1.0
+35,Go for a run in the park on a sunny day,Get together with my book club to discuss a new book,0.05,0.02,1.1,1.0
+36,Make a well crafted coffee and enjoying it on my balcony,Travel to other countries with my girlfriend and roommate,0.01,0.03,3.3,1.0
+37,Go on roadtrips with my girlfriend and best friends,Read a good book in my arm chair at night with warm lighting,0.02,0.03,1.1,0.0
+38,Get together with old friends to catch up over a meal,Read a good book in my arm chair at night with warm lighting,0.03,0.03,1.1,0.0
+39,Go for a walk in brooklyn on a beautiful warm day,Go on roadtrips with my girlfriend and best friends,0.04,0.03,3.3,1.0
+40,Get together with old friends to catch up over a meal,Go for a run in the park on a sunny day,0.05,0.03,4.4,0.0
+41,Go on a long bike ride to far away parts of the city with my bike club,Read a good book in my arm chair at night with warm lighting,0.01,0.04,1.1,0.0
+42,Work on my short story on my desk with soft music,Get together with old friends to catch up over a meal,0.02,0.04,3.3,1.0
+43,Travel to other countries with my girlfriend and roommate,Watch a foreign movie in my living room at night,0.03,0.04,1.1,0.0
+44,Watch a foreign movie in my living room at night,Go on roadtrips with my girlfriend and best friends,0.04,0.04,1.1,1.0
+45,Get together with my book club to discuss a new book,Ride my bicycle around New York on a warm sunny day,0.05,0.04,4.4,0.0
+46,Cook a nice dinner over wine with my girlfriend,Go for a run in the park on a sunny day,0.01,0.05,8.8,0.0
+47,Play cooperative video games with my guy friends at night,Watch a foreign movie in my living room at night,0.02,0.05,1.1,0.0
+48,Watch a foreign movie in my living room at night,Cook a nice dinner over wine with my girlfriend,0.03,0.05,4.4,1.0
+49,Travel to other countries with my girlfriend and roommate,Ride my bicycle around New York on a warm sunny day,0.04,0.05,3.3,0.0
+50,Go on a long bike ride to far away parts of the city with my bike club,Watch a foreign movie in my living room at night,0.05,0.05,1.1,0.0
+51,Read a good book in my arm chair at night with warm lighting,Cook a nice dinner over wine with my girlfriend,0.01,0.01,1.1,1.0
+52,Go to a concert with my girlfriend,Read a good book in my arm chair at night with warm lighting,0.02,0.01,3.3,0.0
+53,Read a good book in my arm chair at night with warm lighting,Go to a local bar with my neighborhood friends,0.03,0.01,1.1,1.0
+54,Exercise in my bedroom to loud rock music,Cook a nice dinner over wine with my girlfriend,0.04,0.01,4.4,1.0
+55,Get together with my book club to discuss a new book,Work on my short story on my desk with soft music,0.05,0.01,1.1,0.0
+56,Go to a concert with my girlfriend,Exercise in my bedroom to loud rock music,0.01,0.02,8.8,0.0
+57,Play saxophone in my bedroom during the day,Cook a nice dinner over wine with my girlfriend,0.02,0.02,4.4,1.0
+58,Get together with my book club to discuss a new book,Go for a walk in brooklyn on a beautiful warm day,0.03,0.02,4.4,0.0
+59,Go for a walk in brooklyn on a beautiful warm day,Cook a nice dinner over wine with my girlfriend,0.04,0.02,4.4,1.0
+60,Get together with old friends to catch up over a meal,Play saxophone in my bedroom during the day,0.05,0.02,1.1,0.0
+61,Make a well crafted coffee and enjoying it on my balcony,Get together with my book club to discuss a new book,0.01,0.03,3.3,1.0
+62,Go for a walk in brooklyn on a beautiful warm day,Go on a long bike ride to far away parts of the city with my bike club,0.02,0.03,3.3,1.0
+63,Go to a coffeeshop with my friends to work on personal projects or read,Go for a walk in brooklyn on a beautiful warm day,0.03,0.03,3.3,0.0
+64,Go on a long bike ride to far away parts of the city with my bike club,Ride my bicycle around New York on a warm sunny day,0.04,0.03,1.1,0.0
+65,Go to a local bar with my neighborhood friends,Go for a run in the park on a sunny day,0.05,0.03,1.1,0.0
+66,Ride my bicycle around New York on a warm sunny day,Play cooperative video games with my guy friends at night,0.01,0.04,1.1,1.0
+67,Play video games in my living room at night,Go to a concert with my girlfriend,0.02,0.04,8.8,1.0
+68,Play saxophone in my bedroom during the day,Get together with my book club to discuss a new book,0.03,0.04,4.4,1.0
+69,Play cooperative video games with my guy friends at night,Exercise in my bedroom to loud rock music,0.04,0.04,1.1,0.0
+70,Travel to other countries with my girlfriend and roommate,Play saxophone in my bedroom during the day,0.05,0.04,1.1,0.0
+71,Play saxophone in my bedroom during the day,Go to a concert with my girlfriend,0.01,0.05,3.3,1.0
+72,Go for a run in the park on a sunny day,Play cooperative video games with my guy friends at night,0.02,0.05,8.8,1.0
+73,Play cooperative video games with my guy friends at night,Go for a walk in brooklyn on a beautiful warm day,0.03,0.05,3.3,0.0
+74,Make a well crafted coffee and enjoying it on my balcony,Go on roadtrips with my girlfriend and best friends,0.04,0.05,4.4,1.0
+75,Cook a nice dinner over wine with my girlfriend,Make a well crafted coffee and enjoying it on my balcony,0.05,0.05,3.3,0.0
+76,Go on a long bike ride to far away parts of the city with my bike club,Go for a run in the park on a sunny day,0.01,0.01,1.1,0.0
+77,Go to a local bar with my neighborhood friends,Watch a foreign movie in my living room at night,0.02,0.01,8.8,0.0
+78,Read a good book in my arm chair at night with warm lighting,Play cooperative video games with my guy friends at night,0.03,0.01,1.1,1.0
+79,Travel to other countries with my girlfriend and roommate,Go for a run in the park on a sunny day,0.04,0.01,1.1,0.0
+80,Exercise in my bedroom to loud rock music,Go on a long bike ride to far away parts of the city with my bike club,0.05,0.01,4.4,1.0
+81,Ride my bicycle around New York on a warm sunny day,Go to a local bar with my neighborhood friends,0.01,0.02,3.3,1.0
+82,Go to a local bar with my neighborhood friends,Go for a walk in brooklyn on a beautiful warm day,0.02,0.02,4.4,0.0
+83,Play video games in my living room at night,Cook a nice dinner over wine with my girlfriend,0.03,0.02,1.1,1.0
+84,Travel to other countries with my girlfriend and roommate,Go for a walk in brooklyn on a beautiful warm day,0.04,0.02,3.3,0.0
+85,Go to a concert with my girlfriend,Go for a walk in brooklyn on a beautiful warm day,0.05,0.02,3.3,0.0
+86,Read a good book in my arm chair at night with warm lighting,Travel to other countries with my girlfriend and roommate,0.01,0.03,1.1,1.0
+87,Get together with old friends to catch up over a meal,Make a well crafted coffee and enjoying it on my balcony,0.02,0.03,4.4,0.0
+88,Go to a local bar with my neighborhood friends,Make a well crafted coffee and enjoying it on my balcony,0.03,0.03,1.1,0.0
+89,Go to a coffeeshop with my friends to work on personal projects or read,Play saxophone in my bedroom during the day,0.04,0.03,3.3,0.0
+90,Exercise in my bedroom to loud rock music,Go to a coffeeshop with my friends to work on personal projects or read,0.05,0.03,8.8,1.0
+91,Go to a coffeeshop with my friends to work on personal projects or read,Go for a run in the park on a sunny day,0.01,0.04,3.3,0.0
+92,Work on my short story on my desk with soft music,Travel to other countries with my girlfriend and roommate,0.02,0.04,8.8,1.0
+93,Play cooperative video games with my guy friends at night,Work on my short story on my desk with soft music,0.03,0.04,1.1,0.0
+94,Work on my short story on my desk with soft music,Cook a nice dinner over wine with my girlfriend,0.04,0.04,4.4,1.0
+95,Go to a concert with my girlfriend,Make a well crafted coffee and enjoying it on my balcony,0.05,0.04,4.4,0.0
+96,Work on my short story on my desk with soft music,Go to a concert with my girlfriend,0.01,0.05,3.3,1.0
+97,Go for a walk in brooklyn on a beautiful warm day,Get together with old friends to catch up over a meal,0.02,0.05,1.1,1.0
+98,Work on my short story on my desk with soft music,Go to a coffeeshop with my friends to work on personal projects or read,0.03,0.05,1.1,1.0
+99,Play saxophone in my bedroom during the day,Go on a long bike ride to far away parts of the city with my bike club,0.04,0.05,3.3,1.0
+100,Go on roadtrips with my girlfriend and best friends,Play saxophone in my bedroom during the day,0.05,0.05,4.4,0.0

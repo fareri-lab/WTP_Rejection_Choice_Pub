@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Learn new recipes with my parents in cooking classes,Take care of my flowers and vegetables in my backyard,0.01,0.01,4.4,0.0
+2,Walk on a local nature trail in the cool autumn morning,Help at the animal shelter with my friends on Saturday mornings,0.02,0.01,8.8,1.0
+3,Go to concerts with my best friend to see our favorite bands,Walk on a local nature trail in the cool autumn morning,0.03,0.01,3.3,0.0
+4,Learn new recipes with my parents in cooking classes,Cook new recipes in my kitchen while listening to a podcast,0.04,0.01,1.1,0.0
+5,Visit museums with my classmates on our art history trips,Write in my journal at the beach while listening to the waves,0.05,0.01,1.1,0.0
+6,Draw pictures at a quiet park bench during sunset,Visit museums with my classmates on our art history trips,0.01,0.02,3.3,1.0
+7,Help at the animal shelter with my friends on Saturday mornings,Write in my journal at the beach while listening to the waves,0.02,0.02,1.1,0.0
+8,Go hiking with friends on sunny weekends to explore new trails,Cook new recipes in my kitchen while listening to a podcast,0.03,0.02,1.1,0.0
+9,Read fantasy books in a cozy corner of my living room,Go hiking with friends on sunny weekends to explore new trails,0.04,0.02,4.4,1.0
+10,Go hiking with friends on sunny weekends to explore new trails,Solve puzzles on a rainy afternoon while drinking hot cocoa,0.05,0.02,1.1,0.0
+11,Walk on a local nature trail in the cool autumn morning,Have BBQs in the backyard with neighbors in the summer evenings,0.01,0.03,3.3,1.0
+12,Draw pictures at a quiet park bench during sunset,Go hiking with friends on sunny weekends to explore new trails,0.02,0.03,4.4,1.0
+13,Take care of my flowers and vegetables in my backyard,Go to concerts with my best friend to see our favorite bands,0.03,0.03,1.1,1.0
+14,Take care of my flowers and vegetables in my backyard,Go hiking with friends on sunny weekends to explore new trails,0.04,0.03,3.3,1.0
+15,Draw pictures at a quiet park bench during sunset,Go to concerts with my best friend to see our favorite bands,0.05,0.03,4.4,1.0
+16,Play board games with my family on cozy Saturday nights,Write in my journal at the beach while listening to the waves,0.01,0.04,1.1,0.0
+17,Write poems in my favorite cafe with a warm cup of tea,Have movie nights with my friends sharing popcorn and watching films,0.02,0.04,8.8,1.0
+18,Look at stars in my backyard with a blanket and coffee,Have BBQs in the backyard with neighbors in the summer evenings,0.03,0.04,3.3,1.0
+19,Look at stars in my backyard with a blanket and coffee,Have movie nights with my friends sharing popcorn and watching films,0.04,0.04,3.3,1.0
+20,Write poems in my favorite cafe with a warm cup of tea,Go to concerts with my best friend to see our favorite bands,0.05,0.04,1.1,1.0
+21,Cook dinner together with my partner while listening to music,Take care of my flowers and vegetables in my backyard,0.01,0.05,8.8,0.0
+22,Go hiking with friends on sunny weekends to explore new trails,Write poems in my favorite cafe with a warm cup of tea,0.02,0.05,4.4,0.0
+23,Read fantasy books in a cozy corner of my living room,Have movie nights with my friends sharing popcorn and watching films,0.03,0.05,1.1,1.0
+24,Cook new recipes in my kitchen while listening to a podcast,Take yoga classes with my sister at the local gym,0.04,0.05,4.4,1.0
+25,Take care of my flowers and vegetables in my backyard,Take yoga classes with my sister at the local gym,0.05,0.05,3.3,1.0
+26,Write in my journal at the beach while listening to the waves,Cook dinner together with my partner while listening to music,0.01,0.01,4.4,1.0
+27,Play board games with my family on cozy Saturday nights,Take care of my flowers and vegetables in my backyard,0.02,0.01,3.3,0.0
+28,Help at the animal shelter with my friends on Saturday mornings,Do yoga in my bedroom with soft music playing,0.03,0.01,3.3,0.0
+29,Take care of my flowers and vegetables in my backyard,Have BBQs in the backyard with neighbors in the summer evenings,0.04,0.01,4.4,1.0
+30,Go to concerts with my best friend to see our favorite bands,Read fantasy books in a cozy corner of my living room,0.05,0.01,8.8,0.0
+31,Play board games with my family on cozy Saturday nights,Draw pictures at a quiet park bench during sunset,0.01,0.02,8.8,0.0
+32,Visit museums with my classmates on our art history trips,Walk on a local nature trail in the cool autumn morning,0.02,0.02,1.1,0.0
+33,Cook dinner together with my partner while listening to music,Read fantasy books in a cozy corner of my living room,0.03,0.02,4.4,0.0
+34,Read fantasy books in a cozy corner of my living room,Learn new recipes with my parents in cooking classes,0.04,0.02,3.3,1.0
+35,Play board games with my family on cozy Saturday nights,Read fantasy books in a cozy corner of my living room,0.05,0.02,1.1,0.0
+36,Draw pictures at a quiet park bench during sunset,Take yoga classes with my sister at the local gym,0.01,0.03,3.3,1.0
+37,Go hiking with friends on sunny weekends to explore new trails,Write in my journal at the beach while listening to the waves,0.02,0.03,1.1,0.0
+38,Walk on a local nature trail in the cool autumn morning,Go hiking with friends on sunny weekends to explore new trails,0.03,0.03,1.1,1.0
+39,Take yoga classes with my sister at the local gym,Read fantasy books in a cozy corner of my living room,0.04,0.03,3.3,0.0
+40,Go to concerts with my best friend to see our favorite bands,Write in my journal at the beach while listening to the waves,0.05,0.03,4.4,0.0
+41,Walk on a local nature trail in the cool autumn morning,Learn new recipes with my parents in cooking classes,0.01,0.04,1.1,1.0
+42,Look at stars in my backyard with a blanket and coffee,Go hiking with friends on sunny weekends to explore new trails,0.02,0.04,3.3,1.0
+43,Cook dinner together with my partner while listening to music,Draw pictures at a quiet park bench during sunset,0.03,0.04,1.1,0.0
+44,Do yoga in my bedroom with soft music playing,Go hiking with friends on sunny weekends to explore new trails,0.04,0.04,1.1,1.0
+45,Help at the animal shelter with my friends on Saturday mornings,Cook new recipes in my kitchen while listening to a podcast,0.05,0.04,4.4,0.0
+46,Take yoga classes with my sister at the local gym,Write poems in my favorite cafe with a warm cup of tea,0.01,0.05,8.8,0.0
+47,Solve puzzles on a rainy afternoon while drinking hot cocoa,Play board games with my family on cozy Saturday nights,0.02,0.05,1.1,1.0
+48,Read fantasy books in a cozy corner of my living room,Visit museums with my classmates on our art history trips,0.03,0.05,4.4,1.0
+49,Visit museums with my classmates on our art history trips,Write poems in my favorite cafe with a warm cup of tea,0.04,0.05,3.3,0.0
+50,Walk on a local nature trail in the cool autumn morning,Play board games with my family on cozy Saturday nights,0.05,0.05,1.1,1.0
+51,Have movie nights with my friends sharing popcorn and watching films,Walk on a local nature trail in the cool autumn morning,0.01,0.01,1.1,0.0
+52,Visit museums with my classmates on our art history trips,Cook new recipes in my kitchen while listening to a podcast,0.02,0.01,3.3,0.0
+53,Solve puzzles on a rainy afternoon while drinking hot cocoa,Help at the animal shelter with my friends on Saturday mornings,0.03,0.01,1.1,1.0
+54,Visit museums with my classmates on our art history trips,Take care of my flowers and vegetables in my backyard,0.04,0.01,4.4,0.0
+55,Read fantasy books in a cozy corner of my living room,Have BBQs in the backyard with neighbors in the summer evenings,0.05,0.01,1.1,1.0
+56,Write poems in my favorite cafe with a warm cup of tea,Play board games with my family on cozy Saturday nights,0.01,0.02,8.8,1.0
+57,Do yoga in my bedroom with soft music playing,Have movie nights with my friends sharing popcorn and watching films,0.02,0.02,4.4,1.0
+58,Write in my journal at the beach while listening to the waves,Take yoga classes with my sister at the local gym,0.03,0.02,4.4,1.0
+59,Have BBQs in the backyard with neighbors in the summer evenings,Do yoga in my bedroom with soft music playing,0.04,0.02,4.4,0.0
+60,Learn new recipes with my parents in cooking classes,Write poems in my favorite cafe with a warm cup of tea,0.05,0.02,1.1,0.0
+61,Cook new recipes in my kitchen while listening to a podcast,Play board games with my family on cozy Saturday nights,0.01,0.03,3.3,1.0
+62,Have BBQs in the backyard with neighbors in the summer evenings,Write in my journal at the beach while listening to the waves,0.02,0.03,3.3,0.0
+63,Write poems in my favorite cafe with a warm cup of tea,Cook dinner together with my partner while listening to music,0.03,0.03,3.3,1.0
+64,Have BBQs in the backyard with neighbors in the summer evenings,Draw pictures at a quiet park bench during sunset,0.04,0.03,1.1,0.0
+65,Cook new recipes in my kitchen while listening to a podcast,Have BBQs in the backyard with neighbors in the summer evenings,0.05,0.03,1.1,1.0
+66,Visit museums with my classmates on our art history trips,Solve puzzles on a rainy afternoon while drinking hot cocoa,0.01,0.04,1.1,0.0
+67,Visit museums with my classmates on our art history trips,Look at stars in my backyard with a blanket and coffee,0.02,0.04,8.8,0.0
+68,Take yoga classes with my sister at the local gym,Do yoga in my bedroom with soft music playing,0.03,0.04,4.4,0.0
+69,Learn new recipes with my parents in cooking classes,Draw pictures at a quiet park bench during sunset,0.04,0.04,1.1,0.0
+70,Cook dinner together with my partner while listening to music,Do yoga in my bedroom with soft music playing,0.05,0.04,1.1,0.0
+71,Look at stars in my backyard with a blanket and coffee,Help at the animal shelter with my friends on Saturday mornings,0.01,0.05,3.3,1.0
+72,Look at stars in my backyard with a blanket and coffee,Go to concerts with my best friend to see our favorite bands,0.02,0.05,8.8,1.0
+73,Learn new recipes with my parents in cooking classes,Do yoga in my bedroom with soft music playing,0.03,0.05,3.3,0.0
+74,Have BBQs in the backyard with neighbors in the summer evenings,Solve puzzles on a rainy afternoon while drinking hot cocoa,0.04,0.05,4.4,0.0
+75,Write poems in my favorite cafe with a warm cup of tea,Have BBQs in the backyard with neighbors in the summer evenings,0.05,0.05,3.3,1.0
+76,Write poems in my favorite cafe with a warm cup of tea,Help at the animal shelter with my friends on Saturday mornings,0.01,0.01,1.1,1.0
+77,Cook dinner together with my partner while listening to music,Solve puzzles on a rainy afternoon while drinking hot cocoa,0.02,0.01,8.8,0.0
+78,Take care of my flowers and vegetables in my backyard,Help at the animal shelter with my friends on Saturday mornings,0.03,0.01,1.1,1.0
+79,Have movie nights with my friends sharing popcorn and watching films,Take care of my flowers and vegetables in my backyard,0.04,0.01,1.1,0.0
+80,Cook dinner together with my partner while listening to music,Walk on a local nature trail in the cool autumn morning,0.05,0.01,4.4,0.0
+81,Draw pictures at a quiet park bench during sunset,Help at the animal shelter with my friends on Saturday mornings,0.01,0.02,3.3,1.0
+82,Draw pictures at a quiet park bench during sunset,Have movie nights with my friends sharing popcorn and watching films,0.02,0.02,4.4,1.0
+83,Cook dinner together with my partner while listening to music,Look at stars in my backyard with a blanket and coffee,0.03,0.02,1.1,0.0
+84,Look at stars in my backyard with a blanket and coffee,Learn new recipes with my parents in cooking classes,0.04,0.02,3.3,1.0
+85,Go to concerts with my best friend to see our favorite bands,Cook new recipes in my kitchen while listening to a podcast,0.05,0.02,3.3,0.0
+86,Read fantasy books in a cozy corner of my living room,Help at the animal shelter with my friends on Saturday mornings,0.01,0.03,1.1,1.0
+87,Solve puzzles on a rainy afternoon while drinking hot cocoa,Have movie nights with my friends sharing popcorn and watching films,0.02,0.03,4.4,1.0
+88,Visit museums with my classmates on our art history trips,Do yoga in my bedroom with soft music playing,0.03,0.03,1.1,0.0
+89,Play board games with my family on cozy Saturday nights,Look at stars in my backyard with a blanket and coffee,0.04,0.03,3.3,0.0
+90,Go to concerts with my best friend to see our favorite bands,Do yoga in my bedroom with soft music playing,0.05,0.03,8.8,0.0
+91,Walk on a local nature trail in the cool autumn morning,Take yoga classes with my sister at the local gym,0.01,0.04,3.3,1.0
+92,Cook new recipes in my kitchen while listening to a podcast,Have movie nights with my friends sharing popcorn and watching films,0.02,0.04,8.8,1.0
+93,Solve puzzles on a rainy afternoon while drinking hot cocoa,Go to concerts with my best friend to see our favorite bands,0.03,0.04,1.1,1.0
+94,Write in my journal at the beach while listening to the waves,Have movie nights with my friends sharing popcorn and watching films,0.04,0.04,4.4,1.0
+95,Learn new recipes with my parents in cooking classes,Write in my journal at the beach while listening to the waves,0.05,0.04,4.4,0.0
+96,Solve puzzles on a rainy afternoon while drinking hot cocoa,Learn new recipes with my parents in cooking classes,0.01,0.05,3.3,1.0
+97,Take yoga classes with my sister at the local gym,Solve puzzles on a rainy afternoon while drinking hot cocoa,0.02,0.05,1.1,0.0
+98,Look at stars in my backyard with a blanket and coffee,Take yoga classes with my sister at the local gym,0.03,0.05,1.1,1.0
+99,Play board games with my family on cozy Saturday nights,Do yoga in my bedroom with soft music playing,0.04,0.05,3.3,0.0
+100,Cook dinner together with my partner while listening to music,Cook new recipes in my kitchen while listening to a podcast,0.05,0.05,4.4,0.0

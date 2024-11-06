@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,listen to music in my living room,have long talks at a coffee shop with my best friend on rainy days,0.01,0.01,4.4,1.0
+2,organize my phone apps and photos but getting sidetracked by old memories,go on random road trips with friends on sunny weekends,0.02,0.01,8.8,1.0
+3,hit up karaoke night with coworkers after a rough week,eat cereal out of the box while standing in the kitchen for way too long,0.03,0.01,3.3,0.0
+4,play board games with family during holiday get togethers,eat cereal out of the box while standing in the kitchen for way too long,0.04,0.01,1.1,0.0
+5,try on random outfits in front of the mirror and hyping myself up,cook a big dinner with my BF and trying new recipes together,0.05,0.01,1.1,1.0
+6,organize my phone apps and photos but getting sidetracked by old memories,hit up karaoke night with coworkers after a rough week,0.01,0.02,3.3,1.0
+7,try on random outfits in front of the mirror and hyping myself up,go to concerts with friends and singing way too loud in the crowd,0.02,0.02,1.1,1.0
+8,make playlists in my room for different moods,set up a bonfire with friends on a beach and talking till late,0.03,0.02,1.1,1.0
+9,go to concerts with friends and singing way too loud in the crowd,lay in bed with headphones on zoning out to music and staring at the ceiling,0.04,0.02,4.4,0.0
+10,make playlists in my room for different moods,rewatch old sitcoms with my cousins and quoting every line,0.05,0.02,1.1,1.0
+11,set up a bonfire with friends on a beach and talking till late,listen to music in my living room,0.01,0.03,3.3,0.0
+12,go to concerts with friends and singing way too loud in the crowd,organize my phone apps and photos but getting sidetracked by old memories,0.02,0.03,4.4,0.0
+13,go to bodega at night for a random snack run,grab late night tacos with friends after a movie,0.03,0.03,1.1,1.0
+14,have long talks at a coffee shop with my best friend on rainy days,eat cereal out of the box while standing in the kitchen for way too long,0.04,0.03,3.3,0.0
+15,cook a big dinner with my BF and trying new recipes together,go to bodega at night for a random snack run,0.05,0.03,4.4,0.0
+16,play board games with family during holiday get togethers,go to bodega at night for a random snack run,0.01,0.04,1.1,0.0
+17,play board games with family during holiday get togethers,make coffee every morning especially pour over coffee,0.02,0.04,8.8,0.0
+18,make instant noodles and eating them straight out of the pot,rewatch old sitcoms with my cousins and quoting every line,0.03,0.04,3.3,1.0
+19,lay in bed with headphones on zoning out to music and staring at the ceiling,set up a bonfire with friends on a beach and talking till late,0.04,0.04,3.3,1.0
+20,play board games with family during holiday get togethers,lay in bed with headphones on zoning out to music and staring at the ceiling,0.05,0.04,1.1,0.0
+21,laugh at dumb memes on the couch with my siblings after dinner,listen to music in my living room,0.01,0.05,8.8,0.0
+22,go on random road trips with friends on sunny weekends,eat cereal out of the box while standing in the kitchen for way too long,0.02,0.05,4.4,0.0
+23,make instant noodles and eating them straight out of the pot,play board games with family during holiday get togethers,0.03,0.05,1.1,1.0
+24,set up a bonfire with friends on a beach and talking till late,make instant noodles and eating them straight out of the pot,0.04,0.05,4.4,0.0
+25,hit up karaoke night with coworkers after a rough week,make instant noodles and eating them straight out of the pot,0.05,0.05,3.3,0.0
+26,rewatch old sitcoms with my cousins and quoting every line,make coffee every morning especially pour over coffee,0.01,0.01,4.4,0.0
+27,have long talks at a coffee shop with my best friend on rainy days,make instant noodles and eating them straight out of the pot,0.02,0.01,3.3,0.0
+28,organize my phone apps and photos but getting sidetracked by old memories,set up a bonfire with friends on a beach and talking till late,0.03,0.01,3.3,1.0
+29,grab late night tacos with friends after a movie,make instant noodles and eating them straight out of the pot,0.04,0.01,4.4,0.0
+30,try on random outfits in front of the mirror and hyping myself up,play board games with family during holiday get togethers,0.05,0.01,8.8,1.0
+31,laugh at dumb memes on the couch with my siblings after dinner,go to bodega at night for a random snack run,0.01,0.02,8.8,0.0
+32,grab late night tacos with friends after a movie,make coffee every morning especially pour over coffee,0.02,0.02,1.1,0.0
+33,grab late night tacos with friends after a movie,make playlists in my room for different moods,0.03,0.02,4.4,0.0
+34,eat cereal out of the box while standing in the kitchen for way too long,go to concerts with friends and singing way too loud in the crowd,0.04,0.02,3.3,1.0
+35,lay in bed with headphones on zoning out to music and staring at the ceiling,go on random road trips with friends on sunny weekends,0.05,0.02,1.1,1.0
+36,go to bodega at night for a random snack run,have long talks at a coffee shop with my best friend on rainy days,0.01,0.03,3.3,1.0
+37,go on subway and taking photos,set up a bonfire with friends on a beach and talking till late,0.02,0.03,1.1,1.0
+38,go to concerts with friends and singing way too loud in the crowd,make playlists in my room for different moods,0.03,0.03,1.1,0.0
+39,go on subway and taking photos,hit up karaoke night with coworkers after a rough week,0.04,0.03,3.3,1.0
+40,go on subway and taking photos,play board games with family during holiday get togethers,0.05,0.03,4.4,1.0
+41,make coffee every morning especially pour over coffee,go on random road trips with friends on sunny weekends,0.01,0.04,1.1,1.0
+42,try on random outfits in front of the mirror and hyping myself up,hit up karaoke night with coworkers after a rough week,0.02,0.04,3.3,1.0
+43,have long talks at a coffee shop with my best friend on rainy days,go on subway and taking photos,0.03,0.04,1.1,0.0
+44,set up a bonfire with friends on a beach and talking till late,go to bodega at night for a random snack run,0.04,0.04,1.1,0.0
+45,make coffee every morning especially pour over coffee,have long talks at a coffee shop with my best friend on rainy days,0.05,0.04,4.4,1.0
+46,cook a big dinner with my BF and trying new recipes together,go on subway and taking photos,0.01,0.05,8.8,0.0
+47,go on random road trips with friends on sunny weekends,try on random outfits in front of the mirror and hyping myself up,0.02,0.05,1.1,0.0
+48,make coffee every morning especially pour over coffee,laugh at dumb memes on the couch with my siblings after dinner,0.03,0.05,4.4,1.0
+49,listen to music in my living room,go on random road trips with friends on sunny weekends,0.04,0.05,3.3,1.0
+50,lay in bed with headphones on zoning out to music and staring at the ceiling,laugh at dumb memes on the couch with my siblings after dinner,0.05,0.05,1.1,1.0
+51,listen to music in my living room,rewatch old sitcoms with my cousins and quoting every line,0.01,0.01,1.1,1.0
+52,grab late night tacos with friends after a movie,eat cereal out of the box while standing in the kitchen for way too long,0.02,0.01,3.3,0.0
+53,cook a big dinner with my BF and trying new recipes together,make coffee every morning especially pour over coffee,0.03,0.01,1.1,0.0
+54,listen to music in my living room,play board games with family during holiday get togethers,0.04,0.01,4.4,1.0
+55,hit up karaoke night with coworkers after a rough week,lay in bed with headphones on zoning out to music and staring at the ceiling,0.05,0.01,1.1,0.0
+56,set up a bonfire with friends on a beach and talking till late,try on random outfits in front of the mirror and hyping myself up,0.01,0.02,8.8,0.0
+57,have long talks at a coffee shop with my best friend on rainy days,make playlists in my room for different moods,0.02,0.02,4.4,0.0
+58,lay in bed with headphones on zoning out to music and staring at the ceiling,cook a big dinner with my BF and trying new recipes together,0.03,0.02,4.4,1.0
+59,go on subway and taking photos,rewatch old sitcoms with my cousins and quoting every line,0.04,0.02,4.4,1.0
+60,grab late night tacos with friends after a movie,try on random outfits in front of the mirror and hyping myself up,0.05,0.02,1.1,0.0
+61,eat cereal out of the box while standing in the kitchen for way too long,set up a bonfire with friends on a beach and talking till late,0.01,0.03,3.3,1.0
+62,go to concerts with friends and singing way too loud in the crowd,make coffee every morning especially pour over coffee,0.02,0.03,3.3,0.0
+63,play board games with family during holiday get togethers,make playlists in my room for different moods,0.03,0.03,3.3,0.0
+64,hit up karaoke night with coworkers after a rough week,listen to music in my living room,0.04,0.03,1.1,0.0
+65,have long talks at a coffee shop with my best friend on rainy days,try on random outfits in front of the mirror and hyping myself up,0.05,0.03,1.1,0.0
+66,cook a big dinner with my BF and trying new recipes together,organize my phone apps and photos but getting sidetracked by old memories,0.01,0.04,1.1,0.0
+67,go to bodega at night for a random snack run,hit up karaoke night with coworkers after a rough week,0.02,0.04,8.8,1.0
+68,laugh at dumb memes on the couch with my siblings after dinner,make instant noodles and eating them straight out of the pot,0.03,0.04,4.4,0.0
+69,eat cereal out of the box while standing in the kitchen for way too long,cook a big dinner with my BF and trying new recipes together,0.04,0.04,1.1,1.0
+70,eat cereal out of the box while standing in the kitchen for way too long,rewatch old sitcoms with my cousins and quoting every line,0.05,0.04,1.1,1.0
+71,listen to music in my living room,go to concerts with friends and singing way too loud in the crowd,0.01,0.05,3.3,1.0
+72,make playlists in my room for different moods,hit up karaoke night with coworkers after a rough week,0.02,0.05,8.8,1.0
+73,listen to music in my living room,grab late night tacos with friends after a movie,0.03,0.05,3.3,1.0
+74,go to bodega at night for a random snack run,go on random road trips with friends on sunny weekends,0.04,0.05,4.4,1.0
+75,go on subway and taking photos,go on random road trips with friends on sunny weekends,0.05,0.05,3.3,1.0
+76,organize my phone apps and photos but getting sidetracked by old memories,laugh at dumb memes on the couch with my siblings after dinner,0.01,0.01,1.1,1.0
+77,lay in bed with headphones on zoning out to music and staring at the ceiling,have long talks at a coffee shop with my best friend on rainy days,0.02,0.01,8.8,1.0
+78,grab late night tacos with friends after a movie,lay in bed with headphones on zoning out to music and staring at the ceiling,0.03,0.01,1.1,0.0
+79,go to concerts with friends and singing way too loud in the crowd,make instant noodles and eating them straight out of the pot,0.04,0.01,1.1,0.0
+80,laugh at dumb memes on the couch with my siblings after dinner,try on random outfits in front of the mirror and hyping myself up,0.05,0.01,4.4,0.0
+81,laugh at dumb memes on the couch with my siblings after dinner,go on subway and taking photos,0.01,0.02,3.3,0.0
+82,make playlists in my room for different moods,cook a big dinner with my BF and trying new recipes together,0.02,0.02,4.4,1.0
+83,eat cereal out of the box while standing in the kitchen for way too long,laugh at dumb memes on the couch with my siblings after dinner,0.03,0.02,1.1,1.0
+84,lay in bed with headphones on zoning out to music and staring at the ceiling,rewatch old sitcoms with my cousins and quoting every line,0.04,0.02,3.3,1.0
+85,go on random road trips with friends on sunny weekends,make playlists in my room for different moods,0.05,0.02,3.3,0.0
+86,make coffee every morning especially pour over coffee,hit up karaoke night with coworkers after a rough week,0.01,0.03,1.1,1.0
+87,cook a big dinner with my BF and trying new recipes together,listen to music in my living room,0.02,0.03,4.4,0.0
+88,go on subway and taking photos,grab late night tacos with friends after a movie,0.03,0.03,1.1,1.0
+89,laugh at dumb memes on the couch with my siblings after dinner,make playlists in my room for different moods,0.04,0.03,3.3,0.0
+90,organize my phone apps and photos but getting sidetracked by old memories,have long talks at a coffee shop with my best friend on rainy days,0.05,0.03,8.8,1.0
+91,try on random outfits in front of the mirror and hyping myself up,rewatch old sitcoms with my cousins and quoting every line,0.01,0.04,3.3,1.0
+92,cook a big dinner with my BF and trying new recipes together,make instant noodles and eating them straight out of the pot,0.02,0.04,8.8,0.0
+93,organize my phone apps and photos but getting sidetracked by old memories,grab late night tacos with friends after a movie,0.03,0.04,1.1,1.0
+94,go to concerts with friends and singing way too loud in the crowd,go on subway and taking photos,0.04,0.04,4.4,0.0
+95,go on random road trips with friends on sunny weekends,make instant noodles and eating them straight out of the pot,0.05,0.04,4.4,0.0
+96,play board games with family during holiday get togethers,organize my phone apps and photos but getting sidetracked by old memories,0.01,0.05,3.3,0.0
+97,make coffee every morning especially pour over coffee,set up a bonfire with friends on a beach and talking till late,0.02,0.05,1.1,1.0
+98,organize my phone apps and photos but getting sidetracked by old memories,rewatch old sitcoms with my cousins and quoting every line,0.03,0.05,1.1,1.0
+99,go to concerts with friends and singing way too loud in the crowd,go to bodega at night for a random snack run,0.04,0.05,3.3,0.0
+100,rewatch old sitcoms with my cousins and quoting every line,go to bodega at night for a random snack run,0.05,0.05,4.4,0.0

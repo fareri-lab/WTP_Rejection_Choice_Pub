@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Get together for Christmas with my family,Listen to music and dancing in my room,0.01,0.01,4.4,0.0
+2,Sing along with music I like in my car,Get together for Christmas with my family,0.02,0.01,8.8,1.0
+3,Stay out late talking with a friend,Listen to music and dancing in my room,0.03,0.01,3.3,0.0
+4,Go on a hike with a friend,Go on a river walk and reading a book next to the water,0.04,0.01,1.1,0.0
+5,Stay out late talking with a friend,Go on a long bike ride in the summer,0.05,0.01,1.1,0.0
+6,Watch movies on a rainy day in my bedroom,Stay out late talking with a friend,0.01,0.02,3.3,1.0
+7,Listen to music and dancing in my room,Make dinner with a significant other,0.02,0.02,1.1,1.0
+8,Take myself out for a sushi lunch,Go out for a family dinner,0.03,0.02,1.1,1.0
+9,Go on a river walk and reading a book next to the water,Go out for a family dinner,0.04,0.02,4.4,1.0
+10,Take myself out for a sushi lunch,Go on a hike with a friend,0.05,0.02,1.1,1.0
+11,Watch movies on a rainy day in my bedroom,Help a friend move plants,0.01,0.03,3.3,1.0
+12,Listen to music and dancing in my room,Help a friend collect seeds,0.02,0.03,4.4,1.0
+13,Stay out late talking with a friend,Go shopping for special items for me,0.03,0.03,1.1,0.0
+14,Watch movies on a rainy day in my bedroom,Watch a series with a significant other,0.04,0.03,3.3,1.0
+15,Help a friend move plants,Listen to music and dancing in my room,0.05,0.03,4.4,0.0
+16,Go out for a family dinner,Listen to music and dancing in my room,0.01,0.04,1.1,0.0
+17,Go on a long bike ride in the summer,Go out for a family dinner,0.02,0.04,8.8,1.0
+18,Work out at home to build my strength,Get together for Christmas with my family,0.03,0.04,3.3,1.0
+19,Watch movies on a rainy day in my bedroom,Help a friend collect seeds,0.04,0.04,3.3,1.0
+20,Sing along with music I like in my car,Go on a hike with a friend,0.05,0.04,1.1,1.0
+21,Take myself out for a sushi lunch,Stay out late talking with a friend,0.01,0.05,8.8,1.0
+22,Get coffee with a friend,Write poetry to sort through my emotions,0.02,0.05,4.4,0.0
+23,Watch movies on a rainy day in my bedroom,Help a friend with shopping,0.03,0.05,1.1,1.0
+24,Help a friend with shopping,Do a long yoga session at night before bed,0.04,0.05,4.4,0.0
+25,Watch movies on a rainy day in my bedroom,Get together for Christmas with my family,0.05,0.05,3.3,1.0
+26,Go shopping for special items for me,Watch a series with a significant other,0.01,0.01,4.4,1.0
+27,Get coffee with a friend,Go on a long bike ride in the summer,0.02,0.01,3.3,0.0
+28,Watch a series with a significant other,Go on a river walk and reading a book next to the water,0.03,0.01,3.3,0.0
+29,Help a friend with shopping,Listen to music and dancing in my room,0.04,0.01,4.4,0.0
+30,Get together for Christmas with my family,Go on a river walk and reading a book next to the water,0.05,0.01,8.8,0.0
+31,Make dinner with a significant other,Go on a river walk and reading a book next to the water,0.01,0.02,8.8,0.0
+32,Work out at home to build my strength,Go out for a family dinner,0.02,0.02,1.1,1.0
+33,Go out for a family dinner,Do a long yoga session at night before bed,0.03,0.02,4.4,0.0
+34,Listen to music and dancing in my room,Go on a hike with a friend,0.04,0.02,3.3,1.0
+35,Take myself out for a sushi lunch,Get coffee with a friend,0.05,0.02,1.1,1.0
+36,Write poetry to sort through my emotions,Help a friend with shopping,0.01,0.03,3.3,1.0
+37,Go on a river walk and reading a book next to the water,Get coffee with a friend,0.02,0.03,1.1,1.0
+38,Sing along with music I like in my car,Stay out late talking with a friend,0.03,0.03,1.1,1.0
+39,Sing along with music I like in my car,Help a friend move plants,0.04,0.03,3.3,1.0
+40,Help a friend collect seeds,Go on a long bike ride in the summer,0.05,0.03,4.4,0.0
+41,Go on a river walk and reading a book next to the water,Stay out late talking with a friend,0.01,0.04,1.1,1.0
+42,Make dinner with a significant other,Go shopping for special items for me,0.02,0.04,3.3,0.0
+43,Listen to music and dancing in my room,Watch a series with a significant other,0.03,0.04,1.1,1.0
+44,Help a friend with shopping,Work out at home to build my strength,0.04,0.04,1.1,0.0
+45,Make dinner with a significant other,Go on a long bike ride in the summer,0.05,0.04,4.4,0.0
+46,Help a friend move plants,Do a long yoga session at night before bed,0.01,0.05,8.8,0.0
+47,Watch a series with a significant other,Work out at home to build my strength,0.02,0.05,1.1,0.0
+48,Take myself out for a sushi lunch,Watch a series with a significant other,0.03,0.05,4.4,1.0
+49,Help a friend collect seeds,Go on a river walk and reading a book next to the water,0.04,0.05,3.3,0.0
+50,Stay out late talking with a friend,Work out at home to build my strength,0.05,0.05,1.1,0.0
+51,Take myself out for a sushi lunch,Help a friend collect seeds,0.01,0.01,1.1,1.0
+52,Go out for a family dinner,Watch movies on a rainy day in my bedroom,0.02,0.01,3.3,0.0
+53,Watch a series with a significant other,Write poetry to sort through my emotions,0.03,0.01,1.1,0.0
+54,Sing along with music I like in my car,Make dinner with a significant other,0.04,0.01,4.4,1.0
+55,Stay out late talking with a friend,Do a long yoga session at night before bed,0.05,0.01,1.1,0.0
+56,Help a friend collect seeds,Go shopping for special items for me,0.01,0.02,8.8,0.0
+57,Write poetry to sort through my emotions,Help a friend collect seeds,0.02,0.02,4.4,1.0
+58,Go on a hike with a friend,Watch movies on a rainy day in my bedroom,0.03,0.02,4.4,0.0
+59,Do a long yoga session at night before bed,Get together for Christmas with my family,0.04,0.02,4.4,1.0
+60,Go on a long bike ride in the summer,Get together for Christmas with my family,0.05,0.02,1.1,1.0
+61,Take myself out for a sushi lunch,Get together for Christmas with my family,0.01,0.03,3.3,1.0
+62,Do a long yoga session at night before bed,Get coffee with a friend,0.02,0.03,3.3,1.0
+63,Help a friend collect seeds,Work out at home to build my strength,0.03,0.03,3.3,0.0
+64,Help a friend with shopping,Sing along with music I like in my car,0.04,0.03,1.1,0.0
+65,Get coffee with a friend,Listen to music and dancing in my room,0.05,0.03,1.1,0.0
+66,Get together for Christmas with my family,Go shopping for special items for me,0.01,0.04,1.1,0.0
+67,Go on a hike with a friend,Work out at home to build my strength,0.02,0.04,8.8,0.0
+68,Go on a long bike ride in the summer,Help a friend move plants,0.03,0.04,4.4,1.0
+69,Go on a hike with a friend,Go on a long bike ride in the summer,0.04,0.04,1.1,0.0
+70,Take myself out for a sushi lunch,Help a friend with shopping,0.05,0.04,1.1,1.0
+71,Help a friend with shopping,Go shopping for special items for me,0.01,0.05,3.3,0.0
+72,Go on a river walk and reading a book next to the water,Help a friend with shopping,0.02,0.05,8.8,1.0
+73,Write poetry to sort through my emotions,Get together for Christmas with my family,0.03,0.05,3.3,1.0
+74,Help a friend move plants,Take myself out for a sushi lunch,0.04,0.05,4.4,0.0
+75,Get coffee with a friend,Sing along with music I like in my car,0.05,0.05,3.3,0.0
+76,Watch movies on a rainy day in my bedroom,Make dinner with a significant other,0.01,0.01,1.1,1.0
+77,Watch movies on a rainy day in my bedroom,Get coffee with a friend,0.02,0.01,8.8,1.0
+78,Do a long yoga session at night before bed,Watch a series with a significant other,0.03,0.01,1.1,1.0
+79,Make dinner with a significant other,Write poetry to sort through my emotions,0.04,0.01,1.1,0.0
+80,Sing along with music I like in my car,Go out for a family dinner,0.05,0.01,4.4,1.0
+81,Help a friend with shopping,Go on a long bike ride in the summer,0.01,0.02,3.3,0.0
+82,Make dinner with a significant other,Work out at home to build my strength,0.02,0.02,4.4,0.0
+83,Take myself out for a sushi lunch,Make dinner with a significant other,0.03,0.02,1.1,1.0
+84,Help a friend move plants,Go on a river walk and reading a book next to the water,0.04,0.02,3.3,0.0
+85,Do a long yoga session at night before bed,Go on a hike with a friend,0.05,0.02,3.3,1.0
+86,Work out at home to build my strength,Help a friend move plants,0.01,0.03,1.1,1.0
+87,Help a friend move plants,Write poetry to sort through my emotions,0.02,0.03,4.4,0.0
+88,Do a long yoga session at night before bed,Help a friend collect seeds,0.03,0.03,1.1,1.0
+89,Write poetry to sort through my emotions,Stay out late talking with a friend,0.04,0.03,3.3,1.0
+90,Go on a hike with a friend,Go shopping for special items for me,0.05,0.03,8.8,0.0
+91,Get coffee with a friend,Work out at home to build my strength,0.01,0.04,3.3,0.0
+92,Sing along with music I like in my car,Help a friend collect seeds,0.02,0.04,8.8,1.0
+93,Go out for a family dinner,Write poetry to sort through my emotions,0.03,0.04,1.1,0.0
+94,Go shopping for special items for me,Help a friend move plants,0.04,0.04,4.4,1.0
+95,Go on a hike with a friend,Write poetry to sort through my emotions,0.05,0.04,4.4,0.0
+96,Watch a series with a significant other,Go on a long bike ride in the summer,0.01,0.05,3.3,0.0
+97,Go out for a family dinner,Go shopping for special items for me,0.02,0.05,1.1,0.0
+98,Make dinner with a significant other,Do a long yoga session at night before bed,0.03,0.05,1.1,0.0
+99,Get coffee with a friend,Go shopping for special items for me,0.04,0.05,3.3,0.0
+100,Sing along with music I like in my car,Watch a series with a significant other,0.05,0.05,4.4,1.0
