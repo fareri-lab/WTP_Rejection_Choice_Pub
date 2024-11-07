@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Work out,Cook with my family,0.01,0.01,4.4,1.0
+2,Work out,Play basket ball with my friends,0.02,0.01,8.8,1.0
+3,Listen to podcasts on my way to work,Travel to Orlando with my family,0.03,0.01,3.3,1.0
+4,Play basket ball with my friends,Read in bed,0.04,0.01,1.1,0.0
+5,Watch instagram reels,Jog with my kids,0.05,0.01,1.1,1.0
+6,Scroll through social media,Celebrate the new year with my cousin,0.01,0.02,3.3,1.0
+7,Jog with my kids,Listen to music in bed,0.02,0.02,1.1,0.0
+8,Work out,Travel to Orlando with my family,0.03,0.02,1.1,1.0
+9,Watch a comedy show with my kids,Listen to music in bed,0.04,0.02,4.4,0.0
+10,Watch comedy shows,Go to the movies with my partner,0.05,0.02,1.1,1.0
+11,Cook with my family,Take a solo drive when I am overwhelmed,0.01,0.03,3.3,0.0
+12,Watch a comedy show with my kids,Meditate in the early morning,0.02,0.03,4.4,0.0
+13,Play basket ball with my friends,Meditate in the early morning,0.03,0.03,1.1,0.0
+14,Go for a morning jog,Go on a road trip with my family,0.04,0.03,3.3,1.0
+15,Celebrate the new year with my cousin,Meditate in the early morning,0.05,0.03,4.4,0.0
+16,Work out,Sing with my partner,0.01,0.04,1.1,1.0
+17,Cook with my family,Watch instagram reels,0.02,0.04,8.8,0.0
+18,Bake with my partner,Meditate in the early morning,0.03,0.04,3.3,0.0
+19,Take a solo drive when I am overwhelmed,Jog with my kids,0.04,0.04,3.3,1.0
+20,Sing with my partner,Take a solo drive when I am overwhelmed,0.05,0.04,1.1,0.0
+21,Go to the movies with my partner,Meditate in the early morning,0.01,0.05,8.8,0.0
+22,Listen to music in bed,Go on a road trip with my family,0.02,0.05,4.4,1.0
+23,Take a solo drive when I am overwhelmed,Play basket ball with my friends,0.03,0.05,1.1,1.0
+24,Go for a morning jog,Jog with my kids,0.04,0.05,4.4,1.0
+25,Bake with my partner,Scroll through social media,0.05,0.05,3.3,0.0
+26,Take a solo drive when I am overwhelmed,Watch a comedy show with my kids,0.01,0.01,4.4,1.0
+27,Read in bed,Go to the movies with my partner,0.02,0.01,3.3,1.0
+28,Travel to Orlando with my family,Take a solo drive when I am overwhelmed,0.03,0.01,3.3,0.0
+29,Cook with my family,Meditate in the early morning,0.04,0.01,4.4,0.0
+30,Watch a comedy show with my kids,Scroll through social media,0.05,0.01,8.8,0.0
+31,Read in bed,Bake with my partner,0.01,0.02,8.8,1.0
+32,Go for a morning jog,Watch a comedy show with my kids,0.02,0.02,1.1,1.0
+33,Jog with my kids,Watch comedy shows,0.03,0.02,4.4,0.0
+34,Listen to podcasts on my way to work,Jog with my kids,0.04,0.02,3.3,1.0
+35,Jog with my kids,Work out,0.05,0.02,1.1,0.0
+36,Go on a road trip with my family,Work out,0.01,0.03,3.3,0.0
+37,Meditate in the early morning,Travel to Orlando with my family,0.02,0.03,1.1,1.0
+38,Watch instagram reels,Go to the movies with my partner,0.03,0.03,1.1,1.0
+39,Watch comedy shows,Watch a comedy show with my kids,0.04,0.03,3.3,1.0
+40,Sing with my partner,Watch instagram reels,0.05,0.03,4.4,0.0
+41,Go on a road trip with my family,Scroll through social media,0.01,0.04,1.1,0.0
+42,Cook with my family,Watch comedy shows,0.02,0.04,3.3,0.0
+43,Watch instagram reels,Celebrate the new year with my cousin,0.03,0.04,1.1,1.0
+44,Watch comedy shows,Celebrate the new year with my cousin,0.04,0.04,1.1,1.0
+45,Travel to Orlando with my family,Watch instagram reels,0.05,0.04,4.4,0.0
+46,Meditate in the early morning,Go on a road trip with my family,0.01,0.05,8.8,1.0
+47,Scroll through social media,Jog with my kids,0.02,0.05,1.1,1.0
+48,Work out,Watch a comedy show with my kids,0.03,0.05,4.4,1.0
+49,Read in bed,Watch a comedy show with my kids,0.04,0.05,3.3,1.0
+50,Bake with my partner,Watch comedy shows,0.05,0.05,1.1,0.0
+51,Listen to podcasts on my way to work,Play basket ball with my friends,0.01,0.01,1.1,1.0
+52,Go for a morning jog,Play basket ball with my friends,0.02,0.01,3.3,1.0
+53,Work out,Celebrate the new year with my cousin,0.03,0.01,1.1,1.0
+54,Bake with my partner,Take a solo drive when I am overwhelmed,0.04,0.01,4.4,0.0
+55,Go for a morning jog,Celebrate the new year with my cousin,0.05,0.01,1.1,1.0
+56,Cook with my family,Go for a morning jog,0.01,0.02,8.8,0.0
+57,Read in bed,Sing with my partner,0.02,0.02,4.4,1.0
+58,Go to the movies with my partner,Take a solo drive when I am overwhelmed,0.03,0.02,4.4,0.0
+59,Sing with my partner,Meditate in the early morning,0.04,0.02,4.4,0.0
+60,Listen to podcasts on my way to work,Go to the movies with my partner,0.05,0.02,1.1,1.0
+61,Listen to music in bed,Travel to Orlando with my family,0.01,0.03,3.3,1.0
+62,Read in bed,Travel to Orlando with my family,0.02,0.03,3.3,1.0
+63,Go on a road trip with my family,Watch comedy shows,0.03,0.03,3.3,0.0
+64,Watch instagram reels,Go on a road trip with my family,0.04,0.03,1.1,1.0
+65,Read in bed,Go on a road trip with my family,0.05,0.03,1.1,1.0
+66,Listen to podcasts on my way to work,Go on a road trip with my family,0.01,0.04,1.1,1.0
+67,Play basket ball with my friends,Watch instagram reels,0.02,0.04,8.8,0.0
+68,Go to the movies with my partner,Go for a morning jog,0.03,0.04,4.4,0.0
+69,Watch a comedy show with my kids,Watch instagram reels,0.04,0.04,1.1,0.0
+70,Celebrate the new year with my cousin,Read in bed,0.05,0.04,1.1,0.0
+71,Play basket ball with my friends,Listen to music in bed,0.01,0.05,3.3,0.0
+72,Go to the movies with my partner,Scroll through social media,0.02,0.05,8.8,0.0
+73,Travel to Orlando with my family,Scroll through social media,0.03,0.05,3.3,0.0
+74,Bake with my partner,Work out,0.04,0.05,4.4,0.0
+75,Watch comedy shows,Travel to Orlando with my family,0.05,0.05,3.3,1.0
+76,Go to the movies with my partner,Listen to music in bed,0.01,0.01,1.1,0.0
+77,Go for a morning jog,Bake with my partner,0.02,0.01,8.8,1.0
+78,Play basket ball with my friends,Scroll through social media,0.03,0.01,1.1,0.0
+79,Go on a road trip with my family,Take a solo drive when I am overwhelmed,0.04,0.01,1.1,0.0
+80,Watch instagram reels,Bake with my partner,0.05,0.01,4.4,1.0
+81,Go for a morning jog,Sing with my partner,0.01,0.02,3.3,1.0
+82,Listen to music in bed,Cook with my family,0.02,0.02,4.4,1.0
+83,Travel to Orlando with my family,Go for a morning jog,0.03,0.02,1.1,0.0
+84,Celebrate the new year with my cousin,Listen to music in bed,0.04,0.02,3.3,0.0
+85,Scroll through social media,Cook with my family,0.05,0.02,3.3,1.0
+86,Listen to podcasts on my way to work,Cook with my family,0.01,0.03,1.1,1.0
+87,Listen to podcasts on my way to work,Watch a comedy show with my kids,0.02,0.03,4.4,1.0
+88,Watch comedy shows,Sing with my partner,0.03,0.03,1.1,1.0
+89,Work out,Go to the movies with my partner,0.04,0.03,3.3,1.0
+90,Bake with my partner,Listen to music in bed,0.05,0.03,8.8,0.0
+91,Sing with my partner,Listen to music in bed,0.01,0.04,3.3,0.0
+92,Sing with my partner,Listen to podcasts on my way to work,0.02,0.04,8.8,0.0
+93,Read in bed,Cook with my family,0.03,0.04,1.1,1.0
+94,Celebrate the new year with my cousin,Take a solo drive when I am overwhelmed,0.04,0.04,4.4,0.0
+95,Meditate in the early morning,Jog with my kids,0.05,0.04,4.4,1.0
+96,Bake with my partner,Listen to podcasts on my way to work,0.01,0.05,3.3,0.0
+97,Sing with my partner,Scroll through social media,0.02,0.05,1.1,0.0
+98,Jog with my kids,Read in bed,0.03,0.05,1.1,0.0
+99,Play basket ball with my friends,Watch comedy shows,0.04,0.05,3.3,0.0
+100,Celebrate the new year with my cousin,Listen to podcasts on my way to work,0.05,0.05,4.4,0.0
