@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,rearrange my stuff,play some soccer with my old friends,0.01,0.01,4.4,1.0
+2,play cod with my dorm mates,play with chica,0.02,0.01,8.8,0.0
+3,have my favorite pasta as breakfast,play some soccer with my old friends,0.03,0.01,3.3,1.0
+4,go to beach on a sunny day,watch lakers win ,0.04,0.01,1.1,0.0
+5,try a new restaurant in downtown,play some nba,0.05,0.01,1.1,0.0
+6,rearrange my stuff,plan a trip to miami with my friends,0.01,0.02,3.3,1.0
+7,try some new music with friends,go to college on a rainy day,0.02,0.02,1.1,0.0
+8,early morning walk with my friends ,play call of duty on my ps ,0.03,0.02,1.1,0.0
+9,play with chica,try a new escape room with my mates,0.04,0.02,4.4,1.0
+10,play some nba,watch some crime show with my friends,0.05,0.02,1.1,1.0
+11,plan a trip to miami with my friends,Jog early morning,0.01,0.03,3.3,0.0
+12,watch some crime show with my friends,go to gym for some cardio,0.02,0.03,4.4,0.0
+13,go to college on a rainy day,watch some crime show with my friends,0.03,0.03,1.1,1.0
+14,try some new music with friends,watch lakers win ,0.04,0.03,3.3,0.0
+15,play call of duty on my ps ,try some new music with friends,0.05,0.03,4.4,1.0
+16,play call of duty on my ps ,play some soccer with my old friends,0.01,0.04,1.1,1.0
+17,try a new restaurant in downtown,rearrange my stuff,0.02,0.04,8.8,0.0
+18,have my favorite pasta as breakfast,watch some crime show with my friends,0.03,0.04,3.3,1.0
+19,do some target runs with my family,clean my room,0.04,0.04,3.3,0.0
+20,go to college on a rainy day,play some soccer with my old friends,0.05,0.04,1.1,1.0
+21,watch lakers win ,plan a trip to miami with my friends,0.01,0.05,8.8,1.0
+22,rearrange my stuff,early morning walk with my friends ,0.02,0.05,4.4,1.0
+23,try some new music with friends,play some nba,0.03,0.05,1.1,0.0
+24,play some soccer with my old friends,watch lakers win ,0.04,0.05,4.4,0.0
+25,plan a trip to miami with my friends,go to gym for some cardio,0.05,0.05,3.3,0.0
+26,play cod with my dorm mates,play call of duty on my ps ,0.01,0.01,4.4,0.0
+27,plan a trip to miami with my friends,play call of duty on my ps ,0.02,0.01,3.3,0.0
+28,clean my room,try some new music with friends,0.03,0.01,3.3,1.0
+29,clean my room,try a new escape room with my mates,0.04,0.01,4.4,1.0
+30,play with chica,try a new restaurant in downtown,0.05,0.01,8.8,1.0
+31,Jog early morning,play cod with my dorm mates,0.01,0.02,8.8,1.0
+32,clean my room,watch some crime show with my friends,0.02,0.02,1.1,1.0
+33,play cod with my dorm mates,go to gym for some cardio,0.03,0.02,4.4,0.0
+34,rearrange my stuff,try some new music with friends,0.04,0.02,3.3,1.0
+35,rearrange my stuff,watch some crime show with my friends,0.05,0.02,1.1,1.0
+36,go to beach on a sunny day,go to gym for some cardio,0.01,0.03,3.3,0.0
+37,have my favorite pasta as breakfast,try a new restaurant in downtown,0.02,0.03,1.1,1.0
+38,watch lakers win ,do some target runs with my family,0.03,0.03,1.1,1.0
+39,play cod with my dorm mates,have my favorite pasta as breakfast,0.04,0.03,3.3,0.0
+40,try some new music with friends,play with chica,0.05,0.03,4.4,0.0
+41,play with chica,watch some crime show with my friends,0.01,0.04,1.1,1.0
+42,try a new restaurant in downtown,go to gym for some cardio,0.02,0.04,3.3,0.0
+43,try a new restaurant in downtown,go to college on a rainy day,0.03,0.04,1.1,0.0
+44,plan a trip to miami with my friends,play with chica,0.04,0.04,1.1,0.0
+45,rearrange my stuff,try a new escape room with my mates,0.05,0.04,4.4,1.0
+46,do some target runs with my family,have my favorite pasta as breakfast,0.01,0.05,8.8,0.0
+47,plan a trip to miami with my friends,have my favorite pasta as breakfast,0.02,0.05,1.1,0.0
+48,play with chica,do some target runs with my family,0.03,0.05,4.4,1.0
+49,go to gym for some cardio,early morning walk with my friends ,0.04,0.05,3.3,1.0
+50,clean my room,play cod with my dorm mates,0.05,0.05,1.1,1.0
+51,rearrange my stuff,do some target runs with my family,0.01,0.01,1.1,1.0
+52,try a new restaurant in downtown,Jog early morning,0.02,0.01,3.3,0.0
+53,try some new music with friends,Jog early morning,0.03,0.01,1.1,0.0
+54,try a new restaurant in downtown,watch lakers win ,0.04,0.01,4.4,0.0
+55,play cod with my dorm mates,play some nba,0.05,0.01,1.1,0.0
+56,watch some crime show with my friends,Jog early morning,0.01,0.02,8.8,0.0
+57,go to beach on a sunny day,play with chica,0.02,0.02,4.4,0.0
+58,Jog early morning,early morning walk with my friends ,0.03,0.02,4.4,1.0
+59,go to college on a rainy day,go to beach on a sunny day,0.04,0.02,4.4,1.0
+60,rearrange my stuff,play cod with my dorm mates,0.05,0.02,1.1,1.0
+61,do some target runs with my family,go to college on a rainy day,0.01,0.03,3.3,0.0
+62,Jog early morning,play some soccer with my old friends,0.02,0.03,3.3,1.0
+63,clean my room,early morning walk with my friends ,0.03,0.03,3.3,1.0
+64,go to beach on a sunny day,play call of duty on my ps ,0.04,0.03,1.1,0.0
+65,try some new music with friends,have my favorite pasta as breakfast,0.05,0.03,1.1,0.0
+66,go to beach on a sunny day,rearrange my stuff,0.01,0.04,1.1,0.0
+67,try some new music with friends,go to gym for some cardio,0.02,0.04,8.8,0.0
+68,have my favorite pasta as breakfast,try a new escape room with my mates,0.03,0.04,4.4,1.0
+69,play cod with my dorm mates,watch lakers win ,0.04,0.04,1.1,0.0
+70,go to gym for some cardio,try a new escape room with my mates,0.05,0.04,1.1,1.0
+71,play some nba,try a new escape room with my mates,0.01,0.05,3.3,1.0
+72,clean my room,try a new restaurant in downtown,0.02,0.05,8.8,1.0
+73,try a new restaurant in downtown,play call of duty on my ps ,0.03,0.05,3.3,0.0
+74,watch some crime show with my friends,play call of duty on my ps ,0.04,0.05,4.4,0.0
+75,Jog early morning,try a new escape room with my mates,0.05,0.05,3.3,1.0
+76,do some target runs with my family,go to gym for some cardio,0.01,0.01,1.1,0.0
+77,go to college on a rainy day,early morning walk with my friends ,0.02,0.01,8.8,1.0
+78,try a new escape room with my mates,play call of duty on my ps ,0.03,0.01,1.1,0.0
+79,play with chica,early morning walk with my friends ,0.04,0.01,1.1,1.0
+80,play call of duty on my ps ,do some target runs with my family,0.05,0.01,4.4,1.0
+81,try a new escape room with my mates,go to college on a rainy day,0.01,0.02,3.3,0.0
+82,play cod with my dorm mates,go to college on a rainy day,0.02,0.02,4.4,0.0
+83,clean my room,go to beach on a sunny day,0.03,0.02,1.1,1.0
+84,watch some crime show with my friends,watch lakers win ,0.04,0.02,3.3,0.0
+85,plan a trip to miami with my friends,go to college on a rainy day,0.05,0.02,3.3,0.0
+86,clean my room,plan a trip to miami with my friends,0.01,0.03,1.1,1.0
+87,go to gym for some cardio,play some soccer with my old friends,0.02,0.03,4.4,1.0
+88,play some nba,play some soccer with my old friends,0.03,0.03,1.1,1.0
+89,play some soccer with my old friends,play with chica,0.04,0.03,3.3,0.0
+90,play some nba,do some target runs with my family,0.05,0.03,8.8,1.0
+91,play some nba,plan a trip to miami with my friends,0.01,0.04,3.3,1.0
+92,watch lakers win ,early morning walk with my friends ,0.02,0.04,8.8,1.0
+93,go to beach on a sunny day,Jog early morning,0.03,0.04,1.1,0.0
+94,clean my room,play some soccer with my old friends,0.04,0.04,4.4,1.0
+95,have my favorite pasta as breakfast,early morning walk with my friends ,0.05,0.04,4.4,1.0
+96,go to beach on a sunny day,have my favorite pasta as breakfast,0.01,0.05,3.3,0.0
+97,do some target runs with my family,Jog early morning,0.02,0.05,1.1,0.0
+98,go to beach on a sunny day,play some nba,0.03,0.05,1.1,0.0
+99,try a new escape room with my mates,watch lakers win ,0.04,0.05,3.3,0.0
+100,play some nba,early morning walk with my friends ,0.05,0.05,4.4,1.0
