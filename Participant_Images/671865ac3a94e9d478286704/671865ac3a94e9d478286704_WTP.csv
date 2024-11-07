@@ -1,0 +1,101 @@
+TrialNumber,right,left,leftmoney,rightmoney,WTP_ITI,social_left
+1,Create a new craft in my craft room,See my children learn new things together ,0.01,0.01,4.4,1.0
+2,Watch tv snuggled on the couch with a pillow,Watch Survivor with my husband and guessing the outcome,0.02,0.01,8.8,1.0
+3,Go to a taylor swift concert and dance with friends,Lay in the sunshine in my backyard,0.03,0.01,3.3,0.0
+4,Play board games with friends at couples night,Eat yummy food while watching a show ,0.04,0.01,1.1,0.0
+5,Walk my dog on a bright spring day,Go to a new restaurant for date night with my husband,0.05,0.01,1.1,1.0
+6,See a new romcom movie with friends,Lay in the sunshine in my backyard,0.01,0.02,3.3,0.0
+7,Read a book as I snuggle up in bed ,Watch my sons play tball with our friends,0.02,0.02,1.1,1.0
+8,Play board games with friends at couples night,Read a book next to a window while raining,0.03,0.02,1.1,0.0
+9,Go to a new restaurant for date night with my husband,Lay on the beach with my eyes closed listening to the waves,0.04,0.02,4.4,0.0
+10,Read a book as I snuggle up in bed ,Talk with peers at book club monthly dinner,0.05,0.02,1.1,1.0
+11,Lay in the sunshine in my backyard,Play a dice game at monthly bunco nights with friends,0.01,0.03,3.3,1.0
+12,Watch Survivor with my husband and guessing the outcome,Read a book next to a window while raining,0.02,0.03,4.4,0.0
+13,Play a dice game at monthly bunco nights with friends,Walk my dog on a bright spring day,0.03,0.03,1.1,0.0
+14,Listen to an audio book as I make something new,Play a dice game at monthly bunco nights with friends,0.04,0.03,3.3,1.0
+15,Play board games with friends at couples night,Read a book as I snuggle up in bed ,0.05,0.03,4.4,0.0
+16,Talk with peers at book club monthly dinner,Read a book next to a window while raining,0.01,0.04,1.1,0.0
+17,Play a dice game at monthly bunco nights with friends,Create a new craft in my craft room,0.02,0.04,8.8,0.0
+18,Go to a taylor swift concert and dance with friends,Create a new craft in my craft room,0.03,0.04,3.3,0.0
+19,See a new romcom movie with friends,Read a book as I snuggle up in bed ,0.04,0.04,3.3,0.0
+20,Play board games with friends at couples night,Listen to an audio book as I make something new,0.05,0.04,1.1,0.0
+21,Play board games with friends at couples night,Create a new craft in my craft room,0.01,0.05,8.8,0.0
+22,Watch my sons play tball with our friends,Listen to an audio book as I make something new,0.02,0.05,4.4,0.0
+23,Read a book as I snuggle up in bed ,See my children learn new things together ,0.03,0.05,1.1,1.0
+24,Watch my sons play tball with our friends,Play a game quietly on my phone,0.04,0.05,4.4,0.0
+25,Create a new craft in my craft room,Talk with peers at book club monthly dinner,0.05,0.05,3.3,1.0
+26,See my children learn new things together ,Listen to an audio book as I make something new,0.01,0.01,4.4,0.0
+27,Play a game quietly on my phone,See my children learn new things together ,0.02,0.01,3.3,1.0
+28,Eat yummy food while watching a show ,Watch Survivor with my husband and guessing the outcome,0.03,0.01,3.3,1.0
+29,Watch my sons play tball with our friends,Read a book next to a window while raining,0.04,0.01,4.4,0.0
+30,Play a game quietly on my phone,Watch Survivor with my husband and guessing the outcome,0.05,0.01,8.8,1.0
+31,Read a book next to a window while raining,See my children learn new things together ,0.01,0.02,8.8,1.0
+32,Chat with coworkers over lunch,Lay in the sunshine in my backyard,0.02,0.02,1.1,0.0
+33,Watch Survivor with my husband and guessing the outcome,Walk my dog on a bright spring day,0.03,0.02,4.4,0.0
+34,Go to a taylor swift concert and dance with friends,Walk my dog on a bright spring day,0.04,0.02,3.3,0.0
+35,See my children learn new things together ,Lay in the sunshine in my backyard,0.05,0.02,1.1,0.0
+36,Listen to an audio book as I make something new,Watch Survivor with my husband and guessing the outcome,0.01,0.03,3.3,1.0
+37,Eat yummy food while watching a show ,Go to a taylor swift concert and dance with friends,0.02,0.03,1.1,1.0
+38,Go to a new restaurant for date night with my husband,Listen to an audio book as I make something new,0.03,0.03,1.1,0.0
+39,Go to a new restaurant for date night with my husband,Create a new craft in my craft room,0.04,0.03,3.3,0.0
+40,Play a dice game at monthly bunco nights with friends,Eat yummy food while watching a show ,0.05,0.03,4.4,0.0
+41,Read a book as I snuggle up in bed ,Watch Survivor with my husband and guessing the outcome,0.01,0.04,1.1,1.0
+42,Chat with coworkers over lunch,Play a game quietly on my phone,0.02,0.04,3.3,0.0
+43,Lay on the beach with my eyes closed listening to the waves,Watch my sons play tball with our friends,0.03,0.04,1.1,1.0
+44,Play a dice game at monthly bunco nights with friends,Lay on the beach with my eyes closed listening to the waves,0.04,0.04,1.1,0.0
+45,Create a new craft in my craft room,Chat with coworkers over lunch,0.05,0.04,4.4,1.0
+46,Lay on the beach with my eyes closed listening to the waves,Talk with peers at book club monthly dinner,0.01,0.05,8.8,1.0
+47,Play a dice game at monthly bunco nights with friends,Read a book next to a window while raining,0.02,0.05,1.1,0.0
+48,Lay on the beach with my eyes closed listening to the waves,Play board games with friends at couples night,0.03,0.05,4.4,1.0
+49,See a new romcom movie with friends,Listen to an audio book as I make something new,0.04,0.05,3.3,0.0
+50,Lay in the sunshine in my backyard,Watch Survivor with my husband and guessing the outcome,0.05,0.05,1.1,1.0
+51,Watch tv snuggled on the couch with a pillow,Go to a new restaurant for date night with my husband,0.01,0.01,1.1,1.0
+52,Listen to an audio book as I make something new,Talk with peers at book club monthly dinner,0.02,0.01,3.3,1.0
+53,Go to a new restaurant for date night with my husband,Lay in the sunshine in my backyard,0.03,0.01,1.1,0.0
+54,Go to a new restaurant for date night with my husband,Read a book next to a window while raining,0.04,0.01,4.4,0.0
+55,See a new romcom movie with friends,Walk my dog on a bright spring day,0.05,0.01,1.1,0.0
+56,Watch tv snuggled on the couch with a pillow,Chat with coworkers over lunch,0.01,0.02,8.8,1.0
+57,Play a game quietly on my phone,Go to a taylor swift concert and dance with friends,0.02,0.02,4.4,1.0
+58,Play board games with friends at couples night,Play a game quietly on my phone,0.03,0.02,4.4,0.0
+59,Read a book next to a window while raining,Go to a taylor swift concert and dance with friends,0.04,0.02,4.4,1.0
+60,Watch my sons play tball with our friends,Watch tv snuggled on the couch with a pillow,0.05,0.02,1.1,0.0
+61,Go to a new restaurant for date night with my husband,Eat yummy food while watching a show ,0.01,0.03,3.3,0.0
+62,Watch tv snuggled on the couch with a pillow,Play board games with friends at couples night,0.02,0.03,3.3,1.0
+63,Eat yummy food while watching a show ,See my children learn new things together ,0.03,0.03,3.3,1.0
+64,Watch my sons play tball with our friends,Lay in the sunshine in my backyard,0.04,0.03,1.1,0.0
+65,Read a book next to a window while raining,See a new romcom movie with friends,0.05,0.03,1.1,1.0
+66,Watch tv snuggled on the couch with a pillow,Talk with peers at book club monthly dinner,0.01,0.04,1.1,1.0
+67,Play board games with friends at couples night,Lay in the sunshine in my backyard,0.02,0.04,8.8,0.0
+68,Walk my dog on a bright spring day,Watch my sons play tball with our friends,0.03,0.04,4.4,1.0
+69,Watch Survivor with my husband and guessing the outcome,Lay on the beach with my eyes closed listening to the waves,0.04,0.04,1.1,0.0
+70,Lay on the beach with my eyes closed listening to the waves,See a new romcom movie with friends,0.05,0.04,1.1,1.0
+71,Go to a taylor swift concert and dance with friends,Read a book as I snuggle up in bed ,0.01,0.05,3.3,0.0
+72,Read a book next to a window while raining,Chat with coworkers over lunch,0.02,0.05,8.8,1.0
+73,See my children learn new things together ,Walk my dog on a bright spring day,0.03,0.05,3.3,0.0
+74,Watch my sons play tball with our friends,Eat yummy food while watching a show ,0.04,0.05,4.4,0.0
+75,Chat with coworkers over lunch,Lay on the beach with my eyes closed listening to the waves,0.05,0.05,3.3,0.0
+76,Lay on the beach with my eyes closed listening to the waves,Go to a taylor swift concert and dance with friends,0.01,0.01,1.1,1.0
+77,Play a game quietly on my phone,See a new romcom movie with friends,0.02,0.01,8.8,1.0
+78,Eat yummy food while watching a show ,Chat with coworkers over lunch,0.03,0.01,1.1,1.0
+79,Play a game quietly on my phone,Talk with peers at book club monthly dinner,0.04,0.01,1.1,1.0
+80,Create a new craft in my craft room,See a new romcom movie with friends,0.05,0.01,4.4,1.0
+81,Listen to an audio book as I make something new,Go to a taylor swift concert and dance with friends,0.01,0.02,3.3,1.0
+82,Watch Survivor with my husband and guessing the outcome,Create a new craft in my craft room,0.02,0.02,4.4,0.0
+83,Go to a new restaurant for date night with my husband,Play a game quietly on my phone,0.03,0.02,1.1,0.0
+84,Read a book as I snuggle up in bed ,Play a dice game at monthly bunco nights with friends,0.04,0.02,3.3,1.0
+85,Eat yummy food while watching a show ,Talk with peers at book club monthly dinner,0.05,0.02,3.3,1.0
+86,Listen to an audio book as I make something new,Chat with coworkers over lunch,0.01,0.03,1.1,1.0
+87,Watch tv snuggled on the couch with a pillow,Play a dice game at monthly bunco nights with friends,0.02,0.03,4.4,1.0
+88,See my children learn new things together ,Lay on the beach with my eyes closed listening to the waves,0.03,0.03,1.1,0.0
+89,Create a new craft in my craft room,Watch my sons play tball with our friends,0.04,0.03,3.3,1.0
+90,Chat with coworkers over lunch,Walk my dog on a bright spring day,0.05,0.03,8.8,0.0
+91,Play a game quietly on my phone,Play a dice game at monthly bunco nights with friends,0.01,0.04,3.3,1.0
+92,Walk my dog on a bright spring day,Talk with peers at book club monthly dinner,0.02,0.04,8.8,1.0
+93,Lay in the sunshine in my backyard,Talk with peers at book club monthly dinner,0.03,0.04,1.1,1.0
+94,Play board games with friends at couples night,Walk my dog on a bright spring day,0.04,0.04,4.4,0.0
+95,Go to a taylor swift concert and dance with friends,Watch tv snuggled on the couch with a pillow,0.05,0.04,4.4,0.0
+96,Eat yummy food while watching a show ,See a new romcom movie with friends,0.01,0.05,3.3,1.0
+97,Chat with coworkers over lunch,Read a book as I snuggle up in bed ,0.02,0.05,1.1,0.0
+98,See my children learn new things together ,Watch tv snuggled on the couch with a pillow,0.03,0.05,1.1,0.0
+99,Watch tv snuggled on the couch with a pillow,See a new romcom movie with friends,0.04,0.05,3.3,1.0
+100,Read a book as I snuggle up in bed ,Go to a new restaurant for date night with my husband,0.05,0.05,4.4,1.0
