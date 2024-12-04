@@ -572,6 +572,8 @@ for csv in sorted(os.listdir(data_path)):
                      elif neu_df.loc[i,'afterstresschange'] == 1:
                          neu_df['recoded_stress' ][i] =   neu_df['stress_mean' ][i]
                          
+  #%%                       
+                         
             overallaffect = overallaffect = pd.DataFrame()
             overallaffect['neu'] = neu_df['recoded_stress']
             overallaffect['acc'] = acc_df['recoded_stress']
