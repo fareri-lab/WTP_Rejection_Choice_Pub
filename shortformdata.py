@@ -32,9 +32,9 @@ order = ''
 path = Path(r"%s"%(os.getcwd()))
 p = Path('%s/data' %(path))
 
-cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','timebetween', 'age', 'sex','order', 'overallaffect']
-columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean', 'price','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect']
-shortform_data= pd.DataFrame(columns = columns2)
+cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice']
+columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean', 'decisionprice_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left']
+shortform_data= pd.DataFrame(columns=columns2)
 
 #%%
 
@@ -51,7 +51,9 @@ acc_df = pd.DataFrame(index=participants.index, columns = cols)
 stressdiffscore = pd.DataFrame(index=participants.index, columns= ['PROLIFIC_ID', 'rejstress', 'accstress', 'difference', 'ifnegvalue'])
 
 #%%
-data_path = os.getcwd()+'/Documents/GitHub/WTP_rejection_choice/data/'
+data_path = os.getcwd()+'/data/'
+
+#calcuate the order of conditions for each participant 
 for csv in sorted(os.listdir(data_path)):
     for sub in range(0,len(participants)):
         if csv.startswith(participants['PROLIFIC_ID'][sub]):
@@ -80,10 +82,9 @@ for csv in sorted(os.listdir(data_path)):
                         elif participantdata.loc[39,'Condition'] == 'Acc':
                             order= 21 
             if order == 12 or order == 21:
-                    participants['order'][sub] = int(order)
-                    
-
+                    participants['order'][sub] = int(order)  
 #%%
+#replace the nan with Empty so to change them to the correct values below
             participantdata['Condition'] = participantdata['Condition'].replace(np.nan,'Empty',regex = True)
 
        #%%              
@@ -97,6 +98,8 @@ for csv in sorted(os.listdir(data_path)):
                       #      participantdata['Condition'][row] =  participantdata['Condition'][row].replace('Empty', 'Acc')
                             
                  #%%  
+                 
+                 #fill in missing values for condition column in data frame
             for row in range(len(participantdata)):
     # Ensure the row is valid and row+3 does not exceed the DataFrame length
                 if participantdata['responses.keys'][row] in [1, 2] and (row + 3) < len(participantdata):
@@ -104,10 +107,8 @@ for csv in sorted(os.listdir(data_path)):
                         participantdata.loc[row, 'Condition'] = participantdata.loc[row, 'Condition'].replace('Empty', 'Rej')
                     elif participantdata.loc[row + 3, 'Condition'] == 'Acc':
                         participantdata.loc[row, 'Condition'] = participantdata.loc[row, 'Condition'].replace('Empty', 'Acc')
-              
-                            
-        
             #%%
+            #separate participant data according to the two conditions
                 rej_df = participantdata.loc[(participantdata['Condition'] == 'Rej')]
                 rej_df = rej_df.reset_index(drop = True)
                 
@@ -118,7 +119,22 @@ for csv in sorted(os.listdir(data_path)):
                 acc_df['condition_recode'] = 2
                 rej_df['condition_recode'] = 1 
                 
-           
+
+                
+                #%%
+                # Initialize 'socialchoice' and calculate based on conditions
+                rej_df['socialchoice'] = 0
+                rej_df.loc[(rej_df['social_left'] == 1) & (rej_df['responses.keys'] == 1), 'socialchoice'] = 1
+                rej_df.loc[(rej_df['social_left'] == 0) & (rej_df['responses.keys'] == 2), 'socialchoice'] = 1
+                
+                acc_df['socialchoice'] = 0
+                acc_df.loc[(acc_df['social_left'] == 1) & (acc_df['responses.keys'] == 1), 'socialchoice'] = 1
+                acc_df.loc[(acc_df['social_left'] == 0) & (acc_df['responses.keys'] == 2), 'socialchoice'] = 1
+                
+                # Calculate proportion of social choices
+                rej_df['prop_socialchoice'] = rej_df['socialchoice'].mean()
+                acc_df['prop_socialchoice'] = acc_df['socialchoice'].mean()
+                
                 #%%
                
                 
@@ -135,7 +151,21 @@ for csv in sorted(os.listdir(data_path)):
                
                 rej_df['order'] = participants['order'][sub]
                 acc_df['order'] = participants['order'][sub]
-                 
+                #%%
+                # Calculate the mean of the 'socialchoice' column for rejection condition
+                proportion_socialchoice = rej_df['socialchoice'].mean()
+
+                # Assign the mean value to a new column
+                rej_df['prop_socialchoice'] = proportion_socialchoice
+                
+                #%%
+                # Calculate the mean of the 'socialchoice' column for acceptance condition
+                prop_socialchoice = acc_df['socialchoice'].mean()
+                
+                #assign the mean value to a new column
+                acc_df['prop_socialchoice'] = prop_socialchoice
+            
+            
            #%%
                  #calculate mean salience rating across rejection condition for one participant
                 rejection_salience = pd.DataFrame()
@@ -164,9 +194,7 @@ for csv in sorted(os.listdir(data_path)):
                 # print(rejection_stressmean)
                 
                 rej_df['stress_mean'] = rejection_stressmean
-              
-                
-                
+             
                 
                 #%%
                 rejection_choice = pd.DataFrame()
@@ -314,9 +342,18 @@ for csv in sorted(os.listdir(data_path)):
             rej_df['ifnegvalue']= ''
             
             acc_df['ifnegvalue'] = ''
+            
+            #%%
                
             
             shortform_data = shortform_data.append(rej_df[columns2].iloc[[0]].append(acc_df[columns2].iloc[[0]])).reset_index(drop=True) 
+            
+                        # Combine rows from rej_df and acc_df for the specified columns
+            #new_rows = pd.concat([rej_df[columns2].iloc[[0]], acc_df[columns2].iloc[[0]]], ignore_index=True)
+            
+            # Append to shortform_data and reset index
+            #shortform_data = pd.concat([shortform_data, new_rows], ignore_index=True)
+
 
     #%%
 
