@@ -33,7 +33,7 @@ path = Path(r"%s"%(os.getcwd()))
 p = Path('%s/data' %(path))
 
 cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice']
-columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean', 'decisionprice_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left']
+columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean']
 shortform_data= pd.DataFrame(columns=columns2)
 
 #%%
@@ -230,16 +230,38 @@ for csv in sorted(os.listdir(data_path)):
                 
                 #%%
                 
-                rejection_decisionprice = pd.DataFrame()
-                rejection_decisionprice['decision_price'] = rej_df['decision_price']
-                rejection_decisionprice = rejection_decisionprice.dropna()
-                rejection_decisionprice.drop(rejection_decisionprice[(rejection_decisionprice['decision_price'] == 999)].index, inplace = True)
-                rejection_decisionprice = rejection_decisionprice.reset_index(drop = True)
+           
                 
-                rejection_decisionprice_mean = rejection_decisionprice['decision_price'].mean()
-                # print(rejection_choicemean)
+                rejection_decisionprice_social = pd.DataFrame()
+                rejection_decisionprice_social = rej_df.loc[(rej_df['socialchoice']) == 1].copy()
+                rejection_decisionprice_social_mean = rejection_decisionprice_social['decision_price'].mean()
                 
-                rej_df['decisionprice_mean'] = rejection_decisionprice_mean
+                rejection_decisionprice_nonsocial = pd.DataFrame()
+                rejection_decisionprice_nonsocial = rej_df.loc[(rej_df['socialchoice']) == 0].copy()
+                rejection_decisionprice_nonsocial_mean = rejection_decisionprice_nonsocial['decision_price'].mean()
+                
+                rej_df['social_decisionprice_mean'] = rejection_decisionprice_social_mean
+                rej_df['nonsocial_decisionprice_mean'] = rejection_decisionprice_nonsocial_mean
+                
+            
+                
+                #%%
+                
+                 
+                acceptance_decisionprice = pd.DataFrame()
+                acceptance_decisionprice['decision_price'] = acc_df['decision_price']
+                
+                acceptance_decisionprice_social = pd.DataFrame()
+                acceptance_decisionprice_social = acc_df.loc[(acc_df['socialchoice']) == 1].copy()
+                acceptance_decisionprice_social_mean = acceptance_decisionprice_social['decision_price'].mean()
+                
+                acceptance_decisionprice_nonsocial = pd.DataFrame()
+                acceptance_decisionprice_nonsocial = acc_df.loc[(acc_df['socialchoice']) == 0].copy()
+                acceptance_decisionprice_nonsocial_mean = acceptance_decisionprice_nonsocial['decision_price'].mean()
+                
+                acc_df['social_decisionprice_mean'] = acceptance_decisionprice_social_mean
+                acc_df['nonsocial_decisionprice_mean'] = acceptance_decisionprice_nonsocial_mean
+                
                 
                 #%%
                 
@@ -298,19 +320,7 @@ for csv in sorted(os.listdir(data_path)):
                 # print(acceptance_choicemean)
                 
                 acc_df['choice'] = acceptance_choicemean
-                
-                #%%
-                
-                acceptance_decisionprice = pd.DataFrame()
-                acceptance_decisionprice['decision_price'] = acc_df['decision_price']
-                acceptance_decisionprice = acceptance_decisionprice.dropna()
-                acceptance_decisionprice.drop(acceptance_decisionprice[(acceptance_decisionprice['decision_price'] == 999)].index, inplace = True)
-                acceptance_decisionprice = acceptance_decisionprice.reset_index(drop = True)
-                
-                acceptance_decisionprice_mean = acceptance_decisionprice['decision_price'].mean()
-                # print(rejection_choicemean)
-                
-                acc_df['decisionprice_mean'] = acceptance_decisionprice_mean
+            
                 
              #%%
              
