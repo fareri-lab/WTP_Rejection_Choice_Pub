@@ -122,19 +122,53 @@ for csv in sorted(os.listdir(data_path)):
 
                 
                 #%%
+
+                # Drop NaNs in columns relevant to the calculation of 'socialchoice'
+                #rej_df = rej_df.dropna(subset=['social_left', 'responses.keys']).copy()
+                #acc_df = acc_df.dropna(subset=['social_left', 'responses.keys']).copy()
+                                
+ 
                 # Initialize 'socialchoice' and calculate based on conditions
-                rej_df['socialchoice'] = 0
-                rej_df.loc[(rej_df['social_left'] == 1) & (rej_df['responses.keys'] == 1), 'socialchoice'] = 1
-                rej_df.loc[(rej_df['social_left'] == 0) & (rej_df['responses.keys'] == 2), 'socialchoice'] = 1
+                rej_df['socialchoice'] = 999
                 
-                acc_df['socialchoice'] = 0
-                acc_df.loc[(acc_df['social_left'] == 1) & (acc_df['responses.keys'] == 1), 'socialchoice'] = 1
-                acc_df.loc[(acc_df['social_left'] == 0) & (acc_df['responses.keys'] == 2), 'socialchoice'] = 1
+                rej_df.loc[(rej_df['responses.keys'] == 1) & (rej_df['social_left'] == 1),'socialchoice'] = 1
+                rej_df.loc[(rej_df['responses.keys'] == 2) & (rej_df['social_left'] == 1),'socialchoice'] = 0
+                rej_df.loc[(rej_df['responses.keys'] == 1) & (rej_df['social_left'] == 0),'socialchoice'] = 0
+                rej_df.loc[(rej_df['responses.keys'] == 2) & (rej_df['social_left'] == 0),'socialchoice'] = 1
+               
                 
+                acc_df['socialchoice'] = 999
+                
+                acc_df.loc[(acc_df['responses.keys'] == 1) & (acc_df['social_left'] == 1),'socialchoice'] = 1
+                acc_df.loc[(acc_df['responses.keys'] == 2) & (acc_df['social_left'] == 1),'socialchoice'] = 0
+                acc_df.loc[(rej_df['responses.keys'] == 1) & (acc_df['social_left'] == 0),'socialchoice'] = 0
+                acc_df.loc[(rej_df['responses.keys'] == 2) & (acc_df['social_left'] == 0),'socialchoice'] = 1
+                
+                #%%
+               
                 # Calculate proportion of social choices
-                rej_df['prop_socialchoice'] = rej_df['socialchoice'].mean()
-                acc_df['prop_socialchoice'] = acc_df['socialchoice'].mean()
                 
+                rejection_prop_social = pd.DataFrame()
+                rejection_prop_social['socialchoice'] = rej_df['socialchoice']
+                
+                rejection_prop_social = rejection_prop_social[rejection_prop_social['socialchoice'] != 999].copy()
+                
+            
+                rejection_prop_social_mean= rejection_prop_social['socialchoice'].mean()
+                rej_df['prop_socialchoice'] = rejection_prop_social_mean
+                
+                #%%
+                
+                acceptance_prop_social = pd.DataFrame()
+                acceptance_prop_social['socialchoice'] = acc_df['socialchoice']
+                
+                acceptance_prop_social = acceptance_prop_social[acceptance_prop_social['socialchoice'] != 999].copy()
+                
+            
+                acceptance_prop_social_mean= acceptance_prop_social['socialchoice'].mean()
+                acc_df['prop_socialchoice'] =  acceptance_prop_social_mean
+                
+            
                 #%%
                
                 
@@ -151,20 +185,6 @@ for csv in sorted(os.listdir(data_path)):
                
                 rej_df['order'] = participants['order'][sub]
                 acc_df['order'] = participants['order'][sub]
-                #%%
-                # Calculate the mean of the 'socialchoice' column for rejection condition
-                proportion_socialchoice = rej_df['socialchoice'].mean()
-
-                # Assign the mean value to a new column
-                rej_df['prop_socialchoice'] = proportion_socialchoice
-                
-                #%%
-                # Calculate the mean of the 'socialchoice' column for acceptance condition
-                prop_socialchoice = acc_df['socialchoice'].mean()
-                
-                #assign the mean value to a new column
-                acc_df['prop_socialchoice'] = prop_socialchoice
-            
             
            #%%
                  #calculate mean salience rating across rejection condition for one participant
