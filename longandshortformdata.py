@@ -41,7 +41,7 @@ path = Path(r"%s"%(os.getcwd()))
 p = Path('%s/data' %(path))
 
 cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice']
-columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean']
+columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean']
 columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean']
 shortform_data= pd.DataFrame(columns=columns2)
 longform_data = pd.DataFrame(columns = columns3)
@@ -138,11 +138,6 @@ for csv in sorted(os.listdir(data_path)):
                 
                 #%%
 
-                # Drop NaNs in columns relevant to the calculation of 'socialchoice'
-                #rej_df = rej_df.dropna(subset=['social_left', 'responses.keys']).copy()
-                #acc_df = acc_df.dropna(subset=['social_left', 'responses.keys']).copy()
-                                
- 
                 # Initialize 'socialchoice' and calculate based on conditions
                 rej_df['socialchoice'] = 999
                 
@@ -245,20 +240,27 @@ for csv in sorted(os.listdir(data_path)):
                 
                 #%%
                 
-           
                 
-                rejection_decisionprice_social = pd.DataFrame()
+                rejection_decisionprice = pd.DataFrame()
+                rejection_decisionprice['decision_price'] = rej_df['decision_price']
+                
+                rejection_decisionprice_social = pd.DataFrame()    
                 rejection_decisionprice_social = rej_df.loc[(rej_df['socialchoice']) == 1].copy()
                 rejection_decisionprice_social_mean = rejection_decisionprice_social['decision_price'].mean()
                 
                 rejection_decisionprice_nonsocial = pd.DataFrame()
-                rejection_decisionprice_nonsocial = rej_df.loc[(rej_df['socialchoice']) == 0].copy()
-                rejection_decisionprice_nonsocial_mean = rejection_decisionprice_nonsocial['decision_price'].mean()
-                
+               # rejection_decisionprice_nonsocial = rej_df.loc[(rej_df['socialchoice']) == 0].copy()
+               # rejection_decisionprice_nonsocial_mean = rejection_decisionprice_nonsocial['decision_price'].mean()
+
+
+
+                if (rej_df['socialchoice'] == 0).any():rejection_decisionprice_nonsocial_mean = rej_df.loc[rej_df['socialchoice'] == 0, 'decision_price'].mean()
+                else:
+                    rejection_decisionprice_nonsocial_mean = 0  # Default to 0 if no nonsocial choices
+    
+    
                 rej_df['social_decisionprice_mean'] = rejection_decisionprice_social_mean
                 rej_df['nonsocial_decisionprice_mean'] = rejection_decisionprice_nonsocial_mean
-                
-            
                 
                 #%%
                 
