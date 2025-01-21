@@ -19,7 +19,7 @@ participants = participants.loc[
 participants = pd.DataFrame(data=participants['PROLIFIC_ID'])
 
 
-pretask_survey = '%s/' %(str(path.parent.parent)) + [pretask for pretask in os.listdir(path.parent.parent) if pretask.startswith('RejectionChoice_PreTask')][0]
+pretask_survey = '%s/' %(str(path.parent.parent)) + [pretask for pretask in os.listdir(path.parent.parent) if pretask.startswith('WTP_Pretask')][0]
 #read in raw qualtrics data
 alldata = pd.read_csv(pretask_survey)
 

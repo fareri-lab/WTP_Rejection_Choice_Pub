@@ -40,9 +40,9 @@ order = ''
 path = Path(r"%s"%(os.getcwd()))
 p = Path('%s/data' %(path))
 
-cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice']
-columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean']
-columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean']
+cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial']
+columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial']
+columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial']
 shortform_data= pd.DataFrame(columns=columns2)
 longform_data = pd.DataFrame(columns = columns3)
 #%%
@@ -55,6 +55,12 @@ rej_df = pd.DataFrame(index=participants.index, columns = cols)
 
 #make acceptance data frame
 acc_df = pd.DataFrame(index=participants.index, columns = cols)
+
+#make social data frame
+soc_df = pd.DataFrame(index=participants.index, columns = cols)
+
+#make nonsocial data frame
+nonsoc_df = pd.DataFrame(index=participants.index, columns = cols)
 
 #%%
 stressdiffscore = pd.DataFrame(index=participants.index, columns= ['PROLIFIC_ID', 'rejstress', 'accstress', 'difference', 'ifnegvalue'])
@@ -123,13 +129,30 @@ for csv in sorted(os.listdir(data_path)):
                    # elif participantdata.loc[row + 3, 'Condition'] == 'Acc':
                      #   participantdata.loc[row, 'Condition'] = participantdata.loc[row, 'Condition'].replace('Empty', 'Acc')
             #%%
-            #separate participant data according to the two conditions
+            # Initialize 'socialchoice' and calculate based on conditions   
+                participantdata['socialchoice'] = 999
+                
+                participantdata.loc[(participantdata['responses.keys'] == 1) & (participantdata['social_left'] == 1),'socialchoice'] = 1
+                participantdata.loc[(participantdata['responses.keys'] == 2) & (participantdata['social_left'] == 1),'socialchoice'] = 0
+                participantdata.loc[(participantdata['responses.keys'] == 1) & (participantdata['social_left'] == 0),'socialchoice'] = 0
+                participantdata.loc[(participantdata['responses.keys'] == 2) & (participantdata['social_left'] == 0),'socialchoice'] = 1
+            
+            
+                #separate participant data according to the two conditions
                 rej_df = participantdata.loc[(participantdata['Condition'] == 'Rej')]
                 rej_df = rej_df.reset_index(drop = True)
                 
                 acc_df= participantdata.loc[(participantdata['Condition'] == 'Acc')]
                 acc_df = acc_df.reset_index(drop = True)
                 
+                #separate participant data according to the two types of choices
+                soc_df = participantdata.loc[(participantdata['socialchoice'] == 1)]
+                soc_df = soc_df.reset_index(drop = True)
+                
+                nonsoc_df= participantdata.loc[(participantdata['socialchoice'] == 0)]
+                nonsoc_df = nonsoc_df.reset_index(drop = True)    
+             
+               
                 #recoding condition strings to numbers in subsectioned dataframes
                 acc_df['condition_recode'] = 2
                 rej_df['condition_recode'] = 1 
@@ -139,20 +162,37 @@ for csv in sorted(os.listdir(data_path)):
                 #%%
 
                 # Initialize 'socialchoice' and calculate based on conditions
-                rej_df['socialchoice'] = 999
+                #rej_df['socialchoice'] = 999
                 
-                rej_df.loc[(rej_df['responses.keys'] == 1) & (rej_df['social_left'] == 1),'socialchoice'] = 1
-                rej_df.loc[(rej_df['responses.keys'] == 2) & (rej_df['social_left'] == 1),'socialchoice'] = 0
-                rej_df.loc[(rej_df['responses.keys'] == 1) & (rej_df['social_left'] == 0),'socialchoice'] = 0
-                rej_df.loc[(rej_df['responses.keys'] == 2) & (rej_df['social_left'] == 0),'socialchoice'] = 1
+                #rej_df.loc[(rej_df['responses.keys'] == 1) & (rej_df['social_left'] == 1),'socialchoice'] = 1
+                #rej_df.loc[(rej_df['responses.keys'] == 2) & (rej_df['social_left'] == 1),'socialchoice'] = 0
+                #rej_df.loc[(rej_df['responses.keys'] == 1) & (rej_df['social_left'] == 0),'socialchoice'] = 0
+                #rej_df.loc[(rej_df['responses.keys'] == 2) & (rej_df['social_left'] == 0),'socialchoice'] = 1
                
                 
-                acc_df['socialchoice'] = 999
+                #acc_df['socialchoice'] = 999
                 
-                acc_df.loc[(acc_df['responses.keys'] == 1) & (acc_df['social_left'] == 1),'socialchoice'] = 1
-                acc_df.loc[(acc_df['responses.keys'] == 2) & (acc_df['social_left'] == 1),'socialchoice'] = 0
-                acc_df.loc[(rej_df['responses.keys'] == 1) & (acc_df['social_left'] == 0),'socialchoice'] = 0
-                acc_df.loc[(rej_df['responses.keys'] == 2) & (acc_df['social_left'] == 0),'socialchoice'] = 1
+                #acc_df.loc[(acc_df['responses.keys'] == 1) & (acc_df['social_left'] == 1),'socialchoice'] = 1
+                #acc_df.loc[(acc_df['responses.keys'] == 2) & (acc_df['social_left'] == 1),'socialchoice'] = 0
+                #acc_df.loc[(rej_df['responses.keys'] == 1) & (acc_df['social_left'] == 0),'socialchoice'] = 0
+                #acc_df.loc[(rej_df['responses.keys'] == 2) & (acc_df['social_left'] == 0),'socialchoice'] = 1
+                
+                # Initialize 'socialchoice' and calculate based on conditions
+                #soc_df['socialchoice'] = 999
+                
+                #soc_df.loc[(rej_df['responses.keys'] == 1) & (soc_df['social_left'] == 1),'socialchoice'] = 1
+                #soc_df.loc[(rej_df['responses.keys'] == 2) & (soc_df['social_left'] == 1),'socialchoice'] = 0
+                #soc_df.loc[(rej_df['responses.keys'] == 1) & (soc_df['social_left'] == 0),'socialchoice'] = 0
+                #soc_df.loc[(rej_df['responses.keys'] == 2) & (soc_df['social_left'] == 0),'socialchoice'] = 1
+               
+                
+                #nonsoc_df['socialchoice'] = 999
+                
+                #nonsoc_df.loc[(acc_df['responses.keys'] == 1) & (nonsoc_df['social_left'] == 1),'socialchoice'] = 1
+                #nonsoc_df.loc[(acc_df['responses.keys'] == 2) & (nonsoc_df['social_left'] == 1),'socialchoice'] = 0
+                #nonsoc_df.loc[(rej_df['responses.keys'] == 1) & (nonsoc_df['social_left'] == 0),'socialchoice'] = 0
+                #nonsoc_df.loc[(rej_df['responses.keys'] == 2) & (nonsoc_df['social_left'] == 0),'socialchoice'] = 1
+                
                 
                 #%%
                
@@ -279,6 +319,31 @@ for csv in sorted(os.listdir(data_path)):
                 acc_df['social_decisionprice_mean'] = acceptance_decisionprice_social_mean
                 acc_df['nonsocial_decisionprice_mean'] = acceptance_decisionprice_nonsocial_mean
                 
+                
+                #%%
+                
+                #calculate mean decision price for social and nonsocial decisions collapsing across social contexts
+                
+                overall_decisionprice_social = pd.DataFrame()             
+                overall_decisionprice_social['decision_price'] = soc_df['decision_price']
+                overall_decisionprice_mean_social = pd.DataFrame()
+                overall_decisionprice_mean_social = soc_df.loc[(soc_df['socialchoice']) == 1].copy()
+                overall_decisionprice_mean_social = overall_decisionprice_mean_social['decision_price'].mean()
+                soc_df['overall_decisionprice_social'] = overall_decisionprice_mean_social
+                
+                
+                overall_decisionprice_nonsocial = pd.DataFrame()
+                overall_decisionprice_nonsocial['decision_price'] = nonsoc_df['decision_price']
+                overall_decisionprice_mean_nonsocial = pd.DataFrame()
+                overall_decisionprice_mean_nonsocial = nonsoc_df.loc[(nonsoc_df['socialchoice']) == 0].copy()
+                overall_decisionprice_mean_nonsocial = overall_decisionprice_mean_nonsocial['decision_price'].mean()
+                nonsoc_df['overall_decisionprice_nonsocial'] = overall_decisionprice_mean_nonsocial
+                
+                rej_df['overall_decisionprice_nonsocial'] =   nonsoc_df['overall_decisionprice_nonsocial']
+                rej_df['overall_decisionprice_social'] =   soc_df['overall_decisionprice_social']
+                
+                acc_df['overall_decisionprice_nonsocial'] =   nonsoc_df['overall_decisionprice_nonsocial']
+                acc_df['overall_decisionprice_social'] =   soc_df['overall_decisionprice_social']       
                 
                 #%%
                 
