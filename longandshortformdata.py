@@ -40,9 +40,9 @@ order = ''
 path = Path(r"%s"%(os.getcwd()))
 p = Path('%s/data' %(path))
 
-cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial']
-columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial']
-columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial']
+cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','decision_price','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial']
+columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price']
+columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price']
 shortform_data= pd.DataFrame(columns=columns2)
 longform_data = pd.DataFrame(columns = columns3)
 #%%
@@ -339,11 +339,11 @@ for csv in sorted(os.listdir(data_path)):
                 overall_decisionprice_mean_nonsocial = overall_decisionprice_mean_nonsocial['decision_price'].mean()
                 nonsoc_df['overall_decisionprice_nonsocial'] = overall_decisionprice_mean_nonsocial
                 
-                rej_df['overall_decisionprice_nonsocial'] =   nonsoc_df['overall_decisionprice_nonsocial']
-                rej_df['overall_decisionprice_social'] =   soc_df['overall_decisionprice_social']
+                rej_df['overall_decisionprice_nonsocial'] =   nonsoc_df['overall_decisionprice_nonsocial'][0]
+                rej_df['overall_decisionprice_social'] =   soc_df['overall_decisionprice_social'][0]
                 
-                acc_df['overall_decisionprice_nonsocial'] =   nonsoc_df['overall_decisionprice_nonsocial']
-                acc_df['overall_decisionprice_social'] =   soc_df['overall_decisionprice_social']       
+                acc_df['overall_decisionprice_nonsocial'] =   nonsoc_df['overall_decisionprice_nonsocial'][0]
+                acc_df['overall_decisionprice_social'] =   soc_df['overall_decisionprice_social'][0]
                 
                 #%%
                 
