@@ -69,35 +69,25 @@ stressdiffscore = pd.DataFrame(index=participants.index, columns= ['PROLIFIC_ID'
 data_path = os.getcwd()+'/data/'
 
 #calcuate the order of conditions for each participant 
+# Calculate the order of conditions for each participant
 for csv in sorted(os.listdir(data_path)):
-    for sub in range(0,len(participants)):
+    for sub in range(len(participants)):
         if csv.startswith(participants['PROLIFIC_ID'][sub]):
-            participantdata = pd.read_csv(data_path+csv)
-            participantdata['participant']=participantdata['participant'][0]
-            print(participantdata['participant'][0])
-            if participantdata.loc[3,'TrialNumber'] == 1:
-                if participantdata.loc[3,'Condition'] == 'Rej':
-                    order= 12
-                elif participantdata.loc[3,'Condition'] == 'Acc':
-                    order= 21
-            if order == 12 or order == 21:
-                 participants['order'][sub] = int(order)
-            elif order == '' or order == 0:
-              if participantdata.loc[39,'TrialNumber'] == 31:
-                  if participantdata.loc[39,'Condition'] == 'Rej':
-                      order= 12 
-                  elif participantdata.loc[39,'Condition'] == 'Acc':
-                      order= 21   
-            if order == 12 or order == 21:
-                   participants['order'][sub] = int(order)
-            elif order == '' or order == 0: 
-                    if participantdata.loc[75,'TrialNumber'] == 61:
-                        if participantdata.loc[39,'Condition'] == 'Rej':
-                            order= 12 
-                        elif participantdata.loc[39,'Condition'] == 'Acc':
-                            order= 21 
-            if order == 12 or order == 21:
-                    participants['order'][sub] = int(order)  
+            participantdata = pd.read_csv(os.path.join(data_path, csv))
+
+            # Ensure the 'Condition' column has enough rows
+            if len(participantdata) > 2:
+                if participantdata.loc[2, 'Condition'] == 'Rej':
+                    order = 12
+                elif participantdata.loc[2, 'Condition'] == 'Acc':
+                    order = 21
+                else:
+                    order = None  # Default to None if condition is missing
+
+            # Assign the order to participants DataFrame
+            if order in [12, 21]:
+                participants.at[sub, 'order'] = order
+                print(f"Participant {participants.loc[sub, 'PROLIFIC_ID']} assigned order: {order}")
 #%%
 #replace the nan with Empty so to change them to the correct values below
             participantdata['Condition'] = participantdata['Condition'].replace(np.nan,'Empty',regex = True)

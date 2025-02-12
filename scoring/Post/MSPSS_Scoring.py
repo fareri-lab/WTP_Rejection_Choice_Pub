@@ -66,7 +66,7 @@ for k in range(0,len(MSPSS_clean)):
 MSPSS_score["MSPSS_totalscore"] = MSPSS_score.sum(axis=1)/12
 
 #%%
-
+s
 mspss = pd.DataFrame()
 mspss['Prolific_ID'] = finaldata['Prolific_ID']
 mspss['MSPSS_score']= MSPSS_score["MSPSS_totalscore"]
