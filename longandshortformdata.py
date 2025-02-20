@@ -255,6 +255,19 @@ for csv in sorted(os.listdir(data_path)):
                 
                 rej_df['stress_mean'] = rejection_stressmean
              
+                        
+                acceptance_stress = pd.DataFrame()
+                acceptance_stress['stress'] = acc_df['stress_level']
+                
+                acceptance_stress= acceptance_stress.replace('NAN', np.nan,regex = True)
+                acceptance_stress = acceptance_stress.dropna()
+                
+                acceptance_stress= acceptance_stress.astype(int)
+                acceptance_stressmean = acceptance_stress['stress'].mean()
+                # print(acceptance_stressmean)
+                
+                acc_df['stress_mean'] = acceptance_stressmean
+                
                 
                 #%%
                 rejection_choice = pd.DataFrame()
@@ -364,19 +377,7 @@ for csv in sorted(os.listdir(data_path)):
                 acc_df['salience_mean'] = acceptance_saliencemean
                 
                 #%%
-                
-                acceptance_stress = pd.DataFrame()
-                acceptance_stress['stress'] = acc_df['stress_level']
-                
-                acceptance_stress= acceptance_stress.replace('NAN', np.nan,regex = True)
-                acceptance_stress = acceptance_stress.dropna()
-                
-                acceptance_stress= acceptance_stress.astype(int)
-                acceptance_stressmean = acceptance_stress['stress'].mean()
-                # print(acceptance_stressmean)
-                
-                acc_df['stress_mean'] = acceptance_stressmean
-                
+        
                
                 
                 
