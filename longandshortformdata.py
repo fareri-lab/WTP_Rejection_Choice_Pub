@@ -40,9 +40,9 @@ order = ''
 path = Path(r"%s"%(os.getcwd()))
 p = Path('%s/data' %(path))
 
-cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','decision_price','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial']
-columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price']
-columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price']
+cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','decision_price','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial', 'overall_prop_social_choice']
+columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price','overall_prop_social_choice']
+columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price', 'overall_prop_social_choice']
 shortform_data= pd.DataFrame(columns=columns2)
 longform_data = pd.DataFrame(columns = columns3)
 #%%
@@ -127,7 +127,19 @@ for csv in sorted(os.listdir(data_path)):
                 participantdata.loc[(participantdata['responses.keys'] == 1) & (participantdata['social_left'] == 0),'socialchoice'] = 0
                 participantdata.loc[(participantdata['responses.keys'] == 2) & (participantdata['social_left'] == 0),'socialchoice'] = 1
             
+                
             
+            
+                 # Filter out invalid decision types (999) and compute mean
+                filtered_social_choices = participantdata.loc[participantdata['socialchoice'] != 999, 'socialchoice']
+                overall_decisiontype_social_mean = filtered_social_choices.mean()
+                
+                # Store the mean as a new column in the original DataFrame (optional)
+                participantdata['overall_prop_social_choice'] = overall_decisiontype_social_mean
+
+                      
+            
+                
                 #separate participant data according to the two conditions
                 rej_df = participantdata.loc[(participantdata['Condition'] == 'Rej')]
                 rej_df = rej_df.reset_index(drop = True)
@@ -327,27 +339,27 @@ for csv in sorted(os.listdir(data_path)):
                 
                 #calculate mean decision price for social and nonsocial decisions collapsing across social contexts
                 
-                overall_decisionprice_social = pd.DataFrame()             
-                overall_decisionprice_social['decision_price'] = soc_df['decision_price']
-                overall_decisionprice_mean_social = pd.DataFrame()
-                overall_decisionprice_mean_social = soc_df.loc[(soc_df['socialchoice']) == 1].copy()
-                overall_decisionprice_mean_social = overall_decisionprice_mean_social['decision_price'].mean()
+                # Calculate mean decision price for social and non-social choices
+                overall_decisionprice_mean_social = soc_df.loc[soc_df['socialchoice'] == 1, 'decision_price'].mean()
+                overall_decisionprice_mean_nonsocial = nonsoc_df.loc[nonsoc_df['socialchoice'] == 0, 'decision_price'].mean()
+                
+                # Assign mean decision prices to original dataframes
                 soc_df['overall_decisionprice_social'] = overall_decisionprice_mean_social
-                
-                
-                overall_decisionprice_nonsocial = pd.DataFrame()
-                overall_decisionprice_nonsocial['decision_price'] = nonsoc_df['decision_price']
-                overall_decisionprice_mean_nonsocial = pd.DataFrame()
-                overall_decisionprice_mean_nonsocial = nonsoc_df.loc[(nonsoc_df['socialchoice']) == 0].copy()
-                overall_decisionprice_mean_nonsocial = overall_decisionprice_mean_nonsocial['decision_price'].mean()
                 nonsoc_df['overall_decisionprice_nonsocial'] = overall_decisionprice_mean_nonsocial
                 
-                rej_df['overall_decisionprice_nonsocial'] =   nonsoc_df['overall_decisionprice_nonsocial'][0]
-                rej_df['overall_decisionprice_social'] =   soc_df['overall_decisionprice_social'][0]
+                # Assign mean values to rejection and acceptance DataFrames
+                rej_df['overall_decisionprice_nonsocial'] = overall_decisionprice_mean_nonsocial
+                rej_df['overall_decisionprice_social'] = overall_decisionprice_mean_social
                 
-                acc_df['overall_decisionprice_nonsocial'] =   nonsoc_df['overall_decisionprice_nonsocial'][0]
-                acc_df['overall_decisionprice_social'] =   soc_df['overall_decisionprice_social'][0]
+                acc_df['overall_decisionprice_nonsocial'] = overall_decisionprice_mean_nonsocial
+                acc_df['overall_decisionprice_social'] = overall_decisionprice_mean_social
+
                 
+                #%%
+               
+            
+
+
                 #%%
                 
                 rejection_choice = pd.DataFrame()
@@ -430,8 +442,7 @@ for csv in sorted(os.listdir(data_path)):
             overallaffect['rej'] = rej_df['stress_mean']
             overallaffect_sum = acc_df['stress_mean'] + rej_df['stress_mean']
             overallaffect['overall_mean'] = overallaffect_sum/2
-   
-       
+            
                
             acc_df['overallaffect'] = overallaffect['overall_mean']
             rej_df['overallaffect'] = overallaffect['overall_mean']
@@ -439,6 +450,8 @@ for csv in sorted(os.listdir(data_path)):
             difference = float(rej_df['stress_mean'][0]) - float(acc_df['stress_mean'][0])
       
            
+        
+        
             rej_df['rej-acc'] = difference
             acc_df['rej-acc'] = difference
            
