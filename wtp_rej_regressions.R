@@ -7,13 +7,20 @@ install.packages("Rcpp", dependencies=TRUE)
 install.packages("lmerTest", dependencies=TRUE)
 install.packages("Matrix", dependencies=TRUE)
 install.packages("lmer", dependencies=TRUE)
+install.packages("effsize", dependencies=TRUE)
 
 library(lme4)
 library(lmerTest)
 library(Rcpp)
 library(Matrix)
 library(ggplot2)
+library(ggplot2)
 library(dplyr)
+library(tidyr)
+library(effsize)
+
+
+
 
 
 wtp_rej_longdata<-read.csv(file="longformdata.csv",header=TRUE, sep=',')
@@ -95,8 +102,6 @@ salienceinteraction_choicetype_withregressors <- glm(formula = socialchoice ~ co
 saliencestressinteraction_choicetype_withregressors <- glm(formula = socialchoice ~ stress_mean * salience_mean + age + condition_recode+ sex +order_var +timebetween, family=binomial,data=wtp_rej_longdata)
 
 
-library(ggplot2)
-library(dplyr)
 
 # Function to calculate Standard Deviation safely
 safe_sd <- function(x) {
@@ -148,7 +153,13 @@ ggplot(summary_data, aes(x = condition_recode, y = mean_spent, fill = condition_
     y = "Amount Spent on Social"
   ) +
   theme_minimal() +
-  theme(panel.grid = element_blank())  # Remove gridlines
+  theme(panel.grid = element_blank(),
+        axis.title.x = element_text(size = 18, face = "bold"),
+        axis.title.y = element_text(size = 18, face = "bold"),
+        axis.text.x = element_text(size = 16),
+        axis.text.y = element_text(size = 16),
+        legend.title = element_text(size = 16),
+        legend.text = element_text(size = 14))  # Remove gridlines
 
 # Save the plot
 ggsave("avgspent_social_rejvacc_plot_fixed.png", width = 8, height = 6, dpi = 300)
@@ -199,7 +210,127 @@ ggplot(summary_data, aes(x = Choice_Type, y = mean_prop, fill = Choice_Type)) +
     title = ""
   ) +
   theme_minimal()+
-  theme(panel.grid = element_blank()) 
+  theme(panel.grid = element_blank(),
+        axis.title.x = element_text(size = 18, face = "bold"),
+        axis.title.y = element_text(size = 18, face = "bold"),
+        axis.text.x = element_text(size = 16),
+        axis.text.y = element_text(size = 16),
+        legend.title = element_text(size = 16),
+        legend.text = element_text(size = 14)) 
 
 # Save the plot
 ggsave("social_vs_nonsocial_choices_fixed.png", width = 8, height = 6, dpi = 300)
+
+#hierarchical logistic regression for PSE with interaction of condition
+PSE <- glmer(socialchoice ~ value_diff * condition + (1 + value_diff | participant),
+               data = wtp_rej_longdata, family = binomial)
+summary(PSE)
+
+# Assign the coefficients
+b0 <- 0.32937
+b1 <- -69.19869
+b2 <- -0.02595
+b3 <- -1.61406
+
+# Compute condition-specific PSEs
+pse_accept <- - (b0 - b2) / (b1 - b3)
+pse_reject <- - (b0 + b2) / (b1 + b3)
+
+# Print them
+pse_accept
+pse_reject
+
+
+#re-run with centering
+wtp_rej_longdata <- wtp_rej_longdata %>%
+  mutate(value_diff_centered = value_diff - mean(value_diff, na.rm = TRUE))
+
+model_centered <- glmer(
+  socialchoice ~ value_diff_centered * condition_recode + (1 + value_diff_centered | participant),
+  data = wtp_rej_longdata,
+  family = binomial
+)
+
+summary(model_centered)
+
+b0 <- 0.33595
+b1 <- -69.22584
+b2 <- -0.02581
+b3 <- -1.61493
+
+pse_accept <- -(b0 - b2) / (b1 - b3)
+pse_reject <- -(b0 + b2) / (b1 + b3)
+
+pse_accept
+pse_reject
+
+
+
+
+
+
+
+
+# Step 1: Fit logistic regression per participant per condition
+pse_df <- wtp_rej_longdata %>%
+  group_by(participant, condition_recode) %>%
+  do({
+    mod <- try(glm(socialchoice ~ value_diff, data = ., family = binomial), silent = TRUE)
+    
+    if (inherits(mod, "try-error")) {
+      data.frame(pse = NA)
+    } else {
+      coefs <- coef(mod)
+      intercept <- coefs[1]
+      slope <- coefs[2]
+      pse <- -intercept / slope
+      data.frame(pse = pse)
+    }
+  }) %>%
+  ungroup()
+
+# Convert condition codes to descriptive names
+pse_wide <- pse_df %>%
+  mutate(condition_recode = ifelse(condition_recode == -1, "acceptance", "rejection")) %>%
+  pivot_wider(names_from = condition_recode, values_from = pse, names_prefix = "pse_") %>%
+  mutate(pse_diff = pse_rejection - pse_acceptance)
+
+# Paired Cohen's d on the difference in PSEs
+cohen_result <- cohen.d(pse_wide$pse_rejection, pse_wide$pse_acceptance, paired = TRUE)
+print(cohen_result)
+
+head(pse_wide)
+
+
+
+
+
+
+
+
+#This version shows each participant's values, with a line connecting them:
+
+# Gather into long format to plot with lines
+pse_long <- pse_wide %>%
+  select(participant, pse_acceptance, pse_rejection) %>%
+  pivot_longer(cols = starts_with("pse_"), names_to = "condition", values_to = "pse") %>%
+  mutate(condition = ifelse(condition == "pse_acceptance", "Acceptance", "Rejection"))
+
+pse_long <- pse_long %>%
+  mutate(participant = as.factor(participant))
+
+# Line plot per participant
+ggplot(pse_long, aes(x = condition, y = pse, group = participant)) +
+  geom_line(alpha = 0.3, color = "#0072B2") +
+  geom_point(alpha = 0.6, color = "#0072B2") +
+  labs(
+    title = "Participant-Level PSEs Across Conditions",
+    x = "Condition",
+    y = "Point of Subjective Equivalence (PSE)"
+  ) +
+  theme_minimal(base_size = 14)
+
+
+
+
+

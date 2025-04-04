@@ -40,9 +40,9 @@ order = ''
 path = Path(r"%s"%(os.getcwd()))
 p = Path('%s/data' %(path))
 
-cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','decision_price','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial', 'overall_prop_social_choice']
-columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price','overall_prop_social_choice']
-columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price', 'overall_prop_social_choice']
+cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','decision_price','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial', 'overall_prop_social_choice', 'social_price', 'nonsocial_price', 'value_diff']
+columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price','overall_prop_social_choice','social_price', 'nonsocial_price','value_diff']
+columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price', 'overall_prop_social_choice', 'social_price', 'nonsocial_price', 'value_diff']
 shortform_data= pd.DataFrame(columns=columns2)
 longform_data = pd.DataFrame(columns = columns3)
 #%%
@@ -126,9 +126,10 @@ for csv in sorted(os.listdir(data_path)):
                 participantdata.loc[(participantdata['responses.keys'] == 2) & (participantdata['social_left'] == 1),'socialchoice'] = 0
                 participantdata.loc[(participantdata['responses.keys'] == 1) & (participantdata['social_left'] == 0),'socialchoice'] = 0
                 participantdata.loc[(participantdata['responses.keys'] == 2) & (participantdata['social_left'] == 0),'socialchoice'] = 1
-            
-                
-            
+
+                participantdata['social_price'] = np.where(participantdata['social_left'] == 1, participantdata['leftmoney'], participantdata['rightmoney'])
+                participantdata['nonsocial_price'] = np.where(participantdata['social_left'] == 1, participantdata['rightmoney'], participantdata['leftmoney'])    
+                participantdata['value_diff'] = participantdata['social_price'] - participantdata['nonsocial_price']
             
                  # Filter out invalid decision types (999) and compute mean
                 filtered_social_choices = participantdata.loc[participantdata['socialchoice'] != 999, 'socialchoice']
