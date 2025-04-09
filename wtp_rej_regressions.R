@@ -1,6 +1,9 @@
 getwd()
 
-setwd("/Users/jordansiegel/Documents/Github/WTP_Rejection_Choice/")
+
+
+
+
 
 install.packages("lme4", dependencies=TRUE)
 install.packages("Rcpp", dependencies=TRUE)
@@ -20,20 +23,25 @@ library(tidyr)
 library(effsize)
 
 
+setwd("/Users/jordansiegel/Documents/Github/WTP_Rejection_Choice/scoring")
+rsq <- read.csv(file="rsq.csv", header =TRUE, sep = ',')
 
-
+setwd("/Users/jordansiegel/Documents/Github/WTP_Rejection_Choice/")
 
 wtp_rej_longdata<-read.csv(file="longformdata.csv",header=TRUE, sep=',')
 
 wtp_rej_shortdata<-read.csv(file="shortformdata.csv",header=TRUE, sep=',')
+
+
+
 
 #re-code acceptance from 2 to -1 for condition_recode and males from 0 to -1 in sex
 wtp_rej_longdata$condition_recode[wtp_rej_longdata$condition_recode==2]<- -1
 wtp_rej_longdata$sex[wtp_rej_longdata$sex==0]<- -1
 
 #re-code acceptance from 2 to -1 for condition_recode and males from 0 to -1 in sex
-wtp_rej_shortdata$condition_recode[wtp_rej_longdata$condition_recode==2]<- -1
-wtp_rej_shortdata$sex[wtp_rej_longdata$sex==0]<- -1
+wtp_rej_shortdata$condition_recode[wtp_rej_shortdata$condition_recode==2]<- -1
+wtp_rej_shortdata$sex[wtp_rej_shortdata$sex==0]<- -1
 
 
 
@@ -222,7 +230,7 @@ ggplot(summary_data, aes(x = Choice_Type, y = mean_prop, fill = Choice_Type)) +
 ggsave("social_vs_nonsocial_choices_fixed.png", width = 8, height = 6, dpi = 300)
 
 #hierarchical logistic regression for PSE with interaction of condition
-PSE <- glmer(socialchoice ~ value_diff * condition + (1 + value_diff | participant),
+PSE <- glmer(socialchoice ~ value_diff * condition_recode + (1 + value_diff | participant),
                data = wtp_rej_longdata, family = binomial)
 summary(PSE)
 
@@ -241,96 +249,84 @@ pse_accept
 pse_reject
 
 
-#re-run with centering
-wtp_rej_longdata <- wtp_rej_longdata %>%
-  mutate(value_diff_centered = value_diff - mean(value_diff, na.rm = TRUE))
+#plot PSE
 
-model_centered <- glmer(
-  socialchoice ~ value_diff_centered * condition_recode + (1 + value_diff_centered | participant),
+value_diff_seq <- seq(-0.05, 0.05, length.out = 100)
+
+# Coefficients from your model
+b0 <- 0.32937
+b1 <- -69.19869
+b2 <- -0.02595
+b3 <- -1.61406
+
+# Build dataframe
+pred_data <- expand.grid(
+  value_diff = value_diff_seq,
+  condition_recode = c(-1, 1)  # -1 = Acceptance, 1 = Rejection
+)
+
+# Calculate linear predictor manually
+pred_data <- pred_data %>%
+  mutate(
+    condition_label = ifelse(condition_recode == -1, "Acceptance", "Rejection"),
+    linear_predictor = b0 + b1 * value_diff + b2 * condition_recode + b3 * value_diff * condition_recode,
+    predicted_prob = 1 / (1 + exp(-linear_predictor))  # logistic function
+  )
+  
+PSE_plot <-  (
+    ggplot(pred_data, aes(x = value_diff, y = predicted_prob, color = condition_label)) +
+      geom_line(size = 1.2) +
+      geom_vline(xintercept = 0, linetype = "dashed", color = "gray40") +
+      geom_point(data = data.frame(
+        value_diff = c(pse_accept, pse_reject),
+        predicted_prob = 0.5,
+        condition_label = c("Acceptance", "Rejection")
+      ), aes(x = value_diff, y = predicted_prob, color = condition_label),
+      size = 3, shape = 21, fill = "white") +
+      scale_color_manual(
+        values = c("Acceptance" = "#DDCC77",
+                   "Rejection" = "#88CCEE")
+      ) +
+      labs(
+        title = "",
+        x = "Value Difference",
+        y = "Predicted Probability of Social Choice",
+        color = "Condition"
+      ) +
+      theme_classic(base_size = 14)
+  )
+
+# Save the plot
+ggsave("PSE_plot.png", PSE_plot, width = 6, height = 4, dpi = 300)
+
+
+#run correlation of rsq with decision price in rejection condition
+
+rsq <- rsq %>%
+  rename(participant = Prolific_ID)
+
+rej <- rej %>%
+  left_join(rsq, by = "participant")
+
+rej <- rej %>%
+  mutate(rsq = unlist(rsq))
+
+#regression decision price
+condition_rsq <- condition_rsq <- lm(
+  social_decisionprice_mean ~ RSQ_finalscore,
+  data = rej
+)
+summary(condition_rsq)
+
+wtp_rej_longdata <- wtp_rej_longdata %>%
+  left_join(rsq, by = "participant")
+
+#PSE analysis with RSQ included
+
+PSE_withrsq <- glmer(
+  socialchoice ~ value_diff * condition_recode * RSQ_finalscore + (1 + value_diff | participant),
   data = wtp_rej_longdata,
   family = binomial
 )
 
-summary(model_centered)
-
-b0 <- 0.33595
-b1 <- -69.22584
-b2 <- -0.02581
-b3 <- -1.61493
-
-pse_accept <- -(b0 - b2) / (b1 - b3)
-pse_reject <- -(b0 + b2) / (b1 + b3)
-
-pse_accept
-pse_reject
-
-
-
-
-
-
-
-
-# Step 1: Fit logistic regression per participant per condition
-pse_df <- wtp_rej_longdata %>%
-  group_by(participant, condition_recode) %>%
-  do({
-    mod <- try(glm(socialchoice ~ value_diff, data = ., family = binomial), silent = TRUE)
-    
-    if (inherits(mod, "try-error")) {
-      data.frame(pse = NA)
-    } else {
-      coefs <- coef(mod)
-      intercept <- coefs[1]
-      slope <- coefs[2]
-      pse <- -intercept / slope
-      data.frame(pse = pse)
-    }
-  }) %>%
-  ungroup()
-
-# Convert condition codes to descriptive names
-pse_wide <- pse_df %>%
-  mutate(condition_recode = ifelse(condition_recode == -1, "acceptance", "rejection")) %>%
-  pivot_wider(names_from = condition_recode, values_from = pse, names_prefix = "pse_") %>%
-  mutate(pse_diff = pse_rejection - pse_acceptance)
-
-# Paired Cohen's d on the difference in PSEs
-cohen_result <- cohen.d(pse_wide$pse_rejection, pse_wide$pse_acceptance, paired = TRUE)
-print(cohen_result)
-
-head(pse_wide)
-
-
-
-
-
-
-
-
-#This version shows each participant's values, with a line connecting them:
-
-# Gather into long format to plot with lines
-pse_long <- pse_wide %>%
-  select(participant, pse_acceptance, pse_rejection) %>%
-  pivot_longer(cols = starts_with("pse_"), names_to = "condition", values_to = "pse") %>%
-  mutate(condition = ifelse(condition == "pse_acceptance", "Acceptance", "Rejection"))
-
-pse_long <- pse_long %>%
-  mutate(participant = as.factor(participant))
-
-# Line plot per participant
-ggplot(pse_long, aes(x = condition, y = pse, group = participant)) +
-  geom_line(alpha = 0.3, color = "#0072B2") +
-  geom_point(alpha = 0.6, color = "#0072B2") +
-  labs(
-    title = "Participant-Level PSEs Across Conditions",
-    x = "Condition",
-    y = "Point of Subjective Equivalence (PSE)"
-  ) +
-  theme_minimal(base_size = 14)
-
-
-
-
-
+summary(PSE_withrsq)
