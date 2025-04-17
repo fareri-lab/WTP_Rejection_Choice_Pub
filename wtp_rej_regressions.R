@@ -5,12 +5,7 @@ getwd()
 
 
 
-install.packages("lme4", dependencies=TRUE)
-install.packages("Rcpp", dependencies=TRUE)
-install.packages("lmerTest", dependencies=TRUE)
-install.packages("Matrix", dependencies=TRUE)
-install.packages("lmer", dependencies=TRUE)
-install.packages("effsize", dependencies=TRUE)
+
 
 library(lme4)
 library(lmerTest)
@@ -150,29 +145,35 @@ summary_data <- mean_data %>%
 # ✅ Debugging: Check if both conditions appear
 print(summary_data)
 
-# ✅ Plot with Corrected Data
-ggplot(summary_data, aes(x = condition_recode, y = mean_spent, fill = condition_recode)) +
-  geom_bar(stat = "identity", position = position_dodge(), color = "black", alpha = 0.8) +  # Slightly transparent bars
+# Plot: Amount Spent on Social by Condition
+amtspent <- ggplot(summary_data, aes(x = condition_recode, y = mean_spent, fill = condition_recode)) +
+  geom_bar(stat = "identity", position = position_dodge(), color = "black", alpha = 0.8) +
   geom_errorbar(aes(ymin = mean_spent - sd_spent, ymax = mean_spent + sd_spent), 
-                width = 0.1, position = position_dodge(.9), color = "black", size = 0.8) +  # Corrected error bars
-  scale_fill_manual(name = "Condition", values = c("Rejection" = "#88CCEE", "Acceptance" = "#DDCC77")) +  # Custom colors
+                width = 0.1, position = position_dodge(.9), color = "black", size = 0.8) +
+  scale_fill_manual(name = "Condition", values = c("Rejection" = "#FF6F61", "Acceptance" = "#88CCEE")) +
   labs(
     x = "Social Condition",
     y = "Amount Spent on Social"
   ) +
   theme_minimal() +
-  theme(panel.grid = element_blank(),
-        axis.title.x = element_text(size = 18, face = "bold"),
-        axis.title.y = element_text(size = 18, face = "bold"),
-        axis.text.x = element_text(size = 16),
-        axis.text.y = element_text(size = 16),
-        legend.title = element_text(size = 16),
-        legend.text = element_text(size = 14))  # Remove gridlines
+  theme(
+    panel.grid = element_blank(),
+    axis.title.x = element_text(size = 26, face = "bold", margin = margin(t = 25)),
+    axis.title.y = element_text(size = 26, face = "bold", margin = margin(r = 25)),
+    axis.text.x = element_text(size = 24, face = "bold"),
+    axis.text.y = element_text(size = 24, face = "bold"),
+    legend.title = element_text(size = 24, face = "bold"),
+    legend.text = element_text(size = 22, face = "bold"),
+    plot.margin = margin(t = 20, r = 20, b = 20, l = 30)
+  )
 
 # Save the plot
-ggsave("avgspent_social_rejvacc_plot_fixed.png", width = 8, height = 6, dpi = 300)
+ggsave("avgspent_social_rejvacc_plot_fixed.png", plot = amtspent, width = 10, height = 8, dpi = 300)
+
+#################################################
 
 
+####################################
 # Run a paired t-test
 overall_propsoc <- t.test(rej$prop_socialchoice, 
                           rej$prop_nonsocialchoice, 
@@ -206,28 +207,35 @@ summary_data <- data.frame(
 # Print summary data to verify SEM values
 print(summary_data)
 
+# 👇 Add this to set correct order: Social on the left, Non-Social on the right
+summary_data$Choice_Type <- factor(summary_data$Choice_Type, levels = c("Social", "Non-Social"))
+
+
 # Create the Bar Plot with Correct SEM-based Error Bars
-ggplot(summary_data, aes(x = Choice_Type, y = mean_prop, fill = Choice_Type)) +
+propsoc_choicetype <- ggplot(summary_data, aes(x = Choice_Type, y = mean_prop, fill = Choice_Type)) +
   geom_bar(stat = "identity", position = position_dodge(), color = "black", alpha = 0.9) +  # Bars with outline
   geom_errorbar(aes(ymin = mean_prop - sem, ymax = mean_prop + sem), 
                 width = 0.1, position = position_dodge(.9), color = "black", size = 0.8) +  # Corrected SEM error bars
-  scale_fill_manual(name = "Choice Type", values = c("Social" = "#88CCEE", "Non-Social" = "#DDCC77")) +  # Custom colors
+  scale_fill_manual(name = "Choice Type", values = c("Social" = "#FF6F61", "Non-Social" = "#88CCEE")) +  # Custom colors
   labs(
     x = "Choice Type",
     y = "Proportion of Choices",
     title = ""
   ) +
-  theme_minimal()+
-  theme(panel.grid = element_blank(),
-        axis.title.x = element_text(size = 18, face = "bold"),
-        axis.title.y = element_text(size = 18, face = "bold"),
-        axis.text.x = element_text(size = 16),
-        axis.text.y = element_text(size = 16),
-        legend.title = element_text(size = 16),
-        legend.text = element_text(size = 14)) 
+  theme_minimal() +
+  theme(
+    panel.grid = element_blank(),
+    axis.title.x = element_text(size = 26, face = "bold", margin = margin(t = 25)),
+    axis.title.y = element_text(size = 26, face = "bold", margin = margin(r = 25)),
+    axis.text.x = element_text(size = 24, face = "bold"),
+    axis.text.y = element_text(size = 24, face = "bold"),
+    legend.title = element_text(size = 24, face = "bold"),
+    legend.text = element_text(size = 22, face = "bold"),
+    plot.margin = margin(t = 20, r = 20, b = 20, l = 30)
+  )
 
 # Save the plot
-ggsave("social_vs_nonsocial_choices_fixed.png", width = 8, height = 6, dpi = 300)
+ggsave("social_vs_nonsocial_choices_fixed.png", plot = propsoc_choicetype, width = 10, height = 8, dpi = 300)
 
 #hierarchical logistic regression for PSE with interaction of condition
 PSE <- glmer(socialchoice ~ value_diff * condition_recode + (1 + value_diff | participant),
@@ -273,31 +281,43 @@ pred_data <- pred_data %>%
     predicted_prob = 1 / (1 + exp(-linear_predictor))  # logistic function
   )
   
-PSE_plot <-  (
-    ggplot(pred_data, aes(x = value_diff, y = predicted_prob, color = condition_label)) +
-      geom_line(size = 1.2) +
-      geom_vline(xintercept = 0, linetype = "dashed", color = "gray40") +
-      geom_point(data = data.frame(
-        value_diff = c(pse_accept, pse_reject),
-        predicted_prob = 0.5,
-        condition_label = c("Acceptance", "Rejection")
-      ), aes(x = value_diff, y = predicted_prob, color = condition_label),
-      size = 3, shape = 21, fill = "white") +
-      scale_color_manual(
-        values = c("Acceptance" = "#DDCC77",
-                   "Rejection" = "#88CCEE")
-      ) +
-      labs(
-        title = "",
-        x = "Value Difference",
-        y = "Predicted Probability of Social Choice",
-        color = "Condition"
-      ) +
-      theme_classic(base_size = 14)
-  )
-
+PSE_plot <- (
+  ggplot(pred_data, aes(x = value_diff, y = predicted_prob, color = condition_label)) +
+    geom_line(size = 1.2) +
+    geom_vline(xintercept = 0, linetype = "dashed", color = "gray40") +
+    geom_point(data = data.frame(
+      value_diff = c(pse_accept, pse_reject),
+      predicted_prob = 0.5,
+      condition_label = c("Acceptance", "Rejection")
+    ), aes(x = value_diff, y = predicted_prob, color = condition_label),
+    size = 3, shape = 21, fill = "white") +
+    scale_color_manual(
+      values = c("Acceptance" = "#88CCEE",
+                 "Rejection" = "#FF6F61")
+    ) +
+    labs(
+      title = "",
+      x = "Value Difference",
+      y = "Probability of Social Choice",
+      color = "Condition"
+    ) +
+    theme_classic(base_size = 14) +
+    theme(
+      panel.grid = element_blank(),
+      axis.title.x = element_text(size = 26, face = "bold", margin = margin(t = 25)),
+      axis.title.y = element_text(size = 26, face = "bold", margin = margin(r = 25)),
+      axis.text.x = element_text(size = 24,face = "bold"),
+      axis.text.y = element_text(size = 24,face = "bold"),
+      legend.title = element_text(size = 24,face = "bold"),
+      legend.text = element_text(size = 22,face = "bold"),
+      axis.ticks.length = unit(6, "pt")  # Default is around 5–6 pt, go smaller if you want
+      
+    )
+)
 # Save the plot
-ggsave("PSE_plot.png", PSE_plot, width = 6, height = 4, dpi = 300)
+#ggsave("PSE_plot.png", PSE_plot, width = 6, height = 4, dpi = 300)
+ggsave("PSE_plot_fixed.png", plot = PSE_plot, width = 10, height = 8, dpi = 300)
+
 
 
 #run correlation of rsq with decision price in rejection condition
