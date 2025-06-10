@@ -350,3 +350,53 @@ PSE_withrsq <- glmer(
 )
 
 summary(PSE_withrsq)
+
+############################################ Mixed Effects Regression with PCA components below
+
+pca_data<-read.csv(file='wtp_rej_PCA_allsubjects.csv',header=TRUE, sep=',')
+# Rename Prolific_ID to participant in the PCA data frame
+colnames(pca_data)[colnames(pca_data) == "Prolific_ID"] <- "participant"
+
+
+colnames(wtp_rej_longdata)
+colnames(pca_data)
+
+
+# Merge PCA components into your main dataset
+merged_data <- left_join(wtp_rej_longdata, pca_data, by = "participant")
+
+condition_choiceprice_withpca <- lmer(decision_price ~ condition_recode + age + order_var + sex + timebetween + PC1 + PC2 + PC3 + (1 | participant), data = merged_data)
+
+condition_choiceprice_withpcaonly <- lmer(decision_price ~ condition_recode + PC1 + PC2 + PC3 + (1 | participant), data = merged_data)
+
+condition_choicetype_withpca <- lmer(socialchoice ~ condition_recode + age + order_var + sex + timebetween + PC1 + PC2 + PC3 + (1 | participant),data = merged_data)
+
+condition_choicetype_withpcaonly <- lmer(socialchoice ~ condition_recode + PC1 + PC2 + PC3 + (1 | participant), data = merged_data)
+
+
+summary(condition_choiceprice_withpca)
+summary(condition_choicetype_withpca)
+summary(condition_choiceprice_withpcaonly)
+summary(condition_choicetype_withpcaonly)
+
+model_interaction <- lmer(decision_price ~ condition_recode * (PC1 + PC2 + PC3) +
+                            age + order_var + sex + timebetween + (1 | participant),
+                          data = merged_data)
+summary(model_interaction)
+
+model_interaction_choicetype <- lmer(socialchoice ~ condition_recode * (PC1 + PC2 + PC3) +
+                            age + order_var + sex + timebetween + (1 | participant),
+                          data = merged_data)
+summary(model_interaction_choicetype)
+
+###running by models within conditions
+merged_data_rej <- subset(merged_data, condition_recode == "1")
+merged_data_acc <- subset(merged_data, condition_recode == "-1")
+
+model_rej <- lmer(decision_price ~ PC1 + PC2 + PC3 + age + order_var + sex + timebetween + (1 | participant),
+                data = merged_data_rej)
+model_acc <- lmer(decision_price ~ PC1 + PC2 + PC3 + age + order_var + sex + timebetween + (1 | participant),
+                data = merged_data_acc)
+summary(model_rej)
+summary(model_acc)
+
