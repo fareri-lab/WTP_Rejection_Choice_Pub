@@ -40,9 +40,9 @@ order = ''
 path = Path(r"%s"%(os.getcwd()))
 p = Path('%s/data' %(path))
 
-cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','decision_price','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial', 'overall_prop_social_choice', 'social_price', 'nonsocial_price', 'value_diff']
-columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price','overall_prop_social_choice','social_price', 'nonsocial_price','value_diff']
-columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price', 'overall_prop_social_choice', 'social_price', 'nonsocial_price', 'value_diff']
+cols = ['PROLIFIC_ID','Condition', 'salience_rating', 'stress_level', 'decision_price', 'responses.keys', 'social_left', 'rej-acc', 'ifnegvalue','choicertmean','decision_price','timebetween', 'age', 'sex','order', 'overallaffect', 'socialchoice', 'prop_socialchoice', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial', 'overall_prop_social_choice', 'social_price', 'nonsocial_price', 'value_diff','social_decisionprice_total', 'nonsocial_decisionprice_total']
+columns2 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price','overall_prop_social_choice','social_price', 'nonsocial_price','value_diff', 'social_decisionprice_total', 'nonsocial_decisionprice_total']
+columns3 = ['participant', 'condition_recode','salience_mean', 'choice', 'stress_mean', 'stress_mean','rej-acc', 'ifnegvalue','choicertmean', 'timebetween', 'age', 'sex', 'order','overallaffect', 'socialchoice','prop_socialchoice', 'social_left', 'social_decisionprice_mean', 'nonsocial_decisionprice_mean', 'overall_decisionprice_social', 'overall_decisionprice_nonsocial','decision_price', 'overall_prop_social_choice', 'social_price', 'nonsocial_price', 'value_diff', 'social_decisionprice_total', 'nonsocial_decisionprice_total']
 shortform_data= pd.DataFrame(columns=columns2)
 longform_data = pd.DataFrame(columns = columns3)
 #%%
@@ -318,6 +318,29 @@ for csv in sorted(os.listdir(data_path)):
                 rej_df['social_decisionprice_mean'] = rejection_decisionprice_social_mean
                 rej_df['nonsocial_decisionprice_mean'] = rejection_decisionprice_nonsocial_mean
                 
+  #%%              
+                
+                rejection_totaldecisionprice = pd.DataFrame()
+                rejection_totaldecisionprice['decision_price_total'] = rej_df['decision_price']
+                
+                rejection_totaldecisionprice_social = pd.DataFrame()    
+                rejection_totaldecisionprice_social = rej_df.loc[(rej_df['socialchoice']) == 1].copy()
+                rejection_totaldecisionprice_social_sum = rejection_totaldecisionprice_social['decision_price'].sum()
+                
+                rejection_totaldecisionprice_nonsocial = pd.DataFrame()
+               # rejection_decisionprice_nonsocial = rej_df.loc[(rej_df['socialchoice']) == 0].copy()
+               # rejection_decisionprice_nonsocial_mean = rejection_decisionprice_nonsocial['decision_price'].mean()
+
+
+
+                if (rej_df['socialchoice'] == 0).any():rejection_totaldecisionprice_nonsocial_sum = rej_df.loc[rej_df['socialchoice'] == 0, 'decision_price'].mean()
+                else:
+                    rejection_decisionprice_nonsocial_sum = 0  # Default to 0 if no nonsocial choices
+    
+    
+                rej_df['social_decisionprice_total'] = rejection_totaldecisionprice_social_sum
+                rej_df['nonsocial_decisionprice_total'] = rejection_totaldecisionprice_nonsocial_sum
+                
                 #%%
                 
                  
@@ -334,6 +357,23 @@ for csv in sorted(os.listdir(data_path)):
                 
                 acc_df['social_decisionprice_mean'] = acceptance_decisionprice_social_mean
                 acc_df['nonsocial_decisionprice_mean'] = acceptance_decisionprice_nonsocial_mean
+                
+                #%%
+                
+                acceptance_totaldecisionprice = pd.DataFrame()
+                acceptance_totaldecisionprice['decision_price_total'] = acc_df['decision_price']
+                
+                acceptance_totaldecisionprice_social = pd.DataFrame()
+                acceptance_totaldecisionprice_social = acc_df.loc[(acc_df['socialchoice']) == 1].copy()
+                acceptance_totaldecisionprice_social_sum = acceptance_totaldecisionprice_social['decision_price'].sum()
+                
+                acceptance_totaldecisionprice_nonsocial = pd.DataFrame()
+                acceptance_totaldecisionprice_nonsocial = acc_df.loc[(acc_df['socialchoice']) == 0].copy()
+                acceptance_totaldecisionprice_nonsocial_sum = acceptance_decisionprice_nonsocial['decision_price'].sum()
+                
+                acc_df['social_decisionprice_total'] = acceptance_totaldecisionprice_social_sum
+                acc_df['nonsocial_decisionprice_total'] = acceptance_totaldecisionprice_nonsocial_sum
+                
                 
                 
                 #%%
