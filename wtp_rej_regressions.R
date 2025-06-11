@@ -17,7 +17,6 @@ library(dplyr)
 library(tidyr)
 library(effsize)
 
-
 setwd("/Users/jordansiegel/Documents/Github/WTP_Rejection_Choice/scoring")
 rsq <- read.csv(file="rsq.csv", header =TRUE, sep = ',')
 
@@ -71,6 +70,8 @@ acc_long <- wtp_rej_longdata %>%
   filter(condition_recode == -1) %>%
   as.data.frame()
 
+colnames(wtp_rej_longdata)[colnames(wtp_rej_longdata) == "order"] <- "order_var"
+
 # Run a paired t-test
 rej_acc_decisionprice <- t.test(rej$social_decisionprice_mean, 
                                 acc$social_decisionprice_mean, 
@@ -81,7 +82,7 @@ rej_acc_decisionprice <- t.test(rej$social_decisionprice_mean,
 print(rej_acc_decisionprice)
 
 
-colnames(wtp_rej_longdata)[colnames(wtp_rej_longdata) == "order"] <- "order_var"
+
 
 condition_choicetype <- glm(formula = socialchoice ~ condition_recode, family=binomial,data=wtp_rej_longdata)
 
@@ -353,6 +354,7 @@ summary(PSE_withrsq)
 
 ############################################ Mixed Effects Regression with PCA components below
 
+setwd("/Users/jordansiegel/Documents/Github/WTP_Rejection_Choice/scoring")
 pca_data<-read.csv(file='wtp_rej_PCA_allsubjects.csv',header=TRUE, sep=',')
 # Rename Prolific_ID to participant in the PCA data frame
 colnames(pca_data)[colnames(pca_data) == "Prolific_ID"] <- "participant"
@@ -371,13 +373,17 @@ condition_choiceprice_withpcaonly <- lmer(decision_price ~ condition_recode + PC
 
 condition_choicetype_withpca <- lmer(socialchoice ~ condition_recode + age + order_var + sex + timebetween + PC1 + PC2 + PC3 + (1 | participant),data = merged_data)
 
-condition_choicetype_withpcaonly <- lmer(socialchoice ~ condition_recode + PC1 + PC2 + PC3 + (1 | participant), data = merged_data)
+condition_choicetype_withpcaonly <- lmer(socialchoice ~ condition_recode + value_diff+ PC1 + PC2 + PC3 + (1 | participant), data = merged_data)
+
+condition_choicetype_valuediff_int_withpcaonly <- lmer(socialchoice ~ condition_recode + value_diff+ PC1 + value_diff*PC1+ PC2 + PC3 + (1 | participant), data = merged_data)
 
 
 summary(condition_choiceprice_withpca)
 summary(condition_choicetype_withpca)
 summary(condition_choiceprice_withpcaonly)
 summary(condition_choicetype_withpcaonly)
+summary(condition_choicetype_valuediff_int_withpcaonly)
+
 
 model_interaction <- lmer(decision_price ~ condition_recode * (PC1 + PC2 + PC3) +
                             age + order_var + sex + timebetween + (1 | participant),
@@ -400,3 +406,13 @@ model_acc <- lmer(decision_price ~ PC1 + PC2 + PC3 + age + order_var + sex + tim
 summary(model_rej)
 summary(model_acc)
 
+condition_valuediff_withpca <- lmer(decision_price ~ value_diff * condition_recode + PC1 + PC2 + PC3 + (1 + value_diff | participant), data = merged_data)
+
+summary(condition_valuediff_withpca)
+
+> 
+  > ggplot(merged_data, aes(x = PC1, y = value_diff)) +
+  +     geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  +     labs(title = "Regression Line of Value Difference on PC1",
+             +          x = "PC1", y = "Value Difference") +
+  +     theme_minimal()
