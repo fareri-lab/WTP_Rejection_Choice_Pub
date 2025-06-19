@@ -162,39 +162,6 @@ for csv in sorted(os.listdir(data_path)):
                 
 
                 
-                #%%
-
-                # Initialize 'socialchoice' and calculate based on conditions
-                #rej_df['socialchoice'] = 999
-                
-                #rej_df.loc[(rej_df['responses.keys'] == 1) & (rej_df['social_left'] == 1),'socialchoice'] = 1
-                #rej_df.loc[(rej_df['responses.keys'] == 2) & (rej_df['social_left'] == 1),'socialchoice'] = 0
-                #rej_df.loc[(rej_df['responses.keys'] == 1) & (rej_df['social_left'] == 0),'socialchoice'] = 0
-                #rej_df.loc[(rej_df['responses.keys'] == 2) & (rej_df['social_left'] == 0),'socialchoice'] = 1
-               
-                
-                #acc_df['socialchoice'] = 999
-                
-                #acc_df.loc[(acc_df['responses.keys'] == 1) & (acc_df['social_left'] == 1),'socialchoice'] = 1
-                #acc_df.loc[(acc_df['responses.keys'] == 2) & (acc_df['social_left'] == 1),'socialchoice'] = 0
-                #acc_df.loc[(rej_df['responses.keys'] == 1) & (acc_df['social_left'] == 0),'socialchoice'] = 0
-                #acc_df.loc[(rej_df['responses.keys'] == 2) & (acc_df['social_left'] == 0),'socialchoice'] = 1
-                
-                # Initialize 'socialchoice' and calculate based on conditions
-                #soc_df['socialchoice'] = 999
-                
-                #soc_df.loc[(rej_df['responses.keys'] == 1) & (soc_df['social_left'] == 1),'socialchoice'] = 1
-                #soc_df.loc[(rej_df['responses.keys'] == 2) & (soc_df['social_left'] == 1),'socialchoice'] = 0
-                #soc_df.loc[(rej_df['responses.keys'] == 1) & (soc_df['social_left'] == 0),'socialchoice'] = 0
-                #soc_df.loc[(rej_df['responses.keys'] == 2) & (soc_df['social_left'] == 0),'socialchoice'] = 1
-               
-                
-                #nonsoc_df['socialchoice'] = 999
-                
-                #nonsoc_df.loc[(acc_df['responses.keys'] == 1) & (nonsoc_df['social_left'] == 1),'socialchoice'] = 1
-                #nonsoc_df.loc[(acc_df['responses.keys'] == 2) & (nonsoc_df['social_left'] == 1),'socialchoice'] = 0
-                #nonsoc_df.loc[(rej_df['responses.keys'] == 1) & (nonsoc_df['social_left'] == 0),'socialchoice'] = 0
-                #nonsoc_df.loc[(rej_df['responses.keys'] == 2) & (nonsoc_df['social_left'] == 0),'socialchoice'] = 1
                 
                 
                 #%%
@@ -333,7 +300,7 @@ for csv in sorted(os.listdir(data_path)):
 
 
 
-                if (rej_df['socialchoice'] == 0).any():rejection_totaldecisionprice_nonsocial_sum = rej_df.loc[rej_df['socialchoice'] == 0, 'decision_price'].mean()
+                if (rej_df['socialchoice'] == 0).any():rejection_totaldecisionprice_nonsocial_sum = rej_df.loc[rej_df['socialchoice'] == 0, 'decision_price'].sum()
                 else:
                     rejection_decisionprice_nonsocial_sum = 0  # Default to 0 if no nonsocial choices
     
