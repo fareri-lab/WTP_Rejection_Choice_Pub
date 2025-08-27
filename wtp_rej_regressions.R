@@ -75,6 +75,143 @@ acc_long <- wtp_rej_longdata %>%
 
 colnames(wtp_rej_longdata)[colnames(wtp_rej_longdata) == "order"] <- "order_var"
 
+#extract social decision price mean from rej and acc dfs
+totalspent_soc_rej <- rej$social_decisionprice_mean
+totalspent_soc_acc <- acc$social_decisionprice_mean
+
+
+# Combine into a new data frame
+onebar_df <- data.frame(
+  rej_avgspent = totalspent_soc_rej,
+  acc_avgspent = totalspent_soc_acc
+)
+onebar_df$difference <- onebar_df$acc_avgspent - onebar_df$rej_avgspent
+
+# Mean and standard error of difference scores
+mean_diff <- mean(onebar_df$difference, na.rm = TRUE)
+se_diff <- sd(onebar_df$difference, na.rm = TRUE) / sqrt(sum(!is.na(onebar_df$difference)))
+
+# Put in summary dataframe for plotting
+summary_df <- data.frame(Difference = mean_diff, SE = se_diff)
+
+# Plot subject-level differences with group mean + SE
+scatter<-ggplot(onebar_df, aes(x = "", y = difference)) +
+  geom_jitter(width = 0.1, alpha = 0.5, color = "gray40") +  # each subject
+  stat_summary(fun = mean, geom = "point", size = 4, color = "darkseagreen4") +  # mean
+  stat_summary(fun.data = mean_se, geom = "errorbar", width = 0.2, color = "darkseagreen4") +
+  ylab("Spending Difference (Acc – Rej)") +
+  xlab("Participants") +
+  ggtitle("") +
+  theme_minimal() + theme(
+    panel.grid = element_blank(),
+    axis.title.x = element_text(size = 26, face = "bold", margin = margin(t = 25)),
+    axis.title.y = element_text(size = 26, face = "bold", margin = margin(r = 25)),
+    axis.text.x = element_text(size = 24, face = "bold"),
+    axis.text.y = element_text(size = 24, face = "bold"),
+    legend.title = element_text(size = 24, face = "bold"),
+    legend.text = element_text(size = 22, face = "bold"),
+    plot.margin = margin(t = 20, r = 20, b = 20, l = 30)
+  )
+
+ggsave("scatter_diffspent_soc.png", plot = scatter, width = 10, height = 8, dpi = 300)
+
+# Run a paired t-test
+rej_acc_stress <- t.test(rej$stress_mean, 
+                                acc$stress_mean, 
+                                paired = TRUE, 
+                                alternative = "two.sided")
+print(rej_acc_stress)
+
+# Compute difference scores for paired standard error
+diff_scores <- acc$stress_mean - rej$stress_mean
+se_diff <- sd(diff_scores, na.rm = TRUE) / sqrt(sum(!is.na(diff_scores)))
+
+# Compute means per condition
+mean_rej <- mean(rej$stress_mean, na.rm = TRUE)
+mean_acc <- mean(acc$stress_mean, na.rm = TRUE)
+
+# Build summary dataframe
+summary_data <- data.frame(
+  condition = factor(c("Rejection", "Acceptance"), levels = c("Rejection", "Acceptance")),
+  mean_stress = c(mean_rej, mean_acc),
+  se_stress = c(se_diff, se_diff)  # same SE for both bars
+)
+
+# Plot
+stress<- ggplot(summary_data, aes(x = condition, y = mean_stress, fill = condition)) +
+  geom_bar(stat = "identity", color = "black", alpha = 0.8, width = 0.5) +
+  geom_errorbar(aes(ymin = mean_stress - se_stress, ymax = mean_stress + se_stress), 
+                width = 0.2, color = "black") +
+  scale_fill_manual(values = c("Rejection" = "#FF6F61", "Acceptance" = "#88CCEE")) +
+  ylab("Self-Reported Stress") +
+  xlab("Condition") +
+  theme_minimal()  + theme(
+    panel.grid = element_blank(),
+    axis.title.x = element_text(size = 26, face = "bold", margin = margin(t = 25)),
+    axis.title.y = element_text(size = 26, face = "bold", margin = margin(r = 25)),
+    axis.text.x = element_text(size = 24, face = "bold"),
+    axis.text.y = element_text(size = 24, face = "bold"),
+    legend.title = element_text(size = 24, face = "bold"),
+    legend.text = element_text(size = 22, face = "bold"),
+    plot.margin = margin(t = 20, r = 20, b = 20, l = 30)
+  )
+
+
+# Save the plot
+ggsave("stress.png", plot = stress, width = 10, height = 8, dpi = 300)
+
+# Run a paired t-test
+rej_acc_salience <- t.test(rej$salience_mean, 
+                         acc$salience_mean, 
+                         paired = TRUE, 
+                         alternative = "two.sided")
+print(rej_acc_salience)
+
+# Compute difference scores for paired standard error
+diff_scores <- acc$salience_mean - rej$salience_mean
+se_diff <- sd(diff_scores, na.rm = TRUE) / sqrt(sum(!is.na(diff_scores)))
+
+# Compute means per condition
+mean_rej <- mean(rej$salience_mean, na.rm = TRUE)
+mean_acc <- mean(acc$salience_mean, na.rm = TRUE)
+
+# Build summary dataframe
+summary_data <- data.frame(
+  condition = factor(c("Rejection", "Acceptance"), levels = c("Rejection", "Acceptance")),
+  mean_salience = c(mean_rej, mean_acc),
+  se_salience = c(se_diff, se_diff)  # same SE for both bars
+)
+
+# Plot
+salience<- ggplot(summary_data, aes(x = condition, y = mean_salience, fill = condition)) +
+  geom_bar(stat = "identity", color = "black", alpha = 0.8, width = 0.5) +
+  geom_errorbar(aes(ymin = mean_salience - se_salience, ymax = mean_salience + se_salience), 
+                width = 0.2, color = "black") +
+  scale_fill_manual(values = c("Rejection" = "#FF6F61", "Acceptance" = "#88CCEE")) +
+  ylab("Likelihood to Share in Future") +
+  xlab("Condition") +
+  theme_minimal()  + theme(
+    panel.grid = element_blank(),
+    axis.title.x = element_text(size = 26, face = "bold", margin = margin(t = 25)),
+    axis.title.y = element_text(size = 26, face = "bold", margin = margin(r = 25)),
+    axis.text.x = element_text(size = 24, face = "bold"),
+    axis.text.y = element_text(size = 24, face = "bold"),
+    legend.title = element_text(size = 24, face = "bold"),
+    legend.text = element_text(size = 22, face = "bold"),
+    plot.margin = margin(t = 20, r = 20, b = 20, l = 30)
+  )
+
+
+# Save the plot
+ggsave("salience.png", plot = salience, width = 10, height = 8, dpi = 300)
+
+
+
+
+# Save the plot
+ggsave("stress.png", plot = rej_acc_stress, width = 10, height = 8, dpi = 300)
+
+
 # Run a paired t-test
 rej_acc_decisionprice <- t.test(rej$social_decisionprice_mean, 
                                 acc$social_decisionprice_mean, 
@@ -220,7 +357,7 @@ propsoc_choicetype <- ggplot(summary_data, aes(x = Choice_Type, y = mean_prop, f
   geom_bar(stat = "identity", position = position_dodge(), color = "black", alpha = 0.9) +  # Bars with outline
   geom_errorbar(aes(ymin = mean_prop - sem, ymax = mean_prop + sem), 
                 width = 0.1, position = position_dodge(.9), color = "black", size = 0.8) +  # Corrected SEM error bars
-  scale_fill_manual(name = "Choice Type", values = c("Social" = "#FF6F61", "Non-Social" = "#88CCEE")) +  # Custom colors
+  scale_fill_manual(name = "Choice Type", values = c("Social" = "#403F3B", "Non-Social" = "#C4C1B3")) +  # Custom colors
   labs(
     x = "Choice Type",
     y = "Proportion of Choices",
@@ -271,7 +408,7 @@ PSE_plot1 <- ggplot(pred_data1, aes(x = value_diff, y = predicted_prob)) +
   geom_point(aes(x = pse, y = 0.5), color = "black", size = 3, shape = 21, fill = "white") +
   annotate("text", x = pse, y = 0.55, label = paste0("PSE = ", round(pse, 4)), size = 6, fontface = "bold") +
   labs(
-    x = "Value Difference",
+    x = "Less Social                                        More Social\n Dollar Difference",
     y = "Probability of Social Choice"
   ) +
   theme_classic(base_size = 14) +
@@ -350,7 +487,7 @@ PSE_plot <- (
     ) +
     labs(
       title = "",
-      x = "Value Difference",
+      x = "Less Social                                        More Social\n Dollar Difference",
       y = "Probability of Social Choice",
       color = "Condition"
     ) +
